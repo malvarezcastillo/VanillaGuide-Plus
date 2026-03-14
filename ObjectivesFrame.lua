@@ -7,6 +7,11 @@ local ww = WidgetWarlock
 local ROWHEIGHT = 30
 local ROWOFFSET = 6
 local HEADER_HEIGHT = 55
+local DEFAULT_WIDTH = 630
+local DEFAULT_HEIGHT = 305 + 28
+local MIN_WIDTH = 400
+local MIN_HEIGHT = 200
+local MAX_ROWS = 30
 local NUMROWS = math.floor((305 - HEADER_HEIGHT) / ROWHEIGHT)
 
 
@@ -18,8 +23,8 @@ local scrollbar, upbutt, downbutt, title, completed
 local frame = CreateFrame("Frame", "TurtleGuideObjectives", UIParent)
 TurtleGuide.objectiveframe = frame
 frame:SetFrameStrata("DIALOG")
-frame:SetWidth(630)
-frame:SetHeight(305 + 28)
+frame:SetWidth(DEFAULT_WIDTH)
+frame:SetHeight(DEFAULT_HEIGHT)
 frame:SetPoint("TOPRIGHT", TurtleGuide.statusframe, "BOTTOMRIGHT")
 frame:SetBackdrop(ww.TooltipBorderBG)
 frame:SetBackdropColor(0.09, 0.09, 0.19, 1)
@@ -27,6 +32,45 @@ frame:SetBackdropBorderColor(0.5, 0.5, 0.5, 0.5)
 frame:Hide()
 frame:SetScript("OnShow", function() TurtleGuide:UpdateObjectivePanel() end)
 table.insert(UISpecialFrames, "TurtleGuideObjectives")
+
+-- Make frame resizable
+frame:SetResizable(true)
+frame:SetMinResize(MIN_WIDTH, MIN_HEIGHT)
+frame:SetMaxResize(1200, 800)
+
+-- Resize grip in bottom-right corner
+local grip = CreateFrame("Frame", nil, frame)
+grip:SetWidth(16)
+grip:SetHeight(16)
+grip:SetPoint("BOTTOMRIGHT", -2, 2)
+grip:EnableMouse(true)
+grip:SetFrameLevel(frame:GetFrameLevel() + 2)
+
+local gripTex = grip:CreateTexture(nil, "OVERLAY")
+gripTex:SetAllPoints(grip)
+gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Up")
+
+grip:SetScript("OnEnter", function()
+	gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Highlight")
+end)
+grip:SetScript("OnLeave", function()
+	gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Up")
+end)
+grip:SetScript("OnMouseDown", function()
+	gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Down")
+	frame:StartSizing("BOTTOMRIGHT")
+end)
+grip:SetScript("OnMouseUp", function()
+	gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Up")
+	frame:StopMovingOrSizing()
+	TurtleGuide:OnObjectiveFrameResized()
+end)
+
+frame:SetScript("OnSizeChanged", function()
+	if rows and rows[1] then
+		TurtleGuide:OnObjectiveFrameResized()
+	end
+end)
 
 
 local function ResetScrollbar()
@@ -196,10 +240,10 @@ function TurtleGuide:UpdateObjectivePanel()
 	end)
 
 	local bg = {bgFile = "Interface/Tooltips/UI-Tooltip-Background"}
-	for i = 1, NUMROWS do
+	for i = 1, MAX_ROWS do
 		local row = CreateFrame("Button", nil, frame)
 		row:SetPoint("TOPLEFT", i == 1 and frame or rows[i - 1], i == 1 and "TOPLEFT" or "BOTTOMLEFT", 0, i == 1 and -58 or 0)
-		row:SetWidth(630 - 24)
+		row:SetPoint("RIGHT", scrollbar, "LEFT", -4, 0)
 		row:SetHeight(ROWHEIGHT)
 		row:SetBackdrop(bg)
 
@@ -238,10 +282,52 @@ function TurtleGuide:UpdateObjectivePanel()
 		scrollbar:SetValue(offset - val)
 	end)
 
+	-- Restore saved size
+	if self.db.profile.objframewidth then
+		frame:SetWidth(self.db.profile.objframewidth)
+	end
+	if self.db.profile.objframeheight then
+		frame:SetHeight(self.db.profile.objframeheight)
+	end
+
+	self:OnObjectiveFrameResized()
+
 	frame:SetScript("OnShow", OnShow)
 	ww.SetFadeTime(frame, 0.5)
 	OnShow(frame)
 	return frame
+end
+
+
+function TurtleGuide:OnObjectiveFrameResized()
+	local w = frame:GetWidth()
+	local h = frame:GetHeight()
+
+	-- Save dimensions
+	self.db.profile.objframewidth = w
+	self.db.profile.objframeheight = h
+
+	-- Recalculate visible rows
+	local contentHeight = h - 28 - HEADER_HEIGHT  -- 28 for bottom buttons area
+	NUMROWS = math.max(1, math.floor(contentHeight / ROWHEIGHT))
+	if NUMROWS > MAX_ROWS then NUMROWS = MAX_ROWS end
+
+	-- Show/hide rows based on new count
+	for i, row in ipairs(rows) do
+		if i > NUMROWS then
+			row:Hide()
+		end
+	end
+
+	-- Update scrollbar range
+	if scrollbar and self.actions then
+		scrollbar:SetMinMaxValues(0, math.max(table.getn(self.actions) - NUMROWS, 1))
+	end
+
+	-- Refresh display
+	if frame:IsVisible() and self.current then
+		self:UpdateOHPanel()
+	end
 end
 
 
@@ -292,6 +378,8 @@ function TurtleGuide:UpdateOHPanel(value)
 	end
 
 	for i, row in ipairs(rows) do
+		if i > NUMROWS then row:Hide()
+		else
 		row.i = i + offset
 		local idx = i + offset
 		local action, name = self:GetObjectiveInfo(idx)
@@ -353,6 +441,7 @@ function TurtleGuide:UpdateOHPanel(value)
 
 			if self.db.char.currentguide == "No Guide" then row.check:Disable() end
 		end
+		end -- i > NUMROWS
 	end
 
 	-- Update current objective header
