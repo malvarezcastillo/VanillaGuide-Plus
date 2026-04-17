@@ -104,8 +104,8 @@ for si = 1, STICKY_ROWS do
 	local fontObj = getglobal("GameFontNormalSmall")
 	if fontObj then stext:SetFontObject(fontObj) end
 	stext:SetTextColor(0.85, 0.85, 0.85)
+	-- Only LEFT anchor; width is set explicitly in UpdateStickyPreview to trigger wrapping.
 	stext:SetPoint("TOPLEFT", sicon, "TOPRIGHT", STICKY_TEXT_PAD, 0)
-	stext:SetPoint("TOPRIGHT", row, "TOPRIGHT", -STICKY_RIGHT_PAD, -(STICKY_VPAD / 2))
 	stext:SetJustifyH("LEFT")
 	stext:SetJustifyV("TOP")
 	row.icon = sicon
@@ -129,8 +129,10 @@ function TurtleGuide:UpdateStickyPreview(nextstep)
 	local count = table.getn(stickies)
 
 	-- Bound text width to the main frame's width so wrapping triggers, then
-	-- size each row's height to the wrapped text.
+	-- size each row's height to the wrapped text. Fall back to MINWIDTH if f
+	-- hasn't been sized yet (first load).
 	local frameWidth = f:GetWidth()
+	if not frameWidth or frameWidth < MINWIDTH then frameWidth = MINWIDTH end
 	local textWidth = frameWidth - STICKY_ICON_PAD - STICKY_ICON - STICKY_TEXT_PAD - STICKY_RIGHT_PAD
 
 	for si = 1, STICKY_ROWS do
