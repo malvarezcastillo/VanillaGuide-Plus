@@ -158,39 +158,39 @@ T Deep Sea Salvage |QID|662| |N|Talk to First Mate Nilzlix - Talk to First Mate 
 A Sunken Treasure |QID|668| |N|Talk to Doctor Draxlegauge - Talk to Captain Steelgut and Doctor Draxlegauge - (34.0, 80.8)|
 A Sunken Treasure |QID|669| |N|Talk to Shakes O'Breen - Talk to Shakes O'Breen - (32.3, 81.4)|
 N (35.8, 79.5) |O|
-D Die and respawn |N|Talk to Spirit Healer|
-A Myzrael's Allies |QID|653| |N|Click on the Keystone - (36.1, 58.1)|
-T Wanted! Marez Cowl |QID|684| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |C|Hunter/Druid/Rogue|
-T Wanted! Otto and Falconcrest |QID|685| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)|
-T Wanted! Marez Cowl |QID|684| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)|
-T Wanted! Otto and Falconcrest |QID|685| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)|
-T Trelane's Defenses |QID|694| |N|Talk to Apprentice Kryten - Talk to Apprentice Kryten - (46.2, 47.8)|
-A An Apprentice's Enchantment |QID|695| |N|Talk to Apprentice Kryten - Talk to Apprentice Kryten - (46.2, 47.8)|
-T An Apprentice's Enchantment |QID|695| |N|Talk to Skuerto - Talk to Skuerto - (46.7, 47.0)|
-G Grind to level 40 |C|Warlock/Paladin|
+D Die and respawn |N|Talk to Spirit Healer| |M|speedrun|
+A Myzrael's Allies |QID|653| |N|Click on the Keystone - (36.1, 58.1)| |M|speedrun|
+T Wanted! Marez Cowl |QID|684| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |C|Hunter/Druid/Rogue| |M|speedrun|
+T Wanted! Otto and Falconcrest |QID|685| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |M|speedrun|
+T Wanted! Marez Cowl |QID|684| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |M|speedrun|
+T Wanted! Otto and Falconcrest |QID|685| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |M|speedrun|
+T Trelane's Defenses |QID|694| |N|Talk to Apprentice Kryten - Talk to Apprentice Kryten - (46.2, 47.8)| |M|speedrun|
+A An Apprentice's Enchantment |QID|695| |N|Talk to Apprentice Kryten - Talk to Apprentice Kryten - (46.2, 47.8)| |M|speedrun|
+T An Apprentice's Enchantment |QID|695| |N|Talk to Skuerto - Talk to Skuerto - (46.7, 47.0)| |M|speedrun|
+G Grind to level 40 |C|Warlock/Paladin| |M|speedrun|
 N Cast Cast Teleport: Moonglade |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 H Hearthstone |O|
-R Southshore >> Fly to Southshore |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.7, 46.1)| |O|
+R Southshore >> Fly to Southshore |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.7, 46.1)| |O| |M|speedrun|
 T Hints of a New Plague? |QID|661| |N|Talk to Phin Odelic - Talk to Phin Odelic - (50.3, 59.0)|
 A Stormpike's Deciphering |QID|554| |N|Talk to Loremaster Dibbs - Talk to Loremaster Dibbs - (50.6, 57.1)|
 A Return to Milton |QID|542| |N|Talk to Loremaster Dibbs - Talk to Loremaster Dibbs - (50.6, 57.1)|
-F Wetlands >> Fly to Wetlands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)|
-F Ironforge>> Fly to Ironforge |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |C|!Warlock/!Paladin|
-F Wetlands>> Fly to Wetlands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |C|!Warlock/!Paladin|
-F Ironforge>> Fly to Ironforge |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |C|Warlock/Paladin|
-F Arathi >> Fly to Arathi Highlands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)|
-T Wanted! Marez Cowl |QID|684| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |C|Hunter/Druid/Rogue|
-T Wanted! Otto and Falconcrest |QID|685| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)|
-T Wanted! Marez Cowl |QID|684| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)|
-T Wanted! Otto and Falconcrest |QID|685| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)|
-T Trelane's Defenses |QID|694| |N|Talk to Apprentice Kryten - Talk to Apprentice Kryten - (46.2, 47.8)|
-A An Apprentice's Enchantment |QID|695| |N|Talk to Apprentice Kryten - Talk to Apprentice Kryten - (46.2, 47.8)|
-T An Apprentice's Enchantment |QID|695| |N|Talk to Skuerto - Talk to Skuerto - (46.7, 47.0)|
-F Wetlands >> Fly to Wetlands |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.6, 46.0)|
-F Ironforge>> Fly to Ironforge |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.6, 46.0)| |C|!Warlock/!Paladin|
-F Wetlands>> Fly to Wetlands |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.6, 46.0)| |C|!Warlock/!Paladin|
-F Ironforge>> Fly to Ironforge |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.6, 46.0)| |C|Warlock/Paladin|
+F Wetlands >> Fly to Wetlands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |M|speedrun|
+F Ironforge>> Fly to Ironforge |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |C|!Warlock/!Paladin| |M|speedrun|
+F Wetlands>> Fly to Wetlands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |C|!Warlock/!Paladin| |M|speedrun|
+F Ironforge>> Fly to Ironforge |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |C|Warlock/Paladin| |M|speedrun|
+F Arathi >> Fly to Arathi Highlands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |M|hardcore|
+T Wanted! Marez Cowl |QID|684| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |C|Hunter/Druid/Rogue| |M|hardcore|
+T Wanted! Otto and Falconcrest |QID|685| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |M|hardcore|
+T Wanted! Marez Cowl |QID|684| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |M|hardcore|
+T Wanted! Otto and Falconcrest |QID|685| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |M|hardcore|
+T Trelane's Defenses |QID|694| |N|Talk to Apprentice Kryten - Talk to Apprentice Kryten - (46.2, 47.8)| |M|hardcore|
+A An Apprentice's Enchantment |QID|695| |N|Talk to Apprentice Kryten - Talk to Apprentice Kryten - (46.2, 47.8)| |M|hardcore|
+T An Apprentice's Enchantment |QID|695| |N|Talk to Skuerto - Talk to Skuerto - (46.7, 47.0)| |M|hardcore|
+F Wetlands >> Fly to Wetlands |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.6, 46.0)| |M|hardcore|
+F Ironforge>> Fly to Ironforge |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.6, 46.0)| |C|!Warlock/!Paladin| |M|hardcore|
+F Wetlands>> Fly to Wetlands |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.6, 46.0)| |C|!Warlock/!Paladin| |M|hardcore|
+F Ironforge>> Fly to Ironforge |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.6, 46.0)| |C|Warlock/Paladin| |M|hardcore|
 h Wetlands |N|Talk to Innkeeper Helbrek - Talk to Innkeeper Helbrek - (10.7, 61.0)|
 F Ironforge>> Fly to Ironforge |N|Talk to Shellei Brondir - Talk to Shellei - (9.5, 59.7)|
 T Mythology of the Titans |QID|1050| |N|Talk to Librarian Mae Paledust - Talk to Librarian Mae Paledust - (75.0, 12.5)|
@@ -205,8 +205,8 @@ T Turnin The Tome of Nobility |QID|1661| |N|Talk to Duthorian Rall - Talk to Dut
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.7, 32.8)| |C|Paladin|
 A Bring the Light |QID|3636| |N|Talk to Archbishop Benedictus - Talk to Archbishop Benedictus - (39.6, 27.2)|
 R If you are unable to do this, make your way back to Wetlands |N|Zone into the Stockade in Stormwind - (39.8, 54.4)|
-R Wetlands >> Fly to Wetlands
-R Wetlands >> Fly to Wetlands
+R Wetlands >> Fly to Wetlands |M|speedrun|
+R Wetlands >> Fly to Wetlands |M|hardcore|
 F Wetlands >> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |O| |C|!Warlock/!Paladin|
 
 ]]

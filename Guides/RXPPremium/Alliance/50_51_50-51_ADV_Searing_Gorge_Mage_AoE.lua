@@ -90,8 +90,8 @@ A Suntara Stones |QID|3368| |N|Click the Singed Letter on the ground - This has 
 N Cast Cast [Teleport: Ironforge] |O|
 A A Call to Arms: The Plaguelands! |QID|5090| |N|Talk to Courier Hammerfall - Talk to Hammerfall| |O|
 N Talk to Ginny Longberry - Talk to Ginny inside - Buy eight [Runes of Teleportation] from her - Collect item 17031 (x8) - (31.3, 27.8)
-A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Rotimer - NOTE: If this quest is not up on the Hardcore servers, skip this step - (32.2, 63.2)|
-A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Rotimer - (32.2, 63.2)|
+A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Rotimer - NOTE: If this quest is not up on the Hardcore servers, skip this step - (32.2, 63.2)| |M|hardcore|
+A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Rotimer - (32.2, 63.2)| |M|speedrun|
 F Thelsamar >> Fly to Thelsamar |N|Talk to Gryth Thurden - Talk to Gryth - (55.5, 47.7)|
 N (27.7, 65.3) |O|
 A Proof of Deed |QID|3182| |N|Talk to Mountaineer Pebblebitty - Talk to Pebblebitty - (18.2, 84.0)|

@@ -60,8 +60,8 @@ N Talk to Marda Weller - Talk to Marda Weller - Buy a [Scimitar] from her - (57.
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - Buy the following items for faster turn ins at Darkshore shortly - This will save you time as you won't need to run around looking for mobs to kill. Skip this step if you wish to not buy any - [Stringy Vulture Meat] - [Murloc Eye] - [Goretusk Snout] - [Okra] - [Goretusk Liver] - [Strider Meat] - [Darkshore Grouper] - Strider Meat (5) - Darkshore Grouper (6) - (53.6, 59.8) |C|Rogue/Rogue| |R|Gnome/Dwarf|
 R Humble Beginnings |QID|399| |N|Talk to Baros Alexston - Talk to Baros Alexston - (49.2, 30.3)| |C|Rogue/Rogue| |R|Gnome/Dwarf|
 H Hearthstone |O| |C|!Paladin| |R|Dwarf|
-F Wetlands >> Fly to Wetlands |N|Talk to Thorgrum Borrelson - Talk to Thorgrum Borrelson - (33.9, 51.0)| |O| |C|!Paladin| |R|Dwarf|
-F Ironforge >> Fly to Ironforge |N|Talk to Thorgrum Borrelson - Talk to Thorgrum Borrelson - (33.9, 51.0)| |O| |C|!Paladin| |R|Dwarf|
+F Wetlands >> Fly to Wetlands |N|Talk to Thorgrum Borrelson - Talk to Thorgrum Borrelson - (33.9, 51.0)| |O| |C|!Paladin| |R|Dwarf| |M|speedrun|
+F Ironforge >> Fly to Ironforge |N|Talk to Thorgrum Borrelson - Talk to Thorgrum Borrelson - (33.9, 51.0)| |O| |C|!Paladin| |R|Dwarf| |M|hardcore|
 F Ironforge >> Fly to Ironforge |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |C|Paladin| |R|Human/Dwarf|
 t Train your class spells |C|Mage/Rogue/Warrior/Warlock/Paladin/Priest| |R|Human/Human/Human/Human/Human/Human|
 t Train Thrown |N|Talk to Bixi Wobblebonk - Talk to Bixi Wobblebonk - (62.0, 89.6)| |C|Warrior| |R|Human|
@@ -73,14 +73,14 @@ t Train your class spells |N|Talk to Beldruk Doombrow - Talk to Beldruk Doombrow
 N (25.3, 1.5) |O| |C|Paladin| |R|Dwarf|
 A The Tome of Divinity |QID|1785| |N|Talk to Muiredon Battleforge - Talk to Muiredon Battleforge - (23.5, 8.3)| |C|Paladin| |R|Dwarf|
 T The Tome of Divinity |QID|1785| |N|Talk to Tiza Battleforge - Talk to Tiza Battleforge - (27.6, 12.2)| |C|Paladin| |R|Dwarf|
-F Wetlands>> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |O| |C|Paladin| |R|Dwarf|
+F Wetlands>> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |O| |C|Paladin| |R|Dwarf| |M|speedrun|
 R Exit Ironforge |N|(53.5, 34.9)|
-N (59.4, 42.9) |O|
-N Kill Bluegill Raider - Watch the video guide for a reference on how to do the skip first! - Do the Deathless Dun Morogh -> Wetlands skip - Avoid the Wetlands Crocolisks and Murlocs when crossing the water - (59.5, 42.8)
-N (30.9, 33.1) |O| |R|Human|
-N (32.4, 29.1) |R|Human|
-D Die and respawn |N|(33.0, 27.2)| |R|Human|
-N (12.7, 46.7) |R|Human|
+N (59.4, 42.9) |O| |M|hardcore|
+N Kill Bluegill Raider - Watch the video guide for a reference on how to do the skip first! - Do the Deathless Dun Morogh -> Wetlands skip - Avoid the Wetlands Crocolisks and Murlocs when crossing the water - (59.5, 42.8) |M|hardcore|
+N (30.9, 33.1) |O| |R|Human| |M|speedrun|
+N (32.4, 29.1) |R|Human| |M|speedrun|
+D Die and respawn |N|(33.0, 27.2)| |R|Human| |M|speedrun|
+N (12.7, 46.7) |R|Human| |M|speedrun|
 N Talk to Neal Allen - Talk to Neal Allen - Buy a [Bronze Tube] - This is a limited supply item. Skip this step if Neal Allen doesn't have one - (10.4, 56.0)
 f Wetlands>> Get the Wetlands flight path |N|Talk to Shellei Brondir - Talk to Shellei - (9.5, 59.7)| |C|Paladin| |R|Human/Dwarf|
 N Talk to Dewin Shimmerdawn - Talk to Dewin Shimmerdawn - Buy as many [Healing Potions] that are available - This is a limited supply item. Skip this step if Dewin Shimmerdawn doesn't have any - (8.0, 56.4)

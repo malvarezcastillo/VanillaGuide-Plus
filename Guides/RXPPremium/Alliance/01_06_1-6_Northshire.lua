@@ -11,10 +11,10 @@ N You have selected a guide meant for Humans. You should choose the same starter
 N Note that you have selected the single target Mage guide. Single target is a lot safer than AoE Mage, but a LOT slower |O| |C|Mage|
 N Talk to Dane Winslow - Talk to Dane Winslow - Vendor your Body Armor, Shirt, Pants and Boots along with the Food and Water in your bags. You need 10c total - (50.1, 42.7) |O| |C|Warlock|
 t Train [Immolate] |QID|1598| |N|Talk to Drusilla La Salle - Talk to Drusilla La Salle - (49.9, 42.6)| |C|Warlock|
-N Run into the Tent at the Defias Camp - Open the Stolen Books. Loot it for the Powers of the Void - You can loot the Powers of the Void safely while inside the Tent! Watch the video on how to do this - Collect Powers of the Void (x1) - (56.7, 44.0) |QID|1598| |C|Warlock|
-H Hearthstone |N|Remain inside the Tent so Defias Thugs can't hit you - (56.8, 43.7)| |O| |C|Warlock|
-N Run into the Tent at the Defias Camp - Open the Stolen Books. Loot it for the Powers of the Void - You can loot the Powers of the Void safely while inside the Tent! Watch the video on how to do this - Collect Powers of the Void (x1) - (56.7, 44.0) |QID|1598| |C|Warlock|
-D Die and respawn |N|Talk to Spirit Healer - (49.5, 43.5)| |O| |C|Warlock|
+N Run into the Tent at the Defias Camp - Open the Stolen Books. Loot it for the Powers of the Void - You can loot the Powers of the Void safely while inside the Tent! Watch the video on how to do this - Collect Powers of the Void (x1) - (56.7, 44.0) |QID|1598| |C|Warlock| |M|hardcore|
+H Hearthstone |N|Remain inside the Tent so Defias Thugs can't hit you - (56.8, 43.7)| |O| |C|Warlock| |M|hardcore|
+N Run into the Tent at the Defias Camp - Open the Stolen Books. Loot it for the Powers of the Void - You can loot the Powers of the Void safely while inside the Tent! Watch the video on how to do this - Collect Powers of the Void (x1) - (56.7, 44.0) |QID|1598| |C|Warlock| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - (49.5, 43.5)| |O| |C|Warlock| |M|speedrun|
 T The Stolen Tome |QID|1598| |N|Talk to Drusilla La Salle - Talk to Drusilla La Salle - (49.9, 42.6)| |C|Warlock|
 N Cast Cast [Summon Imp] |O| |C|Warlock|
 A A Threat Within |QID|783| |N|Talk to Deputy Willem - Talk to Deputy Willem - (48.2, 42.9)|
@@ -72,7 +72,7 @@ N Loot Milly's Harvest on the ground - Collect Milly's Harvest (x8) - (52.5, 48.
 N Kill Garrick Padfoot. Loot him for his Head - Collect Garrick's Head (x1) - (57.5, 48.3) |QID|6|
 N Kill Defias Thug - (52.5, 48.8) |O|
 N Kill Defias Thug - (52.5, 48.8) |O|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 A Grape Manifest |QID|3905| |N|Talk to Milly Osworth - Talk to Milly Osworth - (50.7, 39.3)| |C|Priest/Mage|
 N Talk to Deputy Willem - Talk to Deputy Willem - (48.2, 42.9)
 A Report to Goldshire |QID|54| |N|Talk to Marshal McBride - Talk to Marshal McBride inside - (48.9, 41.6)|

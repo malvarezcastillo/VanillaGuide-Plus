@@ -16,14 +16,14 @@ A Forged Steel |QID|1503| |N|Talk to Thun'grim Firegaze - Talk to Thun'grim - (5
 N Loot the Stolen Iron Chest for its Forged Steel Bars - Forged Steel Bars (1) - (55.0, 26.6) |QID|1503| |C|Warrior| |R|!Undead|
 N (54.5, 28.0) |O| |C|Warrior| |R|!Undead|
 T Forged Steel |QID|1503| |N|Talk to Thun'grim Firegaze - Talk to Thun'grim - (57.2, 30.3)| |C|Warrior| |R|!Undead|
-D Die and respawn |N|(50.7, 32.6)| |O| |C|!Shaman/!Warrior| |R|!Undead|
-A The Forgotten Pools |QID|870| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |C|!Shaman/!Warrior| |R|!Undead|
-A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)| |C|!Warrior/!Shaman/!Warrior/!Shaman| |R|Orc|
+D Die and respawn |N|(50.7, 32.6)| |O| |C|!Shaman/!Warrior| |R|!Undead| |M|speedrun|
+A The Forgotten Pools |QID|870| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |C|!Shaman/!Warrior| |R|!Undead| |M|speedrun|
+A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)| |C|!Warrior/!Shaman/!Warrior/!Shaman| |R|Orc| |M|hardcore|
 A Plainstrider Menace |QID|844| |N|Talk to Sergra Darkthorn - Talk to Sergra - (52.2, 31.0)| |C|!Shaman/!Warrior| |R|!Undead|
 A Plainstrider Menace |QID|844| |N|Talk to Sergra Darkthorn - Talk to Sergra - (52.2, 31.0)| |C|!Shaman/!Warrior| |R|!Undead|
-A The Forgotten Pools |QID|870| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |C|!Shaman/!Warrior| |R|!Undead|
+A The Forgotten Pools |QID|870| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |C|!Shaman/!Warrior| |R|!Undead| |M|hardcore|
 A Supplies for the Crossroads |QID|5041| |N|Talk to Thork - Talk to Thork - (51.5, 30.9)| |C|!Shaman/!Warrior| |R|!Undead|
-A Ride to Orgrimmar |QID|6384| |N|Talk to Devrak - Talk to Devrak - Do NOT fly to Orgrimmar! - (51.5, 30.3)| |C|!Warrior/!Shaman/!Warrior/!Shaman| |R|Orc|
+A Ride to Orgrimmar |QID|6384| |N|Talk to Devrak - Talk to Devrak - Do NOT fly to Orgrimmar! - (51.5, 30.3)| |C|!Warrior/!Shaman/!Warrior/!Shaman| |R|Orc| |M|hardcore|
 f The Crossroads >> Get the The Crossroads flight path |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |R|Undead|
 A Fungal Spores |QID|848| |N|Talk to Apothecary Helbrim - Talk to Helbrim - (51.4, 30.1)|
 A Wharfmaster Dizzywig |QID|1492| |N|Talk to Apothecary Helbrim - Talk to Helbrim - (51.4, 30.1)|
@@ -33,7 +33,7 @@ N Talk to Uthrok - Talk to Uthrok. Buy a [Hunter's Boomstick] from him - Collect
 N Equip the [Hunter's Boomstick] |U|2511| |O| |C|Hunter| |R|Tauren|
 A Raptor Thieves |QID|869| |N|Talk to Gazrog - Talk to Gazrog - (51.9, 30.3)| |C|!Shaman/!Warrior| |R|!Undead|
 h The Barrens |N|Talk to Innkeeper Boorand Plainswind - Talk to Innkeeper Boorand - (52.0, 29.9)| |C|!Shaman/!Warrior| |R|!Tauren/!Undead|
-A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)| |C|!Warrior/!Shaman/!Warrior/!Shaman| |R|Orc|
+A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)| |C|!Warrior/!Shaman/!Warrior/!Shaman| |R|Orc| |M|speedrun|
 N Kill Plainstriders. Loot them for their Beaks - Plainstrider Beak (7) |QID|844| |O|
 N (51.1, 22.7) |O| |R|!Tauren/!Undead|
 N (47.6, 19.2) |O| |R|!Tauren/!Undead|
@@ -53,7 +53,7 @@ N Kill Plainstriders. Loot them for their Beaks - Plainstrider Beak (7) - (53.7,
 T Return to the Crossroads |QID|6386| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.9)| |C|Shaman/Shaman/Warrior/Warrior| |R|Troll/Orc/Orc/Troll|
 A The Disruption Ends |QID|872| |N|Talk to Thork - Talk to Sergra and Thork - (52.2, 31.0)|
 A Harpy Raiders |QID|867| |N|Talk to Darsok Swiftdagger - Talk to Darsok - He is at the top of the tower - (51.6, 30.9)|
-A Ride to Orgrimmar |QID|6384| |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |C|!Warrior/!Shaman/!Warrior/!Shaman| |R|Orc|
+A Ride to Orgrimmar |QID|6384| |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |C|!Warrior/!Shaman/!Warrior/!Shaman| |R|Orc| |M|speedrun|
 N Talk to Uthrok - Talk to Uthrok. Buy a [Laminated Recurve Bow] from him - Collect Laminated Recurve Bow (1) - (51.1, 29.1) |O| |C|Hunter/Hunter| |R|Orc/Troll|
 N Talk to Uthrok - Talk to Uthrok. Buy a [Hunter's Boomstick] from him - Collect Hunter's Boomstick (1) - (51.1, 29.1) |O| |C|Hunter| |R|Tauren|
 h The Barrens |N|Talk to Innkeeper Boorand Plainswind - Talk to Innkeeper Boorand - (52.0, 29.9)| |C|Warrior/Warrior/Shaman/Shaman| |R|Orc/Troll/Orc/Troll|

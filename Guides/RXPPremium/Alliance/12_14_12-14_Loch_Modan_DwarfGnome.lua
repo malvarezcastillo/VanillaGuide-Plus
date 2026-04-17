@@ -149,13 +149,13 @@ R Jump onto the very top of the Mailbox, then perform a Logout Skip by logging o
 N Talk to Harick Boulderdrum - Talk to Harick Boulderdrum downstairs - Buy a [Smoldering Wand] from him - Smoldering Wand (1) - (22.8, 17.1) |O| |C|Mage/Priest/Warlock|
 R Jump onto the very top of the clothes rack, then perform a Logout Skip by logging out and back in |N|(23.2, 17.0)| |O| |C|Mage/Priest/Warlock|
 R Jump onto the very top of the clothes rack, then perform a Logout Skip by logging out and back in |N|(23.2, 17.0)| |C|Mage/Priest/Warlock|
-F Wetlands>> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |O| |R|Dwarf/Gnome|
+F Wetlands>> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |O| |R|Dwarf/Gnome| |M|speedrun|
 R Exit Ironforge |O|
-N (59.4, 42.9) |O|
-N Kill Bluegill Raider - Watch the video guide for a reference on how to do the skip first! - Do the Deathless Dun Morogh -> Wetlands skip - Avoid the Wetlands Crocolisks and Murlocs when crossing the water - (59.5, 42.8)
-N Do the Dun Morogh -> Wetlands deathskip. Follow the arrow closely - Do NOT jump off any heights yet |O| |R|Human|
-D Die and respawn |N|Talk to Spirit Healer - Jump off the mountain toward the north or north-west - (11.7, 43.3)| |O| |R|Human|
-N (11.9, 50.2) |O| |R|Human|
+N (59.4, 42.9) |O| |M|hardcore|
+N Kill Bluegill Raider - Watch the video guide for a reference on how to do the skip first! - Do the Deathless Dun Morogh -> Wetlands skip - Avoid the Wetlands Crocolisks and Murlocs when crossing the water - (59.5, 42.8) |M|hardcore|
+N Do the Dun Morogh -> Wetlands deathskip. Follow the arrow closely - Do NOT jump off any heights yet |O| |R|Human| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - Jump off the mountain toward the north or north-west - (11.7, 43.3)| |O| |R|Human| |M|speedrun|
+N (11.9, 50.2) |O| |R|Human| |M|speedrun|
 N Talk to Neal Allen - Talk to Neal Allen on the bottom floor of the barracks - Buy a [Bronze Tube] from him (if it's up) - (10.4, 56.0)
 N (10.2, 56.2) |O|
 f Wetlands>> Get the Wetlands flight path |N|Talk to Shellei Brondir - Talk to Shellei outside - (9.5, 59.7)|

@@ -78,20 +78,20 @@ T Scrounging |QID|733| |N|Talk to Sigrun Ironhew - Talk to Sigrun Ironhew - (53.
 T Fiery Blaze Enchantments |QID|706| |N|Talk to Sigrun Ironhew - Talk to Sigrun Ironhew - (53.8, 43.3)|
 N Kill Boss Tho'grun. Loot him for his Sign of the Earth - Boss Tho'grun patrols across all of Badlands - (36.4, 71.6) |QID|732|
 T Tremors of the Earth |QID|732| |N|Talk to Garek - Talk to Garek - (61.9, 54.3)|
-R Ride to Searing Gorge |N|(3.6, 61.9)| |O|
-D Die and respawn |N|Talk to Spirit Healer - (63.4, 60.8)| |O|
-f Thorium Point >> Get the Thorium Point flight path |N|Talk to Lanie Reed - Talk to Lanie Reed - (37.9, 30.9)|
+R Ride to Searing Gorge |N|(3.6, 61.9)| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - (63.4, 60.8)| |O| |M|speedrun|
+f Thorium Point >> Get the Thorium Point flight path |N|Talk to Lanie Reed - Talk to Lanie Reed - (37.9, 30.9)| |M|speedrun|
 N Cast Cast Teleport: Moonglade |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 R Teleport to Ironforge |O| |C|Mage|
 t Train your class spells |N|Talk to Dink - Talk to Dink - (27.2, 8.6)| |C|Mage|
-R If you didn't abandon the Panther and Tiger quests earlier, Hearth to Loch Modan. If you did, Fly to Loch Modan |C|Warlock|
+R If you didn't abandon the Panther and Tiger quests earlier, Hearth to Loch Modan. If you did, Fly to Loch Modan |C|Warlock| |M|speedrun|
 H Hearthstone |C|!Warlock|
-R Run Back to Loch Modan |O| |C|Warlock|
-T Murdaloc |QID|739| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)| |C|Warlock|
+R Run Back to Loch Modan |O| |C|Warlock| |M|hardcore|
+T Murdaloc |QID|739| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)| |C|Warlock| |M|hardcore|
 T Badlands Reagent Run |QID|2500| |N|Talk to Ghak Healtouch - Talk to Ghak Healtouch - (36.5, 48.4)|
 T Murdaloc |QID|739| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)|
-D Die and respawn |N|Talk to Spirit Healer - (68.5, 62.8)| |O|
+D Die and respawn |N|Talk to Spirit Healer - (68.5, 62.8)| |O| |M|speedrun|
 F Ironforge >> Fly to Ironforge |N|Talk to Thorgrum Borrelson - Talk to Thorgrum Borrelson - (33.9, 51.0)|
 
 ]]

@@ -24,9 +24,9 @@ N Talk to Ranshalla - Escort Ranshalla through Owl Wing Thicket - Click the Fire
 N Kill Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet - (63.9, 59.4) |QID|4864|
 N Loot the Frostmaul Shards on the ground scattered around Frostwhisper Gorge - This quest can be difficult. Look for a party if required or skip this step - (59.1, 68.3) |QID|969|
 N Explore Darkwhisper Gorge. You can do this without agroing any of the nearby Elites - (59.9, 74.0) |QID|4842|
-R Hearthstone
-R Hearthstone
-D Die and respawn |N|Talk to Spirit Healer| |O|
+R Hearthstone |M|hardcore|
+R Hearthstone |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 T Luck Be With You |QID|969| |N|Talk to Witch Doctor Mau'ari - Talk to Witch Doctor Mau'ari - (61.9, 38.3)|
 N (52.1, 30.4) |O|
 T Enraged Wildkin |QID|4864| |N|Talk to Jaron Stoneshaper - Talk to Jaron Stoneshaper - (52.1, 30.4)|
@@ -34,13 +34,13 @@ N Kill the Winterfall Runners. Loot them for their Winterfall Crate - Their spaw
 A High Chief Winterfall |QID|5121| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
 T Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)| |O|
 A Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 F Azshara >> Fly to Azshara |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)| |O|
 T Ancient Spirit |QID|4261| |N|Talk to Kayneth Stillwind - Talk to Kayneth Stillwind - (85.3, 44.7)|
 T A Final Blow |QID|5242| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)|
 T The Remains of Trey Lightforge |QID|5385| |N|Talk to Jessir Moonbow - Talk to Jessir Moonbow - (51.3, 82.0)|
-R Darkshore>> Fly to Darkshore |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)|
-H Hearthstone
+R Darkshore>> Fly to Darkshore |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)| |M|hardcore|
+H Hearthstone |M|speedrun|
 R Teleport to Darnassus |O| |C|Mage|
 R Teldrassil>> Fly to Teldrassil |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)| |O| |C|!Mage|
 T Moontouched Wildkin |QID|978| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - (55.5, 92.0)| |C|!Hunter/!Mage|

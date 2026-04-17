@@ -7,15 +7,15 @@ return [[
 
 N 13-20 The Barrens |N|Converted from RestedXP guide|
 
-D Die and respawn |N|(50.7, 32.6)| |O| |R|!Tauren|
-N (52.3, 29.3) |O| |R|!Tauren|
-A The Forgotten Pools |QID|870| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |R|!Tauren|
-A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)| |R|!Undead/!Tauren|
+D Die and respawn |N|(50.7, 32.6)| |O| |R|!Tauren| |M|speedrun|
+N (52.3, 29.3) |O| |R|!Tauren| |M|hardcore|
+A The Forgotten Pools |QID|870| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |R|!Tauren| |M|speedrun|
+A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)| |R|!Undead/!Tauren| |M|hardcore|
 A Plainstrider Menace |QID|844| |N|Talk to Sergra Darkthorn - Talk to Sergra - (52.2, 31.0)| |R|!Tauren|
 A Plainstrider Menace |QID|844| |N|Talk to Sergra Darkthorn - Talk to Sergra - (52.2, 31.0)| |R|!Tauren|
-A The Forgotten Pools |QID|870| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |R|!Tauren|
+A The Forgotten Pools |QID|870| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |R|!Tauren| |M|hardcore|
 A Supplies for the Crossroads |QID|5041| |N|Talk to Thork - Talk to Thork - (51.5, 30.9)| |R|!Tauren|
-A Ride to Orgrimmar |QID|6384| |N|Talk to Devrak - Talk to Devrak - Do NOT fly to Orgrimmar! - (51.5, 30.3)| |R|!Undead/!Tauren|
+A Ride to Orgrimmar |QID|6384| |N|Talk to Devrak - Talk to Devrak - Do NOT fly to Orgrimmar! - (51.5, 30.3)| |R|!Undead/!Tauren| |M|hardcore|
 f The Crossroads >> Get the The Crossroads flight path |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |R|Undead|
 A Fungal Spores |QID|848| |N|Talk to Apothecary Helbrim - Talk to Helbrim - (51.4, 30.1)| |R|!Tauren|
 A Wharfmaster Dizzywig |QID|1492| |N|Talk to Apothecary Helbrim - Talk to Helbrim - (51.4, 30.1)| |R|!Tauren|
@@ -32,7 +32,7 @@ A Raptor Thieves |QID|869| |N|Talk to Gazrog - Talk to Gazrog - (51.9, 30.3)| |R
 h The Barrens |N|Talk to Innkeeper Boorand Plainswind - Talk to Innkeeper Boorand - (52.0, 29.9)| |R|!Tauren|
 h The Barrens |N|Talk to Innkeeper Boorand Plainswind - Talk to Innkeeper Boorand - (52.0, 29.9)| |R|Undead|
 T Return to the Crossroads |QID|6386| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.9)| |R|!Undead/!Tauren|
-A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)| |R|!Undead/!Tauren|
+A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)| |R|!Undead/!Tauren| |M|speedrun|
 N Kill Plainstriders. Loot them for their Beaks - Plainstrider Beak (7) |QID|844| |O|
 N (51.1, 22.7) |O| |R|!Tauren/!Undead|
 N (47.6, 19.2) |O| |R|!Tauren/!Undead|
@@ -54,7 +54,7 @@ A The Zhevra |QID|845| |N|Talk to Sergra Darkthorn - Talk to Sergra - (52.2, 31.
 A The Disruption Ends |QID|872| |N|Talk to Thork - Talk to Thork - (51.5, 30.9)|
 A The Disruption Ends |QID|872| |N|Talk to Thork - Talk to Thork - (51.5, 30.9)| |O|
 A Harpy Raiders |QID|867| |N|Talk to Darsok Swiftdagger - Talk to Darsok - He is at the top of the tower - (51.6, 30.9)|
-A Ride to Orgrimmar |QID|6384| |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |R|!Tauren/!Undead|
+A Ride to Orgrimmar |QID|6384| |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |R|!Tauren/!Undead| |M|speedrun|
 N Talk to Uthrok - Talk to Uthrok. Buy a [Laminated Recurve Bow] from him - Collect Laminated Recurve Bow (1) - (51.1, 29.1) |O| |C|Hunter/Hunter| |R|Orc/Troll|
 N Equip the [Laminated Recurve Bow] |U|2507| |O| |C|Hunter/Hunter| |R|Orc/Troll|
 N Talk to Uthrok - Talk to Uthrok - Buy a [Fine Longbow] from him if it's available and stock up on arrows - If it's not up, buy a [Reinforced Bow] instead - (51.1, 29.1) |C|Hunter/Hunter| |R|Troll/Orc|

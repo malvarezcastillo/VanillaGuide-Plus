@@ -191,9 +191,9 @@ N Kill War Reavers. Loot them for their Shards - Completing this will unlock an 
 T A Taste of Flame |QID|4022| |N|Talk to Cyrus Therepentous - Talk to Cyrus Therepentous - Select the option: "I present you with proof of my deeds, Cyrus." - (95.1, 31.6)|
 T A Taste of Flame |QID|4022| |N|Talk to Cyrus Therepentous - Talk to Cyrus Therepentous - If you are missing the [Black Dragonflight Molt] and cannot complete the quest, talk to Cyrus and select the option: "I do not possess any proof, Cyrus." - This will spawn a level 54 Elite Dragon at the entrance of the small cave. Ensure you have party members with you to help kill it, then loot it for the [Black Dragonflight Molt] - Select the option after: "I present you with proof of my deeds, Cyrus." - Collect item 10575 (x1) - (95.1, 31.6)|
 A A Taste of Flame |QID|4024| |N|Talk to Cyrus Therepentous - Talk to Cyrus Therepentous - (95.1, 31.6)|
-A Dark Iron Legacy |QID|3802| |N|Talk to Franclorn Forgewright - Die intentionally in the lava in Blackrock Mountain, ideally near the Molten Core entrance location - For this step you must be a [Ghost] to talk to Franclorn Forgewright inside Blackrock Mountain. Resurrect at your corpse once you have the quest - Talk to Franclorn Forgewright|
-N Cast Click the Brazier of Embersight to gain the [Emberglow Vision] debuff
-A Dark Iron Legacy |QID|3802| |N|Talk to Franclorn Forgewright - Talk to Franclorn Forgewright - You must have the [Emberglow Vision] debuff to see him|
+A Dark Iron Legacy |QID|3802| |N|Talk to Franclorn Forgewright - Die intentionally in the lava in Blackrock Mountain, ideally near the Molten Core entrance location - For this step you must be a [Ghost] to talk to Franclorn Forgewright inside Blackrock Mountain. Resurrect at your corpse once you have the quest - Talk to Franclorn Forgewright| |M|speedrun|
+N Cast Click the Brazier of Embersight to gain the [Emberglow Vision] debuff |M|hardcore|
+A Dark Iron Legacy |QID|3802| |N|Talk to Franclorn Forgewright - Talk to Franclorn Forgewright - You must have the [Emberglow Vision] debuff to see him| |M|hardcore|
 A Attunement to the Core |QID|7848| |N|Talk to Lothos Riftwaker - Talk to Lothos Riftwaker|
 N Kill Overmaster Pyron - Overmaster Pyron patrols outside of the BRD instance portal |QID|3906|
 N Kill Anvilrage Dwarves |QID|4081|

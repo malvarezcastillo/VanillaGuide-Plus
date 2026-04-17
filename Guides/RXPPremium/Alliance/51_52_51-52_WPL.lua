@@ -71,7 +71,7 @@ N Exit the house - (38.0, 54.6) |O|
 A Better Late Than Never |QID|5022| |N|Click Janice's Parcel on the ground - This has a 5 second cast time - You can do this from behind the wall to avoid aggroing anything inside - Avoid aggroing the Scarlets outside the barn. If you do, run away - (38.7, 55.2)|
 G Grind until you are 16950 XP away from 52 |N|If you are not yet close, do one more Cauldron quest to get you where you need to be| |C|Hunter|
 N Kill any of the Scourge. Loot them for their Minion's Scourgestones - (37.2, 56.9) |QID|8414| |C|Paladin|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 T Return to Chillwind Camp |QID|5217| |N|Talk to High Priestess MacDonnell - Talk to High Priestess MacDonnell - (43.0, 84.5)|
 A Inert Scourgestones |QID|8416| |N|Talk to High Priest Thel'danis - Talk to High Priest Thel'danis - (52.0, 82.8)| |C|Paladin|
 A Inert Scourgestones |QID|8416| |N|Talk to High Priest Thel'danis - Talk to High Priest Thel'danis - (52.0, 82.8)| |C|Paladin|

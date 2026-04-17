@@ -90,9 +90,9 @@ A The Tower of Althalaxx |QID|967| |N|Talk to Balthule Shadowstrike - Talk to Ba
 A Beached Sea Turtle |QID|4727| |N|(53.1, 18.2)|
 N Kill Reef Crawlers along the coast, don't go out of your way to complete this quest - Dont kill mobs 4 levels or more above - Fine Crab Chunks (6) |QID|1138| |O|
 A Buzzbox 525 |QID|1003| |N|(51.4, 24.2)|
-A Beached Sea Turtle |QID|4725| |N|Leave some of the nearby murlocs alive, you're gonna die to them after you accept this quest - (44.2, 20.6)|
-A Beached Sea Turtle |QID|4725| |N|(44.2, 20.6)|
-D Die and respawn
+A Beached Sea Turtle |QID|4725| |N|Leave some of the nearby murlocs alive, you're gonna die to them after you accept this quest - (44.2, 20.6)| |M|speedrun|
+A Beached Sea Turtle |QID|4725| |N|(44.2, 20.6)| |M|hardcore|
+D Die and respawn |M|speedrun|
 T The Blackwood Corrupted |QID|4763| |N|Talk to Thundris Windweaver - Equip your new wand - Talk to Thundris Windweaver - (37.4, 40.1)|
 T Tharnariun's Hope |QID|2139| |N|Talk to Tharnariun Treetender - Talk to Tharnariun Treetender - (38.8, 43.4)|
 T The Fragments Within |QID|4813| |N|Talk to Sentinel Glynda Nal'Shea - Talk to Sentinel Glynda Nal'Shea - (37.7, 43.4)|
@@ -133,8 +133,8 @@ N Loot the small gray chest next to Kerlonian - Horn of Awakening (1) - (44.4, 7
 N Run south to Ashenvale. Bind the Horn of Awakening to your bars, and use it on Kerlonian when he starts walking in place and falls asleep - Escort Kerlonian Evershade to Maestra's Post (1) - (26.8, 36.7) |QID|5321|
 T The Sleeper Has Awakened |QID|5321| |N|Talk to Liladris Moonriver - Talk to Liladris Moonriver - (27.3, 35.6)|
 T The Tower of Althalaxx |QID|967| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
-T Therylune's Escape |QID|945| |N|Talk to Therysil - Run up the road south. Head toward The Shrine of Aessina - Talk to Therysil - (22.6, 51.9)|
-T Therylune's Escape |QID|945| |N|Talk to Therysil - Run up the road south. Head toward The Shrine of Aessina - Talk to Therysil - (22.6, 51.9)|
+T Therylune's Escape |QID|945| |N|Talk to Therysil - Run up the road south. Head toward The Shrine of Aessina - Talk to Therysil - (22.6, 51.9)| |M|speedrun|
+T Therylune's Escape |QID|945| |N|Talk to Therysil - Run up the road south. Head toward The Shrine of Aessina - Talk to Therysil - (22.6, 51.9)| |M|hardcore|
 H Hearthstone
 T Fruit of the Sea |QID|1138| |N|Talk to Gubber Blump - Talk to Gubber Blump - (36.1, 44.9)|
 T Beached Sea Creature |QID|4733| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde - (36.6, 45.6)|

@@ -79,8 +79,8 @@ A Job Opening: Guard Captain of Revantusk Village |QID|7862| |N|Click the Call t
 T Avenging the Fallen |QID|7830| |N|Talk to Huntsman Markhor - Talk to Markhor - (79.1, 79.5)|
 T Message to the Wildhammer |QID|7841| |N|Talk to Otho Moji'ko - Talk to Otho - (79.3, 79.1)|
 T Another Message to the Wildhammer |QID|7842| |N|Talk to Otho Moji'ko - Talk to Otho - (79.3, 79.1)|
-A Another Message to the Wildhammer |QID|7843| |N|Talk to Otho Moji'ko - Talk to Otho - Be aware that performing this quest WILL flag you for PVP in a densely-populated Alliance area - (79.3, 79.1)|
-A Another Message to the Wildhammer |QID|7843| |N|Talk to Otho Moji'ko - Talk to Otho - (79.3, 79.1)|
+A Another Message to the Wildhammer |QID|7843| |N|Talk to Otho Moji'ko - Talk to Otho - Be aware that performing this quest WILL flag you for PVP in a densely-populated Alliance area - (79.3, 79.1)| |M|hardcore|
+A Another Message to the Wildhammer |QID|7843| |N|Talk to Otho Moji'ko - Talk to Otho - (79.3, 79.1)| |M|speedrun|
 N Talk to Lard - Talk to Lard - (78.2, 81.3)
 A Dark Vessels |QID|7850| |N|Talk to Primal Torntusk - Talk to Markhor and Torntusk - These are 5-man group quests - (79.2, 79.5)|
 N Loot the Vessels of Tainted Blood on the ground - Don't worry about focusing on this; you can finish it in later steps |QID|7850| |O|
@@ -118,8 +118,8 @@ R Tarren Mill >>Fly to Tarren Mill |N|Talk to Urda - Talk to Urda - (73.1, 32.7)
 R Tarren Mill >>Fly to Tarren Mill |N|Talk to Gorkas - Talk to Gorkas - (81.7, 81.8)| |O|
 A Undamaged Venom Sac |QID|2934| |N|Talk to Apothecary Lydon - Talk to Lydon - (61.5, 19.2)|
 R Take the mountain path northeast of Durnholde Keep into The Hinterlands |N|(86.6, 29.5)| |O|
-C Place the [Final Message to the Wildhammer] near the well in Wildhammer |QID|7843| |N|Be careful! Using this item will PVP flag you - (14.4, 48.0)| |U|19036|
-C Place the [Final Message to the Wildhammer] near the well in Wildhammer |QID|7843| |N|Be careful! Using this item will PVP flag you for 5 minutes! Skip this quest if you want for safety - (14.4, 48.0)| |U|19036|
+C Place the [Final Message to the Wildhammer] near the well in Wildhammer |QID|7843| |N|Be careful! Using this item will PVP flag you - (14.4, 48.0)| |U|19036| |M|speedrun|
+C Place the [Final Message to the Wildhammer] near the well in Wildhammer |QID|7843| |N|Be careful! Using this item will PVP flag you for 5 minutes! Skip this quest if you want for safety - (14.4, 48.0)| |U|19036| |M|hardcore|
 A Ripple Delivery |QID|81| |N|Talk to Gilveradin Sunchaser - Talk to Gilveradin - (26.6, 48.6)|
 N (35.9, 63.9) |O|
 N Kill Witherbark Broodguards. Loot them for an Undamaged Venom Sac - The Undamaged Venom Sac has a 30 minute duration, so turn it in ASAP |QID|2934| |O|

@@ -55,7 +55,7 @@ t Train 1h Swords, Daggers |N|(57.3, 32.8)|
 T A Husband's Revenge |QID|530| |N|Talk to Raleigh Andrean - Talk to Raleigh Andrean - (62.0, 42.7)| |C|Mage| |R|Undead|
 N Bank your Wool Cloth here from earlier. You need 12 stacks (240) for later - (66.0, 44.7) |O|
 H Hearthstone |N|Buy level 25 drink from the Innkeeper once you hearthed|
-N Buy 8-10 slot bags from Kayren if needed - (62.6, 19.9) |O|
+N Buy 8-10 slot bags from Kayren if needed - (62.6, 19.9) |O| |M|hardcore|
 A Battle of Hillsbrad |QID|528| |N|Talk to High Executor Darthalia - Talk to High Executor Darthalia - (62.3, 20.4)|
 A Souvenirs of Death |QID|546| |N|Talk to Deathguard Samsa - Talk to Deathguard Samsa - (62.1, 19.6)|
 A Elixir of Pain |QID|502| |N|Talk to Apothecary Lydon - Talk to Apothecary Lydon - (61.4, 19.1)|
@@ -80,9 +80,9 @@ R Teleport (don't hearth) to Undercity |N|If your hearth is down, keep AoE farmi
 t Train your class spells |N|Make sure you have at least 30s leftover - (85.1, 10.0)|
 N Go to Hannah. Buy some Runes of Teleportation - Collect item 17031 (x3) - (82.8, 15.8)
 N Bank your Wool Cloth here from earlier. You need 12 stacks (240) for later - (66.0, 44.7) |O|
-N Buy some bags from the auction house if you have spare money, you're in for a long grind ahead - (71.5, 41.9) |O|
+N Buy some bags from the auction house if you have spare money, you're in for a long grind ahead - (71.5, 41.9) |O| |M|speedrun|
 H Hearthstone |N|Buy level 25 drink from the Innkeeper once you hearthed|
-N Buy 8-10 slot bags from Kayren if needed - (62.6, 19.9) |O|
+N Buy 8-10 slot bags from Kayren if needed - (62.6, 19.9) |O| |M|hardcore|
 A Battle of Hillsbrad |QID|532| |N|Talk to High Executor Darthalia - Talk to High Executor Darthalia - (62.3, 20.4)|
 N Kill the Clerk. He's inside the Hall |QID|567|
 N Kill the Councilmans. Be careful as they Frost Nova and Frostbolt - (29.6, 42.3) |QID|532|
@@ -104,7 +104,7 @@ N Go to Hannah. Buy some Runes of Teleportation - Collect item 17031 (x4) - (82.
 A To Steal From Thieves |QID|1164| |N|Talk to Genavie Callow - Talk to Genavie Callow - (63.8, 49.4)|
 N Bank your Wool Cloth here from earlier. You need 12 stacks (240) for later - (66.0, 44.7) |O|
 H Hearthstone |N|Buy level 25 drink from the Innkeeper once you hearthed|
-N Buy 8-10 slot bags from Kayren if needed - (62.6, 19.9) |O|
+N Buy 8-10 slot bags from Kayren if needed - (62.6, 19.9) |O| |M|hardcore|
 A The Hammer May Fall |QID|676| |N|Talk to Tallow - Talk to Tallow - (61.9, 19.6)|
 A Stone Tokens |QID|556| |N|Talk to Keeper Bel'varil - Talk to Magus Wordeen Voidglare - Talk to Keeper Bel'varil - (61.6, 20.8)|
 T Dangerous! |QID|567| |N|Talk to High Executor Darthalia - Talk to High Executor Darthalia - (62.4, 20.6)|

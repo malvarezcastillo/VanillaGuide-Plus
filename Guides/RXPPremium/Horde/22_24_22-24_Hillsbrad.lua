@@ -147,8 +147,8 @@ N (44.9, 67.9)
 T Deathstalkers in Shadowfang |QID|1098| |N|Talk to Deathstalker Vincent - Talk to Vincent|
 N Loot the Book of Ur from the bookshelf in Fenrus the Devourer's room |QID|1013|
 N Kill Archmage Arugal. Loot him for his Head |QID|1014|
-N (45.5, 41.3) |O|
-D Die and respawn |O|
+N (45.5, 41.3) |O| |M|hardcore|
+D Die and respawn |O| |M|speedrun|
 T Deathstalkers in Shadowfang |QID|1098| |N|Talk to High Executor Hadrec - Talk to Hadrec - (43.4, 40.9)|
 T Arugal Must Die |QID|1014| |N|Talk to Dalar Dawnweaver - Talk to Dalar - (44.2, 39.8)|
 N Cast Cast [Teleport: Undercity] |O| |C|Mage|

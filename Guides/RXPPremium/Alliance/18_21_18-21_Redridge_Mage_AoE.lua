@@ -26,8 +26,8 @@ N AoE the gnolls in the camps - (15.5, 62.4) |O|
 A Visit the Herbalist |QID|130| |N|Talk to Guard Parker - Talk to Guard Parker - (15.3, 71.5)|
 F Stormwind >> Fly to Stormwind |N|(30.6, 59.4)|
 t Train 1h Swords and Daggers |N|Go into Stormwind. Go to the weapon trainer - (57.1, 57.7)|
-N Go to the Auction House. Buy a Bronze Tube if its affordable - If theres none here or they're too expensive, you can also potentially buy one from Billibub in the Dwarven District - If you can't find one, skip this step - (53.6, 59.8)
-N Check Billibub in the Dwarven District for a Bronze Tube. Buy one if it's available - (53.6, 59.8)
+N Go to the Auction House. Buy a Bronze Tube if its affordable - If theres none here or they're too expensive, you can also potentially buy one from Billibub in the Dwarven District - If you can't find one, skip this step - (53.6, 59.8) |M|speedrun|
+N Check Billibub in the Dwarven District for a Bronze Tube. Buy one if it's available - (53.6, 59.8) |M|hardcore|
 A Messenger to Stormwind |QID|121| |N|Talk to General Marcus Jonathan - Talk to General Marcus Jonathan - (64.0, 75.3)|
 A Return to Verner |QID|119| |N|Talk to Smith Argus - Run to Goldshire - Talk to Smith Argus - (41.7, 65.5)|
 A The Defias Brotherhood |QID|65| |N|Talk to Gryan Stoutmantle - Run to Sentinel Hill - Talk to Gryan Stoutmantle - (56.3, 47.5)|

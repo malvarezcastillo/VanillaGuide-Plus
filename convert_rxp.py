@@ -281,6 +281,17 @@ def parse_step(step_lines, step_filter, current_zone):
 
     step_cls, step_race = filter_classes_races(step_filter)
 
+    # Detect mode directives (#hardcore / #softcore and their *server variants)
+    step_mode = None
+    for raw in step_lines:
+        s = raw.strip()
+        if s == '#hardcore' or s == '#hardcoreserver':
+            step_mode = 'hardcore'
+            break
+        if s == '#softcore' or s == '#softcoreserver':
+            step_mode = 'speedrun'
+            break
+
     result = {
         'action': None,
         'quest': None,
@@ -290,6 +301,7 @@ def parse_step(step_lines, step_filter, current_zone):
         'zone': current_zone,
         'class': step_cls,
         'race': step_race,
+        'mode': step_mode,
         'optional': False,
     }
 
@@ -514,6 +526,9 @@ def step_to_turtleguide(step):
 
     if step.get('race'):
         parts.append(f" |R|{step['race']}|")
+
+    if step.get('mode'):
+        parts.append(f" |M|{step['mode']}|")
 
     return ''.join(parts)
 

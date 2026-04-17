@@ -122,6 +122,7 @@ local defaults = {
 	branchsavedstep = nil,
 	autobranch = false,  -- auto-branch to Turtle WoW zones
 	routepack = nil,  -- Active route pack name (e.g., "VanillaGuide", "RestedXP")
+	mode = "speedrun",  -- "speedrun" or "hardcore" — filters RXP Premium step variants
 	-- Starting zone selection (branch-and-rejoin)
 	startingzoneselected = false,  -- has player picked a starting zone?
 	selectedstartingzone = nil,    -- which starting zone was selected (e.g., "Human", "Dwarf")
@@ -372,6 +373,20 @@ local options = {
 				TurtleGuide:SelectRoutePack(v)
 			end,
 			order = 22,
+		},
+		Hardcore = {
+			name = "Hardcore mode",
+			desc = "Show Hardcore step variants (safer routing). Off = Speedrun (default).",
+			type = "toggle",
+			get = function() return TurtleGuide.db.char.mode == "hardcore" end,
+			set = function(v)
+				TurtleGuide.db.char.mode = v and "hardcore" or "speedrun"
+				TurtleGuide:Print("Mode: |cff00ccff" .. TurtleGuide.db.char.mode .. "|r — reload current guide to apply")
+				if TurtleGuide.db.char.currentguide and TurtleGuide.guides[TurtleGuide.db.char.currentguide] then
+					TurtleGuide:LoadGuide(TurtleGuide.db.char.currentguide)
+				end
+			end,
+			order = 23,
 		},
 	},
 }

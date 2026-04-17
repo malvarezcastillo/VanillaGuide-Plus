@@ -85,26 +85,26 @@ f Felwood>> Get the Felwood Flight Path |N|Talk to Mishellena - Talk to Mishelle
 T Speak to Nafien |QID|8462| |N|Talk to Nafien - Talk to Nafien - (64.8, 8.1)|
 R Travel to Winterspring via Timbermaw Hold |N|If you are not Unfriendly with Timbermaw Hold, Furbolgs will attack you - (65.3, 7.5)| |O|
 T It's a Secret to Everybody |QID|3908| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
-A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (31.3, 45.2)|
-A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - You may safely complete this quest as part of the quest chain for [The Videre Elixir] - (31.3, 45.2)|
-A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
+A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (31.3, 45.2)| |M|hardcore|
+A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - You may safely complete this quest as part of the quest chain for [The Videre Elixir] - (31.3, 45.2)| |M|speedrun|
+A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)| |M|speedrun|
 N Loot Moontouched Feathers on the ground - (32.8, 44.3) |QID|978|
-D Die and respawn |N|Talk to Spirit Healer|
+D Die and respawn |N|Talk to Spirit Healer| |M|speedrun|
 N Talk to Azzleby - Talk to Azzleby - (60.4, 37.9) |O| |C|Hunter|
 F Felwood >> Fly to Felwood |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)|
 t Attack mobs with it to learn [Bite (Rank 7)] |N|Kill Felpaw Ravager - Cast [Tame Beast] on a Felpaw Ravager to tame it - (62.2, 17.1)| |C|Hunter|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 t Attack mobs with it to learn [Claw (Rank 7)] |N|Kill Angerclaw Mauler - Abandon your current Felpaw Ravager - Cast [Tame Beast] on a Ironbeak Hunter or Angerclaw Mauler to tame it - (51.2, 29.6)| |C|Hunter|
 T The Wrong Stuff |QID|8421| |N|Talk to Impsy - Talk to Impsy - (41.5, 45.0)| |C|Warlock|
 A Trolls of a Feather |QID|8422| |N|Talk to Impsy - Talk to Impsy - (41.5, 45.0)| |C|Warlock|
-D Die and respawn |N|Talk to Spirit Healer - Head south to the slime pools and die at the arrow location - (40.8, 66.8)| |O|
-T Cleansing Felwood |QID|4101| |N|Talk to Arathandris Silversky - Talk to Arathandris Silversky - (54.1, 86.8)|
-N Talk to Arathandris Silversky - Talk to Arathandris Silversky - Select the option: "I need a Cenarion beacon." - Collect item 11511 (x1) - (54.1, 86.8)
+D Die and respawn |N|Talk to Spirit Healer - Head south to the slime pools and die at the arrow location - (40.8, 66.8)| |O| |M|speedrun|
+T Cleansing Felwood |QID|4101| |N|Talk to Arathandris Silversky - Talk to Arathandris Silversky - (54.1, 86.8)| |M|speedrun|
+N Talk to Arathandris Silversky - Talk to Arathandris Silversky - Select the option: "I need a Cenarion beacon." - Collect item 11511 (x1) - (54.1, 86.8) |M|speedrun|
 A Seeking Spiritual Aid |QID|5158| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)|
 A Felbound Ancients |QID|4441| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
 T Verifying the Corruption |QID|5156| |N|Talk to Taronn Redfeather - Talk to Taronn Redfeather - (50.9, 81.6)|
-T Cleansing Felwood |QID|4101| |N|Talk to Arathandris Silversky - Talk to Arathandris Silversky - (54.1, 86.8)|
-N Talk to Arathandris Silversky - Talk to Arathandris Silversky - Select the option: "I need a Cenarion beacon." - Collect item 11511 (x1) - (54.1, 86.8)
+T Cleansing Felwood |QID|4101| |N|Talk to Arathandris Silversky - Talk to Arathandris Silversky - (54.1, 86.8)| |M|hardcore|
+N Talk to Arathandris Silversky - Talk to Arathandris Silversky - Select the option: "I need a Cenarion beacon." - Collect item 11511 (x1) - (54.1, 86.8) |M|hardcore|
 H Hearthstone
 F Feathermoon>> Fly to Feathermoon |N|Talk to Caylais Moonfeather - Talk to Caylais Moonfeather - (36.3, 45.6)|
 N If you have completed Moontouched Wildkin, fly to Teldrassil now and turn it in, otherwise abaondon the quest. You will complete it later |O|

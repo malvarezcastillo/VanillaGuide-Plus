@@ -9,7 +9,7 @@ N 36-38 Stranglethorn Vale II |N|Converted from RestedXP guide|
 
 N Talk to Rickle Goldgrubber - Talk to Viznik or Rickle - [Karnitol's Satchel] - [Decrypted Letter] - [Letter of Commendation] - [Fizzle Brassbolts' Letter] - [Buzzard Wing] - (26.5, 76.6)
 N Talk to Rickle Goldgrubber - Talk to Viznik or Rickle - If you don't have one or other of the items, skip this step - (26.5, 76.6)
-N If you didn't have any [Elixir or Water Breathing] in your bank, try buying some from the Auction House. Skip this step if you can't find them. - Collect item 5996 (x1) - (26.6, 76.4) |C|!Warlock|
+N If you didn't have any [Elixir or Water Breathing] in your bank, try buying some from the Auction House. Skip this step if you can't find them. - Collect item 5996 (x1) - (26.6, 76.4) |C|!Warlock| |M|speedrun|
 h Stranglethorn Vale |N|Talk to Innkeeper Skindle - Talk to Innkeeper Skindle - (27.0, 77.3)|
 T The Rumormonger |QID|1115| |N|Talk to Krazek - Talk to Krazek upstairs on the top floor - (26.9, 77.2)|
 A Bloodscalp Ears |QID|189| |N|Talk to Kebok - Talk to Kebok up stairs on the top floor - (27.0, 77.1)|
@@ -71,22 +71,22 @@ N Kill Saltscale Murlocs. Loot them for their Encrusted Tail Fins - Only engage 
 G Grind until you are 26k xp away from level 38 |N|(25.5, 9.4)|
 G Grind until you are 53000/76100 xp into level 37 |N|(25.5, 9.4)| |O|
 G Grind until you are 57500/76100 xp into level 37 |N|(25.5, 9.4)| |O|
-D Die and respawn |N|Talk to Spirit Healer| |O|
-N (38.6, 4.4) |O|
-A Troll Witchery |QID|205| |N|Talk to Brother Nimetz - Talk to Brother Nimetz - (37.8, 3.6)|
-A Patrol Schedules |QID|330| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)|
-A Colonel Kurzen |QID|202| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+N (38.6, 4.4) |O| |M|speedrun|
+A Troll Witchery |QID|205| |N|Talk to Brother Nimetz - Talk to Brother Nimetz - (37.8, 3.6)| |M|speedrun|
+A Patrol Schedules |QID|330| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)| |M|speedrun|
+A Colonel Kurzen |QID|202| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)| |M|speedrun|
 N Talk to Corporal Bluth - Talk to Corporal Bluth - Restock on  [Razor Arrows] if needed - (38.0, 3.0) |C|Hunter|
-A Report to Doren |QID|331| |N|Talk to Corporal Sethman - Talk to Corporal Sethman - (37.7, 3.4)|
-T Report to Doren |QID|331| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)|
+A Report to Doren |QID|331| |N|Talk to Corporal Sethman - Talk to Corporal Sethman - (37.7, 3.4)| |M|speedrun|
+T Report to Doren |QID|331| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)| |M|speedrun|
 N (35.7, 10.8) |O|
 A Panther Mastery |QID|193| |N|Talk to Sir S. J. Erlgadin - Talk to Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)|
-N Travel to the Rebel Camp |O|
-A Troll Witchery |QID|205| |N|Talk to Brother Nimetz - Talk to Brother Nimetz - (37.8, 3.6)|
-A Patrol Schedules |QID|330| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)|
-A Colonel Kurzen |QID|202| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)|
-A Report to Doren |QID|331| |N|Talk to Corporal Sethman - Talk to Corporal Sethman - (37.7, 3.4)|
-T Report to Doren |QID|331| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)|
+N Travel to the Rebel Camp |O| |M|hardcore|
+A Troll Witchery |QID|205| |N|Talk to Brother Nimetz - Talk to Brother Nimetz - (37.8, 3.6)| |M|hardcore|
+A Patrol Schedules |QID|330| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)| |M|hardcore|
+A Colonel Kurzen |QID|202| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)| |M|hardcore|
+A Report to Doren |QID|331| |N|Talk to Corporal Sethman - Talk to Corporal Sethman - (37.7, 3.4)| |M|hardcore|
+T Report to Doren |QID|331| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)| |M|hardcore|
 N Cast Cast Teleport: Moonglade |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 H Hearthstone |O|

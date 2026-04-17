@@ -13,8 +13,8 @@ A Crossroads Conscription |QID|842| |N|Talk to Kargal Battlescar - Talk to Karga
 A Path of Defense |QID|1498| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|
 A Thun'grim Firegaze |QID|1502| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|
 A Call of Fire |QID|1524| |N|Talk to Kranal Fiss - Talk to Kranal - (55.9, 19.9)| |C|Shaman|
-N (52.3, 29.3) |O| |C|Warrior/Shaman|
-D Die and respawn |O| |C|Warrior/Shaman|
+N (52.3, 29.3) |O| |C|Warrior/Shaman| |M|hardcore|
+D Die and respawn |O| |C|Warrior/Shaman| |M|speedrun|
 A The Forgotten Pools |QID|870| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |C|Warrior/Shaman|
 A Plainstrider Menace |QID|844| |N|Talk to Sergra Darkthorn - Talk to Sergra - (52.2, 31.0)| |C|Warrior/Shaman|
 A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)| |C|Warrior/Shaman|
@@ -26,8 +26,8 @@ A Wharfmaster Dizzywig |QID|1492| |N|Talk to Apothecary Helbrim - Talk to Helbri
 N Collect Laden Mushrooms around The Forgotten Pools - Keep maximum distance from Kolkar as you loot the mushrooms. They are level 12-14 - The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it - Collect Fungal Spores (x4) |QID|848| |O| |C|Warrior/Shaman|
 N Dive underwater to the Bubble Fissure - Explore the waters of the Forgotten Pools - (45.1, 22.5) |QID|870| |C|Warrior/Shaman|
 N Collect Laden Mushrooms around The Forgotten Pools - Keep maximum distance from Kolkar in the area. They are level 12-14 - The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it - Collect Fungal Spores (x4) - (45.2, 23.3) |QID|848| |C|Warrior/Shaman|
-N (52.3, 29.3) |O| |C|Warrior/Shaman|
-D Die and respawn |O| |C|Warrior/Shaman|
+N (52.3, 29.3) |O| |C|Warrior/Shaman| |M|hardcore|
+D Die and respawn |O| |C|Warrior/Shaman| |M|speedrun|
 A Apothecary Zamah |QID|853| |N|Talk to Apothecary Helbrim - Talk to Helbrim - Wait for the RP to finish - This starts a 45-minute timed quest - (51.4, 30.1)| |C|Warrior/Shaman|
 N Talk to Jark - Talk to Barg - Buy one or more [Small Brown Pouches] from him - Small Brown Pouch (1) - (51.7, 29.9) |C|Warrior/Shaman|
 N You are on a timed quest, don't go afk. It will get turned in around 30 minutes after pick-up |O| |C|Warrior/Shaman|
@@ -105,8 +105,8 @@ N Kill Burning Blade Orcs. Loot them for their Collars and for a Lieutenant's In
 N Kill Venomtail Scorpids. Loot them for their Poison Sacs - Venomtail Poison Sac (4) |QID|813| |O| |C|Warrior/Shaman/Hunter|
 A Neeru Fireblade |QID|829| |N|Talk to Margoz - Talk to Margoz - (56.4, 20.0)|
 N Kill Dustwind Savages and Dustwind Storm Witches - Dustwind Savage (12) - Dustwind Storm Witch (8) - (54.0, 23.7) |QID|835|
-D Die and respawn |O|
-N (53.8, 27.7) |O|
+D Die and respawn |O| |M|speedrun|
+N (53.8, 27.7) |O| |M|hardcore|
 T Securing the Lines |QID|835| |N|Talk to Rezlak - Talk to Rezlak - (46.4, 22.9)|
 N Finish killing Venomtail Scorpids. Loot them for their Poison Sacs - Venomtail Poison Sac (4) - (38.7, 22.0) |QID|813| |C|Warrior/Shaman/Hunter|
 R Enter Orgrimmar |N|(49.0, 92.8)|
@@ -129,12 +129,12 @@ T Finding the Antidote |QID|813| |N|Talk to Kor'ghan - Talk to Kor'ghan - (47.2,
 t Train your class spells |N|Talk to Mirket - Talk to Mirket - (48.6, 47.0)| |C|Warlock|
 A Ak'Zeloth |QID|809| |N|Talk to Neeru Fireblade - Talk to Neeru - (49.5, 50.6)|
 A Ak'Zeloth |QID|809| |N|Talk to Neeru Fireblade - Talk to Neeru - (49.5, 50.6)|
-N (53.0, 48.8) |O| |C|!Warrior/!Shaman/!Hunter|
-D Die and respawn |N|(47.0, 17.6)| |O| |C|!Warrior/!Shaman/!Hunter|
-R Leave Orgrimmar |O| |C|!Warrior/!Shaman/!Hunter|
-N (53.0, 48.8) |O| |C|Warrior/Shaman/Hunter|
-D Die and respawn |N|(47.0, 17.6)| |O| |C|Warrior/Shaman/Hunter|
-R Leave Orgrimmar |O| |C|Warrior/Shaman/Hunter|
+N (53.0, 48.8) |O| |C|!Warrior/!Shaman/!Hunter| |M|speedrun|
+D Die and respawn |N|(47.0, 17.6)| |O| |C|!Warrior/!Shaman/!Hunter| |M|speedrun|
+R Leave Orgrimmar |O| |C|!Warrior/!Shaman/!Hunter| |M|hardcore|
+N (53.0, 48.8) |O| |C|Warrior/Shaman/Hunter| |M|speedrun|
+D Die and respawn |N|(47.0, 17.6)| |O| |C|Warrior/Shaman/Hunter| |M|speedrun|
+R Leave Orgrimmar |O| |C|Warrior/Shaman/Hunter| |M|hardcore|
 T Need for a Cure |QID|812| |N|Talk to Rhinag - Talk to Rhinag - (41.5, 18.6)| |C|Warrior/Shaman/Hunter|
 N Jump down into Thunder Ridge and kill Lightning Hides. Loot them for their Scales - Singed Scale (5) - (42.0, 24.3) |QID|1498| |C|Warrior|
 N Travel south alongside the river toward Far Watch Post - Kill Dreadmaw Crocolisks on the way. Loot them for Kron's Amulet - Skip and abandon this quest if it won't drop - Kron's Amulet (1) - (34.4, 44.5) |QID|816| |C|Warrior/Shaman/Hunter|

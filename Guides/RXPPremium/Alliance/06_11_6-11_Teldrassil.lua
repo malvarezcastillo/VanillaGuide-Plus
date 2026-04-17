@@ -78,14 +78,14 @@ N Loot the Fel Cones on the ground - They are usually located next to tree trunk
 N Kill Gnarlpine Mystics - If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn - Kill Gnarlpine Mystic (x7) |QID|2459| |O|
 C Use the [Gnarlpine Necklace] to loot Tallonkai's Jewel |QID|2459| |N|Kill Ferocitas the Dream Eater. Loot him for the [Gnarlpine Necklace]. Be careful as he can [Thrash] hitting you up to three times at once - Collect Tallonkai's Jewel (x1) - (69.4, 53.4)| |U|8049|
 N Kill Gnarlpine Mystics - If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn - Kill Gnarlpine Mystic (x7) - (68.4, 52.1) |QID|2459|
-D Die and respawn |N|Talk to Spirit Healer| |O|
-N Talk to Brannol Eaglemoon - Talk to Brannol Eaglemoon - Vendor and repair if necessary - (56.2, 60.2)
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+N Talk to Brannol Eaglemoon - Talk to Brannol Eaglemoon - Vendor and repair if necessary - (56.2, 60.2) |M|speedrun|
 N Loot the Fel Cones on the ground - They are usually located next to tree trunks - Collect Fel Cone (x3) - (59.0, 56.1) |QID|489|
 T Seek Redemption! |QID|489| |N|Talk to Zenn Foulhoof - Talk to Zenn Foulhoof - (60.4, 56.4)|
 N Kill Webwood Venomfang - Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - You need these for a later quest - Collect Small Spider Leg (x7) |O|
 N (54.7, 52.8) |O|
 N Kill Lord Melenas. Loot him for his Head - Lord Melenas may be located in many different spawn locations throughout Fel Rock - Collect Melenas' Head (x1) - (51.2, 50.6) |QID|932|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 T Crown of the Earth |QID|929| |N|Talk to Corithras Moonrage - Talk to Corithras Moonrage - (56.1, 61.7)| |C|!Druid|
 A Crown of the Earth |QID|933| |N|Talk to Corithras Moonrage - Talk to Corithras Moonrage - (56.1, 61.7)|
 N Kill Webwood Venomfang - Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - You need these for a later quest - Collect Small Spider Leg (x7) |O|
@@ -94,8 +94,8 @@ A The Glowing Fruit |QID|930| |N|Click the Strange Fruited Plant - (42.6, 76.2)|
 N (42.4, 67.1) |O|
 C Use the [Tourmaline Phial] at the Pools of Arlithrien moonwell |QID|933| |N|(42.4, 67.1)| |U|5621|
 N Kill Webwood Venomfang - Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - Collect Small Spider Leg (x7) - (44.7, 70.5)
-N (56.1, 61.7) |O|
-D Die and respawn |N|(43.5, 68.4)| |O|
+N (56.1, 61.7) |O| |M|hardcore|
+D Die and respawn |N|(43.5, 68.4)| |O| |M|speedrun|
 A Crown of the Earth |QID|7383| |N|Talk to Corithras Moonrage - Talk to Corithras Moonrage - (56.1, 61.7)|
 T Recipe of the Kaldorei |QID|4161| |N|Talk to Zarrin - Talk to Zarrin - (57.1, 61.3)|
 t Train [First Aid] |N|Talk to Byancie - Talk to Byancie - (55.3, 56.8)| |C|Warrior/Rogue|
@@ -131,9 +131,9 @@ G Grind to level 10 |C|!Hunter/!Druid|
 N Finish off collecting 7 Small Spider Legs - Collect Small Spider Leg (x7) - (38.6, 58.0)
 G Grind to level 10 |N|If you're still behind on xp do the harpy quest north - (38.3, 34.4)| |C|Druid|
 G Grind to level 10 |C|!Druid|
-D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Rogue|
-N Kill Bloodfeather Harpies on the way to Darnassus. Loot them for their Belts. You don't have to complete this objective now - Collect Bloodfeather Belt (x6) |QID|937| |O| |C|!Rogue|
-N (82.0, 36.7) |O| |C|!Rogue|
+D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Rogue| |M|speedrun|
+N Kill Bloodfeather Harpies on the way to Darnassus. Loot them for their Belts. You don't have to complete this objective now - Collect Bloodfeather Belt (x6) |QID|937| |O| |C|!Rogue| |M|hardcore|
+N (82.0, 36.7) |O| |C|!Rogue| |M|hardcore|
 A Vorlus Vilehoof |QID|1683| |N|Talk to Elanaria - Talk to Elanaria - (57.3, 34.6)| |C|Warrior|
 N Talk to Innkeeper Saelienne - Talk to Innkeeper Saelienne - (67.4, 15.7) |C|!Rogue/!Hunter/!Warrior|
 A Tumors |QID|923| |N|Talk to Rellian Greenspyre - Talk to Rellian Greenspyre - (38.2, 21.6)| |C|!Rogue|
@@ -159,7 +159,7 @@ T The Moss-twined Heart |QID|927| |N|Talk to Denalan - Talk to Denalan - (60.9, 
 T Planting the Heart |QID|941| |N|Click on Denalans Planter - (60.8, 68.6)|
 C Use the [Taming Rod] on a Nightsaber Stalker |QID|6101| |N|You must right click your Pet Frame and Dismiss your pet before you can tame another one - Tame a Nightsaber Stalker - (62.6, 72.2)| |U|15922| |C|Hunter|
 G Grind to level 10
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 t Train your class spells |N|Talk to Laurna Morninglight - Talk to Laurna Morninglight - (55.6, 56.7)| |C|Priest|
 t Train your class spells |N|Talk to Kyra Windblade - Talk to Kyra Windblade - (56.2, 59.2)| |C|Warrior|
 t Train [Pick Pocket] as well which is needed for your level 10 Rogue quest |N|Talk to Jannok Breezesong - Talk to Jannok Breezesong - (56.4, 60.1)| |C|Rogue|
@@ -174,8 +174,8 @@ A Elanaria |QID|1684| |N|Talk to Moon Priestess Amara - Talk to Moon Priestess A
 A The Apple Falls |QID|2241| |N|Talk to Jannok Breezesong - Talk to Jannok Breezesong - (56.4, 60.1)| |C|Rogue|
 N Talk to Shalomon - Talk to Shalomon - Buy a [Walking Stick] - You will equip this later. Skip this step if you happened to find a different staff - Walking Stick (1) - (56.3, 59.5) |C|Hunter|
 T The Road to Darnassus |QID|487| |N|Talk to Moon Priestess Amara - Talk to Moon Priestess Amara - Moon Priestess Amara patrols the road west of Dolanaar - (55.8, 58.3)| |C|!Druid|
-D Die and respawn |N|Talk to Spirit Healer - (44.0, 54.6)| |O| |C|Rogue|
-N (82.0, 36.7) |O| |C|Rogue|
+D Die and respawn |N|Talk to Spirit Healer - (44.0, 54.6)| |O| |C|Rogue| |M|speedrun|
+N (82.0, 36.7) |O| |C|Rogue| |M|hardcore|
 A Tumors |QID|923| |N|Talk to Rellian Greenspyre - Talk to Rellian Greenspyre - (38.2, 21.6)| |C|Rogue|
 A Grove of the Ancients |QID|952| |N|Talk to Arch Druid Fandral Staghelm - Talk to Arch Druid Fandral Staghelm atop the Tree - (35.0, 9.0)| |C|Rogue|
 A Destiny Calls |QID|2242| |N|Talk to Syurna - Talk to Syurna - (31.2, 17.7)| |C|Rogue|
@@ -191,15 +191,15 @@ N Kill Bloodfeather Harpies. Loot them for their Belts - Bloodfeather Matriarchs
 A Mist |QID|938| |N|Talk to Mist - Talk to Mist - This will start an escort quest - Skip this quest if the NPC is not there - (31.5, 31.6)|
 T Mist |QID|938| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - Keep in mind this is a timed quest, you need to turn it in within 10 minutes of accepting - (38.3, 34.4)|
 A Teldrassil |QID|940| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - (38.3, 34.4)|
-D Die and respawn |N|Talk to Spirit Healer| |O|
-R Travel to Darnassus |N|(82.0, 36.7)| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+R Travel to Darnassus |N|(82.0, 36.7)| |O| |M|hardcore|
 A Nessa Shadowsong |QID|6344| |N|Talk to Mydrannul - Talk to Mydrannul - (70.7, 45.4)|
-R Travel to Darnassus |N|(82.0, 36.7)| |O|
+R Travel to Darnassus |N|(82.0, 36.7)| |O| |M|speedrun|
 A Vorlus Vilehoof |QID|1683| |N|Talk to Elanaria - Talk to Elanaria - (57.3, 34.6)| |C|Warrior|
 N (48.7, 62.2) |O| |C|Warrior|
 N Kill Vorlus Vilehoof. Loot him for his Horn - Collect Horn of Vorlus (x1) - (47.2, 63.7) |QID|1683| |C|Warrior|
-D Die and respawn |N|(43.6, 54.3)| |O| |C|Warrior|
-N (82.0, 36.7) |O| |C|Warrior|
+D Die and respawn |N|(43.6, 54.3)| |O| |C|Warrior| |M|speedrun|
+N (82.0, 36.7) |O| |C|Warrior| |M|hardcore|
 T Vorlus Vilehoof |QID|1683| |N|Talk to Elanaria - Talk to Elanaria - (57.3, 34.6)| |C|Warrior|
 A Body and Heart |QID|6001| |N|Talk to Mathrengyl Bearwalker - Talk to Mathrengyl Bearwalker on the middle level - (35.4, 8.4)| |C|Druid|
 A Grove of the Ancients |QID|952| |N|Talk to Arch Druid Fandral Staghelm - Talk to Arch Druid Fandral Staghelm - (34.8, 9.3)|

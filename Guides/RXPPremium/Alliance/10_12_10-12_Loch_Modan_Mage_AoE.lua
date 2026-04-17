@@ -48,9 +48,9 @@ N Buy 6 slots until your bag containers are full. Also buy 1 Flint and Tinder, a
 G Grind to 12
 N Check Aldren for a Wise Man's Belt. Buy it if you can afford it. Save it for later - (64.8, 66.0) |O| |R|Gnome|
 A Excavation Progress Report |QID|298| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)| |R|Gnome|
-D Die and respawn |N|(68.1, 63.0)| |R|Gnome|
-A Report to Ironforge |QID|301| |N|Talk to Jern Hornhelm - Run back to Thelsamar. Go inside the building - Talk to Brock Stoneseeker - Talk to Jern Hornhelm - (37.2, 46.9)| |R|Gnome|
-A Report to Ironforge |QID|301| |N|Talk to Jern Hornhelm - Go inside the building - Talk to Brock Stoneseeker - Talk to Jern Hornhelm - (37.2, 46.9)| |R|Gnome|
+D Die and respawn |N|(68.1, 63.0)| |R|Gnome| |M|speedrun|
+A Report to Ironforge |QID|301| |N|Talk to Jern Hornhelm - Run back to Thelsamar. Go inside the building - Talk to Brock Stoneseeker - Talk to Jern Hornhelm - (37.2, 46.9)| |R|Gnome| |M|hardcore|
+A Report to Ironforge |QID|301| |N|Talk to Jern Hornhelm - Go inside the building - Talk to Brock Stoneseeker - Talk to Jern Hornhelm - (37.2, 46.9)| |R|Gnome| |M|speedrun|
 F Ironforge >> Fly to Ironforge |N|Talk to Thorgrum Borrelson - Talk to Thorgrum Borrelson - (33.9, 51.0)|
 t Train your class spells |N|(27.1, 8.6)| |R|Human|
 N Go toward the staircase behind the paladin trainers at the back of the room. Go about halfway up, then move yourself to the edge of the stairs until it looks like you're floating. Logout, then back in - Logout skip to the front of Ironforge |O| |R|Human|
@@ -62,13 +62,13 @@ F Thelsamar >> Fly to Thelsamar |QID|6392| |N|Talk to Gryth Thurden - Talk to Gr
 T Powder to Ironband |QID|302| |N|Talk to Jern Hornhelm - Go inside the building - Talk to Brock Stoneseeker - Talk to Jern Hornhelm - (37.2, 46.9)| |R|Gnome|
 H Hearthstone |R|Gnome|
 t Train your class spells |N|(47.5, 52.1)| |R|Gnome|
-N (59.4, 42.9) |O|
-N Open this link and follow it on another screen. - Do the Deathless Dun Morogh -> Wetlands skip - Avoid the Crocodiles when crossing the sea - (59.5, 42.8)
-N (30.3, 37.5)
-N (30.9, 33.1)
-N (32.4, 29.1)
-D Die and respawn |N|(33.0, 27.2)|
-N (12.7, 46.7) |O|
+N (59.4, 42.9) |O| |M|hardcore|
+N Open this link and follow it on another screen. - Do the Deathless Dun Morogh -> Wetlands skip - Avoid the Crocodiles when crossing the sea - (59.5, 42.8) |M|hardcore|
+N (30.3, 37.5) |M|speedrun|
+N (30.9, 33.1) |M|speedrun|
+N (32.4, 29.1) |M|speedrun|
+D Die and respawn |N|(33.0, 27.2)| |M|speedrun|
+N (12.7, 46.7) |O| |M|speedrun|
 N If you have 8s, Check for Bronze Tube from Neal Allen and buy it if it's there - (10.4, 56.0)
 N Check Dewin for Heal Potions, buy down to 1s - (8.1, 56.3)
 f Menethil Harbor >> Get the Menethil Harbor flight path |N|(9.5, 59.7)|

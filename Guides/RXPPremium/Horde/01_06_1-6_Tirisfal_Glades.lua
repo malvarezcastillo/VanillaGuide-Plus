@@ -57,19 +57,19 @@ N Kill Young Night Web Spiders - (29.9, 57.3) |QID|380|
 N Kill Young Night Web Spiders close to the cave entrance - Kill Young Night Web Spider (10) - (28.2, 58.3) |QID|380|
 N (26.8, 59.4) |O|
 N Kill Night Web Spiders inside the cave - Kill Night Web Spider (x8) - (24.7, 59.5) |QID|380|
-D Die and respawn |N|Talk to Spirit Healer| |O|
-D Die and respawn |N|Talk to Spirit Healer| |O|
-N Cast Cast [Summon Imp] |O| |C|Warlock|
-N Alternatively, run back to Deathknell - (31.1, 64.9) |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+N Cast Cast [Summon Imp] |O| |C|Warlock| |M|speedrun|
+N Alternatively, run back to Deathknell - (31.1, 64.9) |O| |M|hardcore|
 T Scavenging Deathknell |QID|3902| |N|Talk to Deathguard Saltain - Talk to Saltain - (31.6, 65.6)|
 A The Scarlet Crusade |QID|381| |N|Talk to Executor Arren - Talk to Arren - (32.1, 66.0)|
 N Talk to Archibald Kava - Talk to Archibald - Vendor Trash - (32.4, 65.7) |C|Rogue/Warrior|
 N Talk to Joshua Kien - Talk to Joshua - Buy [Refreshing Spring Water] from him - Collect item 159 (x15) - Vendor Trash - (32.3, 65.4) |C|Warlock/Mage/Priest|
 N Kill Scarlet Initiates and Scarlet Converts. Loot them for their Scarlet Armbands - Don't kill Meven Korgal yet - Collect Scarlet Armband (12) - (36.1, 68.7) |QID|381|
 N Kill Samuel Fipps - Kill Samuel. Loot him for Samuel's Remains - Collect Samuel's Remains - (36.7, 61.7)
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 N Click Marla's Grave on the ground - Collect Samuel's Remains Buried (1) - (31.2, 65.1) |QID|6395|
-N Cast Cast [Summon Imp] |O| |C|Warlock|
+N Cast Cast [Summon Imp] |O| |C|Warlock| |M|speedrun|
 T Marla's Last Wish |QID|6395| |N|Talk to Novice Elreth - (31.4, 66.2)|
 A The Red Messenger |QID|382| |N|Talk to Executor Arren - Talk to Arren - (32.1, 66.0)|
 N Talk to Archibald Kava - Talk to Archibald - Vendor Trash - (32.4, 65.7)

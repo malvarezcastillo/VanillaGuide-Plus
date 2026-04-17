@@ -29,9 +29,9 @@ N Kill any Theramore Infiltrator you encounter |QID|1201| |O|
 N Kill all Darkmist Spiders. Loot them for their Eyes - (35.9, 20.7) |QID|1206|
 N Finish killing Theramore Infiltrators - (42.1, 26.0) |QID|1201|
 N Kill Darkfang Spiders. Loot them for their Venom Sacs - Bloodfen Raptors share spawns with Darkfang spiders, so kill them too if needed - (37.8, 27.1) |QID|1322|
-A The Theramore Docks |QID|1202| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.2, 30.7)|
-T The Lost Report |QID|1238| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.2, 30.7)|
-T The Lost Report |QID|1238| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.2, 30.7)|
+A The Theramore Docks |QID|1202| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.2, 30.7)| |M|speedrun|
+T The Lost Report |QID|1238| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.2, 30.7)| |M|speedrun|
+T The Lost Report |QID|1238| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.2, 30.7)| |M|hardcore|
 A The Black Shield |QID|1323| |N|Talk to Do'gol - Talk to Do'gol - (36.5, 30.8)|
 A The Black Shield |QID|1276| |N|Talk to Krog - Talk to Krog - (36.5, 31.8)|
 A The Black Shield |QID|1276| |N|Talk to Krog - Talk to Krog - (36.5, 31.8)|
@@ -39,19 +39,19 @@ T Hungry! |QID|1177| |N|Talk to Mudcrush Durtfeet - Talk to Mudcrush - (35.2, 38
 A The Severed Head |QID|1239| |N|Click the Loose Dirt West of "Swamp Eye" Jarl's house - (55.4, 25.9)|
 T Jarl Needs Eyes |QID|1206| |N|Talk to "Swamp Eye" Jarl - Talk to "Swamp Eye" Jarl - (55.4, 26.3)|
 T Jarl Needs a Blade |QID|1203| |N|Talk to "Swamp Eye" Jarl - Talk to "Swamp Eye" Jarl - (55.4, 26.3)| |O|
-G Grind Murlocs until you are at least 71300+/76100xp |N|(57.2, 21.0)|
-G Grind Murlocs until you are at least 74000+/76100xp |N|(57.2, 21.0)|
-G Grind Murlocs until you are at least 66500+/76100xp |N|(57.2, 21.0)|
-G Grind Murlocs until you are at least 71900+/76100xp |N|(57.2, 21.0)|
+G Grind Murlocs until you are at least 71300+/76100xp |N|(57.2, 21.0)| |M|speedrun|
+G Grind Murlocs until you are at least 74000+/76100xp |N|(57.2, 21.0)| |M|hardcore|
+G Grind Murlocs until you are at least 66500+/76100xp |N|(57.2, 21.0)| |M|speedrun|
+G Grind Murlocs until you are at least 71900+/76100xp |N|(57.2, 21.0)| |M|hardcore|
 N Grind Murlocs until your hearthstone cooldown is <5 minutes - (57.2, 21.0)
 G Grind Murlocs until you are at least 80575+/85700xp |N|(57.2, 21.0)|
-N Swim along the eastern side of Theramore. Open the Captain's Footlocker for the Captain's Documents - Be careful of the Coral Shark (level 47 elite) that patrols around the Footlocker - Be VERY careful of Theramore Guards! They have a huge agro range - (71.5, 51.3) |QID|1202|
-D Die and respawn |N|(69.6, 50.0)| |O|
-D Die and respawn |O|
-T The Theramore Docks |QID|1202| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)|
-T The Theramore Docks |QID|1202| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)|
-A The Troll Witchdoctor |QID|1240| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)|
-A The Troll Witchdoctor |QID|1240| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)|
+N Swim along the eastern side of Theramore. Open the Captain's Footlocker for the Captain's Documents - Be careful of the Coral Shark (level 47 elite) that patrols around the Footlocker - Be VERY careful of Theramore Guards! They have a huge agro range - (71.5, 51.3) |QID|1202| |M|speedrun|
+D Die and respawn |N|(69.6, 50.0)| |O| |M|speedrun|
+D Die and respawn |O| |M|speedrun|
+T The Theramore Docks |QID|1202| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)| |M|speedrun|
+T The Theramore Docks |QID|1202| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)| |M|speedrun|
+A The Troll Witchdoctor |QID|1240| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)| |M|speedrun|
+A The Troll Witchdoctor |QID|1240| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)| |M|hardcore|
 R Camp Taurajo >>Fly to Camp Taurajo |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O|
 N (46.3, 90.3) |O|
 A An Unholy Alliance |QID|6521| |N|Talk to Varimathras - Have somebody in your group share the following quests if possible. Alternatively, go to Undercity to pick them up yourself| |O|

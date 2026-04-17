@@ -8,9 +8,9 @@ return [[
 N 44-48 Feralas |N|Converted from RestedXP guide|
 
 N There is A LOT of grinding required in this segment, you can substitute some of that for Zul'Farrak/Uldaman/Maraudon runs |O|
-F Thalanaar >> Fly to Thalanaar
-F Feathermoon>> Fly to Feathermoon
-N It is always faster to swim across the water than waiting for the boat - (30.2, 43.3) |O|
+F Thalanaar >> Fly to Thalanaar |M|hardcore|
+F Feathermoon>> Fly to Feathermoon |M|speedrun|
+N It is always faster to swim across the water than waiting for the boat - (30.2, 43.3) |O| |M|hardcore|
 A The Mark of Quality |QID|2821| |N|Talk to Pratt McGrubben - Talk to Pratt McGrubben - (30.6, 42.7)|
 N Talk to Antarius - Talk to Antarius - (31.5, 43.1) |O| |C|Hunter|
 t Attack mobs with it to learn [Bite (Rank 6)] |N|Kill Longtooth Runner - Cast [Tame Beast] on a Longtooth Runner to tame it - (29.8, 49.2)| |C|Hunter|
@@ -27,7 +27,7 @@ N Kill Hatecrest Screamers, Hatecrest Wave Riders, Hatecrest Warriors and Hatecr
 A Against Lord Shalzaru |QID|2870| |N|Talk to Latronicus Moonspear - Talk to Latronicus Moonspear - (30.4, 46.2)|
 N (25.5, 64.9) |O|
 N Kill Lord Shalzaru. Loot him for the Mysterious Relic - (28.5, 70.6) |QID|2870|
-N Kill Hatecrest Myrmidon - Do loops around the cave grinding Nagas until you get the [OOX-22/FE Distress Beacon] - Don't start the quest for this yet - Collect item 8705 (x1)
+N Kill Hatecrest Myrmidon - Do loops around the cave grinding Nagas until you get the [OOX-22/FE Distress Beacon] - Don't start the quest for this yet - Collect item 8705 (x1) |M|speedrun|
 G Do loops around the cave, grinding Nagas to level 45+87500xp |N|Kill Hatecrest Myrmidon - (27.6, 69.0)|
 N (38.7, 75.1) |O|
 A Boat Wreckage |QID|4127| |N|Click on the Wrecked Row Boat in the water - (45.4, 65.0)|

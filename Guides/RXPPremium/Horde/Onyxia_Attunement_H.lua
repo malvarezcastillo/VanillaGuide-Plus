@@ -30,7 +30,7 @@ R Travel to Western Plaguelands |O|
 A Emberstrife |QID|6570| |N|Talk to Myranda the Hag - Talk to Myranda the Hag - (50.8, 77.8)|
 R Travel to Dustwallow Marsh |O|
 N (54.4, 84.2) |O|
-N Cast Be careful! Make sure you use the [Amulet of Draconic Subversion] BEFORE you approach Emberstrife or he might KILL you |U|16787| |O|
+N Cast Be careful! Make sure you use the [Amulet of Draconic Subversion] BEFORE you approach Emberstrife or he might KILL you |U|16787| |O| |M|hardcore|
 A The Test of Skulls, Chronalis |QID|6584| |N|Talk to Emberstrife - Talk to Emberstrife - (56.7, 87.6)| |U|16787|
 N Kill Scryer in Winterspring - Kill Somnus in Swamp of Sorrows - Kill Chronalis in Tanaris - Loot them for their Skulls - Their locations are marked on the map. It is recommended to do this with at least 5 players - The Skull of Scryer 1/1 - The Skull of Somnus 1/1 - The Skull of Chronalis 1/1 - (52.9, 55.8) |QID|6584|
 R Travel to Winterspring |O|
@@ -43,14 +43,14 @@ N (61.5, 50.5) |O|
 N Kill Chronalis. Loot him for his Skull - Be careful of his [Sand Breath] ability (AOE spray in front of him) - The Skull of Chronalis 1/1 - (64.8, 50.5) |QID|6584|
 R Travel to Dustwallow Marsh |O|
 N (54.4, 84.2) |O|
-N Cast Be careful! Make sure you use the [Amulet of Draconic Subversion] BEFORE you approach Emberstrife or he might KILL you |U|16787| |O|
+N Cast Be careful! Make sure you use the [Amulet of Draconic Subversion] BEFORE you approach Emberstrife or he might KILL you |U|16787| |O| |M|hardcore|
 A The Test of Skulls, Axtroz |QID|6585| |N|Talk to Emberstrife - Talk to Emberstrife - (56.7, 87.6)| |U|16787|
 R Travel to Wetlands |O|
 N (75.4, 46.8) |O|
 N Kill Axtroz. Loot him for his Skull - Be careful of his [Flame Breath] ability (AOE spray in front of him) - The Skull of Axtroz 1/1 - (83.5, 48.8) |QID|6585|
 R Travel to Dustwallow Marsh |O|
 N (54.4, 84.2) |O|
-N Cast Be careful! Make sure you use the [Amulet of Draconic Subversion] BEFORE you approach Emberstrife or he might KILL you |U|16787| |O|
+N Cast Be careful! Make sure you use the [Amulet of Draconic Subversion] BEFORE you approach Emberstrife or he might KILL you |U|16787| |O| |M|hardcore|
 A Ascension... |QID|6601| |N|Talk to Emberstrife - Talk to Emberstrife - (56.7, 87.6)| |U|16787|
 R Travel to Desolace |O|
 A Blood of the Black Dragon Champion |QID|6602| |N|Talk to Rexxar - Rexxar patrols North to South through Desolace. His patrol path is marked on the map. Follow the waypoint arrow to ensure you cover his entire patrol path - He despawns once he reaches The Twin Colossals in Feralas. After a 5 minute timer he respawns at the Stonetalon/Desolace border - (55.5, 0.5)|

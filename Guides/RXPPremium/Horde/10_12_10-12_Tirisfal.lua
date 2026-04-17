@@ -42,8 +42,8 @@ N Loot the Pumpkins found in the field. - Tirisfal Pumpkin (10) - (36.6, 50.1) |
 N Kill Scarlet Warriors. - Scarlet Warrior (10) - (31.8, 51.4) |QID|427| |O|
 N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
 N Kill any Darkhound you see. Loot them for their Blood - Darkhound Blood (5) - (50.4, 49.5) |QID|367| |O|
-D Die and respawn |O|
-N (58.2, 51.4) |O|
+D Die and respawn |O| |M|speedrun|
+N (58.2, 51.4) |O| |M|hardcore|
 A The Mills Overrun |QID|426| |N|Talk to Deathguard Dillinger - Talk to Dillinger - (58.2, 51.4)| |O|
 A The Mills Overrun |QID|426| |N|Talk to Deathguard Dillinger - Talk to Dillinger - (58.2, 51.4)| |O|
 A A New Plague |QID|368| |N|Talk to Apothecary Johaan - Talk to Johaan - (59.5, 52.4)| |O|
@@ -100,7 +100,7 @@ N Kill Maggot Eye. Loot him for his Paw - Maggot Eye's Paw (1) - (58.7, 30.8) |Q
 N Kill Murlocs. Loot them for their Scales - Vile Fin Scale (5) - (59.5, 27.9) |QID|368| |O|
 N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
 N Kill Mongrels and Graverobbers. Loot them for their Ichor - Rot Hide Mongrel (5) - Rot Hide Graverobber (8) - Embalming Ichor (8) - (55.2, 42.5) |QID|358| |O|
-D Die and respawn |O|
+D Die and respawn |O| |M|speedrun|
 T The Mills Overrun |QID|426| |N|Talk to Deathguard Dillinger - Talk to Dillinger - (58.2, 51.4)| |O|
 A A New Plague |QID|369| |N|Talk to Apothecary Johaan - Talk to Johaan - (59.5, 52.4)| |O|
 A A New Plague |QID|369| |N|Talk to Apothecary Johaan - Talk to Johaan - (59.5, 52.4)| |O|
@@ -160,7 +160,7 @@ N Loot the Agamand Weapon Racks on the ground - Agamand Family Axe (1) - Agamand
 N Kill Wailing Ancestors and Rotting Ancestors - Be careful! The mobs in this crypt respawn dynamically! - Wailing Ancestor (8) - Rotting Ancestor (8) - (51.9, 26.9) |QID|408| |C|Warrior|
 N Loot the Agamand Weapon Racks on the ground - Agamand Family Axe (1) - Agamand Family Dagger (1) - Agamand Family Mace (1) - Agamand Family Sword (1) - (52.7, 25.9) |QID|1821| |C|Warrior|
 N (51.7, 25.7)
-D Die and respawn |O| |C|Warrior|
+D Die and respawn |O| |C|Warrior| |M|speedrun|
 T The Family Crypt |QID|408| |N|Talk to Magistrate Sevren - Talk to Sevren - (61.3, 50.8)| |C|Warrior|
 T Agamand Heirlooms |QID|1821| |N|Talk to Coleman Farthing - Talk to Coleman inside the inn - (61.7, 52.3)| |C|Warrior|
 T Heirloom Weapon |QID|1822| |N|Talk to Coleman Farthing - Talk to Coleman inside the inn - (61.7, 52.3)| |C|Warrior|

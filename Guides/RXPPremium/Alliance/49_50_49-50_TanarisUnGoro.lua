@@ -102,8 +102,8 @@ N Kill dinos as you quest - This step is going to be finished later, don't go ou
 N Kill level 48-50 Lashers in northeastern Un'goro - (67.0, 28.0) |QID|4141| |O|
 N Finish off Muigin and Larion - (69.5, 31.0) |QID|4141|
 R Un'Goro >> Get the Un'Goro Crater Flight Path |N|Talk to Gryfe - Talk to Gryfe - Fly or Hearth to Gadgetzan. Make sure you have the Flight Path before you Hearth - (45.2, 5.8)| |C|Warrior/Rogue/Paladin/Druid|
-R Hearthstone |N|Alternatively you can run to Tanaris, die on purpose and respawn at Gadgetzan| |C|!Warrior/!Rogue/!Paladin/!Druid|
-R Hearthstone |C|!Warrior/!Rogue/!Paladin/!Druid|
+R Hearthstone |N|Alternatively you can run to Tanaris, die on purpose and respawn at Gadgetzan| |C|!Warrior/!Rogue/!Paladin/!Druid| |M|speedrun|
+R Hearthstone |C|!Warrior/!Rogue/!Paladin/!Druid| |M|hardcore|
 N Talk to Gimblethorn - Talk to Gimblethorn - [Carefully Folded Note] (If you have it) - [Gorilla Fangs] (If you have any) - [Fool's Stout Report] - [Pupellyverbos Port] - [Atal'ai Tablet Fragment] - (52.3, 28.9)
 N Talk to Gimblethorn - Talk to Gimblethorn - [Torwa's Pouch] - [Un'Goro Soil] - [Linken's Training Sword] - (52.3, 28.9)
 A In Good Taste |QID|2606| |N|Talk to Marin Noggenfogger - Talk to Marin Noggenfogger - (51.8, 28.7)|

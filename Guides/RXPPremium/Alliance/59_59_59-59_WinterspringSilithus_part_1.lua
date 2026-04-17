@@ -57,18 +57,18 @@ T Seed of Life |QID|7066| |N|Talk to Keeper Remulos - Talk to the Keeper Remulos
 A Wasteland |QID|1124| |N|Talk to Rabine Saturna - Talk to Rabine Saturna - (51.7, 45.1)|
 A A Reliquary of Purity |QID|5527| |N|Talk to Rabine Saturna - Talk to Rabine Saturna - Skip this step if the Dire Maul dialogue is not available - (51.7, 45.1)|
 f Moonglade >> Get the Moonglade Flight path |N|Talk to Sindrayl - Talk to Sindrayl - (48.1, 67.3)| |O| |C|!Druid|
-F Talonbranch >> Fly to Felwood |N|Talk to Sindrayl - Talk to Sindrayl - (48.1, 67.3)|
-D Die and respawn |N|Talk to Spirit Healer - Head back into the Furbolg cave - Open your Reputation pane and mark "At War" with Timbermaw Hold - Once the General chat changes to Felwood, die to the Furbolgs intentionally - (49.4, 31.0)|
+F Talonbranch >> Fly to Felwood |N|Talk to Sindrayl - Talk to Sindrayl - (48.1, 67.3)| |M|hardcore|
+D Die and respawn |N|Talk to Spirit Healer - Head back into the Furbolg cave - Open your Reputation pane and mark "At War" with Timbermaw Hold - Once the General chat changes to Felwood, die to the Furbolgs intentionally - (49.4, 31.0)| |M|speedrun|
 T Trolls of a Feather |QID|8422| |N|Talk to Impsy - Talk to Impsy - (41.5, 45.0)| |C|Warlock|
-D Die and respawn |N|Talk to Spirit Healer - Continue south to the slime pond. Ensure you are at the arrow location - (40.8, 66.8)|
+D Die and respawn |N|Talk to Spirit Healer - Continue south to the slime pond. Ensure you are at the arrow location - (40.8, 66.8)| |M|speedrun|
 T Blood of Morphaz |QID|8257| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)| |C|Priest|
 T A Final Blow |QID|5242| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)|
 T The Remains of Trey Lightforge |QID|5385| |N|Talk to Jessir Moonbow - Talk to Jessir Moonbow - (51.3, 82.0)|
 T Words of the High Chief |QID|5128| |N|Talk to Kelek Skykeeper - Talk to Kelek Skykeeper - (51.1, 81.8)|
-A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
-A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
+A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|speedrun|
+A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|hardcore|
 N Cast Look for a Corrupted Songflower. Click it to cleanse it. Click the Cleansed Songflower to receive the hour-long [Songflower Serenade] buff - Their locations have been marked on your map. Don't go very far out of your way to find one - (55.8, 10.4) |O|
-D Die and respawn |N|Talk to Spirit Healer - Pull a mob from Felwood into Ashenvale to deathskip to Astranaar - Skip this step if you have the [Songflower Serenade] buff| |O|
+D Die and respawn |N|Talk to Spirit Healer - Pull a mob from Felwood into Ashenvale to deathskip to Astranaar - Skip this step if you have the [Songflower Serenade] buff| |O| |M|speedrun|
 F Azshara >> Fly to Azshara |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)| |O| |C|Hunter/Priest/Mage|
 T The Green Drake |QID|8232| |N|Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6)| |C|Hunter|
 T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - This will teleport you to the top of the mountain - (28.1, 50.1)| |O| |C|Mage|
@@ -81,28 +81,28 @@ F Tanaris >> Fly to Tanaris |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48
 A Pawn Captures Queen |QID|4507| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|
 C Use [Umi's Mechanical Yeti] on Sprinkle |QID|5163| |N|Talk to Sprinkle - (51.1, 26.9)| |U|12928|
 A Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
-N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O|
-N (69.0, 41.6) |O|
-N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |O|
-N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169|
-N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O|
+N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O| |M|speedrun|
+N (69.0, 41.6) |O| |M|speedrun|
+N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |O| |M|speedrun|
+N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169| |M|speedrun|
+N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O| |M|hardcore|
 T The God Hakkar |QID|3528| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)| |O|
-N (69.0, 41.6) |O|
-N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |O|
-N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169|
+N (69.0, 41.6) |O| |M|hardcore|
+N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |O| |M|hardcore|
+N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169| |M|hardcore|
 F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)|
-A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
-A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
-A It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
-A It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
+A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |M|speedrun|
+A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |M|hardcore|
+A It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
+A It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
 C Use [Umi's Mechanical Yeti] on Quixxil |QID|5163| |N|Talk to Quixxil - (43.7, 9.4)| |U|12928|
 N Kill Tar Beasts, Tar Creepers, Tar Lurkers and Tar Lords. Loot them for their Super Sticky Tar - (46.2, 19.6) |QID|4504|
-N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure someone is always ready to use the [Silver Totem of Aquementas] |U|11522| |O|
-N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522|
-N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962|
-N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure you or a party member is always ready to use the [Silver Totem of Aquementas] |U|11522| |O|
-N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522|
-N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962|
+N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure someone is always ready to use the [Silver Totem of Aquementas] |U|11522| |O| |M|speedrun|
+N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522| |M|speedrun|
+N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962| |M|speedrun|
+N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure you or a party member is always ready to use the [Silver Totem of Aquementas] |U|11522| |O| |M|hardcore|
+N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522| |M|hardcore|
+N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962| |M|hardcore|
 T A Better Ingredient |QID|9053| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)| |C|Druid|
 N (49.9, 81.7) |O|
 N Cast Use the [Gorishi Queen Lure] at the Gorishi Silithid Crystal inside of The Slithering Scar. You will have to defeat 3 waves of attacking Gorishi. If you kill the final mob of each wave while OUTSIDE of the main room, you will be able to drink/eat between waves |U|11833| |O|
@@ -161,10 +161,10 @@ N Perform a Logout skip on any of the torches next to Hermit Ortell to teleport 
 T Secret Communication |QID|8318| |N|Talk to Bor Wildmane - Talk to Bor Wildmane - (48.6, 37.8)|
 T A Terrible Purpose |QID|8287| |N|Talk to Commander Mar'alith - Talk to Commander Mar'alith - (49.2, 34.2)|
 T Noggle's Lost Satchel |QID|8282| |N|Talk to Noggle Ficklespragg - Talk to Noggle Ficklespragg upstairs - (51.6, 38.5)|
-F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |O|
-T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
-F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |O|
-T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
+F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |O| |M|hardcore|
+T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
+F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |O| |M|speedrun|
+T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
 F Tanaris >> Fly to Tanaris |N|Talk to Gryfe - Talk to Cloud Skydancer or Gryfe - (50.6, 34.4)| |O|
 A Calm Before the Storm |QID|4508| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|
 T Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|

@@ -24,14 +24,14 @@ N Kill Undead Ravagers |QID|261| |O|
 N Use the [Crate of Ghost Magnets] at the Valley of Bones between the two giant skeleton remains - Kill Magrami Spectres that spawn from it. Loot them for their Ghost-o-plasms - (64.0, 91.7) |QID|6134|
 N Kill Undead Ravagers - (64.3, 82.0) |QID|261|
 N Kill Khan Jehn. Loot him for his Head - (65.9, 80.4) |QID|1374|
-T Ghost-o-plasm Round Up |QID|6134| |N|Talk to Hornizz Brimbuzzle - Talk to Hornizz Brimbuzzle - (47.8, 61.8)|
+T Ghost-o-plasm Round Up |QID|6134| |N|Talk to Hornizz Brimbuzzle - Talk to Hornizz Brimbuzzle - (47.8, 61.8)| |M|speedrun|
 T Khan Jehn |QID|1374| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
-T Ghost-o-plasm Round Up |QID|6134| |N|Talk to Hornizz Brimbuzzle - Talk to Hornizz Brimbuzzle - (47.8, 61.8)|
-R Head to Feralas |N|(41.1, 91.7)|
-D Die and respawn |N|Talk to Spirit Healer - Once you get to Feralas, walk along the mountains to the west to avoid aggroing mobs and then die near the stone obelisks - (40.6, 8.6)| |O|
-F Tanaris >> Fly to Tanaris |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.2)|
-N Travel to Nijel's Point |O|
-F Tanaris >> Fly to Tanaris |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - Don't worry about handing in quests yet, you will hearth back to Desolace momentarily - (64.7, 10.5)|
+T Ghost-o-plasm Round Up |QID|6134| |N|Talk to Hornizz Brimbuzzle - Talk to Hornizz Brimbuzzle - (47.8, 61.8)| |M|hardcore|
+R Head to Feralas |N|(41.1, 91.7)| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - Once you get to Feralas, walk along the mountains to the west to avoid aggroing mobs and then die near the stone obelisks - (40.6, 8.6)| |O| |M|speedrun|
+F Tanaris >> Fly to Tanaris |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.2)| |M|speedrun|
+N Travel to Nijel's Point |O| |M|hardcore|
+F Tanaris >> Fly to Tanaris |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - Don't worry about handing in quests yet, you will hearth back to Desolace momentarily - (64.7, 10.5)| |M|hardcore|
 N (77.8, 77.3) |O|
 A Martek the Exiled |QID|1106| |N|Talk to Fizzle Brassbolts - Talk to Fizzle Brassbolts - (78.1, 77.1)|
 A Back to Booty Bay |QID|1118| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|

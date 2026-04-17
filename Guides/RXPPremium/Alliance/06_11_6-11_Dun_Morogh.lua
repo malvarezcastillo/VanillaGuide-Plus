@@ -38,14 +38,14 @@ A Bitter Rivals |QID|310| |N|Talk to Marleth Barleybrew - Talk to Marleth Barley
 N Kill Ice Claw Bears, Elder Crag Boars and Snow Leopards - Kill Ice Claw Bear (x6) - Kill Elder Crag Boar (x8) - Kill Snow Leopard (x8) - (31.5, 38.9) |QID|319| |O|
 G Grind until you are 1400 xp away from level 8. |QID|384| |N|Finish grinding Boar Ribs - (46.7, 53.8)|
 G Grind until you are 2100 xp away from level 8. |QID|384| |N|Finish grinding Boar Ribs - (46.7, 53.8)|
-N (30.3, 37.5)
-N (30.9, 33.1)
-N (32.4, 29.1)
-D Die and respawn |N|Talk to Spirit Healer - (33.0, 27.2)|
-N (12.7, 46.7) |O|
-f Wetlands >> Get the Wetlands flight path |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)|
-H Hearthstone |O|
-N (49.6, 48.6) |O|
+N (30.3, 37.5) |M|speedrun|
+N (30.9, 33.1) |M|speedrun|
+N (32.4, 29.1) |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - (33.0, 27.2)| |M|speedrun|
+N (12.7, 46.7) |O| |M|speedrun|
+f Wetlands >> Get the Wetlands flight path |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)| |M|speedrun|
+H Hearthstone |O| |M|speedrun|
+N (49.6, 48.6) |O| |M|hardcore|
 T The Grizzled Den |QID|313| |N|Talk to Pilot Stonegear - Talk to Pilot Stonegear - (49.6, 48.6)|
 N Talk to Innkeeper Belm - Talk to Innkeeper Belm inside - Buy a [Rhapsody Malt] and a [Thunder Ale] - Collect Rhapsody Malt (x1) - Collect Thunder Ale (x1) - (47.4, 52.5) |QID|384|
 T Distracting Jarven |QID|308| |N|Talk to Jarven Thunderbrew - Talk to Jarven Thunderbrew downstairs - (47.8, 52.4)| |O|
@@ -66,8 +66,8 @@ A The Lost Pilot |QID|419| |N|Talk to Pilot Hammerfoot - Talk to Pilot Hammerfoo
 A A Pilot's Revenge |QID|417| |N|Click the Dwarven Corpse - (79.7, 36.2)|
 N Kill Mangeclaw. Loot him for his Claw - Collect Mangy Claw (x1) - (79.0, 37.1) |QID|417|
 T A Pilot's Revenge |QID|417| |N|Talk to Pilot Hammerfoot - Talk to Pilot Hammerfoot - (83.9, 39.2)|
-H Hearthstone
-D Die and respawn |N|Talk to Spirit Healer - (47.1, 55.0)|
+H Hearthstone |M|hardcore|
+D Die and respawn |N|Talk to Spirit Healer - (47.1, 55.0)| |M|speedrun|
 G Grind to level 10
 A Taming the Beast |QID|6064| |N|Talk to Grif Wildheart - Talk to Grif Wildheart - (45.8, 53.0)| |C|Hunter|
 N Use the [Taming Rod] on a Large Crag Boar - Tame a Large Crag Boar (1) - (48.3, 56.9) |QID|6064| |C|Hunter|
@@ -88,8 +88,8 @@ N Drop down to this location to explore Frostmane Hold. If there are mobs below,
 N Kill Frostmane Headhunters - Kill Frostmane Headhunter (x5) - (24.5, 50.8) |QID|287|
 N Kill Leper Gnomes. Loot them for their Gears and Cogs - Collect Gyromechanic Gear (x8) - Collect Restabilization Cog (x8) - (27.2, 43.0) |QID|412|
 G Grind until you are 1450xp away from level 10
-N (46.7, 53.7) |O|
-D Die and respawn |O|
+N (46.7, 53.7) |O| |M|hardcore|
+D Die and respawn |O| |M|speedrun|
 A The Reports |QID|291| |N|Talk to Senir Whitebeard - Talk to Senir Whitebeard - (46.7, 53.8)|
 T Operation Recombobulation |QID|412| |N|Talk to Razzle Sprysprocket - Talk to Razzle Sprysprocket - (46.0, 48.6)|
 T Return to Bellowfiz |QID|320| |N|Talk to Pilot Bellowfiz - Talk to Pilot Bellowfiz - (49.4, 48.4)|

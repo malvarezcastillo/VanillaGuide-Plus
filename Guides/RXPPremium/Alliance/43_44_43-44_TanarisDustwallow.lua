@@ -72,8 +72,8 @@ N Kill Demon of the Orb - Cast [Fear] continously on Demon of the Orb until your
 A Returning the Cleansed Orb |QID|4976| |N|Talk to Tabetha - Talk to Tabetha - (46.0, 57.1)| |C|Warlock|
 A Returning the Cleansed Orb |QID|4976| |N|Talk to Tabetha - Talk to Tabetha - (46.0, 57.1)| |O| |C|Warlock|
 A Cortello's Riddle |QID|626| |N|Click the Musty Scroll on the rock - (31.1, 66.1)|
-D Die and respawn |N|Talk to Spirit Healer| |O|
-N Logout skip on the Mushroom to teleport to the RFD entrance, then zone into RFD - If you are unable to do this, run back to Theramore Isle - (31.0, 66.0) |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+N Logout skip on the Mushroom to teleport to the RFD entrance, then zone into RFD - If you are unable to do this, run back to Theramore Isle - (31.0, 66.0) |O| |M|hardcore|
 F Ratchet>> Fly to Ratchet |N|Talk to Baldruc - Talk to Baldruc - (67.5, 51.3)|
 N Talk to Menara Voidrender - Talk to Menara Voidrender - (62.5, 35.4) |C|Warlock|
 T The Completed Orb of Dar'Orahil |QID|4964| |N|Talk to Menara Voidrender - Talk to Menara Voidrender - Wait out the RP - (62.5, 35.4)| |C|Warlock|

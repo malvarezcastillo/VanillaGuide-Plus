@@ -50,8 +50,8 @@ t Train [Moonfire] |QID|3120| |N|Talk to Mardant Strongoak - Ascend the Aldrassi
 T Iverron's Antidote |QID|3522| |N|Talk to Iverron - Talk to Iverron - (54.6, 33.0)|
 N (56.7, 31.2) |O|
 N Loot a Webwood Egg on the ground at the back of the Cave - Collect Webwood Egg (x1) - (57.0, 26.4) |QID|917|
-D Die and respawn |N|Talk to Spirit Healer| |O|
-N Logout skip on the ledge behind the eggs. Move your character until it looks like they're floating, then log out, and back in. - If you fall down, just run out the cave normally to the quest turn in |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+N Logout skip on the ledge behind the eggs. Move your character until it looks like they're floating, then log out, and back in. - If you fall down, just run out the cave normally to the quest turn in |O| |M|hardcore|
 A Tenaron's Summons |QID|920| |N|Talk to Gilshalan Windwalker - Talk to Gilshalan Windwalker - (57.8, 41.7)|
 A Crown of the Earth |QID|921| |N|Talk to Tenaron Stormgrip - Ascend the Aldrassil Tree - Talk to Tenaron Stormgrip - (57.8, 41.0)|
 C Use the [Crystal Phial] at the Moonwell |QID|921| |N|Collect Filled Crystal Phial (x1) - (59.9, 33.0)| |U|5185|

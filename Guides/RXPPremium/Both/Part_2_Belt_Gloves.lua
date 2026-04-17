@@ -26,7 +26,7 @@ N Kill Tortured Druids and Tortured Sentinels. Loot them for their Scorched Ecto
 R Travel to Winterspring |O|
 U One [Goblin Rocket Fuel] is needed each time you use the [Ectoplasmic Distiller] |N|Cast Place the [Ectoplasmic Distiller] on the ground. It lasts for 5 minutes| |U|21946| |O|
 N Kill Suffering Highborne and Anguished Highborne. Loot them for their Frozen Ectoplasms - Pull them to the [Ectoplasmic Distiller] as you kill them - Frozen Ectoplasm (x12) - (55.4, 43.4) |QID|8924|
-N Be careful! You will encounter level 60 mobs on the way to Vi'el. Avoid them as much as possible |O|
+N Be careful! You will encounter level 60 mobs on the way to Vi'el. Avoid them as much as possible |O| |M|hardcore|
 N Talk to Vi'el - Talk to Vi'el - Buy a [Fel Elemental Rod] from him - This will cost 40 gold - Fel Elemental Rod (x1) - (58.9, 78.4)
 N Collect at least 2 [Goblin Rocket Fuel]. It is made by engineers - Buy them from the Auction House if possible - Goblin Rocket Fuel (x2) |O|
 U One [Goblin Rocket Fuel] is needed each time you use the [Ectoplasmic Distiller] |N|Cast Place the [Ectoplasmic Distiller] on the ground. It lasts for 5 minutes| |U|21946| |O|
@@ -35,7 +35,7 @@ A A Portable Power Source |QID|8925| |N|Talk to Mux Manascrambler - Talk to Mux 
 R Travel to Burning Steppes |O|
 N Kill Magma Lord Bokk. Loot him for his Magma Core - Magma Core (x1) - (35.4, 57.7) |QID|8925|
 A A Shifty Merchant |QID|8928| |N|Talk to Mux Manascrambler - Talk to Mux Manascrambler - (52.5, 27.2)|
-N Be careful! You will encounter level 60 mobs on the way to Vi'el. Avoid them as much as possible |O|
+N Be careful! You will encounter level 60 mobs on the way to Vi'el. Avoid them as much as possible |O| |M|hardcore|
 N Talk to Vi'el - Talk to Vi'el - Buy a [Fel Elemental Rod] from him - This will cost 40 gold - Fel Elemental Rod (x1) - (58.9, 78.4) |O|
 A Return to Mokvar |QID|8978| |N|Talk to Mux Manascrambler - Talk to Mux Manascrambler - (52.5, 27.2)|
 R Travel to Ironforge |O|

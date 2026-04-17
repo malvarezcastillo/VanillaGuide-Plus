@@ -50,8 +50,8 @@ T Runecloth |QID|6031| |N|Talk to Meilosh - Talk to Meilosh - Skip this step if 
 N (27.7, 34.5) |O|
 T Speak to Salfa |QID|8465| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)|
 T The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
-A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
-A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - Blizzard has adjusted the quest chain for [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (31.3, 45.2)|
+A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)| |M|speedrun|
+A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - Blizzard has adjusted the quest chain for [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (31.3, 45.2)| |M|hardcore|
 A Threat of the Winterfall |QID|5082| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
 N Kill Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics - (32.4, 37.6) |QID|5082|
 A Winterfall Firewater |QID|5083| |N|Kill Winterfall Furbolgs. Loot them for a [Empty Firewater Flask] - Collect item 12771 (x1)| |U|12771|
@@ -61,59 +61,59 @@ A Mystery Goo |QID|5085| |N|Click the Deadwood Cauldron in the northern Furbolg 
 R Run back to Donova in Winterspring |O|
 A Toxic Horrors |QID|5086| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
 N Loot Moontouched Feathers on the ground - (32.8, 44.3) |QID|978|
-D Die and respawn |N|Talk to Spirit Healer| |O| |C|Hunter|
+D Die and respawn |N|Talk to Spirit Healer| |O| |C|Hunter| |M|speedrun|
 F Teldrassil>> Fly to Teldrassil |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)| |O| |C|Hunter|
 A Find Ranshalla |QID|979| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - (55.5, 92.0)| |C|Hunter|
 H Hearthstone
-F Tanaris>> Fly to Tanaris |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)|
-R Tanaris>> Fly to Tanaris |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)|
-N Cast Use the [Videre Elixir] at the Tanaris graveyard - (54.0, 28.6) |O|
-N Cast Use the [Videre Elixir] at the Tanaris graveyard - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers. It will lower your health to 3% however. Ensure you bandage or eat food before leaving the graveyard - (54.0, 28.6) |U|11243| |O|
-A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Ensure you bandage or eat food before leaving the graveyard - Talk to Gaeriyan - You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers - (53.9, 23.3)| |U|11243|
-A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Talk to Gaeriyan - You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers - (53.9, 23.3)| |U|11243|
-A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Talk to Gaeriyan - You must be dead in order to speak to Gaeriyan - (53.9, 23.3)|
-A Linken's Sword |QID|3914| |N|Click the Conspicuous Gravestone - (53.8, 29.1)|
-A Linken's Sword |QID|3914| |N|Click the Conspicuous Gravestone - (53.8, 29.1)|
-R Un'Goro >> Fly to Un'Goro |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)|
-A A Gnome's Assistance |QID|3941| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
-A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
-R Un'Goro >> Fly to Un'Goro |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)|
-A A Gnome's Assistance |QID|3941| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
-A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
+F Tanaris>> Fly to Tanaris |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |M|speedrun|
+R Tanaris>> Fly to Tanaris |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |M|hardcore|
+N Cast Use the [Videre Elixir] at the Tanaris graveyard - (54.0, 28.6) |O| |M|speedrun|
+N Cast Use the [Videre Elixir] at the Tanaris graveyard - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers. It will lower your health to 3% however. Ensure you bandage or eat food before leaving the graveyard - (54.0, 28.6) |U|11243| |O| |M|hardcore|
+A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Ensure you bandage or eat food before leaving the graveyard - Talk to Gaeriyan - You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers - (53.9, 23.3)| |U|11243| |M|hardcore|
+A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Talk to Gaeriyan - You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers - (53.9, 23.3)| |U|11243| |M|hardcore|
+A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Talk to Gaeriyan - You must be dead in order to speak to Gaeriyan - (53.9, 23.3)| |M|speedrun|
+A Linken's Sword |QID|3914| |N|Click the Conspicuous Gravestone - (53.8, 29.1)| |M|speedrun|
+A Linken's Sword |QID|3914| |N|Click the Conspicuous Gravestone - (53.8, 29.1)| |M|hardcore|
+R Un'Goro >> Fly to Un'Goro |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)| |M|hardcore|
+A A Gnome's Assistance |QID|3941| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
+A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |M|hardcore|
+R Un'Goro >> Fly to Un'Goro |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)| |M|speedrun|
+A A Gnome's Assistance |QID|3941| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
+A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |M|speedrun|
 R Azshara>> Fly to Azshara |N|Talk to Gryfe - Talk to Gryfe - (45.2, 5.8)|
 R Tanaris>> Fly to Azshara |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)|
 T Ancient Spirit |QID|4261| |N|Talk to Kayneth Stillwind - Talk to Kayneth Stillwind - (85.3, 44.7)|
 R Travel to Felwood |N|(56.0, 32.0)| |O|
 A A Final Blow |QID|5242| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)|
 A Retribution of the Light |QID|5204| |N|Talk to Jessir Moonbow - Talk to Jessir Moonbow - (51.3, 82.0)|
-A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
-A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O|
+A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|speedrun|
+A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|hardcore|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|speedrun|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|hardcore|
 N (35.4, 58.4) |O|
 N Kill Rakaiah - (38.5, 50.4) |QID|5204|
 A The Remains of Trey Lightforge |QID|5385| |N|Talk to Remains of Trey Lightforge - Talk to the Remains of Trey Lightforge - (38.5, 50.4)|
 N Continue further into Shadow Hold - Kill Salia, Moora and Shadow Lord Fel'dan. Loot him for his Head - Kill Salia first as she casts [Mind Control] - (38.8, 46.8) |QID|5242|
 N Perform a Logout skip on the Urn next to Shadow Lord Fel'dan to teleport to Irontree Woods - (38.7, 47.0) |O|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O|
-N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (48.4, 29.2) |QID|4084|
-N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (48.4, 29.2) |QID|4084|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (55.6, 23.4) |QID|4084|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (55.6, 23.4) |QID|4084|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|speedrun|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|hardcore|
+N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (48.4, 29.2) |QID|4084| |M|speedrun|
+N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (48.4, 29.2) |QID|4084| |M|hardcore|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (55.6, 23.4) |QID|4084| |M|speedrun|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (55.6, 23.4) |QID|4084| |M|hardcore|
 T A Final Blow |QID|5242| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)|
 T The Remains of Trey Lightforge |QID|5385| |N|Talk to Jessir Moonbow - Talk to Jessir Moonbow - (51.3, 82.0)|
-T Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - Do not accept the follow up quest yet - (51.4, 81.5)|
-T Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - Do not accept the follow up quest yet - (51.4, 81.5)|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O|
+T Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - Do not accept the follow up quest yet - (51.4, 81.5)| |M|speedrun|
+T Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - Do not accept the follow up quest yet - (51.4, 81.5)| |M|hardcore|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|speedrun|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|hardcore|
 T A Final Blow |QID|5242| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)| |C|Rogue/Warrior|
 T The Remains of Trey Lightforge |QID|5385| |N|Talk to Jessir Moonbow - Talk to Jessir Moonbow - (51.3, 82.0)| |C|Rogue/Warrior|
 N Kill Toxic Horrors. Loot them for their Toxic Horror Droplets - (50.6, 22.4) |QID|5086|
-N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (48.4, 29.2) |QID|4084|
-N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (48.4, 29.2) |QID|4084|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (55.6, 23.4) |QID|4084|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (55.6, 23.4) |QID|4084|
+N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (48.4, 29.2) |QID|4084| |M|speedrun|
+N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (48.4, 29.2) |QID|4084| |M|hardcore|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (55.6, 23.4) |QID|4084| |M|speedrun|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (55.6, 23.4) |QID|4084| |M|hardcore|
 R Travel to Winterspring via Timbermaw Hold |N|(65.3, 7.5)| |O|
 A Winterfall Runners |QID|5087| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
 N Kill the Winterfall Runners. Loot them for their Winterfall Crate - Their spawn point is on the west side of Winterspring near the Timbermaw tunnel. Their patrol route is marked on your map - You may complete this later if you can't find them now |QID|5087| |O|

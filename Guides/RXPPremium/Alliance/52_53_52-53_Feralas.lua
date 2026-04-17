@@ -31,9 +31,9 @@ C Use [Troyas' Stave] at the Equinex Monolith |QID|2879| |N|(38.9, 13.1)| |U|926
 A The Morrow Stone |QID|2942| |N|Click the Equinex Monolith - (38.8, 13.2)|
 C Use [Shay's Bell] whenever Shay wanders away from you |QID|2845| |N|Talk to Shay Leafrunner - Escort Shay Leafrunner to safety - If you run too far away from her the quest will fail - (42.4, 22.0)| |U|9189|
 T Wandering Shay |QID|2845| |N|Talk to Rockbiter - Talk to Rockbiter - (42.4, 22.0)|
-C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (45.1, 25.6)|
-C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - You may safely complete this quest as part of the quest chain for [The Videre Elixir] - (45.1, 25.6)|
-C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - (45.1, 25.6)|
+C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (45.1, 25.6)| |M|hardcore|
+C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - You may safely complete this quest as part of the quest chain for [The Videre Elixir] - (45.1, 25.6)| |M|speedrun|
+C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - (45.1, 25.6)| |M|speedrun|
 N Kill Northspring Windcaller - Grind Harpies in Feralas while you look for a Maraudon group. Head to Desolace and accept The Pariah's Instructions once your group is ready - (38.8, 13.2) |O|
 A The Pariah's Instructions |QID|7067| |N|Talk to Centaur Pariah - Talk to the Centaur Pariah - The Centaur Pariah patrols slightly around southern Desolace - (43.6, 84.9)|
 R Travel to Maraudon |N|(29.9, 62.4)|
@@ -64,18 +64,18 @@ N Kill any Monster in Maraudon. Loot them for their Theradric Crystal Carvings -
 N Cast Cast Teleport: Moonglade |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 T Seed of Life |QID|7066| |N|Talk to Keeper Remulos - Talk to the Keeper Remulos - (36.2, 41.8)| |C|Druid|
-D Die and respawn
-T Twisted Evils |QID|7028| |N|Talk to Willow - Talk to Willow - (62.2, 39.6)|
-T The Pariah's Instructions |QID|7067| |N|Talk to Centaur Pariah - Talk to the Centaur Pariah - The Centaur Pariah patrols slightly around southern Desolace - (43.6, 84.9)|
+D Die and respawn |M|speedrun|
+T Twisted Evils |QID|7028| |N|Talk to Willow - Talk to Willow - (62.2, 39.6)| |M|speedrun|
+T The Pariah's Instructions |QID|7067| |N|Talk to Centaur Pariah - Talk to the Centaur Pariah - The Centaur Pariah patrols slightly around southern Desolace - (43.6, 84.9)| |M|speedrun|
 H Hearthstone
 T Corruption of Earth and Seed |QID|7065| |N|Talk to Keeper Marandis - Talk to Keeper Marandis - (64.6, 9.2)|
 T Vyletongue Corruption |QID|7041| |N|Talk to Talendria - Talk to Talendria - (68.5, 8.9)|
-F Feathermoon>> Fly to Feathermoon |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - (64.7, 10.5)|
-T Twisted Evils |QID|7028| |N|Talk to Willow - Talk to Willow - (62.2, 39.6)|
-T The Pariah's Instructions |QID|7067| |N|Talk to Centaur Pariah - Talk to the Centaur Pariah - The Centaur Pariah patrols slightly around southern Desolace - (43.6, 84.9)|
-R Head back to Feralas |O|
-D Die and respawn |N|Talk to Spirit Healer - (38.2, 24.2)| |O|
-N Alternatively you may Website Unstuck to Feathermoon Stronghold from the west side of the mountain. The location is marked on your map - (31.8, 45.5) |O|
+F Feathermoon>> Fly to Feathermoon |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - (64.7, 10.5)| |M|speedrun|
+T Twisted Evils |QID|7028| |N|Talk to Willow - Talk to Willow - (62.2, 39.6)| |M|hardcore|
+T The Pariah's Instructions |QID|7067| |N|Talk to Centaur Pariah - Talk to the Centaur Pariah - The Centaur Pariah patrols slightly around southern Desolace - (43.6, 84.9)| |M|hardcore|
+R Head back to Feralas |O| |M|hardcore|
+D Die and respawn |N|Talk to Spirit Healer - (38.2, 24.2)| |O| |M|speedrun|
+N Alternatively you may Website Unstuck to Feathermoon Stronghold from the west side of the mountain. The location is marked on your map - (31.8, 45.5) |O| |M|hardcore|
 N Talk to Mardrack Greenwell - There is a grinding session ahead - (31.0, 43.1) |O| |C|!Mage|
 T The Morrow Stone |QID|2942| |N|Talk to Troyas Moonbreeze - Talk to Troyas Moonbreeze - (31.8, 45.5)|
 U Pristine Yeti Hide |QID|7735| |N|Talk to Pratt McGrubben - Talk to Pratt McGrubben - (30.6, 42.7)| |U|18969|

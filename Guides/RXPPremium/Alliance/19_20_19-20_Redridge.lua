@@ -129,7 +129,7 @@ A Alther's Mill |QID|2282| |N|Talk to Lucius - Talk to Lucius - (28.1, 52.0)| |C
 A Hilary's Necklace |QID|3741| |N|Talk to Shawn - Talk to Shawn - (29.3, 53.6)|
 N Jump into the Lake - Open the Glinting Mud. Loot it for Hilary's Necklace - It has multiple spawn locations in the Lake - Hilary's Necklace (1) - (27.8, 56.0) |QID|3741|
 T Hilary's Necklace |QID|3741| |N|Talk to Hilary - Talk to Hilary - (29.2, 53.6)| |C|Druid|
-N Open the Sunken Chest. Loot it for Oslow's Toolbox - Oslow's Toolbox (1) - (41.5, 54.7) |QID|125|
+N Open the Sunken Chest. Loot it for Oslow's Toolbox - Oslow's Toolbox (1) - (41.5, 54.7) |QID|125| |M|speedrun|
 N Kill Dire Condor - Kill Great Goretusks. Loot them for their Great Goretusk Snouts - Kill Tarantulas. Loot them for their Crisp Spider Meat - Kill Dire Condors. Loot them for their Tough Condor Meat - Do NOT sell any of these items until you turn the Redridge Goulash quest - Save any [Chunks of Boar Meat] you loot as well as you can use them to level [Cooking] to 50 which is required for Duskwood later - Collect item 2296 (x5) - Collect item 1080 (x5) - Collect item 1081 (x5) |O|
 A Encroaching Gnolls |QID|244| |N|Talk to Guard Parker - Talk to Guard Parker - (15.3, 71.5)|
 A Visit the Herbalist |QID|130| |N|Talk to Guard Parker - Talk to Guard Parker - (15.3, 71.5)|
@@ -140,7 +140,7 @@ N Kill Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fi
 N Kill Dire Condor - Kill Dire Condors. Loot them for their Tough Condor Meat - Skip this step if you aren't seeing any Dire Condors - Collect item 1080 (x5) - (61.4, 77.1)
 N Kill Blackrock Grunts and Blackrock Outrunners. Loot them for their Axes - Be aware the Blackrock Outrunners will cast [Net] on you - Battleworn Axe (10) - (74.0, 79.0) |QID|20|
 N Kill Dire Condor - Kill Dire Condors. Loot them for their Tough Condor Meat - Collect item 1080 (x5) - (61.4, 77.1)
-N Jump into the Lake - Open the Sunken Chest. Loot it for Oslow's Toolbox - Oslow's Toolbox (1) - (41.5, 54.7) |QID|125|
+N Jump into the Lake - Open the Sunken Chest. Loot it for Oslow's Toolbox - Oslow's Toolbox (1) - (41.5, 54.7) |QID|125| |M|hardcore|
 N (49.0, 70.0)
 N You MUST do this for your [Poisons] quest later - Stand on the waypoint location. Position your camera and cursor until you can click 3 Practice Lockboxes at once without having to move anything |C|Rogue|
 N Open Lucius's Lockbox. Loot it for the Token of Thievery - Token of Thievery - (52.0, 44.7) |QID|2282| |C|Rogue|
@@ -156,7 +156,7 @@ T Alther's Mill |QID|2282| |N|Talk to Lucius - Talk to Lucius - (28.1, 52.0)| |C
 T Hilary's Necklace |QID|3741| |N|Talk to Hilary - Talk to Hilary - (29.2, 53.6)|
 T Assessing the Threat |QID|246| |N|Talk to Deputy Feldon - Talk to Deputy Feldon - (30.7, 60.0)|
 G Grind until you are level 20 |N|(49.0, 70.0)|
-F Westfall >> Fly to Westfall |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |C|Rogue|
+F Westfall >> Fly to Westfall |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |C|Rogue| |M|speedrun|
 F Stormwind >> Fly to Stormwind City |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |O|
 N Talk to Marda Weller - Talk to Marda Weller - Buy a [Longsword] and equip it at 21 - Buy something from the Auction House if there's something cheaper/better - Longsword (1) - (57.4, 56.8) |C|Rogue|
 N Talk to Marda Weller - Talk to Marda Weller - Buy a [Longsword] and equip it at 21 - Longsword (1) - (57.4, 56.8) |C|Rogue|

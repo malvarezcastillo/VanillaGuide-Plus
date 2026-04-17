@@ -7,8 +7,8 @@ return [[
 
 N 6-11 Elwynn Forest |N|Converted from RestedXP guide|
 
-A The Fargodeep Mine |QID|62| |N|Talk to Marshal Dughan - Talk to Marshall Dughan - (42.1, 65.9)|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+A The Fargodeep Mine |QID|62| |N|Talk to Marshal Dughan - Talk to Marshall Dughan - (42.1, 65.9)| |M|hardcore|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 t Train [Blacksmithing] |N|Talk to Smith Argus - Talk to Smith Argus - If you don't want to do this, skip this step - (41.7, 65.5)| |C|Warrior/Rogue/Paladin|
 N Talk to Corina Steele - Talk to Corina Steele - Buy a [Gladius] from her if you can afford it - Collect Gladius (1) - (41.5, 65.9) |C|Warrior|
 N Equip the [Gladius] |U|2488| |O| |C|Warrior|
@@ -62,11 +62,11 @@ N Try to save a single [Minor Healing Potion] from now on as you will need it fo
 N Kill Kobold Miner - (37.8, 85.4)
 N Kill Kobold Miner - (37.8, 85.4)
 T Goldtooth |QID|87| |N|Talk to "Auntie" Bernice Stonefield - Talk to "Auntie" Bernice Stonefield - (34.5, 84.3)|
-N (41.3, 79.8) |O|
+N (41.3, 79.8) |O| |M|hardcore|
 N Kill Stonetusk Boar - Kill Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - Chunk of Boar Meat (1-10) - (32.5, 85.4) |O|
 N Kill Stonetusk Boar - Kill Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by - Chunk of Boar Meat (10-50) - (32.5, 85.4) |O|
-N (42.1, 67.3) |O|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+N (42.1, 67.3) |O| |M|hardcore|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 A A Fishy Peril |QID|40| |N|Talk to Remy "Two Times" - Talk to Remy "Two Times" - Do NOT vendor the [Bag of Marbles] reward. This is an incredibly valuable item all the way through to level 60 - (42.1, 67.3)|
 A Further Concerns |QID|35| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
 N Talk to Corina Steele - Talk to Corina Steele - Vendor Trash - (41.5, 65.9) |O|
@@ -118,8 +118,8 @@ N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Don't 
 N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by - Stringy Wolf Meat (10-50) - (73.7, 68.0) |O|
 N Kill Prowlers and Young Forest Bears - Prioritize killing any Young Forest Bears you see - Kill Prowler (x8) - Kill Young Forest Bear (x5) |QID|52| |O|
 N Loot the Bundles of Wood on the ground at the base of the trees - Bundle of Wood (8) - (80.5, 55.2) |QID|5545| |O|
-A Report to Thomas |QID|71| |N|Run on top of Rolf's corpse, then cast [Divine Protection] and then immediately click Rolf's corpse - Run away and reset the Murlocs after completing the quest - (79.8, 55.5)| |C|Paladin|
-A Report to Thomas |QID|71| |N|Click Rolf's corpse on the ground - Be careful as Murloc Foragers will cast [Drink Minor Potion] which heals themselves for 61-68 health - Pull the 2 Murlocs in front of the huts, move away and nuke one of them down fast. Use [Divine Protection] and your Heals as required. This is a good opportunity to use [Bag of Marbles]. Run away and reset once you've killed one - Remember during [Divine Protection] you are unable to attack - (79.8, 55.5)| |C|Paladin|
+A Report to Thomas |QID|71| |N|Run on top of Rolf's corpse, then cast [Divine Protection] and then immediately click Rolf's corpse - Run away and reset the Murlocs after completing the quest - (79.8, 55.5)| |C|Paladin| |M|speedrun|
+A Report to Thomas |QID|71| |N|Click Rolf's corpse on the ground - Be careful as Murloc Foragers will cast [Drink Minor Potion] which heals themselves for 61-68 health - Pull the 2 Murlocs in front of the huts, move away and nuke one of them down fast. Use [Divine Protection] and your Heals as required. This is a good opportunity to use [Bag of Marbles]. Run away and reset once you've killed one - Remember during [Divine Protection] you are unable to attack - (79.8, 55.5)| |C|Paladin| |M|hardcore|
 A Report to Thomas |QID|71| |N|Click Rolf's corpse on the ground - Be careful as Murloc Foragers will cast [Drink Minor Potion] which heals themselves for 61-68 health - (79.8, 55.5)| |C|!Paladin|
 N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Stringy Wolf Meat (1-10) - (73.7, 68.0) |O|
 N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by - Stringy Wolf Meat (10-50) - (73.7, 68.0) |O|
@@ -141,15 +141,15 @@ N Kill Defias Bandits. Loot them for their Red Linen Bandanas - Kill Defias Band
 N Kill Defias Bandits. Loot them for their Red Linen Bandanas - Collect Red Linen Bandana (x6) - (70.5, 77.6) |QID|83|
 N (69.5, 79.5) |C|Warlock/Warrior/Rogue|
 N (69.5, 79.5) |O| |C|Warlock/Warrior/Rogue|
-R Die and respawn |N|Talk to Spirit Healer| |O| |C|!Warlock|
+R Die and respawn |N|Talk to Spirit Healer| |O| |C|!Warlock| |M|speedrun|
 T Red Linen Goods |QID|83| |N|Talk to Sara Timberlain - Talk to Sara Timberlain - (79.5, 68.8)| |O|
 T Red Linen Goods |QID|83| |N|Talk to Sara Timberlain - Talk to Sara Timberlain - (79.5, 68.8)|
 N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Stringy Wolf Meat (1-10) - (84.4, 72.5) |O| |C|!Warlock|
 N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by - Stringy Wolf Meat (10-50) - (84.4, 72.5) |O| |C|!Warlock|
 R Travel to Redridge Mountains |N|(17.4, 69.6)| |C|!Warlock|
 A Encroaching Gnolls |QID|244| |N|Talk to Guard Parker - Talk to Guard Parker - (17.4, 69.6)| |O| |C|!Warlock|
-D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Warlock|
-N (18.6, 69.2) |O| |C|!Warlock|
+D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Warlock| |M|speedrun|
+N (18.6, 69.2) |O| |C|!Warlock| |M|hardcore|
 T Encroaching Gnolls |QID|244| |N|Talk to Deputy Feldon - Talk to Deputy Feldon - (30.7, 60.0)| |O| |C|!Warlock|
 f Redridge Mountains >> Get the Redridge Mountains flight path |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |C|!Warlock|
 H Hearthstone |O|
@@ -200,7 +200,7 @@ A Goretusk Liver Pie |QID|22| |N|Talk to Salma Saldean - Talk to Salma Saldean i
 G Grind to 5775+/6500xp |N|(56.3, 47.5)|
 G Grind to 5410+/6500xp |N|(56.3, 47.5)| |O|
 G Grind to 5360+/8800xp |N|(48.2, 46.7)| |O| |C|Paladin|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 A Patrolling Westfall |QID|102| |N|Talk to Captain Danuvin - Talk to Gryan Stoutmantle and Captain Danuvin - (56.3, 47.5)|
 T Report to Gryan Stoutmantle |QID|109| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)|
 G Grind to level 10 |N|(56.0, 31.2)| |O| |R|Human|
@@ -235,8 +235,8 @@ N (29.2, 74.0) |O| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |O| |C|Warlock|
 A Surena Caledon |QID|1688| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock|
-D Die and respawn |N|Talk to Spirit Healer| |C|Warlock|
-R Exit Stormwind |N|(42.1, 65.9)| |O| |C|Warlock|
+D Die and respawn |N|Talk to Spirit Healer| |C|Warlock| |M|speedrun|
+R Exit Stormwind |N|(42.1, 65.9)| |O| |C|Warlock| |M|hardcore|
 N (42.1, 65.9) |O| |C|Warlock|
 T The Collector |QID|123| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - Choose the [Balanced Fighting Stick] - (42.1, 65.9)| |C|Warlock|
 T Wanted: "Hogger" |QID|176| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - Choose the [Balanced Fighting Stick] - (42.1, 65.9)| |C|Warlock|

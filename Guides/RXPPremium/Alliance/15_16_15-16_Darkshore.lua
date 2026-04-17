@@ -194,7 +194,7 @@ N Kill Foreststrider - Kill Foreststriders. Loot them for their Strider Meat - S
 A Buzzbox 525 |QID|1003| |N|Click the Buzzbox 323 on the ground| |O|
 N Use the [Empty Cliffspring Falls Sampler] in the water at the entrance of the Cliffspring River Cave - Filled Cliffspring Falls Sampler (1) - (55.0, 33.4) |QID|6122| |C|Druid|
 N Loot the Scaber Stalks and a Death Cap on the ground - Stay on the upper section. If there is not a Death Cap at the end of the top side, drop down and get one from the southern room below - Be careful as Stormscale Wave Riders cast [Aqua Jet] (Ranged Instant: Deals damage to nearby enemies and knocks them back) - make sure you're not in a position to get knocked off the upper level of the cave - Scaber Stalk (5) - Death Cap (1) - (55.5, 36.2) |QID|947|
-D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Druid| |R|NightElf|
+D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Druid| |R|NightElf| |M|speedrun|
 N Kill Foreststrider Fledgling - Kill Foreststrider Fledglings. Loot them for their Strider Meat - Be careful as they [Flee] at <30% health - Strider Meat (5) |O|
 N Kill Moonstalker Runts. Loot them for their Moonstalker Fangs - Moonstalker Fang (6) |QID|1002| |O|
 A The Blackwood Corrupted |QID|4763| |N|Talk to Thundris Windweaver - Talk to Thundris Windweaver|

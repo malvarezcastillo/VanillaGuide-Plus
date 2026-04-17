@@ -10,7 +10,7 @@ N 6-11 Tirisfal Glades |N|Converted from RestedXP guide|
 A Fields of Grief |QID|365| |N|Talk to Deathguard Simmer - Talk to Simmer - (40.9, 54.2)|
 A Gordo's Task |QID|5481| |N|Talk to Gordo. - He's an abomination that patrols along the road to Brill - (56.1, 52.5)|
 t Train [Tailoring]. Save up your [Linen Cloth]. This will allow you to create a wand later |N|Talk to Bowen Brisboise - Talk to Bowen - (52.6, 55.5)| |C|Priest|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 A At War With The Scarlet Crusade |QID|427| |N|Talk to Executor Zygand - Talk to Dillinger and Zygand - (58.2, 51.5)|
 N Talk to Mrs. Winters - Talk to Mrs. Winters. Buy  [Weighted Throwing Axe] from her - Weighted Throwing Axe (200) - (61.1, 52.6) |C|Rogue|
 N Talk to Oliver Dwor - Talk to Oliver - Vendor trash. Sell your weapon if it gives you enough money for a [Stiletto] (4s 01c). You'll come back later if you don't have enough yet - (60.1, 53.5) |C|Rogue|
@@ -44,9 +44,9 @@ N Start collecting 3 stacks of [Linen Cloth]. This will be used to make a [Lesse
 N Start collecting 3 stacks of [Linen Cloth]. This will be used to make a [Lesser Magic Wand] later - Linen Cloth (60) |O| |C|Priest|
 N Loot the Pumpkins found in the field. - Tirisfal Pumpkin (10) - (36.6, 50.1) |QID|365|
 N Kill Scarlet Warriors - Scarlet Warrior (10) - (31.8, 51.4) |QID|427|
-H Hearthstone |O|
-D Die and respawn |O|
-A Doom Weed |QID|5482| |N|Talk to Junior Apothecary Holland - Talk to Holland, he patrols around the graveyard. - (57.7, 49.0)|
+H Hearthstone |O| |M|hardcore|
+D Die and respawn |O| |M|speedrun|
+A Doom Weed |QID|5482| |N|Talk to Junior Apothecary Holland - Talk to Holland, he patrols around the graveyard. - (57.7, 49.0)| |M|speedrun|
 A At War With The Scarlet Crusade |QID|370| |N|Talk to Executor Zygand - Talk to Dillinger, Johaan and Zygand - (58.2, 51.4)|
 A At War With The Scarlet Crusade |QID|370| |N|Talk to Executor Zygand - Talk to Dillinger, Johaan and Zygand - (58.2, 51.4)|
 N Talk to Abigail Shiel - Talk to Abigail - Buy a [Coarse Thread] from her - Coarse Thread (1) - (61.0, 52.4) |QID|375| |O|
@@ -66,14 +66,14 @@ N Equip the [Stiletto] |U|2494| |O| |C|Rogue|
 N Talk to Oliver Dwor - Talk to Oliver - Vendor trash. Sell your weapon if it gives you enough money for a [Gladius] (5s 36c). You'll come back later if you don't have enough yet - (60.1, 53.5) |C|Warrior|
 N Talk to Oliver. Buy a [Gladius] from him - Collect Gladius (1) - (60.1, 53.5) |C|Warrior|
 N Equip the [Gladius] |U|2488| |O| |C|Warrior|
-A Doom Weed |QID|5482| |N|Talk to Junior Apothecary Holland - Talk to Holland, he patrols around the graveyard. - (57.7, 49.0)|
+A Doom Weed |QID|5482| |N|Talk to Junior Apothecary Holland - Talk to Holland, he patrols around the graveyard. - (57.7, 49.0)| |M|hardcore|
 N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
 N Kill Darkhounds. Loot them for their Blood - Darkhound Blood (5) - (56.5, 62.6) |QID|367|
 N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) - (56.5, 62.6) |QID|375| |O| |C|Rogue/Warrior|
 G Grind to 3260+/4500 |N|(56.5, 62.6)| |O| |C|Rogue/Warrior|
 N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) - (56.5, 62.6) |QID|375| |O|
 G Grind to 2640+/4500 |N|(56.5, 62.6)|
-D Die and respawn |O|
+D Die and respawn |O| |M|speedrun|
 A A New Plague |QID|368| |N|Talk to Apothecary Johaan - Talk to Johaan - (59.5, 52.4)|
 A Graverobbers |QID|358| |N|Talk to Magistrate Sevren - Talk to Burgess, Wanted Poster and Sevren inside the building - (60.9, 52.0)|
 N Talk to Abigail Shiel - Talk to Abigail - Buy a [Coarse Thread] from her - Coarse Thread (1) - (61.0, 52.4) |QID|375| |O|
@@ -98,7 +98,7 @@ N Kill Maggot Eye. Loot him for his Paw - Maggot Eye's Paw (1) - (58.7, 30.8) |Q
 N Kill Rot Hide Mongrels. Loot them for their Ichor - Rot Hide Mongrel (5) - Embalming Ichor (8) - (59.8, 32.4) |QID|358|
 N Kill Rot Hide Gnolls. Loot them for their Ichor - Embalming Ichor (8) - (59.8, 32.4) |QID|358|
 N Kill Vile Vin Murlocs. Loot them for their Scales - Vile Fin Scale (5) - (59.5, 27.9) |QID|368|
-D Die and respawn |N|Make sure you die on (or to the west of) the arrow - (64.5, 29.4)| |O|
+D Die and respawn |N|Make sure you die on (or to the west of) the arrow - (64.5, 29.4)| |O| |M|speedrun|
 T Doom Weed |QID|5482| |N|Talk to Junior Apothecary Holland - Talk to Holland, he patrols around the graveyard. - (57.7, 49.0)|
 A Forsaken Duties |QID|359| |N|Talk to Magistrate Sevren - Talk to Johaan, Zygand and Sevren - (59.5, 52.4)|
 A Forsaken Duties |QID|359| |N|Talk to Magistrate Sevren - Talk to Johaan, Zygand and Sevren - (59.5, 52.4)|
@@ -118,7 +118,7 @@ N Talk to Oliver Dwor - Talk to Oliver - Vendor trash. Sell your weapon if it gi
 N Talk to Oliver. Buy a [Gladius] from him - Collect Gladius (1) - (60.1, 53.5) |C|Warrior|
 N Equip the [Gladius] |U|2488| |O| |C|Warrior|
 N Talk to Innkeeper Renee - Talk to Innkeeper Renee - Vendor Trash - (61.7, 52.1)
-N Talk to Eliza Callen - Talk to Eliza Callen - Repair your weapon - (60.3, 52.8) |C|Rogue/Warrior|
+N Talk to Eliza Callen - Talk to Eliza Callen - Repair your weapon - (60.3, 52.8) |C|Rogue/Warrior| |M|speedrun|
 N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) - (41.1, 47.6) |QID|375|
 N (47.6, 44.0)
 U A Letter Undelivered |QID|361| |N|[Thurman's Letter] may drop from these mobs. Accept the quest if it does - Collect A Letter to Yvette (1)| |U|2839| |O|
@@ -139,7 +139,7 @@ G Grind to 2180+/6500xp |N|(48.1, 34.6)| |O|
 G Grind to 3230+/6500xp |N|(48.1, 34.6)| |O|
 G Grind to 2510+/6500xp |N|(48.1, 34.6)| |O|
 G Grind to 1460+/6500xp |N|(48.1, 34.6)| |O|
-D Die and respawn |O|
+D Die and respawn |O| |M|speedrun|
 T The Mills Overrun |QID|426| |N|Talk to Deathguard Dillinger - Talk to Dillinger - (58.2, 51.4)|
 N Talk to Abigail Shiel - Talk to Abigail - Buy a [Coarse Thread] from her - Coarse Thread (1) - (61.0, 52.4) |QID|375| |O|
 A Speak with Sevren |QID|355| |N|Talk to Coleman Farthing - Talk to Yvette and Coleman - (61.6, 52.6)|
@@ -218,7 +218,7 @@ G Grind to 4000+/8800xp |O|
 G Grind to 4940+/8800xp |O|
 H Hearthstone |O|
 N Loot Gunther's Books for The Lich's Spellbook on the island in Brightwater Lake - The Lich's Spellbook (1) - (68.0, 42.1) |QID|357|
-D Die and respawn |N|(66.6, 45.0)| |O|
+D Die and respawn |N|(66.6, 45.0)| |O| |M|speedrun|
 A Delivery to Silverpine Forest |QID|445| |N|Talk to Apothecary Johaan - Talk to Johaan - (59.5, 52.4)|
 A A New Plague |QID|492| |N|Talk to Apothecary Johaan - Talk to Johaan - (59.5, 52.4)|
 A At War With The Scarlet Crusade |QID|372| |N|Talk to Executor Zygand - Talk to Zygand - (60.6, 51.8)|
@@ -268,7 +268,7 @@ G Grind to 4900+/8800xp
 G Grind to 5525+/8800xp |O|
 G Grind to 5600+/8800xp |O|
 G Grind to 6225+/8800xp |O|
-D Die and respawn |N|(64.4, 42.6)| |O|
+D Die and respawn |N|(64.4, 42.6)| |O| |M|speedrun|
 T At War With The Scarlet Crusade |QID|372| |N|Talk to Executor Zygand - Talk to Zygand - (60.6, 51.8)|
 T Proof of Demise |QID|374| |N|Talk to Deathguard Burgess - Talk to Burgess - (60.9, 52.0)|
 N Talk to Abigail Shiel - Talk to Abigail - Buy a [Coarse Thread] from her - Coarse Thread (1) - (61.0, 52.4) |QID|375|

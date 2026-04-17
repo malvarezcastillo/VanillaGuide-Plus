@@ -14,8 +14,8 @@ N Kill Mottled Worg - Kill Worgs. Loot them for their Hearts - Collect Discolore
 N Escort Erland safely to Rane Yorick - Worgs can spawn on top of each other, eat and drink whenever you are able to - Erland must reach Rane Yorick (1) - (56.2, 10.3) |QID|435|
 A The Deathstalkers' Report |QID|449| |N|Talk to Rane Yorick - Talk to Rane Yorick - (53.5, 13.4)|
 N Kill Mottled Worg - Kill Worgs. Loot them for their Hearts - Collect Discolored Worg Heart (x6) - (57.7, 10.1)
-D Die and respawn |O|
-N (49.8, 28.7) |O|
+D Die and respawn |O| |M|speedrun|
+N (49.8, 28.7) |O| |M|hardcore|
 A Prove Your Worth |QID|421| |N|Talk to Dalar Dawnweaver - Talk to Dalar - (44.2, 39.7)|
 N Talk to Gwyn Farrow - Talk to Gwyn - Buy [Red-speckled Mushrooms] from her - Vendor trash - Red-speckled Mushroom (20) - (44.0, 39.8) |C|!Mage/!Priest|
 N Talk to Edwin Harly - Talk to Edwin - Buy [Lesser Healing Potions] from him if they're up - Vendor trash - (44.0, 39.9)
@@ -41,8 +41,8 @@ N Kill Spiders. Loot them for their Blood - Skittering Blood (6) |QID|447| |O|
 N Talk to Killian Sanatha - Talk to Killian - Vendor trash - (33.0, 17.8)
 N Kill Spiders. Loot them for their Blood - Skittering Blood (6) - (36.3, 14.2) |QID|447|
 N Finish killing Bears. Loot them for their Hearts - Grizzled Bear Heart (6) - (41.6, 21.6) |QID|447|
-D Die and respawn |O|
-N (45.5, 41.3) |O|
+D Die and respawn |O| |M|speedrun|
+N (45.5, 41.3) |O| |M|hardcore|
 A Arugal's Folly |QID|423| |N|Talk to Dalar Dawnweaver - Talk to Dalar - (44.2, 39.7)|
 T Arugal's Folly |QID|422| |N|Talk to Dalar Dawnweaver - Talk to Dalar - (44.2, 39.7)|
 N (43.1, 41.3) |O|
@@ -55,10 +55,10 @@ U Equip item |N|Equip the [Wise Man's Belt]| |U|4786| |O| |C|Warlock/Mage/Priest
 U Equip item |N|Equip the [Agile Boots]| |U|4788| |O| |C|Rogue|
 A Rot Hide Clues |QID|439| |N|Click the Boat at the side of the docks - (58.4, 34.8)|
 N Kill Moonrage Gluttons and Moonrage Darksouls. Loot them for their Shackles - Be careful! Moonrage Darksouls enrage when they are below 25% health. Kill them quickly when they are low - Glutton Shackle (6) - Darksoul Shackle (3) - (56.1, 45.8) |QID|423|
-A Maps and Runes |QID|478| |N|Kill Dalaran Apprentice - Click the Crate in the camp - Be careful! These mobs cast [Frostbolt] and flee at low health. Pull them back and kill them one by one until you can safely click on the crate - (49.9, 60.3)|
-A Maps and Runes |QID|478| |N|Kill Dalaran Apprentice - Click the Crate in the camp - Be careful, these mobs cast [Frostbolt] - (49.9, 60.3)|
-N (45.5, 41.3) |O|
-D Die and respawn |O|
+A Maps and Runes |QID|478| |N|Kill Dalaran Apprentice - Click the Crate in the camp - Be careful! These mobs cast [Frostbolt] and flee at low health. Pull them back and kill them one by one until you can safely click on the crate - (49.9, 60.3)| |M|hardcore|
+A Maps and Runes |QID|478| |N|Kill Dalaran Apprentice - Click the Crate in the camp - Be careful, these mobs cast [Frostbolt] - (49.9, 60.3)| |M|speedrun|
+N (45.5, 41.3) |O| |M|hardcore|
+D Die and respawn |O| |M|speedrun|
 A Dalaran's Intentions |QID|482| |N|Talk to Dalar Dawnweaver - Talk to Allister and Dalar - (44.0, 40.9)|
 A Dalaran's Intentions |QID|482| |N|Talk to Dalar Dawnweaver - Talk to Allister and Dalar - (44.0, 40.9)|
 T Dalaran's Intentions |QID|482| |N|Talk to Shadow Priest Allister - Talk to Allister - (44.0, 40.9)|

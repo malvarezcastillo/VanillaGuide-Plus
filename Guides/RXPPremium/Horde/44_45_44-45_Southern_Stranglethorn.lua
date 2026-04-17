@@ -14,7 +14,7 @@ N Kill Tethis. Loot him for his Talon - He patrols all around the raptor area - 
 N Kill Skullsplitter Hunters, Berserkers and Headhunters. Loot them for their Necklaces |QID|598| |O|
 N Kill Skullsplitter Hunters, Berserkers and Headhunters |QID|586| |O|
 N (43.2, 38.8) |O|
-N This next quest can be quite hard, be extra careful |O|
+N This next quest can be quite hard, be extra careful |O| |M|hardcore|
 N Kill Ana'thek the Cruel. Loot him for his Armor - (44.3, 44.9) |QID|586|
 N Kill Skullsplitter Hunters, Berserkers and Headhunters. Loot them for their Necklaces - (47.9, 42.9) |QID|598|
 N Kill Skullsplitter Hunters, Berserkers and Headhunters - (47.9, 42.9) |QID|586|
@@ -42,10 +42,10 @@ N Kill Bloodsail Swashbucklers |QID|604| |O|
 N Loot the Bloodsail Orders and Bloodsail Charts - They're typically in the large camp on the peninsula, or in the boat near that camp - (26.9, 82.5) |QID|604|
 N Kill Bloodsail Swashbucklers - (27.2, 82.8) |QID|604|
 N Kill Bloodsail Pirates. Loot them for their Dizzy's Eye - (27.2, 82.8) |QID|576|
-N Kill Elder Mistvale Gorillas. Loot them for their Giblets and Sinew - Save any [Gorilla Fangs] you loot. You will need them for another quest later - Collect item 2799 (x10) - (31.3, 65.5) |QID|571|
-N Kill Elder Mistvale Gorillas. Loot them for their [Gorilla Fangs] - You can skip this if you want, the quest proceeding this is VERY difficult - Collect item 2799 (x10) - (32.8, 65.8) |O|
-N Kill Elder Mistvale Gorillas. Loot them for their Giblets and Sinew - (31.3, 65.5) |QID|571|
-N This quest will be very hard and dangerous, consider skipping it |O|
+N Kill Elder Mistvale Gorillas. Loot them for their Giblets and Sinew - Save any [Gorilla Fangs] you loot. You will need them for another quest later - Collect item 2799 (x10) - (31.3, 65.5) |QID|571| |M|speedrun|
+N Kill Elder Mistvale Gorillas. Loot them for their [Gorilla Fangs] - You can skip this if you want, the quest proceeding this is VERY difficult - Collect item 2799 (x10) - (32.8, 65.8) |O| |M|hardcore|
+N Kill Elder Mistvale Gorillas. Loot them for their Giblets and Sinew - (31.3, 65.5) |QID|571| |M|hardcore|
+N This quest will be very hard and dangerous, consider skipping it |O| |M|hardcore|
 T Stranglethorn Fever |QID|349| |N|Talk to Witch Doctor Unbagwa - Talk to Witch Doctor Unbagwa - This quest is very hard. 3 waves of Gorillas will spawn. Consider grouping up if possible - (35.3, 60.4)|
 N Face waves of Gorillas until Mokk the Savage appears. Kill him and loot him for his Heart - This quest is very hard. Use no cooldowns on wave 1. Use all cooldowns on wave 2. On wave 3 avoid them by going a bit up the mountain, then when they aggro the NPC kill Mokk the Savage only and loot it - (35.3, 60.4) |QID|348|
 N (26.7, 73.6) |O|
@@ -66,7 +66,7 @@ N Kill Jon-Jon. Loot him for his Spyglass - (34.9, 51.8) |QID|609|
 N Kill Chucky. Loot him for his Ring - (40.0, 58.2) |QID|609|
 N Kill Zanzil Undeads. Loot them for their Mixture - Do NOT pull or attack Zanzil the Outcast - (40.6, 60.0) |QID|621|
 N Kill Gorlash. Loot him for his Chest - You can kite him back to the Booty Bay guards and get credit for the quest if you deal 50%+ of the damage - This quest is HARD depending on how well you can kite and do damage on the move. You can skip this quest if needed - (36.9, 69.5) |QID|8551|
-N These next ship quests can be very hard. Be careful |O|
+N These next ship quests can be very hard. Be careful |O| |M|hardcore|
 U Cortello's Riddle |QID|624| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest - Collect item 4056 (x1)| |U|4056| |O|
 N Kill Bloodsail Pirates. Loot them for their Snuff and Dizzy's Eye |QID|576| |O|
 N Kill Captain Stillwater on the 2nd floor at the back of the ship - (32.9, 88.2) |QID|608|

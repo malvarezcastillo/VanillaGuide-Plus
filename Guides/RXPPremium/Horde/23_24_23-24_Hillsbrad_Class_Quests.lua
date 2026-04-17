@@ -67,8 +67,8 @@ N (44.9, 67.9) |C|Shaman/Rogue|
 T Deathstalkers in Shadowfang |QID|1098| |N|Talk to Deathstalker Vincent - Talk to Vincent| |C|Shaman/Rogue|
 N Loot the Book of Ur from the bookshelf in Fenrus the Devourer's room |QID|1013| |C|Shaman/Rogue|
 N Kill Archmage Arugal. Loot him for his Head |QID|1014| |C|Shaman/Rogue|
-N (45.5, 41.3) |O| |C|Shaman/Rogue|
-D Die and respawn |O| |C|Shaman/Rogue|
+N (45.5, 41.3) |O| |C|Shaman/Rogue| |M|hardcore|
+D Die and respawn |O| |C|Shaman/Rogue| |M|speedrun|
 T Deathstalkers in Shadowfang |QID|1098| |N|Talk to High Executor Hadrec - Talk to Hadrec - (43.4, 40.9)| |C|Shaman/Rogue|
 T Arugal Must Die |QID|1014| |N|Talk to Dalar Dawnweaver - Talk to Dalar - (44.2, 39.8)| |C|Shaman/Rogue|
 R Undercity >> Fly to the Undercity |N|Talk to Karos Razok - Talk to Karos - (45.6, 42.6)| |O| |C|Shaman/Rogue|

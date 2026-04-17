@@ -52,8 +52,8 @@ N (45.8, 47.5) |O|
 T Plea To The Alliance |QID|634| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)|
 T Malin's Request |QID|690| |N|Talk to Skuerto - Talk to Skuerto - (46.7, 47.0)|
 f Arathi >> Get the Arathi Highlands Flight Path |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.7, 46.1)| |O|
-T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - If you die, the quest will fail - Talk to Brewmeister Bilger - (19.7, 29.0)|
-T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - Talk to Brewmeister Bilger - (19.7, 29.0)|
+T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - If you die, the quest will fail - Talk to Brewmeister Bilger - (19.7, 29.0)| |M|speedrun|
+T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - Talk to Brewmeister Bilger - (19.7, 29.0)| |M|hardcore|
 A Down the Coast |QID|536| |N|Talk to Lieutenant Farren Orinelle - Talk to Lieutenant Farren Orinelle - (51.5, 58.4)|
 F Southshore>> Fly to Southshore |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)|
 A Assassin's Contract |QID|522| |N|The Shadowy Assassin attack on Southshore is a random event - If you ever see a Shadowy Assassin in Southshore, kill them. Loot them for the [Assassin's Contract] - Use the [Assassin's Contract] to start the quest - Skip this step if you don't see the event - Collect item 3668 (x1)| |U|3668| |O|

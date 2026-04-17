@@ -53,11 +53,11 @@ t Retrain your pet. Learn Fire Resistance (Rank 4) and Shadow Resistance (Rank 3
 R Teleport to Ironforge |N|(63.7, 8.4)| |O| |C|!Mage|
 N Talk to Jubahl Corpseseeker - Talk to Jubahl Corpseseeker - Buy [Grimoires] for your pets - (53.2, 7.8) |C|Warlock|
 t Train your class spells |N|Talk to Briarthorn - Talk to Briarthorn - (51.1, 8.7)| |C|Warlock|
-F Loch Modan>> Fly to Loch Modan |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)|
-N (31.2, 56.5)
-N ==PAY ATTENTION TO THE UPCOMING SECTION== - Press Escape, then go into -> Options -> Controls - Check "Enable Interact Key" and bind the "Interact with Target" option to a key - Cross through the tunnel leading from Loch Modan to Searing Gorge. Open it using the interact button. You DO NOT need to have they key - (78.6, 16.4)
-f Searing Gorge >> Get the Searing Gorge Flight Path |N|Talk to Lanie Reed - Talk to Lanie Reed - (32.6, 32.6)|
-F Thorium Point>> Fly to Searing Gorge |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)|
+F Loch Modan>> Fly to Loch Modan |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |M|hardcore|
+N (31.2, 56.5) |M|hardcore|
+N ==PAY ATTENTION TO THE UPCOMING SECTION== - Press Escape, then go into -> Options -> Controls - Check "Enable Interact Key" and bind the "Interact with Target" option to a key - Cross through the tunnel leading from Loch Modan to Searing Gorge. Open it using the interact button. You DO NOT need to have they key - (78.6, 16.4) |M|hardcore|
+f Searing Gorge >> Get the Searing Gorge Flight Path |N|Talk to Lanie Reed - Talk to Lanie Reed - (32.6, 32.6)| |M|hardcore|
+F Thorium Point>> Fly to Searing Gorge |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |M|speedrun|
 
 ]]
 end)

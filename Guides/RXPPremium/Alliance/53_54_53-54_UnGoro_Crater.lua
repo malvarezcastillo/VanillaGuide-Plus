@@ -86,7 +86,7 @@ T The Mighty U'cha |QID|4301| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfi
 A Toxic Test |QID|9051| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)| |C|Druid|
 N Look for a Devilsaur or Ironhide Devilsaur. Avoid Tyrant Devilsaurs - You should be able to see their patrols on your map - The way you do this is spamming [Hibernate]. You should only spam [Hibernate] and nothing else. If it breaks early start spamming [Hibernate] again, they run with 170% movement speed so you can't outrun a Devilsaur - Use the [Devilsaur Barb] on it once it has been [Hibernated] - Shift into [Travel Form] and run away to reset it after |QID|9051| |U|22432| |C|Druid|
 A A Better Ingredient |QID|9053| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)| |C|Druid|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 T Bungle in the Jungle |QID|4496| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|
 T Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 N Talk to Gimblethorn - Talk to Gimblethorn - [Eridan's Vial] - [Cenarion Beacon] - [Purified Moonwell Water] - [Moontouched Feathers] (If you have them) - (52.3, 28.9)

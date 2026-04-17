@@ -7,8 +7,8 @@ return [[
 
 N 59-60 Winterspring/Silithus II |N|Converted from RestedXP guide|
 
-R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O|
-T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.6, 8.1)|
+R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O| |M|speedrun|
+T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.6, 8.1)| |M|speedrun|
 R Tanaris >>Fly to Tanaris |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O|
 R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (45.2, 5.8)| |O|
 T Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|

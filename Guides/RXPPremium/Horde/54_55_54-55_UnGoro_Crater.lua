@@ -88,12 +88,12 @@ C Use your [Devilsaur Barb] on it while it's asleep |QID|9051| |N|Track a Devils
 T Toxic Test |QID|9051| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.6, 76.0)| |C|Druid|
 A A Better Ingredient |QID|9053| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.6, 76.0)| |C|Druid|
 N Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles - Collect item 11018 (x25) - (50.9, 68.0)
-R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (43.2, 6.2)| |O|
-R Travel back up to Tanaris |N|(27.1, 56.6)| |O|
-R Travel back up to Tanaris |N|(27.1, 56.6)| |O|
+R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (43.2, 6.2)| |O| |M|hardcore|
+R Travel back up to Tanaris |N|(27.1, 56.6)| |O| |M|speedrun|
+R Travel back up to Tanaris |N|(27.1, 56.6)| |O| |M|hardcore|
 A Secret of the Circle |QID|3447| |N|Talk to Marvon Rivetseeker - Talk to Marvon Rivetseeker - (52.7, 45.9)|
 A The God Hakkar |QID|3528| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
-D Die and respawn |N|(27.9, 59.0)| |O|
+D Die and respawn |N|(27.9, 59.0)| |O| |M|speedrun|
 T Bungle in the Jungle |QID|4496| |N|Talk to Alchemist Pestlezugg - Talk to Pestlezugg - (50.9, 27.0)|
 R Feralas >>Fly to Feralas |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)|
 T The Strength of Corruption |QID|4120| |N|Talk to Talo Thornhoof - Talk to Talo - (76.2, 43.8)|
@@ -102,9 +102,9 @@ R You must explore the Dire Maul zone as a pre-requisite to unlock a quest later
 N Talk to Gregan Brewspewer - Talk to Gregan - Buy some [Bait] from him - Collect item 11141 (x1) - (50.8, 49.8)
 N Talk to Miblon Snarltooth - Cast Place the [Bait] on the ground next to Miblon Snarltooth to distract him - (44.6, 10.6) |U|11141| |O|
 N Loot the Evoroot inside the Ruins - Collect item 11242 (x1) - (44.6, 10.2) |U|11141|
-C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (45.1, 25.6)|
-C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - You may safely complete this quest as part of the quest chain for [The Videre Elixir] - (45.1, 25.6)|
-C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - (45.1, 25.6)|
+C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (45.1, 25.6)| |M|hardcore|
+C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - You may safely complete this quest as part of the quest chain for [The Videre Elixir] - (45.1, 25.6)| |M|speedrun|
+C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - (45.1, 25.6)| |M|speedrun|
 U Hearthstone |U|6948| |O| |C|!Mage|
 R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |C|!Mage|
 N Cast Cast [Teleport: Thunder Bluff] |C|Mage|

@@ -29,7 +29,7 @@ N Kill Centipaar Sandreavers, Centipaar Swarmers, Centipaar Stingers, Centipaar 
 N Kill Rocs and Fire Rocs. Loot them for their Gizzards - The Rocs share spawns with Starving Blisterpaws. You may need to kill Starving Blisterpaws to force Rocs to spawn - (55.6, 25.5) |QID|1452|
 N Don't go out of your way to kill Thistleshrub mobs for this quest, you'll have another opportunity to do it later, focus on killing Dew Collectors |QID|3362| |O|
 N Kill Dew Collectors. Loot them for the Dew Gland - (28.7, 64.1) |QID|2605|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 A In Good Taste |QID|2606| |N|Talk to Marin Noggenfogger - Talk to Marin Noggenfogger - (51.8, 28.7)|
 A Sprinkle's Secret Ingredient |QID|2641| |N|Talk to Sprinkle - Talk to Sprinkle - (51.0, 26.9)|
 T Noxious Lair Investigation |QID|82| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|

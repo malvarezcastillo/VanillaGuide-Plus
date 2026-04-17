@@ -13,7 +13,7 @@ f Stormwind >> Get the Stormwind City flight path |N|Talk to Dungar Longdrink - 
 R Exit Stormwind |N|(73.2, 92.1)| |O|
 A Wanted: "Hogger" |QID|176| |N|Talk to Deputy Rainer - Click the Wanted Poster - (24.5, 74.7)|
 N Kill Hogger. Loot him for his Claw - Hogger can spawn in multiple locations - Cast [Fear] on Hogger continously and use your regular DoTs to kill him - This quest is difficult. Find a group for him if needed. Skip this step if you're unable to find a group or solo him - Huge Gnoll Claw (1) - (27.0, 86.7) |QID|176|
-D Die and respawn |O|
+D Die and respawn |O| |M|speedrun|
 T Wanted: "Hogger" |QID|176| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
 N Kill Rockhide Boar - Kill Rockhide Boars. Loot them for their [Chunks of Boar Meat] - Chunk of Boar Meat (1-10) - (49.9, 73.0) |O| |C|Warlock|
 N Kill Rockhide Boar - Kill Rockhide Boars. Loot them for their [Chunks of Boar Meat] - Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by - Chunk of Boar Meat (10-50) - (49.9, 73.0) |O| |C|Warlock|

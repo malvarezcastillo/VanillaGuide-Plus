@@ -31,22 +31,22 @@ N Equip the [large Axe] |U|2491| |O| |C|Warrior| |R|Orc|
 N Equip the [Tomahawk] |U|2490| |O| |C|Warrior| |R|Troll|
 N Equip the [Hornwood Recurve Bow] |U|2506| |O| |C|Hunter|
 t Train [Fire Blast] |N|Talk to Un'Thuwa - Talk to Un'Thuwa - (56.3, 75.1)| |C|Mage|
-N Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them - Collect item 2862 (x1) |O| |C|Warrior/Rogue|
+N Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them - Collect item 2862 (x1) |O| |C|Warrior/Rogue| |M|speedrun|
 N Run down the beach. Kill Crawlers and Makruras. Loot them for their Mucus and Eyes. You do not have to finish this step here. - (58.5, 75.9) |QID|818| |O|
 N (54.2, 82.6)
 N Run down the beach. Kill Crawlers and Makruras. Loot them for their Mucus and Eyes. You do not have to finish this step here. - Crawler Mucus (8) - Intact Makrura Eye (4) - (58.5, 75.9) |QID|818| |O|
 N (52.2, 83.0)
 N Kill Kolkar Drudges and Kolkar Outrunners. Loot them for their Canvas Scraps - Canvas Scraps (8) |QID|791| |O|
 N (50.9, 79.2)
-N Start collecting 3 stacks of [Linen Cloth] as you quest throughout Durotar. This will be used to make your wand later - Skip this step if you've already bought a wand or can get one cheap from the AH. - Linen Cloth (60) |O| |C|Priest|
-N Start collecting 3 stacks of [Linen Cloth] as you quest throughout Durotar. This will be used to make your wand later - Linen Cloth (60) |O| |C|Priest|
+N Start collecting 3 stacks of [Linen Cloth] as you quest throughout Durotar. This will be used to make your wand later - Skip this step if you've already bought a wand or can get one cheap from the AH. - Linen Cloth (60) |O| |C|Priest| |M|speedrun|
+N Start collecting 3 stacks of [Linen Cloth] as you quest throughout Durotar. This will be used to make your wand later - Linen Cloth (60) |O| |C|Priest| |M|hardcore|
 N Be careful if Kolkanis is up, he is a level 9 rare. You may have to use a  [Minor Healing Potion] if you have it |O|
 N Burn the Attack Plan inside the tent on the ground - Attack Plan: Valley of Trials destroyed (1) - (49.8, 81.3) |QID|786|
 N Burn the Attack Plan on the ground - Attack Plan: Sen'jin Village destroyed (1) - (47.7, 77.3) |QID|786|
 N Burn the Attack Plan on the ground - Attack Plan: Orgrimmar destroyed (1) - (46.2, 78.9) |QID|786|
-D Die and respawn |N|(46.4, 79.2)|
-N (51.0, 79.1) |O|
-N Talk to Lar Prowltusk - Talk to Lar. He patrols a little - (54.2, 73.4)
+D Die and respawn |N|(46.4, 79.2)| |M|speedrun|
+N (51.0, 79.1) |O| |M|hardcore|
+N Talk to Lar Prowltusk - Talk to Lar. He patrols a little - (54.2, 73.4) |M|hardcore|
 N Talk to Trayexir - Talk to Trayexir - Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet - (56.5, 73.1) |C|Shaman|
 N Talk to Trayexir. Buy a [Walking Stick] from him - Collect Walking Stick (1) - (56.5, 73.1) |C|Shaman|
 N Talk to Trayexir - Talk to Trayexir - Vendor trash. Sell your weapon if it gives you enough money for a [Stiletto] (4s 01c). You'll come back later if you don't have enough yet - (56.5, 73.1) |C|Rogue|
@@ -67,17 +67,17 @@ T A Solvent Spirit |QID|818| |N|Talk to Master Vornal - Talk to Vornal - (56.0, 
 N Talk to Hai'zan - Talk to Hai'zan - Buy [Haunch of Meat] from him - Vendor trash - Haunch of Meat (10) - (55.6, 73.6) |C|Warrior/Rogue/Shaman|
 N Talk to K'waii - Talk to K'waii - Buy [Refreshing Spring Water] from her --Refreshing Spring Water (20) - Collect item 159 (x20) - (56.3, 73.4) |C|Warlock/Mage/Priest|
 N Talk to K'waii - Talk to K'waii - Buy [Refreshing Spring Water] from her --Refreshing Spring Water (10) - Collect item 159 (x10) - (56.3, 73.4) |C|Warlock/Mage/Priest|
-N Talk to Lar Prowltusk - Talk to Lar. He patrols a little - (54.2, 73.4)
-A Break a Few Eggs |QID|815| |N|Talk to Cook Torka - Talk to Orgnil, Gar'Thok and Torka - (52.2, 43.1)|
-N (50.2, 43.1) |O|
-N (49.8, 40.4) |O|
-A Carry Your Weight |QID|791| |N|Talk to Furl Scornbrow - Talk to Furl - (49.9, 40.4)|
-t Train [Mining] |N|Talk to Krunn - Talk to Krunn - This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) - (51.8, 40.9)| |C|Warrior/Rogue|
-N Talk to Wuark - Talk to Wuark - Buy a [Mining Pick] from him - Mining Pick (1) - (51.9, 41.1) |C|Warrior/Rogue|
-t Train [Blacksmithing] |N|Talk to Dwukk - Talk to Dwukk - (52.0, 40.7)| |C|Warrior/Rogue|
-N Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them - Collect item 2862 (x1) |O| |C|Warrior/Rogue|
-N Grind mobs on the way - (54.4, 62.6)
-N Grind mobs on the way - (57.3, 54.7)
+N Talk to Lar Prowltusk - Talk to Lar. He patrols a little - (54.2, 73.4) |M|speedrun|
+A Break a Few Eggs |QID|815| |N|Talk to Cook Torka - Talk to Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |M|hardcore|
+N (50.2, 43.1) |O| |M|hardcore|
+N (49.8, 40.4) |O| |M|hardcore|
+A Carry Your Weight |QID|791| |N|Talk to Furl Scornbrow - Talk to Furl - (49.9, 40.4)| |M|hardcore|
+t Train [Mining] |N|Talk to Krunn - Talk to Krunn - This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) - (51.8, 40.9)| |C|Warrior/Rogue| |M|hardcore|
+N Talk to Wuark - Talk to Wuark - Buy a [Mining Pick] from him - Mining Pick (1) - (51.9, 41.1) |C|Warrior/Rogue| |M|hardcore|
+t Train [Blacksmithing] |N|Talk to Dwukk - Talk to Dwukk - (52.0, 40.7)| |C|Warrior/Rogue| |M|hardcore|
+N Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them - Collect item 2862 (x1) |O| |C|Warrior/Rogue| |M|hardcore|
+N Grind mobs on the way - (54.4, 62.6) |M|speedrun|
+N Grind mobs on the way - (57.3, 54.7) |M|hardcore|
 N Be careful if Watch Commander Zalaphil is up, as he is a level 9 rare. You may have to use a [Minor Healing Potion] if you have one |O|
 N (59.8, 58.2) |O|
 N Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps - Kul Tiras Sailor (10) - Kul Tiras Marine (8) - Canvas Scraps (8) |QID|791| |O|
@@ -94,9 +94,9 @@ G Grind to 2070+/4500xp |N|(59.0, 50.2)| |O| |C|Priest|
 G Grind to 1750+/4500xp |N|(59.0, 50.2)| |O| |C|Priest|
 G Grind to 855+/4500xp |N|(59.0, 50.2)| |O| |C|Priest|
 G Grind to 375+/4500xp |N|(59.0, 50.2)| |O| |C|Priest|
-D Die and respawn |N|(57.3, 53.5)| |O|
-A Break a Few Eggs |QID|815| |N|Talk to Cook Torka - Talk to Orgnil, Gar'Thok and Torka - (52.2, 43.1)|
-A The Admiral's Orders |QID|831| |N|Talk to Gar'Thok - Talk to Gar'Thok - (52.0, 43.5)|
+D Die and respawn |N|(57.3, 53.5)| |O| |M|speedrun|
+A Break a Few Eggs |QID|815| |N|Talk to Cook Torka - Talk to Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |M|speedrun|
+A The Admiral's Orders |QID|831| |N|Talk to Gar'Thok - Talk to Gar'Thok - (52.0, 43.5)| |M|hardcore|
 N (50.2, 43.1) |O|
 N (49.8, 40.4) |O|
 T Carry Your Weight |QID|791| |N|Talk to Furl Scornbrow - Talk to Furl - (49.9, 40.4)|
@@ -151,7 +151,7 @@ N Kill Hexed Trolls and Voodoo Trolls - Hexed Troll (8) - Voodoo Troll (8) - (67
 N Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus - Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes - Crawler Mucus (8) - Intact Makrura Eye (4) |QID|818| |O|
 N Kill Durotar Tigers. Loot them for their Fur - Durotar Tiger Fur (4) - (59.8, 83.4) |QID|817|
 N Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus - Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes - Crawler Mucus (8) - Intact Makrura Eye (4) - (59.6, 73.8) |QID|818|
-D Die and respawn |N|(57.5, 73.3)| |O|
+D Die and respawn |N|(57.5, 73.3)| |O| |M|speedrun|
 N Talk to Trayexir - Talk to Trayexir - Jump into the hut - Vendor trash and repair - (56.5, 73.1)
 t Train your class spells |N|Talk to Un'Thuwa - Talk to Un'Thuwa - (56.3, 75.1)| |C|Mage|
 T Practical Prey |QID|817| |N|Talk to Vel'rin Fang - Talk to Gadrin, Vornal and Vel'rin - (56.0, 74.7)|
@@ -160,8 +160,8 @@ N Kill Razormane Quilboars and Razormane Scouts - Razormane Quilboar (4) - Razor
 N Kill Razormane Dustrunners and Razormane Battleguards - Razormane Dustrunner (4) - Razormane Battleguard (4) - (44.5, 39.7) |QID|837|
 G Grind to 4470+/6500xp |N|(47.5, 48.7)| |O| |C|Hunter|
 G Grind to 4400+/6500xp |N|(49.1, 48.9)| |O|
-D Die and respawn |O|
-N (52.0, 43.5) |O|
+D Die and respawn |O| |M|speedrun|
+N (52.0, 43.5) |O| |M|hardcore|
 A Call of Fire |QID|2983| |N|Talk to Swart - Talk to Swart - (54.4, 42.6)| |C|Shaman|
 T Encroachment |QID|837| |N|Talk to Gar'Thok - Talk to Torka and Gar'Thok - (51.1, 42.5)| |C|Hunter|
 T From The Wreckage.... |QID|825| |N|Talk to Gar'Thok - Talk to Torka and Gar'Thok - (51.1, 42.5)|
@@ -197,10 +197,10 @@ A Call of Fire |QID|1525| |N|Talk to Telf Joolam - Talk to Telf - (38.5, 58.9)| 
 A Lost But Not Forgotten |QID|816| |N|Talk to Misha Tor'kren - Talk to Misha - (43.1, 30.2)| |C|Hunter/Shaman/Warrior|
 N Enter Thunder Ridge and kill Lightning Hides. Loot them for their Scales - Singed Scale (5) - (43.2, 24.3) |QID|1498| |C|Warrior|
 N (41.7, 25.7) |O| |C|Shaman|
-N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Don't be afraid to die for the Claw as you will be respawning at the Spirit Healer after - Fizzle's Claw (1) - (42.1, 26.7) |QID|806| |C|Warrior/Shaman|
-N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Fizzle's Claw (1) - (42.1, 26.7) |QID|806| |C|Warrior/Shaman|
-D Die and respawn |N|(47.0, 17.6)| |C|Warrior/Shaman|
-N (39.2, 32.0) |C|Warrior/Shaman|
+N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Don't be afraid to die for the Claw as you will be respawning at the Spirit Healer after - Fizzle's Claw (1) - (42.1, 26.7) |QID|806| |C|Warrior/Shaman| |M|speedrun|
+N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Fizzle's Claw (1) - (42.1, 26.7) |QID|806| |C|Warrior/Shaman| |M|hardcore|
+D Die and respawn |N|(47.0, 17.6)| |C|Warrior/Shaman| |M|speedrun|
+N (39.2, 32.0) |C|Warrior/Shaman| |M|hardcore|
 N (46.4, 22.9) |O|
 A Winds in the Desert |QID|834| |N|Talk to Rezlak - Talk to Rezlak - (46.4, 22.9)|
 N Loot the Stolen Supply Sacks from the ground - Sack of Supplies (5) - (49.7, 21.9) |QID|834|
@@ -209,12 +209,12 @@ T Winds in the Desert |QID|834| |N|Talk to Rezlak - Talk to Rezlak - (46.4, 22.9
 N Travel east around the hills to reach the cave. Follow the waypoint arrow - (49.4, 18.5) |O| |C|Shaman|
 N Kill Burning Blade Cultists. Loot them for a Reagent Pouch - Reagent Pouch (1) - (53.2, 29.1) |QID|1525| |C|Shaman|
 N (44.7, 24.9) |O|
-N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Don't be afraid to die for the Claw as you will be respawning at the Spirit Healer after - Fizzle's Claw (1) - (42.1, 26.7) |QID|806|
-N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Fizzle's Claw (1) - (42.1, 26.7) |QID|806|
-D Die and respawn |N|(47.0, 17.6)| |C|Warrior/Shaman/Hunter|
-N (39.2, 32.0) |C|Warrior/Shaman/Hunter|
-D Die and respawn |N|(47.0, 17.6)| |C|!Warrior/!Shaman/!Hunter|
-N (39.2, 32.0) |C|!Warrior/!Shaman/!Hunter|
+N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Don't be afraid to die for the Claw as you will be respawning at the Spirit Healer after - Fizzle's Claw (1) - (42.1, 26.7) |QID|806| |M|speedrun|
+N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Fizzle's Claw (1) - (42.1, 26.7) |QID|806| |M|hardcore|
+D Die and respawn |N|(47.0, 17.6)| |C|Warrior/Shaman/Hunter| |M|speedrun|
+N (39.2, 32.0) |C|Warrior/Shaman/Hunter| |M|hardcore|
+D Die and respawn |N|(47.0, 17.6)| |C|!Warrior/!Shaman/!Hunter| |M|speedrun|
+N (39.2, 32.0) |C|!Warrior/!Shaman/!Hunter| |M|hardcore|
 A Need for a Cure |QID|812| |N|Talk to Rhinag - Talk to Rhinag - This will start a 45 minute timer for the quest. Do NOT go AFK or log out for the next 5 minutes - (41.5, 18.6)| |C|Warrior/Shaman/Hunter|
 G Grind to 2930+/6500 into level 9 |N|(43.6, 15.1)| |O| |C|Warrior/Shaman|
 N Grind until your hearthstone cooldown is <5 minutes - (43.6, 15.1) |O| |C|Warrior/Shaman|

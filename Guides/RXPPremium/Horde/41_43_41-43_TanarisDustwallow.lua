@@ -15,7 +15,7 @@ A WANTED: Caliph Scorpidsting |QID|2781| |N|Click on the Wanted Poster - (51.8, 
 h Tanaris |N|Talk to Innkeeper Fizzgrimble - Talk to Innkeeper Fizzgrimble - (52.5, 27.9)|
 A Water Pouch Bounty |QID|1707| |N|Talk to Spigot Operator Luglunket - Talk to Bilgewhizzle and Luglunket - (52.5, 28.5)|
 A Water Pouch Bounty |QID|1707| |N|Talk to Spigot Operator Luglunket - Talk to Bilgewhizzle and Luglunket - (52.5, 28.5)| |O|
-A Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Fizzledowser - (50.2, 27.5)|
+A Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Fizzledowser - (50.2, 27.5)| |M|speedrun|
 N Talk to Laziphus - Talk to Laziphus - (52.3, 28.0) |O| |C|Hunter|
 R Attack mobs with it to learn [Claw (Rank 6)] |N|Kill Scorpid Hunter - Cast [Tame Beast] on a Scorpid Hunter to tame it - (54.1, 32.2)| |C|Hunter|
 N Talk to Laziphus - Talk to Laziphus - (52.3, 28.0) |C|Hunter|
@@ -77,10 +77,10 @@ R Hearthstone |U|6948| |O|
 R Gadgetzan >> Fly to Gadgetzan |N|Talk to Shardi - Talk to Shardi - (35.6, 31.9)| |O|
 A WANTED: Caliph Scorpidsting |QID|2781| |N|Click on the Wanted Poster - (51.8, 27.0)|
 A Tanaris Field Sampling |QID|654| |U|8524|
-N Kill +Scorpid Hunter - Kill Basilisks, Hyenas and Scorpids. Loot them for their their Samples - Use the Samples to test them - Do not delete any untested samples - This quest has a 2-hour timer. If it runs out you'll have to obtain a new Model 4711-FTZ Power Source from Chief Engineer Bilgewhizzle |QID|654| |U|9442| |O|
-C Use the [Untapped Dowsing Widget] at the pool |QID|992| |N|Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them - (39.1, 29.3)| |U|8584|
+N Kill +Scorpid Hunter - Kill Basilisks, Hyenas and Scorpids. Loot them for their their Samples - Use the Samples to test them - Do not delete any untested samples - This quest has a 2-hour timer. If it runs out you'll have to obtain a new Model 4711-FTZ Power Source from Chief Engineer Bilgewhizzle |QID|654| |U|9442| |O| |M|speedrun|
+C Use the [Untapped Dowsing Widget] at the pool |QID|992| |N|Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them - (39.1, 29.3)| |U|8584| |M|speedrun|
 N Kill +Scorpid Hunter - Kill Basilisks, Hyenas and Scorpids. Loot them for their their Samples - Use the Samples to test them - Do not delete any untested samples - This quest has a 2-hour timer. If it runs out you'll have to obtain a new Model 4711-FTZ Power Source from Chief Engineer Bilgewhizzle - (48.0, 33.2) |QID|654| |U|9442|
-T Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Fizzledowser - (50.2, 27.5)|
+T Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Fizzledowser - (50.2, 27.5)| |M|speedrun|
 T Tanaris Field Sampling |QID|654| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Bilgewhizzle - (52.4, 28.5)|
 N Kill Caliph Scorpidsting. Loot him for his Head - Be careful; he has two stealthed adds with him |QID|2781| |O|
 N Kill Wastewander Rogues, Assassins and Shadow Mages - (61.0, 32.8) |QID|1691|
@@ -115,15 +115,15 @@ A Uldaman Reagent Run |QID|2202| |N|Talk to Jarkal Mossmeld - Talk to Jarkal Mos
 A Solution to Doom |QID|709| |N|Talk to Theldurin the Lost - Talk to Theldurin the Lost - (51.4, 76.9)|
 R Travel to Uldaman |N|(54.5, 57.8)|
 N If you loot the [Shattered Necklace], save it in your inventory - Do not accept the quest yet as it can cause questlog issues - Collect item 7666 (x1) |O|
-N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman. - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O|
-N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman. - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O|
+N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman. - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O| |M|hardcore|
+N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman. - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O| |M|speedrun|
 N Open the Ancient Chest. Loot it for the Tablet of Ryun'eh - This is completed OUTSIDE of the instance portal - (54.0, 57.9) |QID|709|
 N Loot the Garret Family Chest in the southern corner of the South Common Hall for the Garrett Family Treasure - The South Common Hall is southwest of the Uldaman instance portal - (53.8, 57.9) |QID|2342|
-N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O|
-N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O|
+N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O| |M|hardcore|
+N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O| |M|speedrun|
 N (53.9, 57.7)
-N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O|
-N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O|
+N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O| |M|hardcore|
+N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O| |M|speedrun|
 A The Platinum Discs |QID|2278| |N|Kill Archaedas - Kill Archaedas - Click The Discs of Norgannon|
 N Talk to Lore Keeper of Norgannon - Talk to Lore Keeper of Norgannon |QID|2278|
 A The Platinum Discs |QID|2280| |N|Click The Discs of Norgannon|

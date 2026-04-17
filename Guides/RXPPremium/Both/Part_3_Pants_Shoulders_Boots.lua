@@ -22,8 +22,8 @@ A Proof of Life |QID|8946| |N|Talk to Ysida Harmon - Talk to Ysida Harmon|
 A Anthion's Strange Request |QID|8947| |N|Talk to Anthion Harmon - Talk to Anthion outside Stratholme - (55.1, 17.5)| |U|22115|
 N Collect the following items: - [Dark Iron Bars] are created by miners - [Enchanted Leather] is created by enchanters - [Mooncloth] is created by tailors - [Cured Rugged Hides] are created by leatherworkers - [Dark Runes] are random drops in Scholomance - Buy them from the Auction House if possible - Dark Iron Bar (x3) - Enchanted Leather (x20) - Large Brilliant Shard (x8) - Mooncloth (x3) - Cured Rugged Hide (x4) - Dark Rune (x4)
 A Anthion's Old Friend |QID|8948| |N|Talk to Anthion Harmon - Talk to Anthion outside Stratholme - (55.1, 17.5)| |U|22115|
-R Travel to Feralas |N|This next section takes place in Dire Maul. It is possible to solo but grouping up is strongly recommended| |O|
-R Travel to Feralas |N|This next section takes place in Dire Maul. Make sure you have a group ready of at least 3 players| |O|
+R Travel to Feralas |N|This next section takes place in Dire Maul. It is possible to solo but grouping up is strongly recommended| |O| |M|speedrun|
+R Travel to Feralas |N|This next section takes place in Dire Maul. Make sure you have a group ready of at least 3 players| |O| |M|hardcore|
 N Alternatively ask another player to open the doors for you - (43.4, 66.5) |O|
 N (43.4, 66.5) |O|
 A Falrin's Vendetta |QID|8949| |N|Talk to Falrin Treeshaper - Talk to Falrin Treeshaper in the Dire Maul library|

@@ -15,7 +15,7 @@ A The Ruins of Stardust |QID|1034| |N|Talk to Pelturas Whitemoon - Talk to Peltu
 N Loot the Stardust Covered Bushes for the Handful of Stardust - Their spawn locations are scattered throughout the island - (33.3, 67.8) |QID|1034|
 N (31.7, 64.2) |O|
 N Jump over the tree root and hug the right to avoid aggroing mobs - (27.5, 60.8) |O|
-N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to - Clear an exit path if needed so you can reset them along with the Succubus if needed. You may skip this if it's too difficult and do it in the later Ashenvale section - (25.3, 60.7) |QID|973|
+N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to - Clear an exit path if needed so you can reset them along with the Succubus if needed. You may skip this if it's too difficult and do it in the later Ashenvale section - (25.3, 60.7) |QID|973| |M|speedrun|
 T Therylune's Escape |QID|945| |N|Talk to Therysil - Talk to Therysil - (22.6, 51.9)|
 T The Tower of Althalaxx |QID|973| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
 A The Ancient Statuette |QID|1007| |N|Talk to Talen - Talk to Talen - (14.8, 31.3)|
@@ -28,8 +28,8 @@ N Kill Wrathtail Nagas. Loot them for their Heads - (7.0, 15.2) |QID|1008|
 T Ruuzel |QID|1009| |N|Talk to Talen - Talk to Talen - (14.8, 31.3)|
 A Raene's Cleansing |QID|1023| |N|Talk to Teronis' Corpse - Talk to Teronis' Corpse - (20.3, 42.3)|
 N Kill Saltspittle Murlocs. Loot them for the Glowing Gem - (20.4, 43.8) |QID|1023|
-D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Warlock|
-N (34.7, 48.8) |O| |C|!Warlock|
+D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Warlock| |M|speedrun|
+N (34.7, 48.8) |O| |C|!Warlock| |M|hardcore|
 T The Ruins of Stardust |QID|1034| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)| |C|!Warlock|
 h Ashenvale |N|Talk to Innkeeper Kimlya - Talk to Innkeeper Kimlya - (37.0, 49.2)| |C|!Warlock|
 A An Aggressive Defense |QID|1025| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)| |C|!Warlock|
@@ -118,13 +118,13 @@ F Ashenvale >> Fly to Ashenvale |N|Talk to Teloren - Talk to Teloren - (36.4, 7.
 F Darkshore >> Fly to Darkshore |N|Talk to Teloren - Talk to Teloren - (36.4, 7.2)| |C|!Warlock|
 f Stonetalon >> Get the Stonetalon Flight Path |N|Talk to Teloren - Talk to Teloren - (36.4, 7.2)| |C|Warlock|
 N Talk to Illyanie - Talk to Illyanie - Vendor trash - (35.6, 7.4) |C|Warlock|
-R Travel to The Barrens |N|(75.5, 91.4)| |C|Warlock|
-N (40.4, 24.8) |O| |C|Warlock|
-D Die and respawn |N|Talk to Spirit Healer - Ensure you have at least 4 [Soul Shards] before dying intentionally, you're about to spirit res 4 times total| |O| |C|Warlock|
-R Run southeast to The Barrens |N|(35.1, 27.8)| |C|Warlock|
-D Die and respawn |N|Talk to Spirit Healer - (50.5, 32.5)| |O| |C|Warlock|
+R Travel to The Barrens |N|(75.5, 91.4)| |C|Warlock| |M|hardcore|
+N (40.4, 24.8) |O| |C|Warlock| |M|hardcore|
+D Die and respawn |N|Talk to Spirit Healer - Ensure you have at least 4 [Soul Shards] before dying intentionally, you're about to spirit res 4 times total| |O| |C|Warlock| |M|speedrun|
+R Run southeast to The Barrens |N|(35.1, 27.8)| |C|Warlock| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - (50.5, 32.5)| |O| |C|Warlock| |M|speedrun|
 A What is Love? |QID|65602| |N|Talk to Takar the Seer - Talk to Takar the Seer - (49.3, 57.1)| |C|Warlock|
-D Die and respawn |N|Do your best to avoid the Quilboars - (56.6, 51.6)| |O| |C|Warlock|
+D Die and respawn |N|Do your best to avoid the Quilboars - (56.6, 51.6)| |O| |C|Warlock| |M|speedrun|
 N (63.0, 37.2) |O| |C|Warlock|
 T Further Instructions |QID|1094| |N|Talk to Sputtervalve - Talk to Sputtervalve - (63.0, 37.2)| |C|Warlock|
 f Ratchet>> Get the Ratchet Flight Path |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |C|Warlock|
@@ -155,14 +155,14 @@ R Travel to Azshara |O|
 F Ashenvale>> Fly to Ashenvale |N|Talk to Jarrodenus - Talk to Jarrodenus - (11.9, 77.6)|
 N (34.7, 44.3) |O|
 N Kill Dal Bloodclaw. Loot him for his Skull - Dal Bloodclaw patrols Thistlefur Village - (36.1, 36.6) |QID|1054|
-D Die and respawn |N|Talk to Spirit Healer| |C|!Warlock|
+D Die and respawn |N|Talk to Spirit Healer| |C|!Warlock| |M|speedrun|
 N (26.7, 45.0) |O| |C|Warlock|
 N Loot the Heartswood giant tree - (31.5, 31.5) |QID|1738| |C|Warlock|
 N Loot the Unlit Torch on the table - Collect item 190307 (x1) - (26.8, 22.4) |C|Warlock|
 N Create a campfire, then use the Unlit Torch on top of it - Collect item 190308 (x1) - (26.8, 22.4) |U|190307| |C|Warlock|
 N Use the Burning Torch on the cart outside next to where you looted the torch, then go upstairs and loot the statue - (26.6, 22.0) |QID|65602| |C|Warlock|
-D Die and respawn |N|Talk to Spirit Healer - (24.5, 39.1)| |O| |C|Warlock|
-N (34.4, 48.0) |O| |C|Warlock|
+D Die and respawn |N|Talk to Spirit Healer - (24.5, 39.1)| |O| |C|Warlock| |M|speedrun|
+N (34.4, 48.0) |O| |C|Warlock| |M|hardcore|
 T Culling the Threat |QID|1054| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
 F Darkshore>> Fly to Darkshore |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)|
 R Take the boat to Menethil Harbor |N|Level your [First Aid] and [Cooking] while waiting for the Menethil Harbor boat - (32.4, 43.7)|

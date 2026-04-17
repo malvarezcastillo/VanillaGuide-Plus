@@ -21,10 +21,10 @@ N Talk to Helenia Olden - Talk to Helenia Olden - Buy 3 [Soothing Spices] from h
 A The Missing Diplomat |QID|1266| |N|Talk to Archmage Tervosh - Talk to Archmage Tervosh - Stay in Archmage Tervosh's Line of Sight as he will buff you with [Proudmoore's Defense] which gives 10 Stamina and 40 Armor - (59.7, 41.2)|
 T Soothing Spices |QID|1218| |N|Talk to "Swamp Eye" Jarl - Talk to "Swamp Eye" Jarl - (55.4, 26.3)|
 A The Orc Report |QID|1219| |N|Click the Loost Dirt - (55.4, 25.9)|
-T The Missing Diplomat |QID|1266| |N|Talk to Private Hendel - Talk to Private Hendel - IF YOU CHOOSE TO ACCEPT THE FOLLOW UP QUEST YOU WILL BE PVP FLAGGED! MEANING HORDE PLAYERS CAN KILL YOU! PROCEED AT YOUR OWN RISK! - You will NOT be PvP Flagged for turning in this current quest. Auto accept has been turned OFF for the follow up - (45.2, 24.6)|
-A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - IF YOU CHOOSE TO ACCEPT THIS QUEST YOU WILL BE PVP FLAGGED! MEANING HORDE PLAYERS CAN KILL YOU! PROCEED AT YOUR OWN RISK! - (45.2, 24.6)|
-A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - Blizzard has adjusted this quest so it will no longer PvP Flag you on Official Hardcore Servers - (45.2, 24.6)|
-A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - (45.2, 24.6)|
+T The Missing Diplomat |QID|1266| |N|Talk to Private Hendel - Talk to Private Hendel - IF YOU CHOOSE TO ACCEPT THE FOLLOW UP QUEST YOU WILL BE PVP FLAGGED! MEANING HORDE PLAYERS CAN KILL YOU! PROCEED AT YOUR OWN RISK! - You will NOT be PvP Flagged for turning in this current quest. Auto accept has been turned OFF for the follow up - (45.2, 24.6)| |M|speedrun|
+A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - IF YOU CHOOSE TO ACCEPT THIS QUEST YOU WILL BE PVP FLAGGED! MEANING HORDE PLAYERS CAN KILL YOU! PROCEED AT YOUR OWN RISK! - (45.2, 24.6)| |M|speedrun|
+A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - Blizzard has adjusted this quest so it will no longer PvP Flag you on Official Hardcore Servers - (45.2, 24.6)| |M|hardcore|
+A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - (45.2, 24.6)| |M|speedrun|
 N Defeat Private Hendel. He will attack you along with 2 Theramore Sentries - They will both reset once you subdue Private Hendel - (45.2, 24.6) |QID|1324|
 T The Missing Diplomat |QID|1267| |N|Talk to Lady Jaina Proudmoore - Talk to Archmage Tervosh first and then to Lady Jaina Proudmoore - (45.2, 24.3)|
 A Hungry! |QID|1177| |N|Talk to Mudcrush Durtfeet - Talk to Mudcrush Durtfeet - (35.2, 38.3)|

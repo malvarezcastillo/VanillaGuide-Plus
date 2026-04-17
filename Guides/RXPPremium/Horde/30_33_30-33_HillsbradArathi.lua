@@ -62,8 +62,8 @@ N Kill Hillsbrad Councilmen - Be careful of their Frost Nova and Frostbolt - (29
 N Kill Magistrate Burnside and Clerk Horrace Whitesteed  inside Hillsbrad Town Hall - Loot the Hillsbrad Town Registry and burn the Hillsbrad Proclamation - (29.7, 41.6) |QID|532|
 N Finish killing Hillsbrad Councilmen - Be careful of their Frost Nova and Frostbolt - (29.6, 42.3) |QID|532|
 A Battle of Hillsbrad |QID|539| |N|Talk to High Executor Darthalia - Talk to Darthalia - (62.4, 20.3)|
-T Helcular's Revenge |QID|552| |N|Talk to Novice Thaivand - Talk to Thaivand - (63.9, 19.7)|
-A Helcular's Revenge |QID|553| |N|Talk to Novice Thaivand - Talk to Novice Thaivand - (63.9, 19.7)|
+T Helcular's Revenge |QID|552| |N|Talk to Novice Thaivand - Talk to Thaivand - (63.9, 19.7)| |M|hardcore|
+A Helcular's Revenge |QID|553| |N|Talk to Novice Thaivand - Talk to Novice Thaivand - (63.9, 19.7)| |M|speedrun|
 N Talk to Kayren Soothallow - Talk to Kayren - Buy [Razor Arrows] from him - Collect item 3030 (x1800) - (62.6, 19.9) |C|Hunter|
 N Talk to Innkeeper Shay - Talk to Innkeeper Shay - Buy a [Southshore Stout] from him - Collect item 3703 (x1) - (62.8, 19.1)
 N Be careful! Do not get too close to Southshoure (south) as Soutshore Guards could kill you - Soutshore Guards have a huge agro range - (50.5, 49.2) |O|
@@ -81,12 +81,12 @@ N (18.7, 84.4) |O|
 N Kill Kegan Darkmar on the second floor of the building. Loot him for his Bloodstone - Be careful of Warden Belamoore. Kill her prior to attacking Kegan Darkmar - (18.3, 82.8) |QID|544|
 N Finish killing the Dalaran Humanoids. Loot them for their Worn Stone Tokens - (20.1, 86.2) |QID|556|
 N Kill Hulking Mountain Lion - Kill Mountain Lions. Loot them for a [Fresh Carcass] - [Fresh Carcass] disappears after 30 minutes - Collect item 5810 (x1) - (41.8, 76.6) |O|
-N Charge the Flame of Uzel inside the Growless Cave - (37.5, 66.2) |QID|553|
+N Charge the Flame of Uzel inside the Growless Cave - (37.5, 66.2) |QID|553| |M|speedrun|
 C Use the [Fresh Carcass] inside Growless Cave to summon Frostmaw. Kill him and loot him for his Mane |QID|1136| |N|Frostmaw is level 37. Clear a kiting path outside the cave before summoning him! - This quest is HARD! You could postpone this until after Arathi when you are 1-2 levels higher - (37.6, 68.2)| |U|5810|
 C Use the [Fresh Carcass] inside Growless Cave to summon Frostmaw. Kill him and loot him for his Mane |QID|1136| |N|(37.6, 68.2)| |U|5810|
 N Be careful of the Alliance Guards at the Alterac Valley cave as you move south! They have a large agro pull and will kill you in 2 hits - Check the map to see their location - (39.9, 80.9) |O|
-N Charge the Flame of Azel inside the Darrow Hill cave - (46.2, 31.9) |QID|553|
-N Charge the Flame of Veraz - It's located on the lower floor on the Northern side of the cave - (44.7, 28.6) |QID|553|
+N Charge the Flame of Azel inside the Darrow Hill cave - (46.2, 31.9) |QID|553| |M|speedrun|
+N Charge the Flame of Veraz - It's located on the lower floor on the Northern side of the cave - (44.7, 28.6) |QID|553| |M|speedrun|
 N Talk to Henchman Valik - Talk to Henchman Valik - Trade the [Southshore Stout] for the Syndicate Missive - He may be hostile. If so, kill him and wait for his respawn. Alternatively kill Syndicate to obtain the Syndicate Missive - (57.2, 69.5) |QID|533| |O|
 N Kill Syndicate Thieves and Syndicate Footpads. Loot them for a Syndicate Missive - (48.9, 82.9) |QID|533|
 T Prison Break In |QID|544| |N|Talk to Magus Wordeen Voidglare - Talk to Bel'varil and Wordeen - (61.6, 20.9)|
@@ -100,12 +100,12 @@ N Talk to Kayren Soothallow - Talk to Kayren - Buy [Razor Arrows] from him - Col
 N Talk to Innkeeper Shay - Talk to Innkeeper Shay - (62.8, 19.0)
 A The Hammer May Fall |QID|676| |N|Talk to Tallow - Talk to Tallow - (61.9, 19.6)|
 A Elixir of Agony |QID|509| |N|Talk to Apothecary Lydon - Talk to Lydon - (61.4, 19.1)|
-T Helcular's Revenge |QID|553| |N|Talk to Novice Thaivand - Talk to Novice Thaivand - Turn this quest in as fast as possible. There are high level Southshore Guards in the area that will attack you. You will most likely die - (52.9, 53.4)|
+T Helcular's Revenge |QID|553| |N|Talk to Novice Thaivand - Talk to Novice Thaivand - Turn this quest in as fast as possible. There are high level Southshore Guards in the area that will attack you. You will most likely die - (52.9, 53.4)| |M|speedrun|
 N Loot the White Mushrooms around Nethander Stead for Mudsnout Blossoms - (64.7, 62.0) |QID|509|
 N (70.8, 78.1) |O|
 N Kill Dun Garok Soldiers and Captain Ironhill. Loot them for Humbert's Sword - Be careful on your way in and out of Dun Garok; there are multiple patrols on the road and in the stronghold - (71.3, 75.2) |QID|547|
 R Travel to Arathi Highlands |N|(20.2, 29.5)|
-N Be careful of getting too close to Refuge Point (Alliance base) in the centre of the zone. Refuge Point Defenders can kill you - (45.8, 43.6) |O|
+N Be careful of getting too close to Refuge Point (Alliance base) in the centre of the zone. Refuge Point Defenders can kill you - (45.8, 43.6) |O| |M|hardcore|
 N Kill Boulderfist Ogres and Boulderfist Enforcers in and around Boulder'gor - Be careful. They can buff themselves with [Fist of Stone] (+100 damage each hit and 75% reduced movement speed) - (35.5, 44.3) |QID|676|
 N Kill Marcel. Loot him for his Head - He uses [Shield Wall] (-75% damage for 10s) and [Shield Bash] (interrupt) - (54.2, 38.2) |QID|1164|
 N Kill Kenata. Loot her for her Head - (56.4, 36.1) |QID|1164|
@@ -139,7 +139,7 @@ A Battle of Hillsbrad |QID|550| |N|Talk to High Executor Darthalia - Talk to Dar
 N Kill Hulking Mountain Lion - Kill Mountain Lions. Loot them for a [Fresh Carcass] - [Fresh Carcass] disappears after 30 minutes - Collect item 5810 (x1) - (30.7, 82.3) |O|
 C Use the [Fresh Carcass] inside Growless Cave to summon Frostmaw. Kill him and loot him for his Mane |QID|1136| |N|Frostmaw is level 37. Clear a kiting path outside the cave before summoning him! - (37.6, 68.2)| |U|5810|
 C Use the [Fresh Carcass] inside Growless Cave to summon Frostmaw. Kill him and loot him for his Mane |QID|1136| |N|(37.6, 68.2)| |U|5810|
-N Be careful of the Alliance Guards at the Alterac Valley cave as you move south! They have a large agro pull and will kill you in 2 hits - Check the map to see their location - (39.9, 80.9) |O| |C|!Mage|
+N Be careful of the Alliance Guards at the Alterac Valley cave as you move south! They have a large agro pull and will kill you in 2 hits - Check the map to see their location - (39.9, 80.9) |O| |C|!Mage| |M|hardcore|
 N Cast Cast [Teleport: Undercity] |O| |C|Mage|
 R Undercity >> Fly to the Undercity |N|Talk to Zarise - Talk to Zarise - (60.1, 18.6)| |O| |C|!Mage|
 T To Steal From Thieves |QID|1164| |N|Talk to Genavie Callow - Talk to Genavie Callow - (63.8, 49.5)|

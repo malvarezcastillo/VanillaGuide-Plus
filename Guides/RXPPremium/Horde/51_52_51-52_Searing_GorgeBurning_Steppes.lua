@@ -48,8 +48,8 @@ N Kill all Dark Iron Dwarves and Slave Workers. Loot them for their Daggers - (4
 N Kill Dark Iron Kidnapper - Keep killing Dark Iron Dwarves until you loot the [Grimesilt Outhouse Key] - Do not accept the quest yet! This may cause questlog issues - Collect item 11818 (x1) - (46.4, 53.9)
 N (35.5, 23.5) |O|
 A The Flame's Casing |QID|3452| |N|Talk to Velarok Windblade - Talk to Velarok - (39.0, 39.0)|
-N Kill Twilight mobs. Loot them for the Symbol of Ragnaros - Be careful as this quest can be VERY hard. Be aware that the Dark Shamans have a 2000 health heal, and 500 damage instant shock spell. Group up for this quest if needed - (26.6, 35.0) |QID|3452|
-N Kill Twilight mobs. Loot them for the Symbol of Ragnaros - Be careful as this quest can be VERY hard. Be aware that the Dark Shamans have a 2000 health heal, and 500 damage instant shock spell. - (26.6, 35.0) |QID|3452|
+N Kill Twilight mobs. Loot them for the Symbol of Ragnaros - Be careful as this quest can be VERY hard. Be aware that the Dark Shamans have a 2000 health heal, and 500 damage instant shock spell. Group up for this quest if needed - (26.6, 35.0) |QID|3452| |M|speedrun|
+N Kill Twilight mobs. Loot them for the Symbol of Ragnaros - Be careful as this quest can be VERY hard. Be aware that the Dark Shamans have a 2000 health heal, and 500 damage instant shock spell. - (26.6, 35.0) |QID|3452| |M|hardcore|
 A The Torch of Retribution |QID|3454| |N|Talk to Velarok Windblade - Talk to Velarok Windblade - (39.1, 39.0)|
 A The Torch of Retribution |QID|3454| |N|Talk to Velarok Windblade - Talk to Velarok Windblade - (39.1, 39.0)| |O|
 T The Torch of Retribution |QID|3454| |N|Click on the Torch of Retribution - (39.1, 39.1)|

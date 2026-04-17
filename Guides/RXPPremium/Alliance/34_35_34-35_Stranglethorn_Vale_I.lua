@@ -83,7 +83,7 @@ N Kill Crystal Spine Basilisks. Loot them for their Shards - Crystal Spine Basil
 N Kill Stranglethorn Raptors - (27.6, 15.4) |QID|194|
 N Kill Crystal Spine Basilisks. Loot them for their Shards - Crystal Spine Basilisks will cast [Crystal Gaze] which is a 6 second long stun. Simply move out of their melee range when they begin to cast to avoid it - (27.4, 18.5) |QID|605|
 N (21.6, 21.8) |QID|578|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 N (35.7, 10.8) |O|
 A Panther Mastery |QID|192| |N|Talk to Sir S. J. Erlgadin - Talk to Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)|
 N Cast Cast Teleport: Moonglade |O| |C|Druid|
@@ -101,7 +101,7 @@ A The Carevin Family |QID|1042| |N|Talk to Clerk Daltry - Talk to Clerk Daltry i
 A The Scythe of Elune |QID|1043| |N|Talk to Jonathan Carevin - Talk to Jonathan Carevin - (75.2, 48.8)|
 N (73.2, 76.2) |O|
 N Click the Mound of Dirt at the back of the Cave - (73.5, 79.1) |QID|1043|
-D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Hunter|
+D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Hunter| |M|speedrun|
 N (75.2, 48.8) |O|
 T The Scythe of Elune |QID|1043| |N|Talk to Jonathan Carevin - Talk to Jonathan Carevin - (75.2, 48.8)|
 R Teleport to Stormwind City |N|(43.1, 80.4)| |O| |C|Mage|

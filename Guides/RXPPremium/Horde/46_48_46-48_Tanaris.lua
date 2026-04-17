@@ -137,9 +137,9 @@ A Cortello's Riddle |QID|626| |N|Enter the cave, then click the Musty Scroll on 
 N Click Eggs of Onyxia to destroy them - (53.6, 72.5) |QID|1172|
 T Tiara of the Deep |QID|2846| |N|Talk to Tabetha - Talk to Tabetha - (46.0, 57.1)|
 G Grind to level 47+118800 |N|(48.5, 75.3)|
-N (36.1, 30.7) |O|
-D Die and respawn |O|
-N (36.1, 30.7) |O|
+N (36.1, 30.7) |O| |M|hardcore|
+D Die and respawn |O| |M|speedrun|
+N (36.1, 30.7) |O| |M|speedrun|
 T The Brood of Onyxia |QID|1172| |N|Talk to Draz'Zilb - Talk to Draz'Zilb - (37.1, 33.1)|
 A Challenge Overlord Mok'Morokk |QID|1173| |N|Talk to Mok'Morokk - Accepting this quest turns Overlord Mok'Morokk hostile. He hits extremely hard and should be kited. Be prepared - (36.3, 31.5)|
 N Defeat Overlord Mok'Morokk by reducing his health to about 30% - He hits extremely hard and should be kited - (36.3, 31.5) |QID|1173|

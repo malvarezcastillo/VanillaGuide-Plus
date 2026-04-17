@@ -57,7 +57,7 @@ T Kodo Roundup |QID|5561| |N|Talk to Smeed Scrabblescrew - Talk to Smeed Scrabbl
 N Loot Kodo Bones around the graveyard - Looting them may cause Kodo Apparitions to spawn. Kodo Apparitions do not drop Kodo Bones - (52.5, 58.6) |QID|5501|
 C Use the [Kodo Kombobulator] on Ancient Kodos and Dying Kodos. Take them back to Smeed |QID|5561| |N|Talk to Tamed Kodo - You may only take 1 Tamed Kodo back at a time - Talk to the Tamed Kodo once you've taken it back to Smeed - (51.7, 58.2)| |U|13892|
 T Kodo Roundup |QID|5561| |N|Talk to Smeed Scrabblescrew - Talk to Smeed Scrabblescrew - (60.9, 61.9)|
-T Strange Alliance |QID|1382| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
+T Strange Alliance |QID|1382| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)| |M|hardcore|
 T Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly F'utzbuckle - (62.3, 39.0)|
 N Kill Scorpashi Snappers, Scorpashi Lashers and Scorpashi Venomlashs. Loot them for their Venom - Kill Aged Kodos. Loot them for their Aged Kodo Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn - You must complete this step now - (70.4, 63.0) |QID|1459|
 T Sceptre of Light |QID|5741| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (38.9, 27.2)|
@@ -71,25 +71,25 @@ N Kill the Slitherblades. Loot them for Rackmore's Golden Key - (28.1, 10.9) |QI
 T Claim Rackmore's Treasure! |QID|6161| |N|Click Rackmore's Chest on the ground - (30.0, 8.7)|
 T Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (38.9, 27.2)|
 H Hearthstone |N|Buy food/water if needed| |O|
-N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |O| |C|Hunter|
+N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |O| |C|Hunter| |M|speedrun|
 A The Karnitol Shipwreck |QID|1457| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
 A Down the Scarlet Path |QID|1052| |N|Talk to Brother Anton - Talk to Brother Anton - (66.5, 7.9)|
 T Reagents for Reclaimers Inc. |QID|1459| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
 A Reagents for Reclaimers Inc. |QID|1466| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
 T Centaur Bounty |QID|1387| |N|Talk to Corporal Melkins - Talk to Corporal Melkins - (66.7, 10.9)|
 T Return to Vahlarriel |QID|1440| |N|Talk to Vahlarriel Demonslayer - Talk to Vahlarriel Demonslayer - (66.4, 11.8)|
-t Attack mobs with it to learn [Claw (Rank 5)] |N|Cast [Tame Beast] on a Scorpashi Lasher to tame it - (43.6, 62.4)| |C|Hunter|
+t Attack mobs with it to learn [Claw (Rank 5)] |N|Cast [Tame Beast] on a Scorpashi Lasher to tame it - (43.6, 62.4)| |C|Hunter| |M|speedrun|
 N Kill Ley Hunters, Mana Eaters and Mage Hunters. Loot them for their Brains - Kill Nether Sisters, Nether Maidens and Nether Sorceresses. Loot them for their Wings - Kill Doomwarder Captains. Loot them for their Blood - Prioritize Doomwarder Captains as you may need to wait for their respawns. Regular Doomwarders do not drop Blood. You could also ask someone to invite you so you change layers - (51.7, 83.9) |QID|1466|
-D Die and respawn |N|Talk to Spirit Healer| |O|
-T Strange Alliance |QID|1382| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
-A Reagents for Reclaimers Inc. |QID|1467| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
-N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |O| |C|Hunter|
-t Attack mobs with it to learn [Claw (Rank 5)] |N|Cast [Tame Beast] on a Scorpashi Lasher to tame it - Use [Eagle Eye] to scout the spawn spots north of Sargeron (marked on your map) as they're much closer than the southen spawns - (73.6, 12.2)| |C|Hunter|
-N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |C|Hunter|
-F Tanaris >> Fly to Tanaris |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - (64.7, 10.5)|
-R Travel to Feralas |N|(41.1, 91.7)|
-D Die and respawn |N|Talk to Spirit Healer - Once you get to Feralas, walk along the mountains to the west to avoid aggroing mobs and then die near the stone obelisks - (40.6, 8.6)| |O|
-F Tanaris >> Fly to Tanaris |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.2)|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+T Strange Alliance |QID|1382| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)| |M|speedrun|
+A Reagents for Reclaimers Inc. |QID|1467| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)| |M|hardcore|
+N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |O| |C|Hunter| |M|hardcore|
+t Attack mobs with it to learn [Claw (Rank 5)] |N|Cast [Tame Beast] on a Scorpashi Lasher to tame it - Use [Eagle Eye] to scout the spawn spots north of Sargeron (marked on your map) as they're much closer than the southen spawns - (73.6, 12.2)| |C|Hunter| |M|hardcore|
+N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |C|Hunter| |M|hardcore|
+F Tanaris >> Fly to Tanaris |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - (64.7, 10.5)| |M|hardcore|
+R Travel to Feralas |N|(41.1, 91.7)| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - Once you get to Feralas, walk along the mountains to the west to avoid aggroing mobs and then die near the stone obelisks - (40.6, 8.6)| |O| |M|speedrun|
+F Tanaris >> Fly to Tanaris |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.2)| |M|speedrun|
 N (77.8, 77.3) |O|
 T Parts for Kravel |QID|1112| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|
 A Encrusted Tail Fins |QID|1107| |N|Talk to Wizzle Brassbolts - Talk to Wizzle Brassbolts - (78.1, 77.1)|
@@ -98,13 +98,13 @@ A Razzeric's Tweaking |QID|1187| |N|Talk to Razzeric - Talk to Razzeric - (80.3,
 A Delivery to the Gnomes |QID|1114| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|
 T Delivery to the Gnomes |QID|1114| |N|Talk to Fizzle Brassbolts - Talk to Fizzle Brassbolts - (78.1, 77.1)|
 A The Rumormonger |QID|1115| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|
-H Hearthstone |N|Buy food/water if needed|
-N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |C|Hunter|
-A Reagents for Reclaimers Inc. |QID|1467| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
-t Attack mobs with it to learn [Claw (Rank 5)] |N|Kill Scorpashi Lasher - Cast [Tame Beast] on a Scorpashi Lasher to tame it - (43.6, 62.4)| |C|Hunter|
-N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |C|Hunter|
-F Ratchet >> Fly to Ratchet |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - (64.7, 10.5)|
-F Ratchet >> Fly to Ratchet |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)|
+H Hearthstone |N|Buy food/water if needed| |M|speedrun|
+N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |C|Hunter| |M|speedrun|
+A Reagents for Reclaimers Inc. |QID|1467| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)| |M|speedrun|
+t Attack mobs with it to learn [Claw (Rank 5)] |N|Kill Scorpashi Lasher - Cast [Tame Beast] on a Scorpashi Lasher to tame it - (43.6, 62.4)| |C|Hunter| |M|speedrun|
+N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |C|Hunter| |M|speedrun|
+F Ratchet >> Fly to Ratchet |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - (64.7, 10.5)| |M|speedrun|
+F Ratchet >> Fly to Ratchet |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)| |M|hardcore|
 F Ratchet >> Fly to Ratchet |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)|
 R Take the Boat to Booty Bay |N|(63.7, 38.7)|
 

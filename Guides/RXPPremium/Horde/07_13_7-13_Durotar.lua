@@ -34,7 +34,7 @@ t Train [Fire Blast] |N|Talk to Un'Thuwa - Talk to Un'Thuwa - (56.3, 75.1)| |C|M
 N Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them - Collect item 2862 (x1) |O| |C|Warrior/Rogue|
 N Kill Crawlers and Makruras. Loot them for their Mucus and Eyes |QID|818| |O|
 N Kill Durotar Tigers. Loot them for their Fur - Durotar Tiger Fur (4) |QID|817| |O|
-N Loot the Taillasher Eggs on the ground - They're usually guarded by a Bloodtalon Taillasher - Taillasher Egg (3) |QID|815| |O|
+N Loot the Taillasher Eggs on the ground - They're usually guarded by a Bloodtalon Taillasher - Taillasher Egg (3) |QID|815| |O| |M|speedrun|
 N (66.9, 84.4)
 N Kill Hexed Trolls and Voodoo Trolls - Hexed Troll (8) - Voodoo Troll (8) |QID|826| |O|
 N Kill Zalazane. Loot him for his Head - Zalazane's Head (1) |QID|826| |O|
@@ -42,25 +42,25 @@ N Loot one of the Skulls on the ground - Minshina's Skull (1) - (67.4, 87.8) |QI
 N Kill Zalazane. Loot him for his Head - Zalazane's Head (1) - (67.4, 87.8) |QID|826|
 N Kill Durotar Tigers. Loot them for their Fur - Durotar Tiger Fur (4) |QID|817| |O|
 N Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus - Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes - Crawler Mucus (8) - Intact Makrura Eye (4) |QID|818| |O|
-N Loot the Taillasher Eggs on the ground - They're usually guarded by a Bloodtalon Taillasher - Taillasher Egg (3) |QID|815| |O|
+N Loot the Taillasher Eggs on the ground - They're usually guarded by a Bloodtalon Taillasher - Taillasher Egg (3) |QID|815| |O| |M|speedrun|
 N Kill Hexed Trolls and Voodoo Trolls - Hexed Troll (8) - Voodoo Troll (8) - (67.2, 88.8) |QID|826|
 N Kill Durotar Tigers. Loot them for their Fur - Durotar Tiger Fur (4) - (59.8, 83.4) |QID|817|
 N Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus - Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes - Crawler Mucus (8) - Intact Makrura Eye (4) - (62.9, 93.5) |QID|818|
-N Loot the Taillasher Eggs on the ground - They're usually guarded by a Bloodtalon Taillasher - Taillasher Egg (3) - (59.9, 89.6) |QID|815|
-D Die and respawn |N|(57.5, 73.3)| |O|
+N Loot the Taillasher Eggs on the ground - They're usually guarded by a Bloodtalon Taillasher - Taillasher Egg (3) - (59.9, 89.6) |QID|815| |M|speedrun|
+D Die and respawn |N|(57.5, 73.3)| |O| |M|speedrun|
 N Talk to Trayexir - Talk to Trayexir - Jump into the hut - Vendor trash and repair - (56.5, 73.1)
 t Train your class spells |N|Talk to Un'Thuwa - Talk to Un'Thuwa - (56.3, 75.1)| |C|Mage|
 T Practical Prey |QID|817| |N|Talk to Vel'rin Fang - Talk to Gadrin, Vornal and Vel'rin - (56.0, 74.7)|
 N Bind your [Faintly Glowing Skull] and [Really Sticky Glue]. Save them for emergency situations |O|
-A Vanquish the Betrayers |QID|784| |N|Talk to Gar'thok - Talk to Gar'thok - You can talk to him from outside or on top of the bunker - (52.0, 43.5)|
-N (50.2, 43.1) |O|
-N (49.8, 40.4) |O|
-A Carry Your Weight |QID|791| |N|Talk to Furl Scornbrow - Talk to Furl - (49.9, 40.4)|
-t Train [Mining] |N|Talk to Krunn - Talk to Krunn - This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) - (51.8, 40.9)| |C|Warrior/Rogue|
-N Talk to Wuark - Talk to Wuark - Buy a [Mining Pick] from him - Mining Pick (1) - (51.9, 41.1) |C|Warrior/Rogue|
-t Train [Blacksmithing] |N|Talk to Dwukk - Talk to Dwukk - (52.0, 40.7)| |C|Warrior/Rogue|
-N Grind mobs on the way - (59.2, 58.4)
-N (59.2, 58.4)
+A Vanquish the Betrayers |QID|784| |N|Talk to Gar'thok - Talk to Gar'thok - You can talk to him from outside or on top of the bunker - (52.0, 43.5)| |M|hardcore|
+N (50.2, 43.1) |O| |M|hardcore|
+N (49.8, 40.4) |O| |M|hardcore|
+A Carry Your Weight |QID|791| |N|Talk to Furl Scornbrow - Talk to Furl - (49.9, 40.4)| |M|hardcore|
+t Train [Mining] |N|Talk to Krunn - Talk to Krunn - This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) - (51.8, 40.9)| |C|Warrior/Rogue| |M|hardcore|
+N Talk to Wuark - Talk to Wuark - Buy a [Mining Pick] from him - Mining Pick (1) - (51.9, 41.1) |C|Warrior/Rogue| |M|hardcore|
+t Train [Blacksmithing] |N|Talk to Dwukk - Talk to Dwukk - (52.0, 40.7)| |C|Warrior/Rogue| |M|hardcore|
+N Grind mobs on the way - (59.2, 58.4) |M|speedrun|
+N (59.2, 58.4) |M|speedrun|
 N Be careful if Watch Commander Zalaphil is up, as he is a level 9 rare. You may have to use a [Minor Healing Potion] if you have one |O|
 N (59.8, 58.2) |O|
 N Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps - Kul Tiras Sailor (10) - Kul Tiras Marine (8) - Canvas Scraps (8) |QID|791| |O|
@@ -69,7 +69,7 @@ U The Admiral's Orders |QID|830| |N|Go upstairs in the keep - Open Benedict's Ch
 N Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps - Kul Tiras Sailor (10) - Kul Tiras Marine (8) - Canvas Scraps (8) - (59.0, 58.3) |QID|791|
 N Kill Kul Tiras Sailors and Kul Tiras Marines - Kul Tiras Sailor (10) - Kul Tiras Marine (8) - (59.0, 58.3) |QID|784| |O|
 N Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps - Canvas Scraps (8) - (59.0, 58.3) |QID|791|
-D Die and respawn |N|(57.3, 53.5)| |O|
+D Die and respawn |N|(57.3, 53.5)| |O| |M|speedrun|
 A Dark Storms |QID|806| |N|Talk to Orgnil Soulscar - Talk to Orgnil - (52.2, 43.1)|
 T Report to Orgnil |QID|823| |N|Talk to Orgnil Soulscar - Talk to Orgnil - (52.2, 43.1)|
 A Encroachment |QID|837| |N|Talk to Gar'Thok - Talk to Orgnil, Gar'Thok - (52.0, 43.5)|
@@ -138,10 +138,10 @@ A Call of Fire |QID|1524| |N|Talk to Kranal Fiss - Talk to Kranal - (55.9, 19.9)
 N Be careful to not fall of the mountain, the path is very narrow. You could die if you fall - (36.7, 57.8) |O| |C|Shaman|
 A Call of Fire |QID|1525| |N|Talk to Telf Joolam - Talk to Telf - (38.5, 58.9)| |C|Shaman|
 N Enter Thunder Ridge and kill Lightning Hides. Loot them for their Scales - Singed Scale (5) - (43.2, 24.3) |QID|1498| |C|Warrior|
-N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Don't be afraid to die for the Claw as you will be respawning at the Spirit Healer after - Fizzle's Claw (1) - (42.1, 26.7) |QID|806|
-N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Fizzle's Claw (1) - (42.1, 26.7) |QID|806|
-D Die and respawn |N|(47.0, 17.6)|
-N (39.2, 32.0)
+N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Don't be afraid to die for the Claw as you will be respawning at the Spirit Healer after - Fizzle's Claw (1) - (42.1, 26.7) |QID|806| |M|speedrun|
+N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Fizzle's Claw (1) - (42.1, 26.7) |QID|806| |M|hardcore|
+D Die and respawn |N|(47.0, 17.6)| |M|speedrun|
+N (39.2, 32.0) |M|hardcore|
 N (46.4, 22.9) |O|
 A Winds in the Desert |QID|834| |N|Talk to Rezlak - Talk to Rezlak - (46.4, 22.9)|
 N Loot the Stolen Supply Sacks from the ground - Sack of Supplies (5) - (49.7, 21.9) |QID|834|
@@ -150,8 +150,8 @@ N Travel east around the hills to reach the cave. Follow the waypoint arrow - (4
 N Kill Burning Blade Cultists. Loot them for a Reagent Pouch - Reagent Pouch (1) - (53.2, 29.1) |QID|1525| |C|Shaman|
 N (62.3, 19.4) |O| |C|Warrior/Shaman|
 A Thun'grim Firegaze |QID|1502| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|
-D Die and respawn |N|(50.7, 32.6)| |O|
-N (52.3, 29.3) |O|
+D Die and respawn |N|(50.7, 32.6)| |O| |M|speedrun|
+N (52.3, 29.3) |O| |M|hardcore|
 A Supplies for the Crossroads |QID|5041| |N|Talk to Thork - Talk to Thork - (51.5, 30.9)|
 A Plainstrider Menace |QID|844| |N|Talk to Sergra Darkthorn - Talk to Sergra - (52.2, 31.0)|
 A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)|
@@ -180,14 +180,14 @@ N Talk to Zendo'jian - Talk to Zendo'jian. Buy a [Laminated Recurve Bow] from hi
 N Equip the [Laminated Recurve Bow] when you are level 11 |U|2507| |O| |C|Hunter|
 N Equip the [Laminated Recurve Bow] |U|2507| |O| |C|Hunter|
 A Creature of the Void |QID|1501| |N|Talk to Gan'rul Bloodeye - Talk to Gan'rul Bloodeye - (48.2, 45.3)| |C|Warlock|
-N (53.0, 48.8) |O| |C|Warlock|
-D Die and respawn |N|(47.0, 17.6)| |C|Warlock|
-R Leave Orgrimmar |O| |C|Warlock|
+N (53.0, 48.8) |O| |C|Warlock| |M|speedrun|
+D Die and respawn |N|(47.0, 17.6)| |C|Warlock| |M|speedrun|
+R Leave Orgrimmar |O| |C|Warlock| |M|hardcore|
 N (55.0, 9.6) |C|Warlock|
 A Burning Shadows |QID|832| |N|Kill Gazz'uz if he is up. Loot him for [Eye of Burning Shadow]. Use it to start the quest - Collect Eye of Burning Shadow| |O| |C|Warlock|
 N Kill Burning Blade Orcs. Loot them for a Lieutenant's Insignia - Skip this if you're unlucky with the drop - Lieutenant's Insignia (1) |QID|5726| |O| |C|Warlock|
 N Loot the Burning Blade Stash in the back of the cave for Tablet of Verga - Tablet of Verga (1) - (54.2, 8.9) |QID|1501| |C|Warlock|
-D Die and respawn |N|(47.0, 17.6)| |C|Warlock|
+D Die and respawn |N|(47.0, 17.6)| |C|Warlock| |M|speedrun|
 R Enter Orgrimmar |N|(49.0, 92.8)| |C|Warlock|
 A Hidden Enemies |QID|5727| |N|Talk to Thrall - Talk to Thrall - (31.7, 37.8)| |C|Warlock|
 A Hidden Enemies |QID|5727| |N|Talk to Thrall - Talk to Thrall - (31.7, 37.8)| |O| |C|Warlock|

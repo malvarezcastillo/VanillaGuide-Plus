@@ -14,13 +14,13 @@ A Vile Familiars |QID|1485| |N|Talk to Ruzan - Talk to Ruzan - (42.6, 69.0)| |C|
 N Talk to Duokna - Talk to Duokna - Vendor Trash - (42.6, 67.3) |C|Warrior/Shaman|
 A Cutting Teeth |QID|788| |N|Talk to Gornek - Talk to Gornek - (42.1, 68.3)|
 N (42.3, 68.5) |C|Warrior/Shaman|
-N (41.5, 68.4) |O| |C|Warlock|
-N (41.5, 68.4) |O| |C|Warlock|
-N (41.5, 68.4) |O| |C|Warlock|
-N Talk to Hraug - Talk to Hraug - Vendor Trash - (40.6, 68.4) |C|Warlock|
-N Talk to Hraug - Talk to Hraug - Vendor Trash - (40.6, 68.4) |C|Warlock|
+N (41.5, 68.4) |O| |C|Warlock| |M|speedrun|
+N (41.5, 68.4) |O| |C|Warlock| |M|speedrun|
+N (41.5, 68.4) |O| |C|Warlock| |M|hardcore|
+N Talk to Hraug - Talk to Hraug - Vendor Trash - (40.6, 68.4) |C|Warlock| |M|speedrun|
+N Talk to Hraug - Talk to Hraug - Vendor Trash - (40.6, 68.4) |C|Warlock| |M|hardcore|
 t Train [Immolate] |N|Talk to Nartok - Talk to Nartok - (40.6, 68.5)| |C|Warlock|
-N Talk to Duokna - Talk to Duokna - (42.6, 67.3) |C|!Warrior/!Rogue|
+N Talk to Duokna - Talk to Duokna - (42.6, 67.3) |C|!Warrior/!Rogue| |M|speedrun|
 N Talk to Duokna - Talk to Duokna - Buy [Refreshing Spring Water] from her - Refreshing Spring Water (5) - (42.6, 67.3) |C|Warlock|
 N Kill Mottled Boars en route to the Burning Blade Coven - Try to get to level 2 before getting there - Mottled Boar (10) - (43.6, 67.3) |QID|788| |O| |C|Warlock|
 N (45.3, 56.4) |C|Warlock|
@@ -98,14 +98,14 @@ N Kill Felstalkers. Loot them for Felstalker Hooves - Felstalker Hoof (2) - (42.
 N (42.7, 53.0) |O|
 N (42.7, 53.0) |O|
 N (44.7, 52.5) |O|
-D Die and respawn |N|Talk to Spirit Healer - (44.7, 52.5)| |O|
-A Vanquish the Betrayers |QID|784| |N|Talk to Gar'thok - Talk to Gar'thok - You can talk to him from outside or on top of the bunker - (52.0, 43.5)|
-N (50.2, 43.1) |O|
-N (49.8, 40.4) |O|
-A Carry Your Weight |QID|791| |N|Talk to Furl Scornbrow - Talk to Furl - (49.9, 40.4)|
-t Train [Mining] |N|Talk to Krunn - Talk to Krunn - This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) - (51.8, 40.9)| |C|Warrior/Rogue|
-N Talk to Wuark - Talk to Wuark - Buy a [Mining Pick] from him - Mining Pick (1) - (51.9, 41.1) |C|Warrior/Rogue|
-t Train [Blacksmithing] |N|Talk to Dwukk - Talk to Dwukk - (52.0, 40.7)| |C|Warrior/Rogue|
+D Die and respawn |N|Talk to Spirit Healer - (44.7, 52.5)| |O| |M|speedrun|
+A Vanquish the Betrayers |QID|784| |N|Talk to Gar'thok - Talk to Gar'thok - You can talk to him from outside or on top of the bunker - (52.0, 43.5)| |M|speedrun|
+N (50.2, 43.1) |O| |M|speedrun|
+N (49.8, 40.4) |O| |M|speedrun|
+A Carry Your Weight |QID|791| |N|Talk to Furl Scornbrow - Talk to Furl - (49.9, 40.4)| |M|speedrun|
+t Train [Mining] |N|Talk to Krunn - Talk to Krunn - This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) - (51.8, 40.9)| |C|Warrior/Rogue| |M|speedrun|
+N Talk to Wuark - Talk to Wuark - Buy a [Mining Pick] from him - Mining Pick (1) - (51.9, 41.1) |C|Warrior/Rogue| |M|speedrun|
+t Train [Blacksmithing] |N|Talk to Dwukk - Talk to Dwukk - (52.0, 40.7)| |C|Warrior/Rogue| |M|speedrun|
 U Hearthstone |U|6948| |O|
 T Thazz'ril's Pick |QID|6394| |N|Talk to Foreman Thazz'ril - Talk to Thazz'ril - (44.6, 68.7)|
 T Galgar's Cactus Apple Surprise |QID|4402| |N|Talk to Galgar - Talk to Galgar - (42.7, 67.2)|

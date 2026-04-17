@@ -210,38 +210,38 @@ N Now you should be looking for a group to Wailing Caverns - Grind Quilboars whi
 N (46.1, 36.9)
 N Follow the arrow closely to reach the hidden cave - (47.0, 35.2) |O|
 A Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru - They are located above the the Wailing Caverns cave entrance - (51.9, 55.4)|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |O|
-N Kill all the Deviate Beasts you see. Loot them for their Hides - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Hides for everybody - Deviate Hide (20) |QID|1486| |O|
-N Kill all the Deviate Beasts you see. Loot them for their Hides - Deviate Hide (20) |QID|1486| |O|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|hardcore|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |O| |M|hardcore|
+N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|speedrun|
+N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |O| |M|speedrun|
+N Kill all the Deviate Beasts you see. Loot them for their Hides - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Hides for everybody - Deviate Hide (20) |QID|1486| |O| |M|hardcore|
+N Kill all the Deviate Beasts you see. Loot them for their Hides - Deviate Hide (20) |QID|1486| |O| |M|speedrun|
 N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |O|
 N Kill Mad Magglish. Loot him for the 99-Year-Old Port - He has a long respawn timer. Skip this step if you cannot find him - 99-Year-Old Port (1) - (52.0, 55.2) |QID|959|
 N (51.9, 54.8)
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |O|
-N Kill Ectoplasms. Loot them for their Essence - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Hides for everybody - Wailing Essence (6) |QID|1491| |O|
-N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |O|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|hardcore|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |O| |M|hardcore|
+N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|speedrun|
+N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |O| |M|speedrun|
+N Kill Ectoplasms. Loot them for their Essence - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Hides for everybody - Wailing Essence (6) |QID|1491| |O| |M|hardcore|
+N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |O| |M|speedrun|
 N Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs - Deviate Ravager (7) - Deviate Viper (7) - Deviate Shambler (7) - Deviate Dreadfang (7) - Deviate Hide (20) |QID|1486| |O|
 N Kill Lord Cobrahn, Lady Anacondra, Lord Pythas and Lord Serpentis. Loot them for their Gems - Gem of Cobrahn (1) - Gem of Anacondra (1) - Gem of Pythas (1) - Gem of Serpentis (1) |QID|914|
 N Talk to Disciple of Naralex - Talk to the Disciple of Naralex at the entrance of Wailing Caverns. Escort him safely to Naralex |O|
 U The Glowing Shard |QID|6981| |N|Kill Mutanus the Devourer - Once you have reached Naralex you will get attack by two waves of enemies and finally by Mutanus the Devourer - Kill him and loot him for the [Glowing Shard] and use it to start the quest - Collect Glowing Shard (x1)| |U|10441|
 N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |O|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |O|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|hardcore|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |O| |M|hardcore|
+N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|speedrun|
+N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |O| |M|speedrun|
 N Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs. . Loot them for their Hides - Deviate Ravager (7) - Deviate Viper (7) - Deviate Shambler (7) - Deviate Dreadfang (7) - Deviate Hide (20) |QID|1486| |O|
 N Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs - Deviate Ravager (7) - Deviate Viper (7) - Deviate Shambler (7) - Deviate Dreadfang (7) |QID|1487|
 N Kill Deviate Raptors. Loot them for their Hides - Deviate Hide (20) |QID|1486|
 N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962|
-N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O|
-N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|hardcore|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |M|hardcore|
+N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|speedrun|
+N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |M|speedrun|
 U Hearthstone |U|6948| |O|
 T Smart Drinks |QID|1491| |N|Talk to Mebok Mizzyrix - Talk to Mebok - (62.4, 37.6)|
 T Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Bigglefuzz - (63.1, 37.6)|
@@ -278,7 +278,7 @@ T Torek's Assault |QID|6544| |N|Talk to Ertog Ragetusk - Talk to Ertog - (73.0, 
 T The Ashenvale Hunt |QID|6383| |N|Talk to Senani Thunderheart - Talk to Senani - (73.8, 61.5)| |C|Hunter|
 f Splintertree Post >> Get the Splintertree Post flight path |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |C|Hunter|
 R Crossroads >> Fly to Crossroads |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |O| |C|Hunter|
-D Die and respawn |O| |C|!Hunter|
+D Die and respawn |O| |C|!Hunter| |M|speedrun|
 A Letter to Jin'Zil |QID|1060| |N|Talk to Darsok Swiftdagger - Talk to Darsok - (51.6, 30.9)|
 A Letter to Jin'Zil |QID|1060| |N|Talk to Darsok Swiftdagger - Talk to Darsok - (51.6, 30.9)| |O|
 A Egg Hunt |QID|868| |N|Talk to Korran - Talk to Korran - (51.1, 29.6)|
@@ -388,11 +388,11 @@ N Each mob here will take increased damage to certain abilities - Use [Ambush] o
 N Run into the Rogue Tower and kill Drones, Patrollers and Lookouts - Mutated Venture Co. Drone (2) - Venture Co. Patroller (2) - Venture Co. Lookout (2) - (54.7, 5.7) |QID|2478| |C|Rogue|
 N At the top of the tower you'll find Gallywix. Loot him for his Head - Use [Ambush] to reduce his HP to half. Use [Gouge] to restore energy and use [Evasion] - Remember to use a Potion and [Thistle Tea] if needed - Gallywix's Head (1) - (54.8, 5.6) |QID|2478| |C|Rogue|
 N Use your lock picking to open Gallywix's Lockbox & loot the Mixture - Cache of Zanzil's Altered Mixture (1) - (54.8, 5.6) |QID|2478| |C|Rogue|
-N (61.3, 4.2) |O| |C|Druid|
-N (60.5, 3.8) |C|Druid|
-D Die and respawn |O| |C|Rogue/Druid|
-R Orgrimmar >> Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |C|Rogue/Druid|
-R Enter Orgrimmar through the western entrance |N|(56.8, 45.5)| |O| |C|Rogue/Druid|
+N (61.3, 4.2) |O| |C|Druid| |M|hardcore|
+N (60.5, 3.8) |C|Druid| |M|hardcore|
+D Die and respawn |O| |C|Rogue/Druid| |M|speedrun|
+R Orgrimmar >> Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |C|Rogue/Druid| |M|speedrun|
+R Enter Orgrimmar through the western entrance |N|(56.8, 45.5)| |O| |C|Rogue/Druid| |M|hardcore|
 A Hinott's Assistance |QID|2479| |N|Talk to Shenthul - Talk to Shenthul - (43.0, 53.7)| |C|Rogue|
 N Talk to Rekkul - Talk to Rekkul. Buy  [Dust of Decay] and [Empty Vials] from him - Collect Dust of Decay (20) - Collect Empty Vial (20) - (42.1, 49.5) |C|Rogue|
 t Train your class spells |N|Talk to Kardris Dreamseeker - Talk to Kardris - (38.8, 36.4)| |C|Shaman|

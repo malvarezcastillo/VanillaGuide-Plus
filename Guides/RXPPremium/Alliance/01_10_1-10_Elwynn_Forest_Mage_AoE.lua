@@ -41,7 +41,7 @@ T Bounty on Garrick Padfoot |QID|6| |N|Talk to Deputy Willem - Talk to Deputy Wi
 A Report to Goldshire |QID|54| |N|Talk to Marshal McBride - Talk to Marshal McBride - (48.9, 41.6)|
 T Grape Manifest |QID|3905| |N|Talk to Brother Neals - Go upstairs the main staircase - Talk to Brother Neals - (49.6, 41.6)|
 A Rest and Relaxation |QID|2158| |N|Talk to Falkhaan Isenstrider - Talk to Falkhaan Isenstrider - (45.6, 47.7)|
-N (39.5, 60.5) |O|
+N (39.5, 60.5) |O| |M|speedrun|
 N vendor trash, repair - (41.7, 65.9)
 A The Fargodeep Mine |QID|62| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
 A Kobold Candles |QID|60| |N|Talk to William Pestle - On your close left as you go in the Inn - Talk to William Pestle - (42.9, 65.7)|
@@ -98,13 +98,13 @@ A Report to Gryan Stoutmantle |QID|109| |N|Talk to Farmer Saldean - Talk to Guar
 A Furlbrow's Deed |QID|184| |N|Keep an eye out for Westfall Deed from the Defias (lucky drop) - Collect Westfall Deed (x1)| |O|
 N Start circling the farm, killing Defias and looting them for Bandanas - Collect Red Linen Bandana (x6) - (70.5, 77.6) |QID|83|
 N Kill Princess. Use a Lesser Heal Potion from before if needed. Loot her for the Collar - You can also jump back and forth between the fences on the edge of the farm to kill Princess and her guards - Collect Brass Collar (x1) - (69.4, 79.2) |QID|88|
-N (83.6, 69.7) |O|
+N (83.6, 69.7) |O| |M|speedrun|
 T Red Linen Goods |QID|83| |N|Talk to Sara Timberlain - Talk to Sara Timberlain - (79.5, 68.9)|
 R Grind en route to Redridge |N|(7.9, 73.8)|
-N Die to the mobs here - (11.2, 78.4) |O|
-N Respawn at the Spirit Healer - (20.8, 56.6)
-f Redridge Mountains >> Get the Redridge Mountains flight path |N|(30.6, 59.4)|
-f Redridge Mountains >> Get the Redridge Mountains flight path |N|Run toward the Flight Path. Be exceedingly careful to not aggro or die to any mobs en route. Try sticking to the road and keeping an eye out - (30.6, 59.4)|
+N Die to the mobs here - (11.2, 78.4) |O| |M|speedrun|
+N Respawn at the Spirit Healer - (20.8, 56.6) |M|speedrun|
+f Redridge Mountains >> Get the Redridge Mountains flight path |N|(30.6, 59.4)| |M|speedrun|
+f Redridge Mountains >> Get the Redridge Mountains flight path |N|Run toward the Flight Path. Be exceedingly careful to not aggro or die to any mobs en route. Try sticking to the road and keeping an eye out - (30.6, 59.4)| |M|hardcore|
 H Hearthstone
 T Collecting Kelp |QID|112| |N|Talk to William Pestle - Don't wait for his rp event - Talk to William Pestle - (43.3, 65.7)|
 A Westbrook Garrison Needs Help! |QID|239| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.2, 65.8)|
@@ -117,7 +117,7 @@ T Westbrook Garrison Needs Help! |QID|239| |N|Talk to Deputy Rainer - Talk to De
 T Furlbrow's Deed |QID|184| |N|Talk to Farmer Furlbrow - Talk to Farmer Furlbrow - (60.0, 19.4)|
 A Westfall Stew |QID|36| |N|Talk to Verna Furlbrow - Talk to Verna Furlbrow - (59.9, 19.4)|
 T Westfall Stew |QID|36| |N|Talk to Salma Saldean - Talk to Salma Saldean - (56.4, 30.5)|
-N (51.7, 49.4) |O|
+N (51.7, 49.4) |O| |M|speedrun|
 T Report to Gryan Stoutmantle |QID|109| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)|
 A A Swift Message |QID|6181| |N|Talk to Quartermaster Lewis - vendor trash - Talk to Quartermaster Lewis - (57.0, 47.2)|
 G Grind to 3750+/8800xp |N|(56.4, 30.5)|

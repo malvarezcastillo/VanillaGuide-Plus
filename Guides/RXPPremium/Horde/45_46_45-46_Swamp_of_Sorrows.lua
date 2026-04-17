@@ -30,8 +30,8 @@ N Kill Marsh Murlocs, Marsh Inkspewers and Marsh Flesheaters - These spawn at a 
 N Kill Swamp Talker. Loot him for the Warchief's Orders - Save your cooldowns for Swamp Talker. His adds die in 1 hit but deal significant damage if left alive. - (66.1, 77.7) |QID|2623|
 N Kill Marsh Murlocs, Marsh Inkspewers and Marsh Flesheaters - These spawn at a higher rate in Stagalbog Cave west of the camp - (62.5, 87.7) |QID|1428|
 T Continued Threat |QID|1428| |N|Talk to Katar - Talk to Katar - (83.7, 80.4)|
-D Die and respawn |O|
-N (46.0, 54.2) |O| |C|Hunter/Warlock/Shaman/Warrior|
+D Die and respawn |O| |M|speedrun|
+N (46.0, 54.2) |O| |C|Hunter/Warlock/Shaman/Warrior| |M|hardcore|
 t Train your class spells |N|Talk to Ogrom - Talk to Ogrom - (47.3, 53.4)| |C|Hunter|
 t Train your class spells |N|Talk to Ogrom - Talk to Ogrom - (47.3, 53.4)| |O| |C|Hunter|
 t Train your pet spells |N|Talk to Grokor - Talk to Grokor - (47.4, 52.9)| |C|Hunter|

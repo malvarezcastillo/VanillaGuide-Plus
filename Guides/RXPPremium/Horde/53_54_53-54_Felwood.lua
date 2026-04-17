@@ -24,8 +24,8 @@ N Kill Overlord Ror. Loot him for his Claw - Clear the area to avoid complicatio
 N Kill Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners - (48.2, 94.3) |QID|8460|
 G Grind to level 53 130000+/167100 |N|Kill Deadwood Gardener - (48.2, 94.3)| |C|!Warrior/!Hunter/!Rogue/!Druid/!Shaman|
 A Speak to Nafien |QID|8462| |N|Talk to Grazle - Talk to Grazle - (51.0, 85.0)|
-N Kill Deadwood Gardener - Grinding reputation with Timbermaw Hold to Unfriendly can be a wise choice as this will make the Furbolgs in the northern tunnel not aggressive towards you - You can also do this later up north but they are higher level - (46.7, 88.0) |O|
-N Kill Deadwood Gardener - You'll need the reputation later to travel through Timbermaw Hold to the north - (48.5, 89.6)
+N Kill Deadwood Gardener - Grinding reputation with Timbermaw Hold to Unfriendly can be a wise choice as this will make the Furbolgs in the northern tunnel not aggressive towards you - You can also do this later up north but they are higher level - (46.7, 88.0) |O| |M|speedrun|
+N Kill Deadwood Gardener - You'll need the reputation later to travel through Timbermaw Hold to the north - (48.5, 89.6) |M|hardcore|
 A Collection of the Corrupt Water |QID|5157| |N|Talk to Greta Mosshoof - Talk to Greta - (51.2, 82.2)|
 C Use your [Empty Canteen] in the green moonwell |QID|5157| |N|Be very careful of Jaedenar Adepts; they have blink, as well as a strong fireball and fire blast - (35.2, 59.8)| |U|12922|
 N Kill Jadefire Felsworn - Kill Jadefire Satyrs and Jadefire Felsworns. Loot them for a [Felcloth] - Collect item 14256 (x1) - (43.3, 85.0) |C|Warlock|
@@ -52,10 +52,10 @@ U Winterfall Firewater |QID|5083| |N|Kill Winterfall Totemic - Kill Winterfall F
 N Kill Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics - Clear the southeastern camps if you run out of spawns - (31.0, 36.8) |QID|5082|
 U Winterfall Firewater |QID|5083| |N|Kill Winterfall Totemic - Kill Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest - This has a low droprate and is NOT groupeshared - Collect item 12771 (x1) - (39.0, 42.8)| |U|12771|
 A Falling to Corruption |QID|5084| |N|Talk to Donova Snowden - Talk to Donova - (31.3, 45.2)|
-A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (31.3, 45.2)|
-A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - You may safely complete this quest as part of the quest chain for [The Videre Elixir] - (31.3, 45.2)|
-A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
-D Die and respawn |O|
+A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (31.3, 45.2)| |M|hardcore|
+A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - You may safely complete this quest as part of the quest chain for [The Videre Elixir] - (31.3, 45.2)| |M|speedrun|
+A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)| |M|speedrun|
+D Die and respawn |O| |M|speedrun|
 T Felnok Steelspring |QID|4808| |N|Talk to Felnok Steelspring - Talk to Felnok - (61.6, 38.6)|
 N Talk to Izzy Coppergrab - Talk to Izzy Coppergrab - [Filled Vial Labeled #1] - [Filled Vial Labeled #2] - [Filled Vial Labeled #3] - [Filled Vial Labeled #4] - (61.5, 37.0)
 N Talk to Azzleby - Talk to Azzleby - (60.4, 37.9) |O| |C|Hunter|
@@ -64,13 +64,13 @@ N Talk to Azzleby - Talk to Azzleby - (60.4, 37.9) |C|Hunter|
 R Felwood >>Fly to Felwood |N|Talk to Yugrek - Talk to Yugrek - (60.5, 36.3)|
 T Well of Corruption |QID|4505| |N|Talk to Winna Hazzard - Talk to Winna - (34.2, 52.3)|
 T A Husband's Last Battle |QID|6162| |N|Talk to Dreka'Sur - Talk to Dreka'Sur - (34.8, 52.7)|
-T Cleansing Felwood |QID|4102| |N|Talk to Maybess Riverbreeze - Talk to Maybess - (46.6, 83.0)|
-N Talk to Maybess Riverbreeze - Talk to Maybess again to receive a [Cenarion Beacon] - Select the option: "I need a Cenarion beacon." - Collect item 11511 (x1) - (46.6, 83.0)
-D Die and respawn |N|(41.3, 67.1)| |O|
+T Cleansing Felwood |QID|4102| |N|Talk to Maybess Riverbreeze - Talk to Maybess - (46.6, 83.0)| |M|hardcore|
+N Talk to Maybess Riverbreeze - Talk to Maybess again to receive a [Cenarion Beacon] - Select the option: "I need a Cenarion beacon." - Collect item 11511 (x1) - (46.6, 83.0) |M|hardcore|
+D Die and respawn |N|(41.3, 67.1)| |O| |M|speedrun|
 A Seeking Spiritual Aid |QID|5158| |N|Talk to Greta Mosshoof - Talk to Greta - (51.2, 82.1)|
 T Verifying the Corruption |QID|5156| |N|Talk to Taronn Redfeather - Talk to Taronn - (50.9, 81.7)|
-T Cleansing Felwood |QID|4102| |N|Talk to Maybess Riverbreeze - Talk to Maybess - (46.6, 83.0)|
-N Talk to Maybess Riverbreeze - Talk to Maybess again to receive a [Cenarion Beacon] - Select the option: "I need a Cenarion beacon." - Collect item 11511 (x1) - (46.6, 83.0)
+T Cleansing Felwood |QID|4102| |N|Talk to Maybess Riverbreeze - Talk to Maybess - (46.6, 83.0)| |M|speedrun|
+N Talk to Maybess Riverbreeze - Talk to Maybess again to receive a [Cenarion Beacon] - Select the option: "I need a Cenarion beacon." - Collect item 11511 (x1) - (46.6, 83.0) |M|speedrun|
 R Hearthstone |U|6948|
 N Cast Cast [Teleport: Orgrimmar] |C|Mage|
 N Talk to Barkeep Morag - Talk to Barkeep Morag - (54.6, 67.7) |C|!Mage|

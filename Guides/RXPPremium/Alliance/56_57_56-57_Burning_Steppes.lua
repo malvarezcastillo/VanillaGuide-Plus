@@ -122,7 +122,7 @@ t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to 
 R Teleport to Ironforge |O| |C|Mage|
 t Train your class spells |N|Talk to Dink - Talk to Dink - (27.2, 8.6)| |C|Mage|
 H Hearthstone |C|!Mage|
-A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Lieutenant Rotimer - (32.2, 63.3)|
+A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Lieutenant Rotimer - (32.2, 63.3)| |M|speedrun|
 N Talk to Bailey Stonemantle - Talk to Bailey Stonemantle - [Everlook Report] - [Studies in Spirit Speaking] - [Jaron's Pick] - All 4 [Relic Fragments] - (35.9, 60.2)
 N Talk to Bailey Stonemantle - Talk to Bailey Stonemantle - [Tinkee's Letter] - (35.9, 60.2)
 N Take out any [Noggenfogger Elixirs] from your bank if you have any. These will come in handy in EPL shortly for a large mountain skip time save. Skip this step if you don't have any - Collect item 8529 (x40) |C|!Priest/!Mage|

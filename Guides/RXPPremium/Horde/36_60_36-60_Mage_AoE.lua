@@ -43,92 +43,92 @@ t Train your class spells |R|Troll|
 t Run to out of Orgrimmar all the way down to Sen'jin and get your mount and mount training. |N|(55.2, 75.5)| |R|Troll|
 t Run to out of Orgrimmar all the way down to Sen'jin and get your mount and mount training. |N|(55.2, 75.5)| |R|Troll|
 H Hearthstone |N|Buy food/water if needed|
-F Brackenwall >> Fly to Brackenwall Village
-F Brackenwall >> Fly to Brackenwall Village
-G AoE Murlocs to level 42 & 80000+/101000xp |N|(57.2, 21.0)|
-G AoE Murlocs to level 42 & 80000+/101000xp |N|(57.2, 21.0)|
-t Train your class spells
-H Hearthstone |N|Buy food/water if needed|
-t Train your class spells
-H Hearthstone |N|Buy food/water if needed|
+F Brackenwall >> Fly to Brackenwall Village |M|speedrun|
+F Brackenwall >> Fly to Brackenwall Village |M|hardcore|
+G AoE Murlocs to level 42 & 80000+/101000xp |N|(57.2, 21.0)| |M|speedrun|
+G AoE Murlocs to level 42 & 80000+/101000xp |N|(57.2, 21.0)| |M|hardcore|
+t Train your class spells |M|hardcore|
+H Hearthstone |N|Buy food/water if needed| |M|hardcore|
+t Train your class spells |M|speedrun|
+H Hearthstone |N|Buy food/water if needed| |M|speedrun|
 f Freewind Post >> Get the Freewind Post flight path |N|This is completely optional, as it is not used at all in the route, but is a convenient time to get it - (45.1, 49.1)| |O|
 h Tanaris |N|Travel to Tanaris. Ride through Barrens -> Thousand Needles -> Gadgetzan - (52.5, 27.9)|
-A Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)|
-A Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)|
-N (38.7, 20.0)
-N You're now going to be doing Zul'Farrak. This can be extremely difficult, but is absolutely worth the xp/hr once you learn to do it - Click either of the links depending on whether or not you have a mount yet |O|
-N Loot Troll Temper from the mobs you kill inside of Zul'Farrak |QID|3042|
-G AoE Zul'Farrak to level 44 |N|Start saving the Silk Cloth and Mageweave Cloth you get. You need 12 stacks of each for later|
-A Wastewander Justice |QID|1690| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.4)|
-A WANTED: Andre Firebeard |QID|2875| |N|(51.8, 27.0)|
-N AoE some Bandits/Thieves in Noonshade Ruins en route to Steamwheedle Port - (60.2, 23.3) |QID|1707| |O|
-A Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty Modiste - (66.6, 22.3)|
-A Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)|
-N AoE Bandits and Thieves. Loot them for Water Pouches - Be careful as some of the mobs under the tents are bugged, and will evade all mobs aggroed onto you if you aggro one of them - (63.7, 31.3) |QID|1707|
-N Look for Caliph Scorpidsting in the area. Kill and loot him for his head - Be careful as he has two stealthed adds right next to him - (62.2, 37.8) |QID|2781|
-T WANTED: Caliph Scorpidsting |QID|2781| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.4)|
-N (68.7, 41.5)
-N Loot pirates you AoE in the area for their hats |QID|8365|
-N Kill Andre Firebeard |QID|2875|
-A Ship Schedules |QID|2876| |N|Loot the Ship Schedule from the footlockers that drop from pirates in the area - Collect item 9250 (x1)| |O|
-G AoE Grind to 43 & 91000+/106300xp |N|Use any Captain's Keys you get on the 2nd floor of the 2nd ship to the east - (73.7, 46.9)|
-N Finish off killing the Southsea Mobs |QID|8366|
-T Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty Modiste - (66.6, 22.3)|
-T Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)|
-T Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)|
-A Wastewander Justice |QID|1690| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.4)|
-A WANTED: Andre Firebeard |QID|2875| |N|(51.8, 27.0)|
-N AoE some Bandits/Thieves in Noonshade Ruins en route to Steamwheedle Port - (60.2, 23.3) |QID|1707| |O|
-A Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty Modiste - (66.6, 22.3)|
-A Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)|
-N AoE Bandits and Thieves. Loot them for Water Pouches - Be careful as some of the mobs under the tents are bugged, and will evade all mobs aggroed onto you if you aggro one of them - (63.7, 31.3) |QID|1707|
-T Wastewander Justice |QID|1690| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.4)|
-N (68.7, 41.5)
-N Loot pirates you AoE in the area for their hats |QID|8365|
-N Kill Andre Firebeard |QID|2875|
-A Ship Schedules |QID|2876| |N|Loot the Ship Schedule from the footlockers that drop from pirates in the area - Collect item 9250 (x1)| |O|
-G AoE Grind to 44 |N|Use any Captain's Keys you get on the 2nd floor of the 2nd ship to the east - Start saving the Silk Cloth and Mageweave Cloth you get. You need 12 stacks of each for later - (73.7, 46.9)|
-N Finish off killing the Southsea Mobs |QID|8366|
-R Teleport to Undercity
-R Teleport to Undercity
-R Teleport to Undercity
+A Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)| |M|speedrun|
+A Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)| |M|speedrun|
+N (38.7, 20.0) |M|speedrun|
+N You're now going to be doing Zul'Farrak. This can be extremely difficult, but is absolutely worth the xp/hr once you learn to do it - Click either of the links depending on whether or not you have a mount yet |O| |M|speedrun|
+N Loot Troll Temper from the mobs you kill inside of Zul'Farrak |QID|3042| |M|speedrun|
+G AoE Zul'Farrak to level 44 |N|Start saving the Silk Cloth and Mageweave Cloth you get. You need 12 stacks of each for later| |M|speedrun|
+A Wastewander Justice |QID|1690| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.4)| |M|speedrun|
+A WANTED: Andre Firebeard |QID|2875| |N|(51.8, 27.0)| |M|speedrun|
+N AoE some Bandits/Thieves in Noonshade Ruins en route to Steamwheedle Port - (60.2, 23.3) |QID|1707| |O| |M|speedrun|
+A Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty Modiste - (66.6, 22.3)| |M|speedrun|
+A Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)| |M|speedrun|
+N AoE Bandits and Thieves. Loot them for Water Pouches - Be careful as some of the mobs under the tents are bugged, and will evade all mobs aggroed onto you if you aggro one of them - (63.7, 31.3) |QID|1707| |M|speedrun|
+N Look for Caliph Scorpidsting in the area. Kill and loot him for his head - Be careful as he has two stealthed adds right next to him - (62.2, 37.8) |QID|2781| |M|speedrun|
+T WANTED: Caliph Scorpidsting |QID|2781| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.4)| |M|speedrun|
+N (68.7, 41.5) |M|speedrun|
+N Loot pirates you AoE in the area for their hats |QID|8365| |M|speedrun|
+N Kill Andre Firebeard |QID|2875| |M|speedrun|
+A Ship Schedules |QID|2876| |N|Loot the Ship Schedule from the footlockers that drop from pirates in the area - Collect item 9250 (x1)| |O| |M|speedrun|
+G AoE Grind to 43 & 91000+/106300xp |N|Use any Captain's Keys you get on the 2nd floor of the 2nd ship to the east - (73.7, 46.9)| |M|speedrun|
+N Finish off killing the Southsea Mobs |QID|8366| |M|speedrun|
+T Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty Modiste - (66.6, 22.3)| |M|speedrun|
+T Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)| |M|speedrun|
+T Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)| |M|speedrun|
+A Wastewander Justice |QID|1690| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.4)| |M|hardcore|
+A WANTED: Andre Firebeard |QID|2875| |N|(51.8, 27.0)| |M|hardcore|
+N AoE some Bandits/Thieves in Noonshade Ruins en route to Steamwheedle Port - (60.2, 23.3) |QID|1707| |O| |M|hardcore|
+A Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty Modiste - (66.6, 22.3)| |M|hardcore|
+A Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)| |M|hardcore|
+N AoE Bandits and Thieves. Loot them for Water Pouches - Be careful as some of the mobs under the tents are bugged, and will evade all mobs aggroed onto you if you aggro one of them - (63.7, 31.3) |QID|1707| |M|hardcore|
+T Wastewander Justice |QID|1690| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.4)| |M|hardcore|
+N (68.7, 41.5) |M|hardcore|
+N Loot pirates you AoE in the area for their hats |QID|8365| |M|hardcore|
+N Kill Andre Firebeard |QID|2875| |M|hardcore|
+A Ship Schedules |QID|2876| |N|Loot the Ship Schedule from the footlockers that drop from pirates in the area - Collect item 9250 (x1)| |O| |M|hardcore|
+G AoE Grind to 44 |N|Use any Captain's Keys you get on the 2nd floor of the 2nd ship to the east - Start saving the Silk Cloth and Mageweave Cloth you get. You need 12 stacks of each for later - (73.7, 46.9)| |M|hardcore|
+N Finish off killing the Southsea Mobs |QID|8366| |M|hardcore|
+R Teleport to Undercity |M|speedrun|
+R Teleport to Undercity |M|speedrun|
+R Teleport to Undercity |M|hardcore|
 t Train your class spells |N|(85.2, 10.0)|
 N Talk to Hannah. Buy 6 Runes of Teleportation - You can also go to the AH and buy bigger bags if you need - Collect item 17031 (x6) - (82.8, 15.8)
 H Hearthstone |N|Buy 140 level 45 drink|
 N Bank your Silk Cloth and Mageweave Cloth here from earlier. You need 12 stacks (240) of each for later - (52.3, 28.9) |O|
-T Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty Modiste - (66.6, 22.3)|
-T Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)|
-T Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)|
-N Look for Caliph Scorpidsting in the area. Kill and loot him for his head - Be careful as he has two stealthed adds right next to him - (62.2, 37.8) |QID|2781|
-G AoE grind to 48 |N|Use any Captain's Keys you get on the 2nd floor of the 2nd ship to the east - (73.7, 46.9)|
-A Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)|
-T Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)|
-A Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
-N (38.7, 20.0)
-N If you ever hit lockout (max 5 instances per hour) and it won't let you back in ZF, do the Dowsing Widget - (39.1, 29.1) |QID|992| |O|
-N You're now going to learn to do a harder version which takes longer, but gives more xp: Pulling scarabs. |O|
-N You're now going to be doing Zul'Farrak. This can be extremely difficult, but is absolutely worth the xp/hr once you learn to do it - Click either of the links depending on whether or not you have a mount yet |O|
-N Loot Scarab Shells inside of ZF after you've AoE'd them |QID|2865|
-N Loot Troll Temper from the zombies you AoE inside of Zul'Farrak |QID|3042|
-G AoE Zul'Farrak to level 48
-t Teleport to Orgrimmar or Undercity. Train your level 46-48 spells
-t Teleport to Orgrimmar or Undercity. Train your level 46-48 spells
+T Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty Modiste - (66.6, 22.3)| |M|hardcore|
+T Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)| |M|hardcore|
+T Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)| |M|hardcore|
+N Look for Caliph Scorpidsting in the area. Kill and loot him for his head - Be careful as he has two stealthed adds right next to him - (62.2, 37.8) |QID|2781| |M|hardcore|
+G AoE grind to 48 |N|Use any Captain's Keys you get on the 2nd floor of the 2nd ship to the east - (73.7, 46.9)| |M|hardcore|
+A Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)| |M|speedrun|
+T Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)| |M|speedrun|
+A Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)| |M|speedrun|
+N (38.7, 20.0) |M|speedrun|
+N If you ever hit lockout (max 5 instances per hour) and it won't let you back in ZF, do the Dowsing Widget - (39.1, 29.1) |QID|992| |O| |M|speedrun|
+N You're now going to learn to do a harder version which takes longer, but gives more xp: Pulling scarabs. |O| |M|speedrun|
+N You're now going to be doing Zul'Farrak. This can be extremely difficult, but is absolutely worth the xp/hr once you learn to do it - Click either of the links depending on whether or not you have a mount yet |O| |M|speedrun|
+N Loot Scarab Shells inside of ZF after you've AoE'd them |QID|2865| |M|speedrun|
+N Loot Troll Temper from the zombies you AoE inside of Zul'Farrak |QID|3042| |M|speedrun|
+G AoE Zul'Farrak to level 48 |M|speedrun|
+t Teleport to Orgrimmar or Undercity. Train your level 46-48 spells |M|speedrun|
+t Teleport to Orgrimmar or Undercity. Train your level 46-48 spells |M|hardcore|
 H Hearthstone |N|Buy food/water if needed|
 N Bank your Silk Cloth and Mageweave Cloth here from earlier. You need 12 stacks (240) of each for later - (52.3, 28.9) |O|
-T WANTED: Caliph Scorpidsting |QID|2781| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.5)|
-T Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)|
-T Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)|
-T Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
-N (38.7, 20.0)
-G AoE Zul'Farrak to level 52
-T Ship Schedules |QID|2876| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)|
-G AoE grind to 52 |N|Use any Captain's Keys you get on the 2nd floor of the 2nd ship to the east - Remember to save 12 stacks of Mageweave. You'll need it for cloth turnins later - (73.7, 46.9)|
-t Teleport to Orgrimmar or Undercity. Train your level 50-52 spells
-H Hearthstone |N|Buy food/water if needed|
-T Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)|
-T Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
-N (38.7, 20.0)
-G AoE Zul'Farrak to level 54 |N|Remember to save 12 stacks of Mageweave. You'll need it for cloth turnins later|
+T WANTED: Caliph Scorpidsting |QID|2781| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.5)| |M|hardcore|
+T Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)| |M|speedrun|
+T Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)| |M|speedrun|
+T Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)| |M|speedrun|
+N (38.7, 20.0) |M|speedrun|
+G AoE Zul'Farrak to level 52 |M|speedrun|
+T Ship Schedules |QID|2876| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)| |M|hardcore|
+G AoE grind to 52 |N|Use any Captain's Keys you get on the 2nd floor of the 2nd ship to the east - Remember to save 12 stacks of Mageweave. You'll need it for cloth turnins later - (73.7, 46.9)| |M|hardcore|
+t Teleport to Orgrimmar or Undercity. Train your level 50-52 spells |M|speedrun|
+H Hearthstone |N|Buy food/water if needed| |M|speedrun|
+T Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)| |M|speedrun|
+T Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)| |M|speedrun|
+N (38.7, 20.0) |M|speedrun|
+G AoE Zul'Farrak to level 54 |N|Remember to save 12 stacks of Mageweave. You'll need it for cloth turnins later| |M|speedrun|
 R Teleport to Undercity
 t Train your class spells |N|(85.2, 10.0)|
 N Go to the Reagent Vendor on your right and perform a Logout Skip by positioning your character on the highest part of the lowest staircase until it looks like they're floating, then logging out and back in. - If you can't do this, just run out of Undercity normally - (82.4, 15.3) |O|
@@ -151,8 +151,8 @@ N Keep an eye out for the Wandering Skeleton whilst you're AoEing. Kill him then
 T Locked Away |QID|5059| |N|Click the outhouse. This will spawn a mob. Kill it - Collect item 12739 (x1) - (48.2, 49.6)| |O|
 T Locked Away |QID|5060| |N|Click the cabinet at the top floor of the house - (47.4, 49.7)| |O|
 N Save Bone Fragments looted from skeletons for a quest later - Collect item 22526 (x30)
-G AoE Undead in the area to 53 & 100000+/167100xp |N|Remember to try and save 12 stacks of Runecloth. You'll need it for cloth turnins later - (46.5, 52.1)|
-G AoE Undead in the area to 55 & 100000+/180800xp |N|Remember to try and save 12 stacks of Runecloth. You'll need it for cloth turnins later - (46.5, 52.1)|
+G AoE Undead in the area to 53 & 100000+/167100xp |N|Remember to try and save 12 stacks of Runecloth. You'll need it for cloth turnins later - (46.5, 52.1)| |M|hardcore|
+G AoE Undead in the area to 55 & 100000+/180800xp |N|Remember to try and save 12 stacks of Runecloth. You'll need it for cloth turnins later - (46.5, 52.1)| |M|speedrun|
 N Use the Beacon Torch in your bags on the side of the doorway (do NOT kill the elite inside) - (44.2, 63.1) |QID|5098|
 N You should be Friendly with the Argent Dawn now, so buy as many Manna Biscuits as possible to last you to level 60 - If you're not, turn in scourgestones you looted until you are - (26.6, 55.2)
 A Target: Writhing Haunt |QID|5233| |N|Talk to Shadow Priestess Vandis - Talk to Shadow Priestess Vandis - (26.4, 59.1)|
@@ -169,7 +169,7 @@ A Good Luck Charm |QID|5050| |N|Talk to Ol' Emma - Under the staircase - Talk to
 N Perform a Logout Skip by positioning your character until it looks like they're floating with some distance between you and the ground, then logging out and back in. - If you can't do this, just run out of Undercity normally - (67.6, 44.2) |O|
 N (61.9, 66.6)
 A Target: Gahrron's Withering |QID|5235| |N|Talk to Shadow Priestess Vandis - Talk to Shadow Priestess Vandis - (26.4, 59.1)|
-N You can now go and do ZG from 58-60. This is EXTREMELY hard, but is faster than open world aoe leveling if you're confident/already know how to do it |O|
+N You can now go and do ZG from 58-60. This is EXTREMELY hard, but is faster than open world aoe leveling if you're confident/already know how to do it |O| |M|speedrun|
 A Two Halves Become One |QID|5051| |N|Talk to Janice Felstone - Go to the top floor of the house. Talk to Janice - Talk to Janice Felstone - (38.4, 54.1)|
 N Find a Jabbering Ghoul. Kill him and loot the Good Luck Charm - (38.0, 54.7) |QID|5051|
 T Two Halves Become One |QID|5051| |N|Talk to Janice Felstone - Talk to Janice Felstone - (38.4, 54.1)|
@@ -242,8 +242,8 @@ N (57.8, 36.2) |QID|6023|
 N Look for the named mob that patrols up and down the tower - (55.1, 23.5) |QID|6023|
 A Unfinished Business |QID|6025| |N|Talk to Kirsta Deepshadow - Talk to Kirsta Deepshadow - (51.9, 28.0)|
 N (45.7, 18.8) |QID|6025|
-N Loot the libram inside the town hall. Either slowly kill all the mobs one-by-one, or pull all of the mobs inside, kite them outside, freeze them in place, then loot the Libram and run - do NOT die here or you have a very long run - (42.5, 18.9) |QID|5168|
-N Loot the libram inside the town hall. Either slowly kill all the mobs one-by-one, or pull all of the mobs inside, kite them outside, freeze them in place, then loot the Libram and run - this quest is VERY difficult and risky. I wouldn't recommend doing this on hardcore - (42.5, 18.9) |QID|5168|
+N Loot the libram inside the town hall. Either slowly kill all the mobs one-by-one, or pull all of the mobs inside, kite them outside, freeze them in place, then loot the Libram and run - do NOT die here or you have a very long run - (42.5, 18.9) |QID|5168| |M|speedrun|
+N Loot the libram inside the town hall. Either slowly kill all the mobs one-by-one, or pull all of the mobs inside, kite them outside, freeze them in place, then loot the Libram and run - this quest is VERY difficult and risky. I wouldn't recommend doing this on hardcore - (42.5, 18.9) |QID|5168| |M|hardcore|
 N I HIGHLY recommend watching the mage guide for these mobs |O|
 G Grind to 59 & 130000+/209800 |N|(46.3, 16.9)|
 T Unfinished Business |QID|6025| |N|Talk to Kirsta Deepshadow - Talk to Kirsta Deepshadow - (51.9, 28.0)|
@@ -255,16 +255,16 @@ H Hearthstone |N|Buy food/water if needed|
 T Bonescythe Digs |QID|9126| |N|Talk to Rohan the Assassin - Talk to Rohan the Assassin|
 T Defenders of Darrowshire |QID|5211| |N|Talk to Carlin Redpath - Talk to Carlin Redpath - (81.5, 59.8)|
 R Teleport to Undercity
-N If you don't have 12 stacks of each cloth, buy them from the Auction House - (60.5, 41.8) |O|
+N If you don't have 12 stacks of each cloth, buy them from the Auction House - (60.5, 41.8) |O| |M|speedrun|
 N Withdraw all your cloth from the bank. You need 12 stacks of Wool, Silk, Mageweave, and Runecloth - If you don't have inventory space, then leave half of the cloth in the bank and skip this step - Collect item 2592 (x240) - Collect item 4306 (x240) - Collect item 4338 (x240) - Collect item 14047 (x240) - (65.7, 44.1)
 T A Donation of Runecloth |QID|7818| |N|Talk to Ralston Farnsley - Make sure you have no addons on that will automatically turn in extra runecloth (for rep) or you will be told to buy it again later - Talk to Ralston Farnsley - (71.7, 29.2)|
 R Teleport to Orgrimmar
-N If you don't have 9 stacks of each cloth, buy it from the Auction House - (55.5, 64.7) |O|
+N If you don't have 9 stacks of each cloth, buy it from the Auction House - (55.5, 64.7) |O| |M|speedrun|
 N Withdraw all your cloth from the bank. You need 9 stacks of Wool, Silk, Mageweave, and Runecloth - If you don't have inventory space, then leave half of the cloth in the bank and skip this step - Collect item 2592 (x180) - Collect item 4306 (x180) - Collect item 4338 (x180) - Collect item 14047 (x180) - (49.6, 69.1)
 T A Donation of Runecloth |QID|7824| |N|Talk to Rashona Straglash - Make sure you have no addons on that will automatically turn in extra runecloth (for rep) or you will be told to buy it again later - Talk to Rashona Straglash - (63.6, 51.2)|
 T A Donation of Runecloth |QID|7836| |N|Talk to Vehena - Make sure you have no addons on that will automatically turn in extra runecloth (for rep) or you will be told to buy it again later - Talk to Vehena - (37.7, 87.9)|
 F Thunder Bluff >> Fly to Thunder Bluff |N|(45.1, 63.9)|
-N If you don't have 3 stacks of each cloth, buy it from the Auction House - (40.4, 51.8) |O|
+N If you don't have 3 stacks of each cloth, buy it from the Auction House - (40.4, 51.8) |O| |M|speedrun|
 N Withdraw all your cloth from the bank. You need 3 stacks of Wool, Silk, Mageweave, and Runecloth - If you don't have inventory space, then leave half of the cloth in the bank and skip this step - Collect item 2592 (x60) - Collect item 4306 (x60) - Collect item 4338 (x60) - Collect item 14047 (x60) - (47.3, 58.6)
 T Glyphed Oaken Branch |QID|4987| |N|Talk to Nara Wildmane - Talk to Nara Wildmane - (75.6, 31.7)|
 T A Donation of Runecloth |QID|7823| |N|Talk to Rumstag Proudstrider - Make sure you have no addons on that will automatically turn in extra runecloth (for rep) or you will be told to buy it again later - Talk to Rumstag Proudstrider - (43.0, 42.7)|

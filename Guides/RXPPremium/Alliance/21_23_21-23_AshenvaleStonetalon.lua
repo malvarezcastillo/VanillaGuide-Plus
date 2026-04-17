@@ -87,7 +87,7 @@ N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilk
 N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |O|
 N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |O|
 T The Tower of Althalaxx |QID|973| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 T Culling the Threat |QID|1054| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
 T Fallen Sky Lake |QID|1035| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)|
 N Talk to Haljan Oakheart - Talk to Haljan Oakheart - Buy [Flint and Tinder] and [Simple Wood] - Only do this if you have meat to cook while on the boat to Wetlands soon. There is a quest in Duskwood which requires your [Cooking] to be 50 - Collect item 4471 (x1) - Collect item 4470 (x1) - (34.8, 50.9) |O|

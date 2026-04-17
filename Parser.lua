@@ -129,10 +129,13 @@ local function StepParse(guide)
 	local i, haserrors = 1, false
 	local guidet = TurtleGuide.split("\r\n", guide)
 
+	local mymode = (TurtleGuide.db and TurtleGuide.db.char and TurtleGuide.db.char.mode) or "speedrun"
 	for _, text in pairs(guidet) do
 		local _, _, class = string.find(text, "|C|([^|]+)|")
 		local _, _, race = string.find(text, "|R|([^|]+)|")
-		if text ~= "" and MatchesFilter(class, myclassNorm) and MatchesFilter(race, myraceNorm) then
+		local _, _, mode = string.find(text, "|M|([^|]+)|")
+		if text ~= "" and MatchesFilter(class, myclassNorm) and MatchesFilter(race, myraceNorm)
+				and (not mode or mode == mymode) then
 			local _, _, action, quest, tag = string.find(text, "^(%a) ([^|]*)(.*)")
 			if action and actiontypes[action] then
 				quest = TurtleGuide.trim(quest)

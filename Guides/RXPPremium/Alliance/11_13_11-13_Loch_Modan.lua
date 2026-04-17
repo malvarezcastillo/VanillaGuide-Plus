@@ -47,8 +47,8 @@ A A Hunter's Boast |QID|257| |N|Talk to Daryl the Youngling - Talk to Daryl the 
 N Kill Mountain Buzzards - You must complete this quest and return to Daryl the Youngling within 15 minutes. If you fail the quest, abandon it and pick it up again - Mountain Buzzard slain (6) - (80.1, 64.2) |QID|257|
 T A Hunter's Boast |QID|257| |N|Talk to Daryl the Youngling - Talk to Daryl the Youngling - (83.5, 65.4)|
 N Talk to Xandar Goodbeard - Talk to Xandar Goodbeard - Buy a [Simple Wood] and a [Flint and Tinder] from him - This is used to make [Basic Campfires] on Boats or Trams to level your [Cooking] skill without losing time - You need 50 [Cooking] for a quest in Duskwood later - Simple Wood (1) - Flint and Tinder (1) - (82.5, 63.4)
-H Hearthstone
-D Die and respawn |N|Talk to Spirit Healer| |O|
+H Hearthstone |M|hardcore|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 A Report to Ironforge |QID|301| |N|Talk to Jern Hornhelm - Talk to Jern Hornhelm - (37.2, 47.9)|
 F Ironforge >> Fly to Ironforge |N|Talk to Thorgrum Borrelson - Talk to Thorgrum - (33.9, 51.0)|
 t Train [Cooking] |N|Talk to Daryl Riknussun - Talk to Daryl Riknussun - (60.1, 36.4)|
@@ -59,24 +59,24 @@ A Me Brother, Nipsy |QID|6662| |N|Talk to Monty - Talk to Monty|
 R Take the Tram to Stormwind |N|Level your [First Aid] and [Cooking] if needed while waiting for the Tram| |O|
 T Me Brother, Nipsy |QID|6662| |N|Talk to Nipsy - Talk to Nipsy when you get off the Tram - Nipsy is on the center platform|
 R Enter Stormwind
-A Stormpike's Delivery |QID|353| |N|Talk to Grimand Elmore - Talk to Grimand Elmore - (51.8, 12.1)|
+A Stormpike's Delivery |QID|353| |N|Talk to Grimand Elmore - Talk to Grimand Elmore - (51.8, 12.1)| |M|speedrun|
 T Stormpike's Order |QID|1338| |N|Talk to Furen Longbeard - Talk to Furen Longbeard - (58.1, 16.6)|
 t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brightspear - (61.6, 15.3)| |C|Hunter|
 t Train Staves |N|Talk to Woo Ping - Talk to Woo Ping - (57.1, 57.7)|
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - Buy [Chunks of Boar Meat] and/or [Stringy Wolf Meat] to level your [Cooking] with later - You need 50 [Cooking] for a quest in Darkshire later - If you don't want to or can't do this, skip this step - Buy the following items for faster turn ins in Darkshore shortly: - [Strider Meat] - [Darkshore Grouper] - [Chunks of Boar Meat] - [Stringy Wolf Meat] - Strider Meat (5) - Darkshore Grouper (6) - (53.6, 59.8)
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - If you don't want to or can't do this, skip this step - Buy the following items for faster turn ins in Darkshore shortly: - [Strider Meat] - [Darkshore Grouper] - Strider Meat (5) - Darkshore Grouper (6) - (53.6, 59.8) |O|
-H Hearthstone
-N (23.9, 17.9) |O|
-T Stormpike's Delivery |QID|353| |N|Talk to Mountaineer Stormpike - Talk to Mountaineer Stormpike - (24.8, 18.4)|
-D Die and respawn |N|Talk to Spirit Healer| |O|
-F Wetlands >> Fly to Wetlands |N|Talk to Thorgrum Borrelson - Talk to Thorgrum - (33.9, 51.0)|
-R Enter the Deeprun Tram. Take the Tram to Ironforge |N|(61.1, 11.6)|
-R Exit Ironforge |N|(53.5, 34.9)|
-N (59.4, 42.9) |O|
-N Kill Bluegill Raider - Watch the video guide for a reference on how to do the skip first! - Do the Deathless Dun Morogh -> Wetlands skip - Avoid the Wetlands Crocolisks and Murlocs when crossing the water - (59.5, 42.8)
+H Hearthstone |M|speedrun|
+N (23.9, 17.9) |O| |M|speedrun|
+T Stormpike's Delivery |QID|353| |N|Talk to Mountaineer Stormpike - Talk to Mountaineer Stormpike - (24.8, 18.4)| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+F Wetlands >> Fly to Wetlands |N|Talk to Thorgrum Borrelson - Talk to Thorgrum - (33.9, 51.0)| |M|speedrun|
+R Enter the Deeprun Tram. Take the Tram to Ironforge |N|(61.1, 11.6)| |M|hardcore|
+R Exit Ironforge |N|(53.5, 34.9)| |M|hardcore|
+N (59.4, 42.9) |O| |M|hardcore|
+N Kill Bluegill Raider - Watch the video guide for a reference on how to do the skip first! - Do the Deathless Dun Morogh -> Wetlands skip - Avoid the Wetlands Crocolisks and Murlocs when crossing the water - (59.5, 42.8) |M|hardcore|
 N Talk to Neal Allen - Talk to Neal Allen - Buy a [Bronze Tube] - This is a limited supply item. Skip this step if Neal Allen doesn't have one - (10.4, 56.0)
 N Talk to Samor Festivus - Talk to Samor Festivus upstairs - Buy as many [Healing Potions] that are available - This is a limited supply item. Skip this step if Samor Festivus doesn't have any - (10.4, 61.0)
-f Wetlands>> Get the Wetlands flight path |N|Talk to Shellei Brondir - Talk to Shellei - (9.5, 59.7)|
+f Wetlands>> Get the Wetlands flight path |N|Talk to Shellei Brondir - Talk to Shellei - (9.5, 59.7)| |M|hardcore|
 N Talk to Dewin Shimmerdawn - Talk to Dewin Shimmerdawn - Buy as many [Healing Potions] that are available - This is a limited supply item. Skip this step if Dewin Shimmerdawn doesn't have any - (8.0, 56.4)
 N (7.1, 58.0) |O|
 N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |O|

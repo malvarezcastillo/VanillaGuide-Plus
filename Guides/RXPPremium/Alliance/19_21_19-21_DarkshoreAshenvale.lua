@@ -95,8 +95,8 @@ A Raene's Cleansing |QID|1023| |N|Talk to Teronis' Corpse - Talk to Teronis' Cor
 N Keep any [Murloc Fins] you might loot. You will need 8 for a quest later - Murloc Fin(8) |O|
 N Kill Saltspittle Murlocs. Loot them for the Glowing Gem - Be careful as the Oracles can heal, and have a 90 damage instant-cast shock spell every few seconds - (20.4, 43.8) |QID|1023|
 H Hearthstone |C|Hunter| |R|Dwarf|
-D Die and respawn |O| |R|!Dwarf|
-N (34.4, 48.0) |O| |R|!Dwarf|
+D Die and respawn |O| |R|!Dwarf| |M|speedrun|
+N (34.4, 48.0) |O| |R|!Dwarf| |M|hardcore|
 F Darkshore>> Fly to Darkshore |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)| |R|!Dwarf|
 A The Absent Minded Prospector |QID|741| |N|Talk to Archaeologist Hollee - Talk to Archaeologist Hollee - (37.4, 41.8)|
 N Restock/Resupply |O|

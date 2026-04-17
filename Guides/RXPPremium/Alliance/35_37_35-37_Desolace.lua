@@ -11,8 +11,8 @@ A Reclaimers' Business in Desolace |QID|1453| |N|Talk to Roetten Stonehammer - T
 F Southshore >> Fly to Southshore |N|Talk to Gryth Thurden - Talk to Gryth - (55.5, 47.7)| |C|Warrior|
 A Cyclonian |QID|1712| |N|Talk to Bath'rah the Windwatcher - Talk to Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior|
 A Cyclonian |QID|1712| |N|Talk to Bath'rah the Windwatcher - Talk to Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior|
-R Die and respawn |N|Talk to Spirit Healer| |O| |C|Warrior|
-R Wetlands >> Fly to Wetlands |N|Talk to Bibilfaz Featherwhistle - Talk to Bibilfaz Featherwhistle - (42.9, 85.1)| |C|Warrior|
+R Die and respawn |N|Talk to Spirit Healer| |O| |C|Warrior| |M|speedrun|
+R Wetlands >> Fly to Wetlands |N|Talk to Bibilfaz Featherwhistle - Talk to Bibilfaz Featherwhistle - (42.9, 85.1)| |C|Warrior| |M|hardcore|
 N Cast Teleport to Darnassus |C|Mage|
 R Travel through the purple portal to Rut'theran Village |N|(29.5, 41.4)| |O| |C|Mage|
 R Desolace >> Fly to Desolace |N|Talk to Vesprystus - Talk to Vesprystus - (58.4, 94.0)| |C|Mage|
@@ -82,7 +82,7 @@ N Kill Aged Kodos. Loot them for their Aged Kodo Hides - You must complete this 
 N Kill Scorpashi Snappers, Scorpashi Lashers and Scorpashi Venomlashs. Loot them for their Venom |QID|1459| |O|
 T Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly F'utzbuckle - (62.3, 39.0)|
 N Kill Scorpashi Snappers, Scorpashi Lashers and Scorpashi Venomlashs. Loot them for their Venom - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn - You must complete this step now - (70.4, 63.0) |QID|1459|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 N (36.2, 79.2) |O|
 A Ongeku |QID|1373| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
 H Hearthstone |C|!Warlock|

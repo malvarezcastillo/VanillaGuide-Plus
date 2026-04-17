@@ -40,7 +40,7 @@ N (34.1, 71.6)
 N Kill boars to get 4 Boar Meat for later - Collect Chunk of Boar Meat (x4) |QID|317| |O|
 N Kill boars to get 6 Boar Ribs for later - Collect Crag Boar Rib (x6) |O|
 G Grind to 2415/+2800xp |N|grind boars north-east to Kharanos - (36.4, 62.9)|
-N (47.0, 55.1)
+N (47.0, 55.1) |M|speedrun|
 T Senir's Observations |QID|420| |N|Talk to Senir Whitebeard - Talk to Senir Whitebeard - (46.7, 53.8)|
 N vendor trash - (46.7, 53.5) |O|
 A Beer Basted Boar Ribs |QID|384| |N|Talk to Ragnar Thunderbrew - Talk to Ragnar Thunderbrew - (46.8, 52.4)|
@@ -91,11 +91,11 @@ N Kill Leper Gnomes. Loot them for Gears and Cogs - Collect Gyromechanic Gear (x
 G Grind to 9
 N (24.5, 50.8)
 N Kill Headhunters inside the cave - Kill Frostmane Headhunter (x5) - (22.1, 50.3) |QID|287|
-N Carefully grind down into this nook in the cave - Fully explore Frostmane Hold - (23.0, 52.2) |QID|287|
-N (23.4, 51.5)
-N Jump down, you die after - Fully explore Frostmane Hold - (23.0, 52.2) |QID|287|
-D Die and respawn
-N (46.7, 53.8)
+N Carefully grind down into this nook in the cave - Fully explore Frostmane Hold - (23.0, 52.2) |QID|287| |M|hardcore|
+N (23.4, 51.5) |M|speedrun|
+N Jump down, you die after - Fully explore Frostmane Hold - (23.0, 52.2) |QID|287| |M|speedrun|
+D Die and respawn |M|speedrun|
+N (46.7, 53.8) |M|hardcore|
 A The Reports |QID|291| |N|Talk to Senir Whitebeard - Talk to Senir Whitebeard - (46.7, 53.8)|
 T Operation Recombobulation |QID|412| |N|Talk to Razzle Sprysprocket - Talk to Razzle Sprysprocket - (45.8, 49.4)|
 A Protecting the Herd |QID|314| |N|Talk to Rudra Amberstill - Talk to Rudra Amberstill - (60.1, 52.6)|

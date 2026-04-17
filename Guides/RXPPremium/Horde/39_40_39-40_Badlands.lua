@@ -10,7 +10,7 @@ N 39-40 Badlands |N|Converted from RestedXP guide|
 R Swim to the Wetlands |N|(32.3, 12.6)| |O|
 R Travel through Dun Algaz into Loch Modan |N|(53.9, 70.3)|
 R Logout on top of the mushrooms at the back of the cave. When you log back in, this will teleport you should be just outside of Thelsamar |N|After logging in at Thelsamar, run southwest to the other side of the road to avoid the guards. Be VERY careful not to move forward when you log in as it's likely to aggro the level 30-40 guards. - (53.9, 46.4)|
-N Be careful! Do not get hit by Mountaineers (Dwarf Guards) as it will PVP-flag you! |O|
+N Be careful! Do not get hit by Mountaineers (Dwarf Guards) as it will PVP-flag you! |O| |M|hardcore|
 R Run to the Badlands |N|Use the shortcut to get to Badlands faster - (25.3, 67.3)| |O|
 f Kargath >> Get the Kargath Flight Path |N|Talk to Gorrik - Talk to Gorrik - (4.0, 44.8)|
 N Talk to Sranda - Talk to Sranda - Sell your junk and repair, if necessary - (2.9, 47.2)

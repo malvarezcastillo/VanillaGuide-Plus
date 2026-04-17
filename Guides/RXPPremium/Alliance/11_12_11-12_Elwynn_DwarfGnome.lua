@@ -7,9 +7,9 @@ return [[
 
 N 11-12 Elwynn (Dwarf/Gnome) |N|Converted from RestedXP guide|
 
-N Cast [Life Tap] repeatedly until you have <10% health while on the way to Dungar Longdrink |O| |C|Warlock|
+N Cast [Life Tap] repeatedly until you have <10% health while on the way to Dungar Longdrink |O| |C|Warlock| |M|speedrun|
 f Stormwind >> Get the Stormwind City flight path |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)|
-D Die and respawn |N|Talk to Spirit Healer - Cast [Life Tap] repeatedly until you have <10% health then jump down the ledge (NOT into the water) next to the flight master and die intentionally| |O| |C|Warlock|
+D Die and respawn |N|Talk to Spirit Healer - Cast [Life Tap] repeatedly until you have <10% health then jump down the ledge (NOT into the water) next to the flight master and die intentionally| |O| |C|Warlock| |M|speedrun|
 A The Fargodeep Mine |QID|62| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
 A Kobold Candles |QID|60| |N|Talk to William Pestle - Talk to William Pestle - (43.3, 65.7)|
 N (43.9, 66.5) |O| |C|Mage/Rogue|
@@ -24,14 +24,14 @@ A Pie for Billy |QID|86| |N|Talk to Billy Maclure - Talk to Billy Maclure - (43.
 N Kill Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust - The level 5 mobs may turn gray during this quest. Still finish it as you need to complete this quest to unlock the follow up's - Kobold Candle (8) - Gold Dust (10) |QID|47| |O|
 N Enter and explore Fargodeep Mine - Scout Through the Fargodeep Mine - (38.7, 81.8) |QID|62|
 N Kill Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust - The level 5 mobs may turn gray during this quest. Still finish it as you need to complete this quest to unlock the follow up's - Kobold Candle (8) - Gold Dust (10) - (40.5, 82.3) |QID|47|
-D Die and respawn |N|Talk to Spirit Healer| |O|
-T Gold Dust Exchange |QID|47| |N|Talk to Remy "Two Times" - Talk to Remy "Two Times" - Do NOT vendor the [Bag of Marbles] reward. This is an incredibly valuable item all the way through to level 60 - (42.1, 67.3)|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+T Gold Dust Exchange |QID|47| |N|Talk to Remy "Two Times" - Talk to Remy "Two Times" - Do NOT vendor the [Bag of Marbles] reward. This is an incredibly valuable item all the way through to level 60 - (42.1, 67.3)| |M|hardcore|
 T Wanted: "Hogger" |QID|176| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)| |C|Warlock|
 A Further Concerns |QID|35| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
 T The Collector |QID|123| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
 A Manhunt |QID|147| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)| |C|Warlock|
 A Shipment to Stormwind |QID|61| |N|Talk to William Pestle - Talk to William Pestle - (43.3, 65.7)|
-T Gold Dust Exchange |QID|47| |N|Talk to Remy "Two Times" - Talk to Remy "Two Times" - Do NOT vendor the [Bag of Marbles] reward. This is an incredibly valuable item all the way through to level 60 - (42.1, 67.3)|
+T Gold Dust Exchange |QID|47| |N|Talk to Remy "Two Times" - Talk to Remy "Two Times" - Do NOT vendor the [Bag of Marbles] reward. This is an incredibly valuable item all the way through to level 60 - (42.1, 67.3)| |M|speedrun|
 N (74.0, 72.2) |O|
 T Further Concerns |QID|35| |N|Talk to Guard Thomas - Talk to Guard Thomas - (74.0, 72.2)|
 A Protect the Frontier |QID|52| |N|Talk to Guard Thomas - Talk to Guard Thomas - (74.0, 72.2)|
@@ -51,7 +51,7 @@ N Kill Surena Caledon. Loot her for her Choker - Focus on killing Surena Caledon
 N Kill Defias Bandits. Loot them for their Bandanas - Collect Red Linen Bandana (x6) |QID|83| |O|
 N Kill Princess. Loot her for her Collar - Princess will agro with both of her Porcine Entourage - Princess will also cast [Rushing Charge] which deals heavy damage - (69.3, 79.0) |QID|88|
 N Kill Defias Bandits. Loot them for their Bandanas - Collect Red Linen Bandana (x6) - (70.5, 77.6) |QID|83|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 T Red Linen Goods |QID|83| |N|Talk to Sara Timberlain - Talk to Sara Timberlain - (79.5, 68.8)|
 R Travel to Redridge Mountains |N|(17.4, 69.6)| |O|
 A Encroaching Gnolls |QID|244| |N|Talk to Guard Parker - Talk to Guard Parker - (17.4, 69.6)|
@@ -65,9 +65,9 @@ t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26
 A The Binding |QID|1689| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock|
 N Travel to the bottom of The Slaughtered Lamb - Cast Use the [Bloodstone Choker] to call forth a Summoned Voidwalker - (25.2, 80.7) |U|6928| |O| |C|Warlock|
 C Kill the Summoned Voidwalker |QID|1689| |N|Kill Summoned Voidwalker (x1) - (25.2, 77.4)| |U|6928| |C|Warlock|
-N Start casting [Life Tap] on your way back up to Gakin the Darkbinder as you will do a deathskip momentarily |O| |C|Warlock|
+N Start casting [Life Tap] on your way back up to Gakin the Darkbinder as you will do a deathskip momentarily |O| |C|Warlock| |M|speedrun|
 T The Binding |QID|1689| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock|
-D Die and respawn |N|Talk to Spirit Healer| |C|Warlock|
+D Die and respawn |N|Talk to Spirit Healer| |C|Warlock| |M|speedrun|
 R Exit Stormwind. Travel to Goldshire |N|(42.1, 65.9)|
 T Deliver Thomas' Report |QID|39| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)| |C|Warlock|
 T Manhunt |QID|147| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)| |C|Warlock|
@@ -85,7 +85,7 @@ T Furlbrow's Deed |QID|184| |N|Talk to Farmer Furlbrow - Talk to Farmer Furlbrow
 A Westfall Stew |QID|36| |N|Talk to Verna Furlbrow - Talk to Farmer Furlbrow and Verna Furlbrow - (60.0, 19.4)|
 A The Killing Fields |QID|9| |N|Talk to Farmer Saldean - Talk to Farmer Saldean - (56.0, 31.2)|
 A Goretusk Liver Pie |QID|22| |N|Talk to Salma Saldean - Talk to Salma Saldean - (56.4, 30.5)|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 A The People's Militia |QID|12| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)|
 A The People's Militia |QID|12| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)|
 A Patrolling Westfall |QID|102| |N|Talk to Captain Danuvin - Talk to Captain Danuvin - (56.4, 47.6)|

@@ -7,9 +7,9 @@ return [[
 
 N 7-13 Mulgore |N|Converted from RestedXP guide|
 
-D Die and respawn |O|
-N (47.4, 60.7) |O|
-A Mazzranache |QID|766| |N|Talk to Maur Raincaller - Talk to Maur - (47.0, 57.1)|
+D Die and respawn |O| |M|speedrun|
+N (47.4, 60.7) |O| |M|hardcore|
+A Mazzranache |QID|766| |N|Talk to Maur Raincaller - Talk to Maur - (47.0, 57.1)| |M|speedrun|
 A Dwarven Digging |QID|746| |N|Talk to Baine Bloodhoof - Talk to Ruul and Baine - (47.4, 62.0)|
 A Dwarven Digging |QID|746| |N|Talk to Baine Bloodhoof - Talk to Ruul and Baine - (47.4, 62.0)|
 h Mulgore |QID|1656| |N|Talk to Innkeeper Kauth - Talk to Innkeeper Kauth - (46.6, 61.1)|
@@ -61,8 +61,8 @@ N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quil
 N Kill Stalkers and Cougars. Loot them for their Claws - Stalker Claws (6) - Cougar Claws (6) |QID|756| |O| |R|Tauren|
 A The Ravaged Caravan |QID|751| |N|Click the Sealed Supply Crate - (53.7, 48.2)|
 N Kill Stalkers and Cougars. Loot them for their Claws - Stalker Claws (6) - Cougar Claws (6) - (58.1, 48.6) |QID|756| |R|Tauren|
-D Die and respawn |O|
-N (46.5, 55.5) |O|
+D Die and respawn |O| |M|speedrun|
+N (46.5, 55.5) |O| |M|hardcore|
 t Train your class spells |N|Talk to Yaw Sharpmane - Talk to Yaw - (47.8, 55.7)| |C|Hunter|
 T Mazzranache |QID|766| |N|Talk to Maur Raincaller - Talk to Maur - (47.0, 57.1)|
 N Talk to Mahnott Roughwound - Talk to Mahnott - Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet - (45.7, 58.6) |C|Shaman/Druid|
@@ -133,8 +133,8 @@ N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland C
 N Kill Swoops. Loot them for their Quills - Trophy Swoop Quill (8) - (51.0, 18.4) |QID|761|
 N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) - (50.8, 29.4) |QID|766|
 R Exit Thunder Bluff |O|
-R Die and respawn |N|Make sure you die at the waypoint arrow or further south of it - (48.2, 38.9)| |O|
-N (47.3, 57.2) |O|
+R Die and respawn |N|Make sure you die at the waypoint arrow or further south of it - (48.2, 38.9)| |O| |M|speedrun|
+N (47.3, 57.2) |O| |M|hardcore|
 T Mazzranache |QID|766| |N|Talk to Maur Raincaller - Talk to Maur - (47.0, 57.1)|
 T The Demon Scarred Cloak |QID|770| |N|Talk to Skorn Whitecloud - Talk to Skorn - (46.8, 60.2)|
 T Swoop Hunting |QID|761| |N|Talk to Harken Windtotem - Talk to Baine, Ruul, Mull and Harken - (47.5, 60.2)| |R|Tauren|
@@ -169,8 +169,8 @@ N Kill Supervisor Fizsprocket. Loot him for his Clipboard - Run into the mine an
 N Kill Venture Co. Workers and Venture Co. Supervisors - Venture Co. Worker (14) - Venture Co. Supervisor (6) - (61.4, 47.5) |QID|764|
 T Supervisor Fizsprocket |QID|765| |N|Talk to Morin - He patrols along the eastern road - (55.1, 60.6)|
 N Kill Prairie Wolf Alphas in the area. Loot them for their Teeth - Prairie Alpha Tooth (8) - (67.2, 63.8) |QID|759|
-D Die and respawn |O|
-N (46.5, 55.5) |O|
+D Die and respawn |O| |M|speedrun|
+N (46.5, 55.5) |O| |M|hardcore|
 A Wildmane Cleansing |QID|760| |N|Talk to Mull Thunderhorn - Talk to Mull - (48.5, 60.4)|
 R Travel to The Barrens |N|(69.6, 60.4)|
 F Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |C|Druid|
@@ -198,7 +198,7 @@ A Wharfmaster Dizzywig |QID|1492| |N|Talk to Apothecary Helbrim - Talk to Helbri
 N Collect Laden Mushrooms around The Forgotten Pools - Keep maximum distance from Kolkar as you loot the mushrooms. They are level 12-14 - The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it - Collect Fungal Spores (x4) |QID|848| |O|
 N Dive underwater to the Bubble Fissure - Explore the waters of the Forgotten Pools - (45.1, 22.5) |QID|870|
 N Collect Laden Mushrooms around The Forgotten Pools - Keep maximum distance from Kolkar in the area. They are level 12-14 - The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it - Collect Fungal Spores (x4) - (45.2, 23.3) |QID|848|
-D Die and respawn |O|
+D Die and respawn |O| |M|speedrun|
 A The Stagnant Oasis |QID|877| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)|
 A The Stagnant Oasis |QID|877| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |O|
 A Apothecary Zamah |QID|853| |N|Talk to Apothecary Helbrim - Talk to Helbrim - Wait for the RP to finish - This starts a 45-minute timed quest - (51.4, 30.1)|

@@ -11,10 +11,10 @@ F Southshore>> Fly to Southshore |N|Talk to Gryth Thurden - Talk to Gryth Thurde
 h Hillsbrad Foothills |N|Talk to Innkeeper Anderson - Talk to Innkeeper Anderson - (51.2, 58.9)|
 N (75.6, 22.1) |C|Rogue|
 T The Azure Key |QID|8236| |N|Talk to Lord Jorach Ravenholdt - Talk to Lord Jorach Ravenholdt upstairs - (86.0, 78.9)| |C|Rogue|
-F Western Plaguelands >> Fly to Western Plaguelands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)|
-N (39.5, 81.2) |O|
-T The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Haggerdin - Talk to Lieutenant Haggerdin - (39.5, 81.2)|
-R Travel to Western Plaguelands |N|(42.7, 84.0)| |O|
+F Western Plaguelands >> Fly to Western Plaguelands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |M|hardcore|
+N (39.5, 81.2) |O| |M|speedrun|
+T The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Haggerdin - Talk to Lieutenant Haggerdin - (39.5, 81.2)| |M|speedrun|
+R Travel to Western Plaguelands |N|(42.7, 84.0)| |O| |M|speedrun|
 A Clear the Way |QID|5092| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)|
 T The Everlook Report |QID|6028| |N|Talk to Argent Officer Pureheart - Talk to Argent Officer Pureheart - (43.0, 83.5)|
 T Forging the Mightstone |QID|8418| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)| |C|Paladin|

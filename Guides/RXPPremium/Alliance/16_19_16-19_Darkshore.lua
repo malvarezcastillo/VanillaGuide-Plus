@@ -228,9 +228,9 @@ R Travel to Menethil Harbor |O| |C|Warrior/Rogue| |R|NightElf|
 N (7.1, 58.0) |O| |C|Warrior/Rogue| |R|NightElf|
 R Take the boat to Auberdine |N|(4.4, 56.8)| |O| |C|Warrior/Rogue| |R|NightElf|
 R Hearthstone |O| |C|!Druid|
-D Die and respawn |O| |C|Hunter| |R|Dwarf|
-N Grind until your HS cooldown is <9 minutes then run back to Auberdine |O| |C|Hunter| |R|Dwarf|
-D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Hunter| |R|!NightElf|
+D Die and respawn |O| |C|Hunter| |R|Dwarf| |M|speedrun|
+N Grind until your HS cooldown is <9 minutes then run back to Auberdine |O| |C|Hunter| |R|Dwarf| |M|hardcore|
+D Die and respawn |N|Talk to Spirit Healer| |O| |C|!Hunter| |R|!NightElf| |M|speedrun|
 T The Blackwood Corrupted |QID|4763| |N|Talk to Thundris Windweaver - Talk to Thundris Windweaver| |R|!NightElf|
 T Tharnariun's Hope |QID|2139| |N|Talk to Tharnariun Treetender - Talk to Tharnariun Treetender| |R|!NightElf|
 A A Lost Master |QID|993| |N|Talk to Terenthis - Talk to Terenthis| |R|!NightElf|
@@ -342,8 +342,8 @@ t Train your class spells |N|Talk to Sheldras Moontree - Talk to Sheldras Moontr
 N (50.9, 57.8) |O| |C|Hunter|
 N Talk to Landria - Talk to Frederick Stover - Buy a [Heavy Recurve Bow] and a [Medium Quiver] from him - Heavy Recurve Bow (1) - Medium Quiver (1) - (50.0, 57.6) |C|Hunter|
 N Talk to Landria - Talk to Frederick Stover - Buy a [Heavy Recurve Bow] and a [Medium Quiver] from him or check the Auction House for something better/cheaper - Heavy Recurve Bow (1) - Medium Quiver (1) - (50.0, 57.6) |C|Hunter|
-N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - This will save you time as you won't need to run around looking for mobs to kill. Skip this step if you wish to not buy any - [Great Goretusk Snout] - [Tough Condor Meat] - [Crisp Spider Meat] - Great Goretusk Snout (5) - Tough Condor Meat (5) - Crisp Spider Meat (5) - (53.6, 59.8)
-N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - This will save you time as you won't need to run around looking for mobs to kill. Skip this step if you wish to not buy any - [Flask of Oil] - [Great Goretusk Snout] - [Tough Condor Meat] - [Crisp Spider Meat] - Flask of Oil (5) - Great Goretusk Snout (5) - Tough Condor Meat (5) - Crisp Spider Meat (5) - (53.6, 59.8)
+N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - This will save you time as you won't need to run around looking for mobs to kill. Skip this step if you wish to not buy any - [Great Goretusk Snout] - [Tough Condor Meat] - [Crisp Spider Meat] - Great Goretusk Snout (5) - Tough Condor Meat (5) - Crisp Spider Meat (5) - (53.6, 59.8) |M|speedrun|
+N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - This will save you time as you won't need to run around looking for mobs to kill. Skip this step if you wish to not buy any - [Flask of Oil] - [Great Goretusk Snout] - [Tough Condor Meat] - [Crisp Spider Meat] - Flask of Oil (5) - Great Goretusk Snout (5) - Tough Condor Meat (5) - Crisp Spider Meat (5) - (53.6, 59.8) |M|hardcore|
 N Talk to Dungar Longdrink - Talk to Dungar Longdrink - (57.8, 58.3)
 R Travel to Westfall |O| |R|!Human|
 A The Defias Brotherhood |QID|65| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)|
@@ -396,8 +396,8 @@ N Kill the Defias. Loot them for their Red Silk Bandanas - You can also complete
 N Kill Skeletal Miners, Undead Dynamiters and Undead Excavators. Loot them for their Cards - This is completed OUTSIDE of the Dungeon - Miners' Union Card (4) |QID|168| |O|
 N Kill Foreman Thistlenettle. Loot him for his Badge - This is completed OUTSIDE of the Dungeon - Thistlenettle's Badge (1) |QID|167|
 N Kill Skeletal Miners, Undead Dynamiters and Undead Excavators. Loot them for their Cards - This is completed OUTSIDE of the Dungeon - Miners' Union Card (4) |QID|168|
-N Kill the Defias inside The Deadmines. Loot them for their Red Silk Bandanas - Red Silk Bandana (10) |QID|214| |O|
-N Kill the Defias inside The Deadmines. Loot them for their Red Silk Bandanas - Red Silk Bandana (10) |QID|214| |O|
+N Kill the Defias inside The Deadmines. Loot them for their Red Silk Bandanas - Red Silk Bandana (10) |QID|214| |O| |M|speedrun|
+N Kill the Defias inside The Deadmines. Loot them for their Red Silk Bandanas - Red Silk Bandana (10) |QID|214| |O| |M|hardcore|
 N Kill Sneed. Loot him for the Gnoam Sprecklesprocket - Gnoam Sprecklesprocket (1) |QID|2040|
 N Equip the [Dacian Falx] |U|922| |O| |C|Paladin/Warrior|
 N Equip the [Longsword] |U|923| |O| |C|Rogue|
@@ -416,7 +416,7 @@ T The Coastal Menace |QID|104| |N|Talk to Captain Grayson - Talk to Captain Gray
 N (42.5, 71.7) |O| |C|Paladin|
 N Kill the Defias outside the Deadmines Instance. Loot them for their Red Silk Bandanas - Red Silk Bandana (10) |QID|214| |C|Paladin|
 N Kill the Defias inside The Deadmines. Loot them for their Red Silk Bandanas - If there are no more Defias inside the Deadmines, kill them outside instead - Red Silk Bandana (10) |QID|214| |C|!Paladin|
-D Die and respawn |N|Talk to Spirit Healer| |O|
+D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
 N Equip the [Dacian Falx] |U|922| |O| |C|Paladin/Warrior|
 N Equip the [Longsword] |U|923| |O| |C|Rogue|
 T The Defias Brotherhood |QID|166| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)|
@@ -479,7 +479,7 @@ R Stay on the main road to avoid mobs |N|(53.1, 70.4)| |O| |C|!Hunter| |R|NightE
 A A Dark Threat Looms |QID|250| |N|Talk to Chief Engineer Hinderweir VII - Talk to Chief Engineer Hinderweir VII - (46.0, 13.6)| |C|!Hunter| |R|NightElf|
 A A Dark Threat Looms |QID|199| |N|Click the Suspicious Barrel - (56.0, 13.2)| |C|!Hunter| |R|NightElf|
 T A Dark Threat Looms |QID|199| |N|Talk to Chief Engineer Hinderweir VII - Talk to Chief Engineer Hinderweir VII - (46.0, 13.6)| |C|!Hunter| |R|NightElf|
-D Die and respawn |O| |C|!Hunter| |R|NightElf|
+D Die and respawn |O| |C|!Hunter| |R|NightElf| |M|speedrun|
 f Thelsamar >> Get the Thelsamar flight path |N|Talk to Thorgrum Borrelson - Talk to Thorgrum - (33.9, 51.0)| |C|!Hunter| |R|NightElf|
 N (21.3, 68.6) |C|!Hunter| |R|NightElf|
 R Travel to Ironforge |N|(55.1, 34.9)| |C|!Hunter| |R|NightElf|

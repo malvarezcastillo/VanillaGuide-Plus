@@ -7,10 +7,10 @@ return [[
 
 N 59-60 Winterspring/Silithus part 2 |N|Converted from RestedXP guide|
 
-F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |O|
-T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
-F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |O|
-T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
+F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |O| |M|hardcore|
+T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
+F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |O| |M|speedrun|
+T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
 F Tanaris >> Fly to Tanaris |N|Talk to Gryfe - Talk to Cloud Skydancer or Gryfe - (50.6, 34.4)| |O|
 A Calm Before the Storm |QID|4508| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|
 T Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
@@ -58,9 +58,9 @@ T A Taste of Flame |QID|4022| |N|Talk to Cyrus Therepentous - Talk to Cyrus Ther
 A A Taste of Flame |QID|4024| |N|Talk to Cyrus Therepentous - Talk to Cyrus Therepentous - (95.1, 31.6)|
 A The Heart of the Mountain |QID|4123| |N|Talk to Maxwort Uberglint - Talk to Maxwort Uberglint - (65.2, 23.9)|
 A Ribbly Screwspigot |QID|4136| |N|Talk to Yuka Screwspigot - Talk to Yuka Screwspigot - (66.1, 22.0)|
-A Dark Iron Legacy |QID|3802| |N|Talk to Franclorn Forgewright - Die intentionally in the lava in Blackrock Mountain, ideally near the Molten Core entrance location - For this step you must be a [Ghost] to talk to Franclorn Forgewright inside Blackrock Mountain. Resurrect at your corpse once you have the quest - Talk to Franclorn Forgewright|
-N Cast Click the Brazier of Embersight to gain the [Emberglow Vision] debuff
-A Dark Iron Legacy |QID|3802| |N|Talk to Franclorn Forgewright - Talk to Franclorn Forgewright - You must have the [Emberglow Vision] debuff to see him|
+A Dark Iron Legacy |QID|3802| |N|Talk to Franclorn Forgewright - Die intentionally in the lava in Blackrock Mountain, ideally near the Molten Core entrance location - For this step you must be a [Ghost] to talk to Franclorn Forgewright inside Blackrock Mountain. Resurrect at your corpse once you have the quest - Talk to Franclorn Forgewright| |M|speedrun|
+N Cast Click the Brazier of Embersight to gain the [Emberglow Vision] debuff |M|hardcore|
+A Dark Iron Legacy |QID|3802| |N|Talk to Franclorn Forgewright - Talk to Franclorn Forgewright - You must have the [Emberglow Vision] debuff to see him| |M|hardcore|
 A Attunement to the Core |QID|7848| |N|Talk to Lothos Riftwaker - Talk to Lothos Riftwaker|
 N Kill Overmaster Pyron - Overmaster Pyron patrols outside of the BRD instance portal |QID|4262|
 N Kill Dwarves inside of BRD. Loot them for their Dark Iron Fanny Packs |QID|4286| |O|

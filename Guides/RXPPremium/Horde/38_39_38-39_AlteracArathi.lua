@@ -33,7 +33,7 @@ N Talk to Auctioneer Stockton - Talk to Auctioneer Stockton in the Trade Quarter
 N Talk to Auctioneer Stockton - Talk to Auctioneer Stockton in the Trade Quarter - If you have money leftover, purchase the following items: - Collect item 3829 (x1) - Collect item 4389 (x1) - Collect item 4611 (x9) - Collect item 3404 (x4) - (71.4, 46.7)
 N Talk to Ronald Burch - Talk to Ronald. Buy [Soothing Spices] from him - Collect item 3713 (x1) - (62.3, 43.1)
 R Hammerfall >> Fly to Hammerfall |N|Talk to Michael Garrett - Talk to Michael - Fly to Tarren Mill instead if you bought 8 Cresting, Thundering and Burning charms on the AH and skip the next 3 steps - (63.3, 48.5)| |O| |C|Warrior|
-N Be careful of getting too close to Refuge Point (Alliance base) in the centre of the zone. Refuge Point Defenders can kill you - (45.8, 43.6) |O| |C|Warrior|
+N Be careful of getting too close to Refuge Point (Alliance base) in the centre of the zone. Refuge Point Defenders can kill you - (45.8, 43.6) |O| |C|Warrior| |M|hardcore|
 N Kill Cresting Exile - Kill Cresting Exiles. Loot them for their [Cresting Charms] - Collect item 4481 (x8) - (66.7, 29.7) |C|Warrior|
 N Kill Thundering Exile - Kill Thundering Exiles. Loot them for their [Thundering Charms] - Be careful! Thundering Exiles have high burst damage - Collect item 4480 (x8) - (52.1, 50.6) |C|Warrior|
 N Kill Burning Exile - Kill Burning Exiles. Loot them for their [Burning Charms] - Collect item 4479 (x8) - (25.5, 30.1) |C|Warrior|
@@ -57,7 +57,7 @@ N Talk to Innkeeper Shay - Talk to Innkeeper Shay - (62.8, 19.1)
 A Dalaran Patrols |QID|545| |N|Talk to Magus Wordeen Voidglare - Talk to Bel'varil and Wordeen - (61.6, 20.9)| |C|Warrior|
 N Kill Hulking Mountain Lion - Kill Mountain Lions. Loot them for a [Fresh Carcass] - [Fresh Carcass] disappears after 30 minutes - Collect item 5810 (x1) - (42.2, 77.8) |O|
 C Use the [Fresh Carcass] inside Growless Cave to summon Frostmaw. Kill him and loot him for his Mane |QID|1136| |N|This quest can be difficult, so clear around the cave before summoning - (37.6, 68.2)| |U|5810|
-N Be careful of the Alliance Guards at the Alterac Valley cave as you travel west! They have a large agro pull and will kill you in 2 hits - Check the map to see their location - (39.9, 80.9) |O|
+N Be careful of the Alliance Guards at the Alterac Valley cave as you travel west! They have a large agro pull and will kill you in 2 hits - Check the map to see their location - (39.9, 80.9) |O| |M|hardcore|
 N Kill Dalaran Summoners and Elemental Slaves. Loot them for their Bracers - (10.3, 78.5) |QID|557|
 N Cast Cast [Track Hidden] as you approach Lord Aliden Perenolde's homestead |O| |C|Hunter|
 N Kill Lord Aliden Perenolde - Be mindful of Syndicate Assassins. Aliden uses Power Word: Shield, casts Renew, and will sleep pets and other players - (39.3, 14.5) |QID|507|
@@ -80,7 +80,7 @@ N Loot the Stone of East Binding for the Cresting Key - Cresting Exiles have Fro
 N Loot the Stone of Outer Binding for the Thundering Key - Thundering Exiles have powerful burst damage - (52.0, 50.8) |QID|651|
 N Kill Burning Exile - Loot the Stone of West Binding for the Burning Key - If you find yourself in danger, use a [Cresting Charm] on Burning Exiles - (25.5, 30.1) |QID|651| |U|4481|
 N Loot the Stone of West Binding for the Burning Key - (25.5, 30.1) |QID|651|
-N This next quest can be quite hard, be extra careful |O| |C|Rogue|
+N This next quest can be quite hard, be extra careful |O| |C|Rogue| |M|hardcore|
 N Kill Marez Cowl. Loot her for her Orb - She has two spawn locations in the eastern side of the keep (outside). You can stealth to her - She is elite but can be killed solo. Use [Gouge] to restore energy and kite her. Apply [Crippling Poison] for additional safety - Be careful of Syndicate Prowlers, they will not body pull as you agro Marez Cowl - (29.4, 64.4) |QID|673| |C|Rogue|
 A Breaking the Keystone |QID|652| |N|Click the Stone of Inner Binding - Be careful of Rumbling Exiles. Their stun has no diminishing return - (36.2, 57.3)|
 N Use [Eagle Eye] to find Fozruk - Make sure to kill Sleeby and the rest of the Kobolds first, you can kill one add at a time and reset the fight - Kill Fozruk by kiting him around Refuge Point. Loot him for his Rod of Order - This is a difficult quest solo, consider skipping this step if you can't group up - (67.3, 31.1) |QID|652| |C|Hunter|
@@ -114,7 +114,7 @@ N Kill Boulderfist Shamans and Boulderfist Lords - (18.9, 65.8) |QID|679|
 N Kill Syndicate. Loot them for the Sigil of Strom - It has a very low drop rate. Be careful of respawns. Be careful of Syndicate Prowlers, who can net and disarm |QID|639| |O|
 N Kill Marez Cowl. Loot her for her Orb - She has two spawn locations in the eastern side of the keep - (29.4, 64.4) |QID|673|
 N Kill Syndicate. Loot them for the Sigil of Strom - It has a very low drop rate. Be careful of respawns. Be careful of Syndicate Prowlers, who can net and disarm - (25.7, 62.6) |QID|639|
-D Die and respawn |O|
+D Die and respawn |O| |M|speedrun|
 N (73.5, 33.2) |O|
 T Foul Magics |QID|673| |N|Talk to Tor'gan - Talk to Tor'gan - (74.7, 36.4)|
 T Call to Arms |QID|679| |N|Talk to Drum Fel - Talk to Drum Fel - (74.2, 33.9)|

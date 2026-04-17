@@ -11,14 +11,14 @@ N Cast Cast [Teleport: Ironforge] |O|
 A A Call to Arms: The Plaguelands! |QID|5090| |N|Talk to Courier Hammerfall - Talk to Hammerfall| |O|
 t Train your class spells (Scorch r6, Mana Shield r5, Frost Ward r4, Blizzard r5, Conjure Food r6) |N|Talk to Dink - Talk to Dink - (27.2, 8.6)|
 N (24.5, 38.0) |O|
-A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Rotimer - NOTE: If this quest is not up on the Hardcore servers, skip this step - (32.2, 63.2)|
-A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Rotimer - (32.2, 63.2)|
+A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Rotimer - NOTE: If this quest is not up on the Hardcore servers, skip this step - (32.2, 63.2)| |M|hardcore|
+A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Rotimer - (32.2, 63.2)| |M|speedrun|
 F Southshore >> Fly to Southshore |N|Talk to Gryth Thurden - Talk to Gryth - (55.5, 47.7)| |O|
 h Hillsbrad Foothills |N|Talk to Innkeeper Anderson - Talk to Anderson inside - (51.2, 58.9)|
-N (41.3, 84.1) |O|
-T The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Haggerdin - Talk to Haggerdin - (41.3, 84.1)|
-N (53.2, 65.4) |O|
-R Chillwind Camp >> Fly to Chillwind Camp |N|Talk to Darla Harris - Talk to Darla - (49.3, 52.3)| |O|
+N (41.3, 84.1) |O| |M|speedrun|
+T The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Haggerdin - Talk to Haggerdin - (41.3, 84.1)| |M|speedrun|
+N (53.2, 65.4) |O| |M|speedrun|
+R Chillwind Camp >> Fly to Chillwind Camp |N|Talk to Darla Harris - Talk to Darla - (49.3, 52.3)| |O| |M|hardcore|
 T Argent Dawn Commission |QID|5401| |N|Talk to Argent Officer Pureheart - Talk to Ashlam and Pureheart - (42.7, 84.0)|
 T Argent Dawn Commission |QID|5401| |N|Talk to Argent Officer Pureheart - Talk to Ashlam and Pureheart - (42.7, 84.0)|
 N Equip the [Argent Dawn Commission] |U|12846| |O|

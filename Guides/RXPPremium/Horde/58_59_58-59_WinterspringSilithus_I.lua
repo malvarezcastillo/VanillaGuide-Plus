@@ -23,7 +23,7 @@ U The Final Piece |QID|5123| |N|Kill Winterfall Shaman - Kill High Chief Winterf
 N Kill Winterfall Ursa, Winterfall Shamans and Winterfall Den Watchers - If there is too much competition, skip this step - (67.6, 34.1) |QID|8464|
 N Kill Ice Thistle Patriarchs and Ice Thistle Matriarchs. Loot them for their Pristine Yeti Horns - (66.5, 41.7) |QID|977|
 N Kill all Chillwind Chimaeras north of Everlook. Loot them for their Horns - (67.6, 48.2) |QID|4809|
-D Die and respawn |O| |C|!Shaman|
+D Die and respawn |O| |C|!Shaman| |M|speedrun|
 U Hearthstone |U|6948| |O| |C|Shaman|
 N Talk to Innkeeper Vizzie - Talk to Vizzie - (61.4, 38.8) |C|Shaman|
 T Chillwind Horns |QID|4809| |N|Talk to Felnok Steelspring - Talk to Felnok - (61.6, 38.6)|
@@ -45,8 +45,8 @@ R Felwood >>Fly to Felwood |N|Talk to Faustron - Talk to Faustron - (32.1, 66.6)
 A Guarding Secrets |QID|4883| |N|Talk to Trull Failbane - Talk to Trull - (34.8, 52.8)|
 A Guarding Secrets |QID|4883| |N|Talk to Trull Failbane - Talk to Trull - (34.8, 52.8)|
 T Words of the High Chief |QID|5128| |N|Talk to Kelek Skykeeper - Talk to Kelek - (51.1, 81.8)|
-A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
-A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
+A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|hardcore|
+A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|speedrun|
 R Azshara >>Fly to Azshara |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |C|!Mage|
 U Hearthstone |U|6948| |O| |C|!Mage|
 N (61.4, 38.8) |C|!Mage|
@@ -77,31 +77,31 @@ R Tanaris >>Fly to Tanaris |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |O|
 A Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 C Use the [Mechanical Yeti] on Sprinkle |QID|5163| |N|Talk to Sprinkle - (51.1, 26.9)| |U|12928|
 A Pawn Captures Queen |QID|4507| |N|Talk to Alchemist Pestlezugg - Talk to Pestlezugg - (50.9, 27.0)|
-N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O|
-N (69.0, 41.6) |O|
-N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |O|
-N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169|
-N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O|
-N (69.0, 41.6) |O|
-N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |O|
-N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169|
+N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O| |M|speedrun|
+N (69.0, 41.6) |O| |M|speedrun|
+N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |O| |M|speedrun|
+N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169| |M|speedrun|
+N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O| |M|hardcore|
+N (69.0, 41.6) |O| |M|hardcore|
+N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |O| |M|hardcore|
+N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169| |M|hardcore|
 R Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)|
-A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
-A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |O|
-A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
-A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |O|
-A It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
-A It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
+A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |M|speedrun|
+A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |O| |M|speedrun|
+A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |M|hardcore|
+A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |O| |M|hardcore|
+A It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
+A It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
 A A Gnome's Assistance |QID|3941| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
 A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
 C Use the [Mechanical Yeti] on Quixxil |QID|5163| |N|Talk to Quixxil - (43.7, 9.4)| |U|12928|
 N Kill Tar Elementals. Loot them for their Super Sticky Tar - (47.2, 14.7) |QID|4504|
-N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure someone is always ready to use the [Silver Totem of Aquementas] |U|11522| |O|
-N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522|
-N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962|
-N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure you or a party member is always ready to use the [Silver Totem of Aquementas] |U|11522| |O|
-N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522|
-N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962|
+N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure someone is always ready to use the [Silver Totem of Aquementas] |U|11522| |O| |M|speedrun|
+N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522| |M|speedrun|
+N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962| |M|speedrun|
+N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure you or a party member is always ready to use the [Silver Totem of Aquementas] |U|11522| |O| |M|hardcore|
+N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522| |M|hardcore|
+N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962| |M|hardcore|
 C Use your [Gorishi Queen Lure] to summon the Gorishi Hive Queen. Kill her, then loot her Gorishi Queen Brain |QID|4507| |N|Go deep into the silithid hive, until you reach a tall crystal in a round chamber - Proceed with caution, clear the room before summoning the queen, this quest is hard, you have to deal with 3 waves of 3 mobs and you only have 1 attempt on this quest (so it's optional). Remember to kill mobs outside the room so you can eat/drink after - Be careful, as this quest is VERY Hard if you haven't done it before - (50.1, 80.0)| |U|11833|
 R Head to Silithus |N|(88.1, 23.4)| |O|
 A The Spirits of Southwind |QID|1125| |N|Talk to Layo Starstrike - Talk to Layo - (81.9, 18.9)|
@@ -115,11 +115,11 @@ A Secret Communication |QID|8318| |N|Talk to Bor Wildmane - Talk to Bor - (48.6,
 N Kill Dredge Strikers |QID|8280| |O|
 N Kill Stonelash Scorpids and Sand Skitterers. Loot them for their Stingers and Fangs |QID|8277| |O|
 A Brann Bronzebeard's Lost Letter |QID|8308| |N|Collect item 20461 (x1)| |U|20461| |O|
-N Kill Tortured Druids and Tortured Sentinels - They have a high chance to spawn a Hive'Ashi Drone after dying |QID|1125| |O|
-N Kill Tortured Druids and Tortured Sentinels - Be careful! They have a high chance to spawn a Hive'Ashi Drone after dying - Make sure to only pull one at a time! |QID|1125| |O|
+N Kill Tortured Druids and Tortured Sentinels - They have a high chance to spawn a Hive'Ashi Drone after dying |QID|1125| |O| |M|speedrun|
+N Kill Tortured Druids and Tortured Sentinels - Be careful! They have a high chance to spawn a Hive'Ashi Drone after dying - Make sure to only pull one at a time! |QID|1125| |O| |M|hardcore|
 N Loot the Dusty Reliquary inside the lodge for the Reliquary of Purity - (63.2, 55.4) |QID|5527|
-N Kill Tortured Druids and Tortured Sentinels - They have a high chance to spawn a Hive'Ashi Drone after dying - (61.6, 48.6) |QID|1125|
-N Kill Tortured Druids and Tortured Sentinels - Be careful! They have a high chance to spawn a Hive'Ashi Drone after dying - Make sure to only pull one at a time! - (61.6, 48.6) |QID|1125|
+N Kill Tortured Druids and Tortured Sentinels - They have a high chance to spawn a Hive'Ashi Drone after dying - (61.6, 48.6) |QID|1125| |M|speedrun|
+N Kill Tortured Druids and Tortured Sentinels - Be careful! They have a high chance to spawn a Hive'Ashi Drone after dying - Make sure to only pull one at a time! - (61.6, 48.6) |QID|1125| |M|hardcore|
 A Hive in the Tower |QID|1126| |N|Talk to Layo Starstrike - Talk to Layo - (81.9, 18.9)|
 A Brann Bronzebeard's Lost Letter |QID|8308| |N|Collect item 20461 (x1)| |U|20461| |O|
 N Click on the Gooey Nest at the top of the tower - Kill the two Hive'Ashi Ambushers that spawn on the top floor. Loot them for a Encrusted Silithid Object - Be careful! Three Hive'Ashi Drones will spawn when you enter the bottom floor of the tower! - (60.2, 52.5) |QID|1126|
@@ -163,10 +163,10 @@ T Wanted - Deathclasp, Terror of the Sands |QID|8283| |N|Talk to Vish Kozus - Ta
 T A Terrible Purpose |QID|8287| |N|Talk to Commander Mar'alith - Talk to Mar'alith - (49.2, 34.2)|
 N Kill Twilight Cultists. Loot them for their Encrypted Twilight Texts - Twilight Keepers, Overlords and Masters have very high burst potential - (38.8, 45.4) |QID|8318|
 T Secret Communication |QID|8318| |N|Talk to Bor Wildmane - Talk to Bor - (48.6, 37.8)|
-R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O|
-T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
-R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O|
-T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
+R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O| |M|hardcore|
+T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
+R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O| |M|speedrun|
+T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
 R Tanaris >>Fly to Tanaris |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O|
 R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (45.2, 5.8)| |O|
 T Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|

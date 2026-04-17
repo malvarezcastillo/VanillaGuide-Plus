@@ -88,8 +88,8 @@ R Travel through Timbermaw Hold to Winterspring |N|(65.2, 7.9)| |O|
 A Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)|
 A Toxic Horrors |QID|5086| |N|Talk to Donova Snowden - Talk to Donova - (31.3, 45.1)|
 T The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
-A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
-A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - Blizzard has adjusted the quest chain for [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (31.3, 45.2)|
+A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)| |M|speedrun|
+A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - Blizzard has adjusted the quest chain for [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (31.3, 45.2)| |M|hardcore|
 N Kill Ragged Owlbeasts on your way to Everlook |QID|4521| |O|
 h Winterspring |N|Talk to Innkeeper Vizzie - Talk to Vizzie - (61.4, 38.8)|
 A Are We There, Yeti? |QID|3783| |N|Talk to Umi Rumplesnicker - Talk to Umi - (60.9, 37.6)|
@@ -110,19 +110,19 @@ N Talk to Innkeeper Vizzie - Talk to Vizzie - (61.4, 38.8) |C|!Shaman|
 R Felwood >>Fly to Felwood |N|Talk to Yugrek - Talk to Yugrek` - (60.5, 36.3)| |O|
 A Wild Guardians |QID|4741| |N|Talk to Trull Failbane - Talk to Trull - (34.7, 52.8)|
 R Tanaris>> Fly to Tanaris |N|Talk to Brakkar - Talk to Brakkar - (34.4, 54.0)| |O|
-N Cast Use the [Videre Elixir] at the Tanaris graveyard - (54.0, 28.6) |U|11243| |O|
-N Cast Use the [Videre Elixir] at the Tanaris graveyard - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers. It will lower your health to 3% however. Ensure you bandage or eat food before leaving the graveyard - (54.0, 28.6) |U|11243| |O|
-A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Ensure you bandage or eat food before leaving the graveyard - Talk to Gaeriyan - You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers - (53.9, 23.3)| |U|11243|
-A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Talk to Gaeriyan - You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers - (53.9, 23.3)| |U|11243|
-A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Talk to Gaeriyan - You must be dead in order to speak to Gaeriyan - (53.9, 23.3)|
-A Linken's Sword |QID|3914| |N|Click the Conspicuous Gravestone - (53.8, 29.1)|
-A Linken's Sword |QID|3914| |N|Click the Conspicuous Gravestone - (53.8, 29.1)|
-R Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)|
-A A Gnome's Assistance |QID|3941| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
-A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
-R Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)|
-A A Gnome's Assistance |QID|3941| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)|
-A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
+N Cast Use the [Videre Elixir] at the Tanaris graveyard - (54.0, 28.6) |U|11243| |O| |M|speedrun|
+N Cast Use the [Videre Elixir] at the Tanaris graveyard - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers. It will lower your health to 3% however. Ensure you bandage or eat food before leaving the graveyard - (54.0, 28.6) |U|11243| |O| |M|hardcore|
+A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Ensure you bandage or eat food before leaving the graveyard - Talk to Gaeriyan - You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers - (53.9, 23.3)| |U|11243| |M|hardcore|
+A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Talk to Gaeriyan - You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] - Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers - (53.9, 23.3)| |U|11243| |M|hardcore|
+A A Grave Situation |QID|3913| |N|Talk to Gaeriyan - Talk to Gaeriyan - You must be dead in order to speak to Gaeriyan - (53.9, 23.3)| |M|speedrun|
+A Linken's Sword |QID|3914| |N|Click the Conspicuous Gravestone - (53.8, 29.1)| |M|speedrun|
+A Linken's Sword |QID|3914| |N|Click the Conspicuous Gravestone - (53.8, 29.1)| |M|hardcore|
+R Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)| |M|hardcore|
+A A Gnome's Assistance |QID|3941| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
+A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |M|hardcore|
+R Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)| |M|speedrun|
+A A Gnome's Assistance |QID|3941| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
+A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |M|speedrun|
 N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
@@ -133,8 +133,8 @@ N Kill Moontouched Owlbeasts - Their moonfire hits fairly hard, and their rejuve
 N Head to the border of Darkwhisper Gorge - (60.1, 73.3) |QID|4842|
 N Loot the Frostmaul Shards around the outer perimeter of the canyon. Use your pet to bait the Frostmaul Giants away from the crystals. Run away after looting one - This is a hard quest to solo, skip this quest if you have to - (60.4, 65.3) |QID|969| |C|Hunter|
 N Kill Moontouched Owlbeasts - Their moonfire hits fairly hard, and their rejuvenation is strong - (65.0, 62.7) |QID|4741|
-D Die and respawn |O|
-U Hearthstone |U|6948| |O|
+D Die and respawn |O| |M|speedrun|
+U Hearthstone |U|6948| |O| |M|hardcore|
 T Luck Be With You |QID|969| |N|Talk to Witch Doctor Mau'ari - Talk to Witch Doctor Mau'ari - (61.9, 38.3)| |C|Hunter|
 T Brumeran of the Chillwind |QID|5055| |N|Talk to Storm Shadowhoof - Talk to Storm - (61.9, 38.4)|
 A Sister Pamela |QID|5601| |N|Talk to Jessica Redpath - Talk to Gregor Greystone and Jessica Redpath - (61.3, 39.0)|
@@ -144,23 +144,23 @@ A Wild Guardians |QID|4721| |N|Talk to Trull Failbane - Talk to Trull - (34.8, 5
 N Their locations have been marked on your map. Don't go very far out of your way to find one - (55.8, 10.4) |O|
 A A Final Blow |QID|5242| |N|Talk to Greta Mosshoof - Talk to Greta - (51.2, 82.1)|
 A Retribution of the Light |QID|5204| |N|Talk to Jessir Moonbow - Talk to Jessir - (51.3, 82.0)|
-A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
-A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O|
+A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|speedrun|
+A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|hardcore|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|speedrun|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|hardcore|
 N (35.4, 58.4) |O|
 N Kill Rakaiah deep inside Shadow Hold - (35.4, 58.7) |QID|5204|
 A The Remains of Trey Lightforge |QID|5385| |N|Talk to Remains of Trey Lightforge - Talk to Remains of Trey Lightforge - Mobs around the remains can bug by keeping you in combat, despite not attacking you - (38.5, 50.4)|
 N Kill Shadow Lord Fel'dan, Moora and Salia. Loot Shadow Lord Fel'dan for his Head - Linger outside of the room and use line of sight (LOS) to avoid Fel'dan's shadowbolts. When he starts casting, hide out of sight. As soon as his cast ends/fails, step into sight so he starts casting again/doesn't get too close to the LOS point - (38.9, 46.8) |QID|5242|
 N (38.7, 46.8) |O|
 N (35.4, 58.7)
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|speedrun|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|hardcore|
 N Kill Toxic Horrors. Loot them for their Toxic Horror Droplets - (49.8, 27.3) |QID|5086|
-N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (49.6, 30.0) |QID|4084|
-N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (49.6, 30.0) |QID|4084|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (63.3, 19.1) |QID|4084|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (63.3, 19.1) |QID|4084|
+N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (49.6, 30.0) |QID|4084| |M|speedrun|
+N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (49.6, 30.0) |QID|4084| |M|hardcore|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (63.3, 19.1) |QID|4084| |M|speedrun|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws - (63.3, 19.1) |QID|4084| |M|hardcore|
 N Talk to Nafien - Talk to Nafien - If you have more than 5 [Deadwood Headdress Feathers] you may turn them in for reputation with Timbermaw Hold |O|
 R Travel through Timbermaw Hold to Winterspring to Kernda |N|If you are not Unfriendly with Timbermaw Hold, Furbolgs will attack you - (65.4, 2.8)| |O|
 T Deadwood Ritual Totem |QID|8470| |N|Talk to Kernda - Talk to Kernda - Kernda patrols the lower Timbermaw Hold path - Skip this step if you aren't neutral with Timbermaw Hold - (65.5, 3.5)| |U|20741|
@@ -170,17 +170,17 @@ A Winterfall Runners |QID|5087| |N|Talk to Donova Snowden - Talk to Donova - (31
 N Kill the Winterfall Runners. Loot them for their Winterfall Crate - Their spawn point is on the west side of Winterspring near the Timbermaw tunnel. Their patrol route is marked on your map - Alternatively, run back through the cave to Felwood, and kill the Runner located at the cauldron in Felpaw Village - (28.0, 34.6) |QID|5087|
 N Kill Winterfall Runners - The Runner's located at the cauldron in the northwest of Felpaw Village - (60.2, 5.9) |QID|5087|
 A High Chief Winterfall |QID|5121| |N|Talk to Donova Snowden - Talk to Donova - (31.3, 45.2)|
-D Die and respawn |O| |C|!Mage|
-R Felwood>>Fly to Felwood |N|Talk to Yugrek - Talk to Yugrek` - (60.5, 36.3)| |C|!Mage|
-N (32.1, 66.6) |O| |C|!Mage|
-R Felwood >> Fly to Felwood |N|Talk to Faustron - Talk to Faustron - (32.1, 66.6)| |C|!Mage|
+D Die and respawn |O| |C|!Mage| |M|speedrun|
+R Felwood>>Fly to Felwood |N|Talk to Yugrek - Talk to Yugrek` - (60.5, 36.3)| |C|!Mage| |M|speedrun|
+N (32.1, 66.6) |O| |C|!Mage| |M|hardcore|
+R Felwood >> Fly to Felwood |N|Talk to Faustron - Talk to Faustron - (32.1, 66.6)| |C|!Mage| |M|hardcore|
 N Cast Cast [Teleport: Orgrimmar] |O| |C|Mage|
 R Splintertree >> Fly to Splintertree Post |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |C|Mage|
 R Travel to Felwood |N|(55.8, 28.1)| |O| |C|Mage|
 T A Final Blow |QID|5242| |N|Talk to Greta Mosshoof - Talk to Greta - (51.2, 82.2)|
 T The Remains of Trey Lightforge |QID|5385| |N|Talk to Jessir Moonbow - Talk to Jessir - (51.4, 82.0)|
-A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
-A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
+A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|speedrun|
+A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|hardcore|
 U Hearthstone |U|6948| |C|!Mage|
 R Orgrimmar >>Fly to Orgrimmar |N|Talk to Yugrek - Talk to Yugrek - (60.5, 36.3)| |C|!Mage|
 R Orgrimmar >>Fly to Orgrimmar |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |C|!Mage|

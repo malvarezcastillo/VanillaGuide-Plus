@@ -122,8 +122,8 @@ f Arathi >> Get the Arathi Highlands Flight Path |N|Talk to Cedrik Prose - Talk 
 N Buy all 3 first aid books inside Stromgarde if you are leveling first aid - (27.0, 58.8) |O|
 N Be careful not to run into the Forsaken Courier who can be patrolling the road from Go'shek Farm to Tarren Mill |O|
 N Be careful while entering Southshore! Every now and then level 37-38 [Stealthed] Shadowy Assassins ambush the town! - If you manage to kill one you will be able to loot an item that starts a quest: [Assassin's Contract]. The event is rare and the mobs are hard to kill at this level so do not go out of your way to try to get it - Collect item 3668 (x1)
-T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - If you die, the quest will fail - Talk to Brewmeister Bilger - (19.7, 29.0)|
-T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - Talk to Brewmeister Bilger - (19.7, 29.0)|
+T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - If you die, the quest will fail - Talk to Brewmeister Bilger - (19.7, 29.0)| |M|speedrun|
+T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - Talk to Brewmeister Bilger - (19.7, 29.0)| |M|hardcore|
 N Talk to Wesley - Talk to Wesley - (50.4, 58.8) |C|Hunter|
 f Southshore >>Get the Southshore Flight Path |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)|
 t Attack mobs with it to learn [Bite (Rank 4)] |N|Cast [Tame Beast] on a Elder Moss Creeper to tame it - (56.6, 53.8)| |C|Hunter|

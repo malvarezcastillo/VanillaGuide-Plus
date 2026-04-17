@@ -48,8 +48,8 @@ N This is a 10-man dungeon. You or somebody in your party must have the [Seal of
 N Kill General Drakkisath. Loot him for Blood of the Black Dragon Champion - Blood of the Black Dragon Champion 1/1 |QID|6502|
 R Travel to Winterspring |O|
 N The starting location is marked on your map. Follow the waypoint arrow carefully - (56.6, 52.8) |O|
-T Drakefire Amulet |QID|6502| |N|Talk to Haleh - Talk to Haleh - Be careful of the blue circle in front of Haleh. Stepping on it will teleport you into the cave - (54.5, 51.2)|
-T Drakefire Amulet |QID|6502| |N|Talk to Haleh - Talk to Haleh - Be careful! DO NOT step on the blue circle in front of Haleh. This will teleport you into the cave with an elite dragon and you could DIE - (54.5, 51.2)|
+T Drakefire Amulet |QID|6502| |N|Talk to Haleh - Talk to Haleh - Be careful of the blue circle in front of Haleh. Stepping on it will teleport you into the cave - (54.5, 51.2)| |M|speedrun|
+T Drakefire Amulet |QID|6502| |N|Talk to Haleh - Talk to Haleh - Be careful! DO NOT step on the blue circle in front of Haleh. This will teleport you into the cave with an elite dragon and you could DIE - (54.5, 51.2)| |M|hardcore|
 
 ]]
 end)

@@ -284,14 +284,14 @@ N Kill Skeletal Raiders, Skeletal Healers and Skeletal Warders - Enter the Dawni
 N Grind mobs until your [Hearthstone] is off cooldown. Don't hearth before turning in Proving Your Worth and accepting the follow-up! |O|
 A Seeking Wisdom |QID|269| |N|Talk to Sven Yorgen - Talk to Sven Yorgen - (7.8, 34.1)|
 H Hearthstone |N|Grind mobs until your Hearthstone is off cooldown| |O|
-F Duskwood >> If you haven't found a [Bronze Tube], save your Hearthstone cooldown and fly from Westfall to Duskwood |O|
+F Duskwood >> If you haven't found a [Bronze Tube], save your Hearthstone cooldown and fly from Westfall to Duskwood |O| |M|speedrun|
 A Juice Delivery |QID|159| |N|Talk to Tavernkeep Smitts - Talk to Tavernkeep Smitts inside the inn - (73.8, 44.5)|
 T Seasoned Wolf Kabobs |QID|90| |N|Talk to Chef Grual - Talk to Chef Grual in the inn's kitchen - You need 50 skill in cooking to accept this quest - (73.8, 44.0)|
 A The Night Watch |QID|58| |N|Talk to Commander Althea Ebonlocke - Talk to Commander Althea Ebonlocke - She may be dead or busy fighting Stitches if he attacks Darkshire. If that happens consider grinding mobs near the town untill she respawns or changing your layer (if possible) - (73.6, 46.9)|
 R Redridge >> Fly to Redridge Mountains |N|Talk to Felicia Maline - Talk to Felicia Maline - (77.5, 44.3)|
 T What Comes Around... |QID|386| |N|Talk to Guard Berton - Talk to Guard Berton - (26.3, 46.6)|
 R Redridge >> Fly to Redridge Mountains |N|Talk to Felicia Maline - Talk to Felicia Maline - Run along the road north to Redridge if you don't have the Redridge Flight Path yet - (77.5, 44.3)| |O|
-h Duskwood |N|Skip this step if you purchased it already|
+h Duskwood |N|Skip this step if you purchased it already| |M|speedrun|
 A Blackrock Bounty |QID|128| |N|Talk to Guard Howe - Talk to Guard Howe - (31.5, 57.9)|
 A Blackrock Bounty |QID|128| |N|Talk to Guard Howe - Talk to Guard Howe - (31.5, 57.9)|
 A Tharil'zun |QID|19| |N|Talk to Marshal Marris - Talk to Marshal Marris - (33.5, 49.0)| |C|Hunter/Warlock|
@@ -320,8 +320,8 @@ N Kill Blackrock Shadowcasters. Loot them for their Orbs - (66.7, 56.3) |QID|115
 N Kill Tharil'zun. Loot him for his Head - Kite Tharil'zun towards Burning Steppes if needed. You can pull him from down below with your pet - This quest can be very hard, skip this step if you have to - (71.4, 55.1) |QID|19| |C|Hunter/Warlock|
 T Looking Further |QID|248| |N|Click An Empty Jar on the barrel at the top of Stonewatch Tower - Don't accept the follow up - (63.2, 49.8)|
 N Kill Blackrock Champions - (28.9, 13.2) |QID|128|
-N Talk to Yuka Screwspigot - If you haven't found a [Bronze Tube], skip the escort quest, run north to Burning Steppes, die on purpose, buy a [Bronze Tube] from Yuka in the cave at Flame's Crest and Hearth back to Redridge - (78.1, 75.5)
-N Talk to Yuka Screwspigot - If you haven't found a [Bronze Tube], skip the escort quest, run north to Burning Steppes, die on purpose, buy a [Bronze Tube] from Yuka in the cave at Flame's Crest and Hearth back to Redridge - (78.1, 75.5)
+N Talk to Yuka Screwspigot - If you haven't found a [Bronze Tube], skip the escort quest, run north to Burning Steppes, die on purpose, buy a [Bronze Tube] from Yuka in the cave at Flame's Crest and Hearth back to Redridge - (78.1, 75.5) |M|speedrun|
+N Talk to Yuka Screwspigot - If you haven't found a [Bronze Tube], skip the escort quest, run north to Burning Steppes, die on purpose, buy a [Bronze Tube] from Yuka in the cave at Flame's Crest and Hearth back to Redridge - (78.1, 75.5) |M|speedrun|
 A Missing In Action |QID|219| |N|Talk to Corporal Keeshan - Talk to Corporal Keeshan in the back of Render's Rock - (28.4, 12.6)|
 N Talk to Corporal Keeshan - Escort Corporal Keeshan back to Lakeshire - Be careful to not pull too many mobs right after you leave the cave - (33.4, 48.5) |QID|219|
 T Tharil'zun |QID|19| |N|Talk to Marshal Marris - Talk to Marshal Marris - (33.5, 49.0)|

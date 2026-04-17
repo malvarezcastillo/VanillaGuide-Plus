@@ -50,9 +50,9 @@ A Stinky's Escape |QID|1222| |N|Talk to "Stinky" Ignatz - Talk to "Stinky" Ignat
 N Talk to "Stinky" Ignatz - Follow "Stinky" Ignatz through the Marshlands - (48.8, 24.5) |QID|1222| |C|!Warlock|
 T Jarl Needs Eyes |QID|1206| |N|Talk to "Swamp Eye" Jarl - Talk to "Swamp Eye" Jarl - (55.4, 26.3)| |C|!Warlock|
 T Jarl Needs a Blade |QID|1203| |N|Talk to "Swamp Eye" Jarl - Talk to "Swamp Eye" Jarl - (55.4, 26.3)| |O| |C|!Warlock|
-A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - IF YOU CHOOSE TO ACCEPT THE FOLLOW UP QUEST YOU WILL BE PVP FLAGGED! MEANING HORDE PLAYERS CAN KILL YOU! PROCEED AT YOUR OWN RISK! - You will NOT be PvP Flagged for turning in this current quest. Auto accept has been turned OFF for the follow up. Skip the follow up if you wish to not complete it - (45.2, 24.6)|
-A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - (45.2, 24.6)|
-A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - Blizzard has adjusted this quest so it will no longer PvP Flag you on Official Hardcore Servers - (45.2, 24.6)|
+A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - IF YOU CHOOSE TO ACCEPT THE FOLLOW UP QUEST YOU WILL BE PVP FLAGGED! MEANING HORDE PLAYERS CAN KILL YOU! PROCEED AT YOUR OWN RISK! - You will NOT be PvP Flagged for turning in this current quest. Auto accept has been turned OFF for the follow up. Skip the follow up if you wish to not complete it - (45.2, 24.6)| |M|speedrun|
+A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - (45.2, 24.6)| |M|speedrun|
+A The Missing Diplomat |QID|1324| |N|Talk to Private Hendel - Talk to Private Hendel - Blizzard has adjusted this quest so it will no longer PvP Flag you on Official Hardcore Servers - (45.2, 24.6)| |M|hardcore|
 N Defeat Private Hendel. He will attack you along with 2 Theramore Sentries - They will both reset once you subdue Private Hendel - (45.2, 24.6) |QID|1324|
 T The Missing Diplomat |QID|1324| |N|Talk to Archmage Tervosh - Talk to Archmage Tervosh - (45.2, 24.3)|
 T The Missing Diplomat |QID|1267| |N|Talk to Lady Jaina Proudmoore - Talk to Lady Jaina Proudmoore - (45.2, 24.2)|
