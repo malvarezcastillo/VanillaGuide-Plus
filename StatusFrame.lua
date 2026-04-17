@@ -78,50 +78,39 @@ returnBtn:Hide()
 TurtleGuide.branchReturnBtn = returnBtn
 
 -- Sticky preview rows stacked above the main status frame.
--- Row 1 is closest to `f`; row N is topmost. Each row shows one sticky step.
+-- Row 1 is closest to `f`; row N is topmost. Each row shows one sticky step,
+-- height grows to fit wrapped text so long previews don't get cut off.
 local STICKY_ROWS = 3
+local STICKY_ICON = 14
+local STICKY_ICON_PAD = 6  -- pad left of icon
+local STICKY_TEXT_PAD = 4  -- pad between icon and text
+local STICKY_RIGHT_PAD = 6 -- pad right of text
+local STICKY_VPAD = 6      -- vertical padding (total top+bottom)
+local STICKY_MIN_HEIGHT = 18
 local stickyRows = {}
 for si = 1, STICKY_ROWS do
 	local row = CreateFrame("Frame", nil, UIParent)
-	row:SetHeight(18)
+	row:SetHeight(STICKY_MIN_HEIGHT)
 	row:SetFrameStrata("LOW")
 	row:SetBackdrop(ww.TooltipBorderBG)
 	row:SetBackdropColor(0.09, 0.09, 0.19, 0.35)
 	row:SetBackdropBorderColor(0.3, 0.3, 0.3, 0.4)
-	local sicon = ww.SummonTexture(row, "ARTWORK", 14, 14, nil, "LEFT", 6, 0)
-	local stext = ww.SummonFontString(row, "OVERLAY", "GameFontNormalSmall", nil, "LEFT", sicon, "RIGHT", 4, 0)
-	stext:SetTextColor(0.75, 0.75, 0.75)
-	stext:SetPoint("RIGHT", row, "RIGHT", -6, 0)
+	local sicon = row:CreateTexture(nil, "ARTWORK")
+	sicon:SetWidth(STICKY_ICON)
+	sicon:SetHeight(STICKY_ICON)
+	sicon:SetPoint("TOPLEFT", row, "TOPLEFT", STICKY_ICON_PAD, -(STICKY_VPAD / 2))
+	local stext = row:CreateFontString(nil, "OVERLAY")
+	local fontObj = getglobal("GameFontNormalSmall")
+	if fontObj then stext:SetFontObject(fontObj) end
+	stext:SetTextColor(0.85, 0.85, 0.85)
+	stext:SetPoint("TOPLEFT", sicon, "TOPRIGHT", STICKY_TEXT_PAD, 0)
+	stext:SetPoint("TOPRIGHT", row, "TOPRIGHT", -STICKY_RIGHT_PAD, -(STICKY_VPAD / 2))
 	stext:SetJustifyH("LEFT")
+	stext:SetJustifyV("TOP")
 	row.icon = sicon
 	row.text = stext
 	row:Hide()
 	stickyRows[si] = row
-end
-
-function TurtleGuide:DebugSticky()
-	if not self.actions then self:Print("No guide loaded"); return end
-	local total = table.getn(self.actions)
-	local stickyCount = 0
-	for i = 1, total do
-		if self:GetObjectiveTag("SK", i) then stickyCount = stickyCount + 1 end
-	end
-	self:Print("Guide: " .. tostring(self.db.char.currentguide))
-	self:Print("Total steps: " .. total .. "   Sticky steps: " .. stickyCount)
-	self:Print("Current step: " .. tostring(self.current))
-	local nextstep = self.current
-	if nextstep then
-		local j = nextstep - 1
-		local found = 0
-		while j > 0 and self:GetObjectiveTag("SK", j) do
-			found = found + 1
-			local action, quest = self:GetObjectiveInfo(j)
-			self:Print("  preceding sticky #" .. found .. " (step " .. j .. "): " .. tostring(action) .. " - " .. tostring(quest))
-			j = j - 1
-		end
-		if found == 0 then self:Print("  (no stickies precede current step)") end
-	end
-	self:Print("Sticky row 1 visible: " .. tostring(stickyRows[1]:IsShown()))
 end
 
 function TurtleGuide:UpdateStickyPreview(nextstep)
@@ -133,18 +122,27 @@ function TurtleGuide:UpdateStickyPreview(nextstep)
 	local stickies = {}
 	local j = nextstep - 1
 	while j > 0 and self:GetObjectiveTag("SK", j) and table.getn(stickies) < STICKY_ROWS do
-		table.insert(stickies, 1, j)  -- keep guide-order (oldest first)
+		table.insert(stickies, 1, j)  -- guide-order, oldest first
 		j = j - 1
 	end
 	local count = table.getn(stickies)
+
+	-- Bound text width to the main frame's width so wrapping triggers, then
+	-- size each row's height to the wrapped text.
+	local frameWidth = f:GetWidth()
+	local textWidth = frameWidth - STICKY_ICON_PAD - STICKY_ICON - STICKY_TEXT_PAD - STICKY_RIGHT_PAD
+
 	for si = 1, STICKY_ROWS do
 		local row = stickyRows[si]
 		if si <= count then
-			-- Row 1 is closest to `f`; it shows the NEWEST sticky (stickies[count]).
+			-- Row 1 is closest to `f`; shows the NEWEST sticky (stickies[count]).
 			local idx = stickies[count - si + 1]
 			local action, quest = self:GetObjectiveInfo(idx)
 			row.icon:SetTexture(self.icons[action])
+			if textWidth > 0 then row.text:SetWidth(textWidth) end
 			row.text:SetText(quest or "")
+			local th = row.text:GetStringHeight() or STICKY_MIN_HEIGHT
+			row:SetHeight(math.max(STICKY_MIN_HEIGHT, th + STICKY_VPAD))
 			row:ClearAllPoints()
 			if si == 1 then
 				row:SetPoint("BOTTOMLEFT", f, "TOPLEFT", 0, 2)
