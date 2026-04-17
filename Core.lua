@@ -122,6 +122,7 @@ local defaults = {
 	branchsavedstep = nil,
 	autobranch = false,  -- auto-branch to Turtle WoW zones
 	routepack = nil,  -- Active route pack name (e.g., "VanillaGuide", "RestedXP")
+	mode = "speedrun",  -- "speedrun" or "hardcore" — filters RXP Premium step variants
 	-- Starting zone selection (branch-and-rejoin)
 	startingzoneselected = false,  -- has player picked a starting zone?
 	selectedstartingzone = nil,    -- which starting zone was selected (e.g., "Human", "Dwarf")
@@ -372,6 +373,20 @@ local options = {
 				TurtleGuide:SelectRoutePack(v)
 			end,
 			order = 22,
+		},
+		Hardcore = {
+			name = "Hardcore mode",
+			desc = "Show Hardcore step variants (safer routing). Off = Speedrun (default).",
+			type = "toggle",
+			get = function() return TurtleGuide.db.char.mode == "hardcore" end,
+			set = function(v)
+				TurtleGuide.db.char.mode = v and "hardcore" or "speedrun"
+				TurtleGuide:Print("Mode: |cff00ccff" .. TurtleGuide.db.char.mode .. "|r — reload current guide to apply")
+				if TurtleGuide.db.char.currentguide and TurtleGuide.guides[TurtleGuide.db.char.currentguide] then
+					TurtleGuide:LoadGuide(TurtleGuide.db.char.currentguide)
+				end
+			end,
+			order = 23,
 		},
 	},
 }
@@ -876,10 +891,10 @@ function TurtleGuide:SkipToNextObjective()
 		return
 	end
 
-	-- Find next incomplete objective (after current)
+	-- Find next incomplete, non-sticky objective (after current)
 	local nextStep = nil
 	for i = self.current + 1, table.getn(self.actions) do
-		if not self.turnedin[self.quests[i]] then
+		if not self.turnedin[self.quests[i]] and not self:GetObjectiveTag("SK", i) then
 			nextStep = i
 			break
 		end
@@ -902,6 +917,7 @@ function TurtleGuide:SkipToNextObjective()
 	self.current = nextStep
 	self:ForceWaypointUpdate()
 	self:SetStatusText(self.current)
+	if self.UpdateStickyPreview then self:UpdateStickyPreview(self.current) end
 	self:UpdateOHPanel()
 end
 
@@ -914,13 +930,17 @@ function TurtleGuide:GoToPreviousObjective()
 	-- Unmark current objective so we can come back to it
 	self:SetTurnedIn(self.current, false, true)
 
-	-- Find previous objective (go back one step, unmark it)
+	-- Find previous non-sticky objective
 	local prevStep = self.current - 1
+	while prevStep > 1 and self:GetObjectiveTag("SK", prevStep) do
+		prevStep = prevStep - 1
+	end
 	self:SetTurnedIn(prevStep, false, true)
 
 	self.current = prevStep
 	self:ForceWaypointUpdate()
 	self:SetStatusText(self.current)
+	if self.UpdateStickyPreview then self:UpdateStickyPreview(self.current) end
 	self:UpdateOHPanel()
 
 	-- Flag to re-check completion conditions after rewind
@@ -1098,6 +1118,9 @@ function TurtleGuide:GetGuideCategory(guideName)
 	end
 	if string.find(guideName, "^RXP/") then
 		return "rxp"
+	end
+	if string.find(guideName, "^RXP Premium/") then
+		return "rxppremium"
 	end
 	-- Check if any turtle zone name appears in guide name
 	for zone in pairs(TURTLE_ZONES) do

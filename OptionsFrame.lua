@@ -8,7 +8,7 @@ function TurtleGuide:CreateConfigPanel()
 	TurtleGuide.optionsframe = frame
 	frame:SetFrameStrata("DIALOG")
 	frame:SetWidth(310)
-	frame:SetHeight(16 + 28 * 8)
+	frame:SetHeight(16 + 28 * 8 + 20)
 	frame:SetPoint("TOPRIGHT", TurtleGuide.statusframe, "BOTTOMRIGHT")
 	frame:SetBackdrop(ww.TooltipBorderBG)
 	frame:SetBackdropColor(0.09, 0.09, 0.19, 1)
@@ -43,11 +43,20 @@ function TurtleGuide:CreateConfigPanel()
 	ww.SummonFontString(autobranch, "OVERLAY", "GameFontNormalSmall", "Auto-branch to Turtle WoW zones", "LEFT", autobranch, "RIGHT", 5, 0)
 	autobranch:SetScript("OnClick", function() self.db.char.autobranch = not self.db.char.autobranch end)
 
+	local hardcore = ww.SummonCheckBox(22, autobranch, "TOPLEFT", 0, -20)
+	ww.SummonFontString(hardcore, "OVERLAY", "GameFontNormalSmall", "Hardcore mode (RXP Premium)", "LEFT", hardcore, "RIGHT", 5, 0)
+	hardcore:SetScript("OnClick", function()
+		self.db.char.mode = (self.db.char.mode == "hardcore") and "speedrun" or "hardcore"
+		if self.db.char.currentguide and self.guides[self.db.char.currentguide] then
+			self:LoadGuide(self.db.char.currentguide)
+		end
+	end)
+
 	-- Route selector button
 	local routeBtn = CreateFrame("Button", nil, frame, "UIPanelButtonTemplate")
 	routeBtn:SetWidth(150)
 	routeBtn:SetHeight(22)
-	routeBtn:SetPoint("TOPLEFT", autobranch, "BOTTOMLEFT", 0, -10)
+	routeBtn:SetPoint("TOPLEFT", hardcore, "BOTTOMLEFT", 0, -10)
 	routeBtn:SetText("Change Route")
 	routeBtn:SetScript("OnClick", function()
 		frame:Hide()
@@ -100,6 +109,7 @@ function TurtleGuide:CreateConfigPanel()
 	frame.mapmetamap = mapmetamap
 	frame.mapbwp = mapbwp
 	frame.autobranch = autobranch
+	frame.hardcore = hardcore
 
 	local function OnShow(f)
 		f = f or this
@@ -121,6 +131,7 @@ function TurtleGuide:CreateConfigPanel()
 		f.mapmetamap:SetChecked(self.db.char.mapmetamap)
 		f.mapbwp:SetChecked(self.db.char.mapbwp)
 		f.autobranch:SetChecked(self.db.char.autobranch)
+		f.hardcore:SetChecked(self.db.char.mode == "hardcore")
 
 		-- Enable/disable return button based on branch status
 		if self.db.char.isbranching then
