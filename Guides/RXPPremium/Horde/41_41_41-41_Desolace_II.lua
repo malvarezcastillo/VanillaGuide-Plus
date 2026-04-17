@@ -33,7 +33,7 @@ T Get Me Out of Here! |QID|6132| |N|Talk to Hornizz Brimbuzzle - Talk to Hornizz
 T Khan Hratha |QID|1380| |N|Talk to Uthek the Wise - Talk to Uthek - (36.3, 79.3)|
 N (27.1, 75.7) |SK|
 T Portals of the Legion |QID|5581| |N|Talk to Taiga Wisemane - Talk to Taiga Wisemane - (25.8, 68.2)|
-U Hearthstone |N|(45.6, 59.0)| |U|6948|
+U Hearthstone |N|Arrive in Camp Taurajo - (45.6, 59.0)| |U|6948|
 N Talk to Innkeeper Byula - Talk to Innkeeper Byula - (45.6, 59.0)
 R Tanaris >> Fly to Tanaris |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)|
 R Tanaris >> Fly to Tanaris |N|Talk to Thalon - Talk to Thalon at the end of the dock - (21.6, 74.1)| |O|

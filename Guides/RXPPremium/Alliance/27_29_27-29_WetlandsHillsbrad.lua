@@ -10,18 +10,18 @@ N 27-29 Wetlands/Hillsbrad |N|Converted from RestedXP guide|
 t Train your class spells |N|Talk to Elsharin - Talk to Elsharin - (36.9, 81.1)| |C|Mage|
 N Talk to Newton Burnside - Talk to Newton Burnside - [A Torn Journal Page] - [Bottle of Zombie Juice] - [Skeleton Finger] - [Vial of Spider Venom] - (57.1, 73.0)
 N Talk to Newton Burnside - Talk to Newton Burnside - [Gobbler's Head] - [Bundle of Crocolisk Skins] - [Young Crocolisk Skins] - [Stone of Relu] - [Flagongut's Fossil] - (57.1, 73.0) |C|Hunter|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Head to the Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
-N (42.5, 33.5) |SK| |C|Priest/Paladin|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest/Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne - (74.7, 52.8)| |C|Rogue|
 t Train your class spells |N|Talk to Sheldras Moontree - Talk to Sheldras Moontree - (20.9, 55.5)| |C|Druid|
-N (42.5, 33.5) |SK| |C|!Priest/!Paladin|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|!Priest/!Paladin|
 A The Doomed Fleet |QID|270| |N|Talk to Bishop Farthing - Talk to Bishop Farthing - (39.1, 27.9)|
 A Tinkmaster Overspark |QID|2923| |N|Talk to Brother Sarno - Talk to Brother Sarno - (40.6, 31.0)|
-N (70.3, 27.2) |SK|
+N Travel to the Stormwind Keep - (70.3, 27.2) |SK|
 U An Old History Book |QID|337| |N|Talk to Milton Sheaf - Talk to Milton Sheaf - If you found [An Old History Book] you may turn it in - (74.2, 7.5)| |U|2794|
 t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brightspear - (61.6, 15.3)| |C|Hunter|
 R Teleport to Ironforge |SK| |C|Mage|
@@ -31,14 +31,14 @@ A Knowledge in the Deeps |QID|971| |N|Talk to Gerrig Bonegrip - Talk to Gerrig B
 F Wetlands>> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.8)|
 T The Doomed Fleet |QID|270| |N|Talk to Glorin Steelbrow - Talk to Glorin Steelbrow - (10.6, 60.6)|
 h Wetlands |N|Talk to Innkeeper Helbrek - Talk to Innkeeper Helbrek - (10.7, 61.0)|
-N (10.4, 61.0) |SK|
+N Travel upstairs towards Archaeologist Flagongut - (10.4, 61.0) |SK|
 A The Absent Minded Prospector |QID|943| |N|Talk to Archaeologist Flagongut - Talk to Archaeologist Flagongut - (10.8, 60.4)|
 A The Cursed Crew |QID|289| |N|Talk to First Mate Fitzsimmons - Talk to First Mate Fitzsimmons - (10.9, 59.7)|
 A Digging Through the Ooze |QID|470| |N|Talk to Sida - Talk to Sida - (11.8, 58.0)|
 A Reclaiming Goods |QID|281| |N|Talk to Karl Boran - Talk to Karl Boran - (8.4, 58.5)|
 A Apprentice's Duties |QID|471| |N|Talk to James Halloran - Talk to James Halloran - (8.5, 55.7)|
 T Report to Captain Stoutfist |QID|473| |N|Talk to Captain Stoutfist - Talk to Captain Stoutfist - (9.9, 57.5)| |SK|
-N (10.3, 56.3) |SK|
+N Travel upstairs in Menethil Keep - (10.3, 56.3) |SK|
 A War Banners |QID|464| |N|Talk to Captain Stoutfist - Talk to Captain Stoutfist - (9.9, 57.5)|
 A War Banners |QID|464| |N|Talk to Captain Stoutfist - Enter the keep and head upstairs - Talk to Captain Stoutfist - (9.9, 57.5)|
 A Fall of Dun Modr |QID|472| |N|Talk to Harlo Barnaby - Talk to Harlo Barnaby - (10.8, 55.9)|
@@ -51,9 +51,9 @@ N Kill Cursed Sailors, Cursed Marines and First Mate Snellig. Loot him for his S
 N Kill the Mosshides. Loot them for their Crude Flints - (30.8, 31.0) |QID|277| |SK|
 N Kill Crimson Oozes, Monstrous Oozes and Black Oozes. Loot them for Sida's Bag - (44.2, 25.6) |QID|470|
 N Kill the Mosshides on the way to the Orc camp. Loot them for their Crude Flints - You don't have to complete this objective now but try to make at least some progress - (30.8, 31.0) |QID|277| |SK|
-N (43.0, 41.6)
+N Head to the Dragonmaw Orc encampment - (43.0, 41.6)
 N Kill Dragonmaw Orcs. Loot them for their War Banners - Be aware the Dragonmaw Raiders will cast [Net] on you - (43.0, 41.7) |QID|464|
-N (38.8, 49.0) |SK|
+N Head towards the mountain shortcut - (38.8, 49.0) |SK|
 A Ormer's Revenge |QID|294| |N|Talk to Ormer Ironbraid - Talk to Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter|
 A Uncovering the Past |QID|299| |N|Talk to Prospector Whelgar - Talk to Merrin Rockweaver and Prospector Whelgar - (38.9, 52.3)|
 N Loot Flagongut's Fossil on the ground - (38.9, 52.2) |QID|943|
@@ -67,13 +67,13 @@ N Loot the Musquash Root on the ground - (64.8, 75.3) |QID|335|
 N Cast Cast Teleport: Moonglade - If you just trained, skip this step |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Go to Moonglade - Talk to Loganaar - If you just trained, skip this step - (52.5, 40.6)| |C|Druid|
 H Hearthstone |SK|
-N (10.4, 61.0) |SK|
+N Travel upstairs towards Archaeologist Flagongut - (10.4, 61.0) |SK|
 T The Absent Minded Prospector |QID|943| |N|Talk to Archaeologist Flagongut - Talk to Archaeologist Flagongut upstairs - (10.8, 60.4)|
 A Lifting the Curse |QID|290| |N|Talk to First Mate Fitzsimmons - Talk to First Mate Fitzsimmons - (10.9, 59.7)|
 T Return the Statuette |QID|286| |N|Talk to Karl Boran - Talk to Karl Boran - (8.4, 58.5)|
 N Talk to Edwina Monzor - Talk to Edwina Monzor - Restock on  [Razor Arrows] if needed - (11.0, 58.6) |C|Hunter|
 T Digging Through the Ooze |QID|470| |N|Talk to Sida - Talk to Sida - (11.8, 58.0)|
-N (10.3, 56.3) |SK|
+N Travel upstairs in Menethil Keep - (10.3, 56.3) |SK|
 A Nek'rosh's Gambit |QID|465| |N|Talk to Captain Stoutfist - Talk to Captain Stoutfist - (9.9, 57.5)|
 T In Search of The Excavation Team |QID|306| |N|Talk to Tarrel Rockweaver - Talk to Tarrel Rockweaver - (11.5, 52.2)|
 N Kill Mottled Raptors and Mottled Screechers. Loot them for the Stone of Relu |QID|943| |SK|
@@ -111,10 +111,10 @@ A The Thandol Span |QID|633| |N|Talk to Rhag Garmason - Talk to Rhag Garmason - 
 A MacKreel's Moonshine |QID|647| |N|Talk to Foggy MacKreel - Talk to Foggy MacKreel - Jump down onto the invisible chain first, then onto the broken beam on the bridge. All classes are able to do this jump. If you are unable to do it, skip this step - (43.2, 92.6)|
 N Keep in mind that MacKreel's Moonshine is a timed quest. You only have 15 minutes to deliver it so do not take breaks during this segment! |SK|
 A Sully Balloo's Letter |QID|637| |N|Dive down underwater - Open the Waterlogged Letter. Loot it for the [Waterlogged Envelope] - Use the [Waterlogged Envelope] to start the quest - Collect item 4433 (x1) - (44.3, 92.9)| |U|4433|
-N (52.5, 90.4) |SK|
+N Swim east toward the ramp here - (52.5, 90.4) |SK|
 N Click the Cache of Explosives - (48.8, 88.1) |QID|633|
 A Plea To The Alliance |QID|634| |N|Talk to Rhag Garmason - Talk to Rhag Garmason - (49.9, 18.2)|
-N (45.8, 47.5) |SK|
+N Travel to Refuge Point - (45.8, 47.5) |SK|
 T Plea To The Alliance |QID|634| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)|
 F Southshore >> Fly to Southshore |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.7, 46.1)| |SK|
 T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Talk to Brewmeister Bilger in the basement - If you fail this timed quest, abandon it and skip this step - (50.7, 58.8)|
@@ -133,7 +133,7 @@ N Kill Snapjaw - Kill Snapjaws along the river and farm about 5 Turtle Meat, you
 H Hearthstone |SK|
 A Lightforge Iron |QID|321| |N|Talk to Glorin Steelbrow - Talk to Glorin Steelbrow - (10.6, 60.6)|
 A Cleansing the Eye |QID|293| |N|Talk to Glorin Steelbrow - Talk to Glorin Steelbrow - (10.6, 60.6)|
-N (10.4, 61.0) |SK|
+N Travel upstairs towards Archaeologist Flagongut - (10.4, 61.0) |SK|
 T The Absent Minded Prospector |QID|943| |N|Talk to Archaeologist Flagongut - Talk to Archaeologist Flagongut - (10.8, 60.4)|
 N Talk to Edwina Monzor - Talk to Edwina Monzor - Restock on  [Razor Arrows] if needed - (11.0, 58.6) |C|Hunter|
 A The Lost Ingots |QID|324| |N|Click the Waterlogged Chest - (12.1, 64.2)|

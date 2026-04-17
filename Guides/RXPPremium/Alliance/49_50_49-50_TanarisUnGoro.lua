@@ -36,7 +36,7 @@ N Cast Equip the [Gahz'ridian Detector] |U|9978| |SK| |C|!Hunter|
 N Kill Dunemaul Brutes and Dunemaul Enforcers - You will complete this later, you don't need to finish it right now |QID|5863| |SK| |C|!Hunter|
 N Loot the Gahz'ridian on the ground around the Ruins - The Gahz'ridian will show up on your minimap with the [Gahz'ridian Detector] equiped - (46.0, 65.1) |QID|3161| |U|9978| |C|!Hunter|
 N Cast Equip your normal [Helmet] |SK| |C|!Hunter|
-N (54.6, 70.8) |SK|
+N Enter The Gaping Chasm Hive - (54.6, 70.8) |SK|
 N Loot the Scrimshank's Surveying Gear on the ground - The Scrimshank's Surveying Gear is inside of the Hive - (56.0, 71.2) |QID|10|
 A Find OOX-17/TN |QID|351| |N|Skip this step if you do not have it - Collect item 8623 (x1) - (60.2, 64.7)| |U|8623|
 T Find OOX-17/TN! |QID|351| |N|Talk to Homing Robot OOX-17/TN - Talk to the Homing Robot OOX-17/TN - (60.2, 64.7)|

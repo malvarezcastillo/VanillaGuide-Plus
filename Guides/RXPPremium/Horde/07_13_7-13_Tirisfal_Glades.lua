@@ -171,8 +171,8 @@ N Talk to Innkeeper Renee - Talk to Innkeeper Renee - Vendor Trash - (61.7, 52.1
 A Ulag the Cleaver |QID|1819| |N|Talk to Deathguard Dillinger - Talk to Dillinger - (58.2, 51.4)| |C|Warrior|
 N Click on the skull on the ground. This will summon Ulag. Kill him - Ulag the Cleaver (1) - (59.2, 48.5) |QID|1819| |C|Warrior|
 A Speak with Coleman |QID|1820| |N|Talk to Deathguard Dillinger - Talk to Dillinger - (58.2, 51.4)| |C|Warrior|
-N (61.8, 65.1) |SK| |C|Warlock|
-N (66.1, 20.1) |SK| |C|Warlock|
+N Enter Undercity - (61.8, 65.1) |SK| |C|Warlock|
+N Take the lift down to the Undercity - (66.1, 20.1) |SK| |C|Warlock|
 A Creature of the Void |QID|1473| |N|Talk to Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock|
 R Leave Undercity through the Sewers |N|(47.2, 39.1)| |C|Warlock|
 N Loot Perrine's Chest for [Egalin's Grimoire] - Egalin's Grimoire (1) - (51.1, 67.6) |QID|1473| |SK| |C|Warlock|
@@ -206,7 +206,7 @@ A The Deathstalkers |QID|1886| |N|Talk to Mennet Carkad - Talk to Mennet - (83.5
 A The Balnir Farmstead |QID|1882| |N|Talk to Anastasia Hartwell - Talk to Anastasia in the Magic Quarter - (85.1, 10.1)|
 A The Lich's Identity |QID|357| |N|Talk to Bethor Iceshard - Talk to Bethor in the Magic Quarter - (84.1, 17.4)|
 T The Prodigal Lich |QID|405| |N|Talk to Bethor Iceshard - Talk to Bethor in the Magic Quarter - (84.1, 17.4)| |C|Warlock|
-N If you can't do this, just run out of Undercity normally - (84.9, 20.3)
+N Perform a Logout Skip by positioning your character on the highest part of the lowest staircase until it looks like they're floating, then logging out and back in - If you can't do this, just run out of Undercity normally - (84.9, 20.3)
 N If you can't do this, just run out of Undercity normally |C|!Warlock|
 R Exit Undercity |N|(61.9, 64.8)| |SK|
 N If you see Astor, talk to him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher - Astor's Letter of Introduction (1) |QID|1886| |SK|

@@ -62,7 +62,7 @@ U Find OOX-22/FE! |QID|2766| |U|8705|
 T Find OOX-22/FE! |QID|2766| |N|Talk to Homing Robot OOX-22/FE - Talk to Homing Robot OOX-22/FE - (53.4, 55.7)|
 A Rescue OOX-22/FE! |QID|2767| |N|Talk to Homing Robot OOX-22/FE - Talk to Homing Robot OOX-22/FE - This starts the chicken escort; be ready to use cooldowns/consumables, as this quest is HARD - (53.4, 55.7)|
 N Talk to Homing Robot OOX-22/FE - Escort Homing Robot OOX-22/FE to the shore - 3 Waves of mobs will spawn on the way. Save all your very long cooldowns for the Gnolls, and use some on the Yetis - 3 Yetis (level 46) - 3 Gorillas (level 43) - 4 Gnolls (level 41-43) - (55.5, 56.4) |QID|2767|
-N You can either swim there, or take the alliance boat. You'll have to jump off the boat once you reach The Isle of Dread in between the two islands - (26.1, 67.4) |SK|
+N Travel to the Naga cave south of Feathermoon Stronghold - You can either swim there, or take the alliance boat. You'll have to jump off the boat once you reach The Isle of Dread in between the two islands - (26.1, 67.4) |SK|
 G Grind to level 44 40000/111800 or higher |N|Kill Hatecrest Nagas - (26.2, 67.5)|
 U Hearthstone |U|6948|
 N Talk to Innkeeper Greul - Talk to Innkeeper Greul - Make sure you DO NOT sell any [Long Elegant Feather] - (74.8, 45.2)
@@ -115,7 +115,7 @@ N Check your bank for any missing [Green Hills of Stranglethorn - Pages] and buy
 N Talk to Auctioneer Thathung - Talk to Auctioneer Thathung - Buy ten [Gorilla Fangs] from the Auction House - Collect item 2799 (x10) - (55.6, 62.9)
 t Train [Raptor Riding] |N|Talk to Zjolnir - Talk to Xar'Ti and Zjolnir - Buy a [Raptor] - (55.3, 75.5)| |O| |R|Troll|
 R Leave Orgrimmar |SK|
-R Take the Zeppelin to Grom'Gol Base Camp |N|(50.8, 13.8)|
+R Take the Zeppelin to Grom'Gol Base Camp |N|Go up the Zeppelin Tower - (50.8, 13.8)|
 
 ]]
 end)

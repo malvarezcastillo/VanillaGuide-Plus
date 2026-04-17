@@ -42,12 +42,12 @@ N Talk to Reginald Windsor - Escort Reginald Windsor into Stormwind Keep - Do no
 A The Dragon's Eye |QID|6501| |N|Talk to Highlord Bolvar Fordragon - Talk to Highlord Bolvar Fordragon - (77.6, 18.9)|
 A The Dragon's Eye |QID|6501| |N|Talk to Highlord Bolvar Fordragon - Talk to Highlord Bolvar Fordragon - (77.6, 18.9)|
 R Travel to Winterspring |SK|
-N The starting location is marked on your map. Follow the waypoint arrow carefully - (56.6, 52.8) |SK|
+N Perform the mountain skip to reach Haleh - The starting location is marked on your map. Follow the waypoint arrow carefully - (56.6, 52.8) |SK|
 A Drakefire Amulet |QID|6502| |N|Talk to Haleh - Talk to Haleh - (54.5, 51.2)|
 N This is a 10-man dungeon. You or somebody in your party must have the [Seal of Ascension] to be able to enter Upper Blackrock Spire - (49.0, 63.9) |SK|
 N Kill General Drakkisath. Loot him for Blood of the Black Dragon Champion - Blood of the Black Dragon Champion 1/1 |QID|6502|
 R Travel to Winterspring |SK|
-N The starting location is marked on your map. Follow the waypoint arrow carefully - (56.6, 52.8) |SK|
+N Perform the mountain skip to reach Haleh - The starting location is marked on your map. Follow the waypoint arrow carefully - (56.6, 52.8) |SK|
 T Drakefire Amulet |QID|6502| |N|Talk to Haleh - Talk to Haleh - Be careful of the blue circle in front of Haleh. Stepping on it will teleport you into the cave - (54.5, 51.2)| |M|speedrun|
 T Drakefire Amulet |QID|6502| |N|Talk to Haleh - Talk to Haleh - Be careful! DO NOT step on the blue circle in front of Haleh. This will teleport you into the cave with an elite dragon and you could DIE - (54.5, 51.2)| |M|hardcore|
 

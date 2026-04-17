@@ -10,7 +10,7 @@ N 7-13 Durotar |N|Converted from RestedXP guide|
 A A Peon's Burden |QID|2161| |N|Talk to Ukor - Talk to Ukor - (52.1, 68.3)|
 A Thwarting Kolkar Aggression |QID|786| |N|Talk to Lar Prowltusk - Talk to Lar. He patrols a little - (54.2, 73.4)|
 A Report to Orgnil |QID|823| |N|Talk to Master Gadrin - Talk to Vel'rin, Vornal and Gadrin - (56.0, 73.9)|
-N (56.2, 74.4) |SK|
+N Enter the big hut - (56.2, 74.4) |SK|
 N Talk to K'waii - Talk to K'waii. Buy  [Weighted Throwing Axe] from her - Weighted Throwing Axe (200) - (56.3, 73.4) |C|Rogue|
 N Talk to K'waii - Talk to K'waii - Buy [Refreshing Spring Water] from her --Refreshing Spring Water (20) - Collect item 159 (x20) - (56.3, 73.4) |C|Warlock/Mage/Priest|
 N Talk to K'waii - Talk to K'waii - Buy [Refreshing Spring Water] from her --Refreshing Spring Water (10) - Collect item 159 (x10) - (56.3, 73.4) |C|Warlock/Mage/Priest|
@@ -35,7 +35,7 @@ N Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Mak
 N Kill Crawlers and Makruras. Loot them for their Mucus and Eyes |QID|818| |SK|
 N Kill Durotar Tigers. Loot them for their Fur - Durotar Tiger Fur (4) |QID|817| |SK|
 N Loot the Taillasher Eggs on the ground - They're usually guarded by a Bloodtalon Taillasher - Taillasher Egg (3) |QID|815| |SK| |M|speedrun|
-N (66.9, 84.4)
+N Swim to the main island - (66.9, 84.4)
 N Kill Hexed Trolls and Voodoo Trolls - Hexed Troll (8) - Voodoo Troll (8) |QID|826| |SK|
 N Kill Zalazane. Loot him for his Head - Zalazane's Head (1) |QID|826| |SK|
 N Loot one of the Skulls on the ground - Minshina's Skull (1) - (67.4, 87.8) |QID|808|
@@ -53,8 +53,8 @@ t Train your class spells |N|Talk to Un'Thuwa - Talk to Un'Thuwa - (56.3, 75.1)|
 T Practical Prey |QID|817| |N|Talk to Vel'rin Fang - Talk to Gadrin, Vornal and Vel'rin - (56.0, 74.7)|
 N Bind your [Faintly Glowing Skull] and [Really Sticky Glue]. Save them for emergency situations |SK|
 A Vanquish the Betrayers |QID|784| |N|Talk to Gar'thok - Talk to Gar'thok - You can talk to him from outside or on top of the bunker - (52.0, 43.5)| |M|hardcore|
-N (50.2, 43.1) |SK| |M|hardcore|
-N (49.8, 40.4) |SK| |M|hardcore|
+N Travel toward the tower - (50.2, 43.1) |SK| |M|hardcore|
+N Travel up the tower toward Furl - (49.8, 40.4) |SK| |M|hardcore|
 A Carry Your Weight |QID|791| |N|Talk to Furl Scornbrow - Talk to Furl - (49.9, 40.4)| |M|hardcore|
 t Train [Mining] |N|Talk to Krunn - Talk to Krunn - This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) - (51.8, 40.9)| |C|Warrior/Rogue| |M|hardcore|
 N Talk to Wuark - Talk to Wuark - Buy a [Mining Pick] from him - Mining Pick (1) - (51.9, 41.1) |C|Warrior/Rogue| |M|hardcore|
@@ -62,7 +62,7 @@ t Train [Blacksmithing] |N|Talk to Dwukk - Talk to Dwukk - (52.0, 40.7)| |C|Warr
 N Grind mobs on the way - (59.2, 58.4) |M|speedrun|
 N (59.2, 58.4) |M|speedrun|
 N Be careful if Watch Commander Zalaphil is up, as he is a level 9 rare. You may have to use a [Minor Healing Potion] if you have one |SK|
-N (59.8, 58.2) |SK|
+N Move toward the second floor of the keep - (59.8, 58.2) |SK|
 N Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps - Kul Tiras Sailor (10) - Kul Tiras Marine (8) - Canvas Scraps (8) |QID|791| |SK|
 N Kill Lieutenant Benedict. Loot him for his Key - Lieutenant Benedict (1) - Collect Benedict's Key (1) - (59.8, 58.3) |QID|784|
 U The Admiral's Orders |QID|830| |N|Go upstairs in the keep - Open Benedict's Chest. Loot it for the [Aged Envelope] - Use the [Aged Envelope] to start the quest - Collect Aged Envelope (1) - (59.9, 57.9)| |U|4881|
@@ -77,8 +77,8 @@ A Encroachment |QID|837| |N|Talk to Gar'Thok - Talk to Orgnil, Gar'Thok - (52.0,
 A The Admiral's Orders |QID|831| |N|Talk to Gar'Thok - Talk to Orgnil, Gar'Thok - (52.0, 43.5)|
 A The Admiral's Orders |QID|831| |N|Talk to Gar'Thok - Talk to Orgnil, Gar'Thok - (52.0, 43.5)|
 T Break a Few Eggs |QID|815| |N|Talk to Cook Torka - Talk to Torka - (51.1, 42.5)|
-N (50.2, 43.1) |SK|
-N (49.8, 40.4) |SK|
+N Travel toward the tower - (50.2, 43.1) |SK|
+N Travel up the tower toward Furl - (49.8, 40.4) |SK|
 T Carry Your Weight |QID|791| |N|Talk to Furl Scornbrow - Talk to Furl - (49.9, 40.4)|
 t Train [Mining] |N|Talk to Krunn - Talk to Krunn - This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) - (51.8, 40.9)| |C|Warrior/Rogue|
 N Talk to Wuark - Talk to Wuark - Buy a [Mining Pick] from Wuark - Mining Pick (1) - (51.9, 41.1) |C|Warrior/Rogue|
@@ -129,29 +129,29 @@ N Talk to Grimtak - Talk to Grimtak - Buy [Tough Jerky] from him. You will use t
 N Talk to Grimtak - Talk to Grimtak - (51.1, 42.6) |C|!Hunter|
 A Conscript of the Horde |QID|840| |N|Talk to Takrin Pathseeker - Talk to Takrin - (50.8, 43.6)|
 N Kill Razormane Dustrunners and Razormane Battleguards - Razormane Dustrunner (4) - Razormane Battleguard (4) - (44.5, 39.7) |QID|837|
-N (62.3, 19.4) |SK| |C|Warrior/Shaman|
+N Travel to Far Watch Post - (62.3, 19.4) |SK| |C|Warrior/Shaman|
 A Crossroads Conscription |QID|842| |N|Talk to Kargal Battlescar - Talk to Kargal - (62.3, 19.4)| |C|Warrior/Shaman|
-N (62.3, 19.4) |SK|
+N Travel to Far Watch Post - (62.3, 19.4) |SK|
 A Crossroads Conscription |QID|842| |N|Talk to Kargal Battlescar - Talk to Kargal - (62.3, 19.4)|
 A Path of Defense |QID|1498| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|
 A Call of Fire |QID|1524| |N|Talk to Kranal Fiss - Talk to Kranal - (55.9, 19.9)| |C|Shaman|
-N Be careful to not fall of the mountain, the path is very narrow. You could die if you fall - (36.7, 57.8) |SK| |C|Shaman|
+N Travel the path up the mountain toward Telf - Be careful to not fall of the mountain, the path is very narrow. You could die if you fall - (36.7, 57.8) |SK| |C|Shaman|
 A Call of Fire |QID|1525| |N|Talk to Telf Joolam - Talk to Telf - (38.5, 58.9)| |C|Shaman|
 N Enter Thunder Ridge and kill Lightning Hides. Loot them for their Scales - Singed Scale (5) - (43.2, 24.3) |QID|1498| |C|Warrior|
 N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Don't be afraid to die for the Claw as you will be respawning at the Spirit Healer after - Fizzle's Claw (1) - (42.1, 26.7) |QID|806| |M|speedrun|
 N Kill Fizzle Darkstorm and loot him for his Claw - Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him - Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs - Fizzle's Claw (1) - (42.1, 26.7) |QID|806| |M|hardcore|
 D Die and respawn |N|(47.0, 17.6)| |M|speedrun|
-N (39.2, 32.0) |M|hardcore|
-N (46.4, 22.9) |SK|
+N Fight your way out of Thunder Ridge - (39.2, 32.0) |M|hardcore|
+N Travel to Rezlak - (46.4, 22.9) |SK|
 A Winds in the Desert |QID|834| |N|Talk to Rezlak - Talk to Rezlak - (46.4, 22.9)|
 N Loot the Stolen Supply Sacks from the ground - Sack of Supplies (5) - (49.7, 21.9) |QID|834|
 T Winds in the Desert |QID|834| |N|Talk to Rezlak - Talk to Rezlak - (46.4, 22.9)|
 N Travel east around the hills to reach the cave. Follow the waypoint arrow - (49.4, 18.5) |SK| |C|Shaman|
 N Kill Burning Blade Cultists. Loot them for a Reagent Pouch - Reagent Pouch (1) - (53.2, 29.1) |QID|1525| |C|Shaman|
-N (62.3, 19.4) |SK| |C|Warrior/Shaman|
+N Travel to Far Watch Post - (62.3, 19.4) |SK| |C|Warrior/Shaman|
 A Thun'grim Firegaze |QID|1502| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|
 D Die and respawn |N|(50.7, 32.6)| |SK| |M|speedrun|
-N (52.3, 29.3) |SK| |M|hardcore|
+N Travel to The Crossroads - (52.3, 29.3) |SK| |M|hardcore|
 A Supplies for the Crossroads |QID|5041| |N|Talk to Thork - Talk to Thork - (51.5, 30.9)|
 A Plainstrider Menace |QID|844| |N|Talk to Sergra Darkthorn - Talk to Sergra - (52.2, 31.0)|
 A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)|
@@ -172,7 +172,7 @@ A Hidden Enemies |QID|5726| |N|Talk to Thrall - Talk to Thrall - (31.7, 37.8)| |
 t Train Staves |N|Talk to Hanashi - Talk to Hanashi - (81.5, 19.6)| |C|Warrior| |R|Troll|
 N Talk to Zendo'jian - Talk to Zendo'jian. Buy a [Quarter Staff] from him - Collect Quarter Staff (1) - (81.2, 18.7) |C|Warrior| |R|Troll|
 N Equip the [Quarter Staff] |U|854| |SK| |C|Warrior| |R|Troll|
-N (68.0, 38.7) |SK| |C|Hunter|
+N Travel to the Valley of Honor - (68.0, 38.7) |SK| |C|Hunter|
 T Training the Beast |QID|6081| |N|Talk to Ormak Grimshot - Talk to Ormak - (66.0, 18.5)| |C|Hunter|
 t Train your pet spells |N|Talk to Xao'tsu - Talk to Xao'tsu - (66.3, 14.8)| |C|Hunter|
 N Put [Beast Training](under the General tab), [Revive Pet], and [Feed Pet] onto your Action Bars - Remember to train your pet whenever they get Training Points for [Beast Training] |SK| |C|Hunter|
@@ -210,7 +210,7 @@ T Encroachment |QID|837| |N|Talk to Gar'Thok - Talk to Orgnil and Gar'Thok - (52
 t Train your class spells |N|Talk to Tarshaw Jaggedscar - Talk to Tarshaw - (54.2, 42.5)| |C|Warrior|
 t Train your class spells |N|Talk to Swart - Talk to Swart - (54.4, 42.6)| |C|Shaman|
 N Kill Venomtail Scorpid - Tame a Venomtail Scorpid - This will allow you to train [Claw Rank 2] - (36.3, 47.4) |SK| |C|Hunter|
-N (62.3, 19.4)
+N Travel to Far Watch Post - (62.3, 19.4)
 A Crossroads Conscription |QID|842| |N|Talk to Kargal Battlescar - Talk to Kargal - (62.3, 19.4)|
 A Thun'grim Firegaze |QID|1502| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|
 

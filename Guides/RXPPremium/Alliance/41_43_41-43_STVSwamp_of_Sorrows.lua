@@ -20,13 +20,13 @@ t Train your pet spells |N|Talk to Karrina Mekenda - Talk to Karrina Mekenda ins
 t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brightspear inside - (61.6, 15.3)| |C|Hunter|
 T Bring the Light |QID|3636| |N|Talk to Archbishop Benedictus - Talk to Archbishop Benedictus - (39.6, 27.2)|
 A Mazen's Behest |QID|1364| |N|Talk to Acolyte Dellis - Run upstairs and turn in Mazen's Behest - Talk to Mazen Mac'Nadir - Talk to Acolyte Dellis - (41.5, 64.4)|
-N (37.9, 82.5) |SK|
+N Travel towards High Sorcerer Andromath in the Mage Tower - (37.9, 82.5) |SK|
 A Vital Supplies |QID|1477| |N|Talk to High Sorcerer Andromath - Talk to High Sorcerer Andromath - (37.5, 81.7)|
 N Talk to Frederick Stover - Talk to Frederick Stover inside, on the upper level - Check if Frederick has a [Massive Longbow] in stock (it's a limited supply item, he won't always have it). If he has one, buy it. It is a VERY POWERFUL level 42+ weapon - Restock on [Jagged Arrows] if needed - Skip this step if he doesn't have one - Collect item 11307 (x1) - (50.2, 57.6) |C|Hunter|
 N Talk to Auctioneer Jaxon - Check your bank for any missing [Green Hills of Stranglethorn - Pages] and buy any that you still need from the Auction House - Chapter.1 requires: Pages 1,4,6,8 - Chapter.2 requires: Pages 10,11,14,16 - Chapter.3 requires: Pages 18,20,21,24 - Chapter.4 requires: Pages 25,26,27 - Place any newly bought Pages into your bank. Skip this step if you aren't able to acquire them - (57.1, 73.0)
 h StormwindClassic |N|Talk to Innkeeper Allison - Talk to Innkeeper Allison - (52.6, 65.7)| |C|Warlock|
 F Westfall >> Fly to Westfall |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |SK| |C|Warlock|
-N (35.7, 10.8) |SK| |C|Warlock|
+N Travel to Nesingwary's Expedition in STV - (35.7, 10.8) |SK| |C|Warlock|
 A Raptor Mastery |QID|196| |N|Talk to Hemet Nesingwary - Talk to Sir S. J. Erlgadin and Hemet Nesingwary - (35.6, 10.5)| |C|Warlock|
 R Hearthstone |N|Buy food/water if needed| |C|Warlock|
 F Booty Bay>> Fly to Booty Bay |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)|
@@ -59,7 +59,7 @@ N Kill Tethis. Loot him for his Talon - Tethis can spawn in any of the spots mar
 N Kill Venture Co. Foremen, Venture Co. Surveyors, Venture Co. Strip Miners and Venture Co. Tinkerers. Loot them for their Singing Blue Crystals - (41.6, 43.7) |QID|600|
 N Kill any Skullsplitter Trolls. Loot them for their Skullsplitter Tusks - Kill Skullsplitter Mystics and Skullsplitter Witch Doctors. Loot them for their Skullsplitter Fetishes - (42.1, 36.0) |QID|205|
 N Kill Bhag'thera. Loot him for the Fang of Bhag'thera - Bhag'thera can spawn north or west of the Mosh'Ogg Ogre Mound - (47.2, 28.0) |QID|193|
-N (46.3, 7.6) |SK|
+N Enter The Stockpile (Kurzen's Cave) - (46.3, 7.6) |SK|
 N Kill Kurzen Elites and Kurzen Subchiefs - Kill Colonel Kurzen. Loot him for his Head - If you can't kill Colonel Kurzen skip this step |QID|202|
 T Troll Witchery |QID|205| |N|Talk to Brother Nimetz - Talk to Brother Nimetz - (37.8, 3.6)|
 T Colonel Kurzen |QID|202| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)|
@@ -80,10 +80,10 @@ N Talk to Auctioneer O'reely - Talk to Auctioneer O'reely - Buy any [Green Hills
 A Return to MacKinley |QID|607| |N|Talk to "Shaky" Phillipe - Talk to "Shaky" Phillipe - (26.9, 73.6)|
 A Voodoo Dues |QID|609| |N|Talk to "Sea Wolf" MacKinley - Talk to "Sea Wolf" MacKinley - (27.8, 77.1)|
 T Excelsior |QID|628| |N|Talk to Drizzlik - Talk to Drizzlik - (28.3, 77.6)|
-N (27.6, 70.0) |SK|
-N (26.1, 67.0) |SK|
+N Head past the pirate camp north of Booty Bay - (27.6, 70.0) |SK|
+N Head through the bridge to the island - (26.1, 67.0) |SK|
 N Kill Naga Explorers on the island. Loot them for their Akiris Reeds - (27.0, 63.0) |QID|617|
-N (32.9, 74.1)
+N Head to the beach east of booty bay - (32.9, 74.1)
 N Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - Don't start the quest for this yet - Collect item 4098 (x1) |SK|
 N Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye |QID|576| |SK|
 N Kill Bloodsail Swashbucklers - Loot the Bloodsail Charts and Bloodsail Orders. These can spawn randomly at one of the camps or in the small rowboat - (31.8, 79.5) |QID|604|
@@ -103,7 +103,7 @@ N Kill Maury "Club Foot" Wilkins. Loot him for his Clubbed Foot - (35.3, 51.3) |
 N Kill Jon-Jon the Crow. Loot him for his Golden Spyglass - (34.9, 51.8) |QID|609|
 N Kill the Zanzils. Loot them for their Mixtures - (34.9, 51.8) |QID|621|
 N Kill Tethis. Loot him for his Talon - Tethis can spawn in any of the spots marked on your map - (28.4, 46.9) |QID|197|
-N (35.7, 10.8) |SK|
+N Travel to Nesingwary's Expedition - (35.7, 10.8) |SK|
 A Big Game Hunter |QID|208| |N|Talk to Hemet Nesingwary - Talk to Sir S. J. Erlgadin and Hemet Nesingwary - (35.7, 10.8)|
 T The Green Hills of Stranglethorn |QID|338| |N|Talk to Barnil Stonepot - Talk to Barnil Stonepot - Turn in all your [Green Hills of Stranglethorn - Pages] - Skip this step if you don't have all the [Green Hills of Stranglethorn - Chapters] - (35.7, 10.5)|
 N Use the [Flash Bomb] on King Bangalash when he is at 55% |U|4852| |SK|
@@ -111,7 +111,7 @@ N Kill King Bangalash - Kill King Bangalash. Loot him for the Head of Bangalash 
 T Big Game Hunter |QID|208| |N|Talk to Hemet Nesingwary - Talk to Hemet Nesingwary - (35.7, 10.8)|
 R Travel north into Duskwood and head to Darkshire |N|(44.6, 86.4)| |SK|
 A Supplies for Nethergarde |QID|1395| |N|Talk to Watchmaster Sorigal - Talk to Watchmaster Sorigal - (75.8, 46.2)|
-N (88.5, 41.0)
+N Travel to Swamp of Sorrows - (88.5, 41.0)
 A Cortello's Riddle |QID|625| |N|Click A Soggy Scroll in the water under the bridge - (22.9, 48.2)|
 A Cortello's Riddle |QID|625| |N|Click A Soggy Scroll in the water under the bridge - (22.9, 48.2)|
 N Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays |QID|1364| |SK|

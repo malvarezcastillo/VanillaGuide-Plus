@@ -103,15 +103,15 @@ N Talk to Gorbold Steelhand - Talk to Gorbold - Buy 10 [Mild Spices] from him - 
 N Talk to Gorbold Steelhand - Talk to Gorbold - Buy 5 [Mild Spices] from him - Mild Spices (5) - (38.1, 41.2)
 N Talk to Dalmond - Talk to Dalmond - Buy a [Simple Wood] and [Flint and Tinder] from him - Simple Wood (1) - Flint and Tinder (1) - (37.5, 40.5)
 A The Absent Minded Prospector |QID|741| |N|Talk to Archaeologist Hollee - Talk to Hollee - (37.4, 41.8)|
-N (37.5, 42.5) |SK|
+N Travel toward the Darnassus Boat - (37.5, 42.5) |SK|
 N Cast Cast [Basic Campfire] on the Boat (or Dock if the boat isn't visible yet) - This has a 5 second cast time |SK|
 N Cook any [Chunks of Boar Meat] into [Roasted Boar Meat] |SK|
 N Start spam casting [Conjure Water r2] to conjure as much water as possible |SK|
-N (54.9, 96.2)
-N (55.5, 93.7) |SK|
+N Take the Boat to Teldrassil - (54.9, 96.2)
+N Travel toward Vesprystus - (55.5, 93.7) |SK|
 f Rut'theran >> Get the Rut'theran Village flight path |N|Talk to Vesprystus - Talk to Vesprystus - (58.4, 94.0)|
 R Go through the purple portal into Darnassus |N|(55.9, 89.3)| |SK|
-N (37.9, 48.1) |SK|
+N Travel toward Greywhisker - (37.9, 48.1) |SK|
 A The Absent Minded Prospector |QID|942| |N|Talk to Chief Archaeologist Greywhisker - Talk to Greywhisker - (31.2, 84.5)|
 
 ]]

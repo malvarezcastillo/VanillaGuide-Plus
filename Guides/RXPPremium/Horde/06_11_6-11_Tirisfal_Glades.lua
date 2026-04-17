@@ -155,8 +155,8 @@ N Talk to Innkeeper Renee - Talk to Innkeeper Renee - Vendor Trash - (61.7, 52.1
 A Ulag the Cleaver |QID|1819| |N|Talk to Deathguard Dillinger - Talk to Dillinger - (58.2, 51.4)| |C|Warrior|
 N Click on the skull on the ground. This will summon Ulag. Kill him - Ulag the Cleaver (1) - (59.2, 48.5) |QID|1819| |C|Warrior|
 A Speak with Coleman |QID|1820| |N|Talk to Deathguard Dillinger - Talk to Dillinger - (58.2, 51.4)| |C|Warrior|
-N (61.8, 65.1) |SK| |C|Warlock|
-N (66.1, 20.1) |SK| |C|Warlock|
+N Enter Undercity - (61.8, 65.1) |SK| |C|Warlock|
+N Take the lift down to the Undercity - (66.1, 20.1) |SK| |C|Warlock|
 h Undercity |N|Talk to Innkeeper Norman - Talk to Norman - (67.7, 38.0)| |C|Warlock|
 A Creature of the Void |QID|1473| |N|Talk to Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock|
 R Leave Undercity through the Sewers |N|(47.2, 39.1)| |C|Warlock|
@@ -189,7 +189,7 @@ A The Deathstalkers |QID|1886| |N|Talk to Mennet Carkad - Talk to Mennet - (83.5
 A The Balnir Farmstead |QID|1882| |N|Talk to Anastasia Hartwell - Talk to Anastasia in the Magic Quarter - (85.1, 10.1)| |C|Mage|
 A The Lich's Identity |QID|357| |N|Talk to Bethor Iceshard - Talk to Bethor in the Magic Quarter - (84.1, 17.4)|
 T The Prodigal Lich |QID|405| |N|Talk to Bethor Iceshard - Talk to Bethor in the Magic Quarter - (84.1, 17.4)| |C|Mage/Warlock|
-N If you can't do this, just run out of Undercity normally - (84.9, 20.3)
+N Perform a Logout Skip by positioning your character on the highest part of the lowest staircase until it looks like they're floating, then logging out and back in - If you can't do this, just run out of Undercity normally - (84.9, 20.3)
 N If you can't do this, just run out of Undercity normally |C|!Mage/!Warlock|
 R Exit Undercity |N|(61.9, 64.8)| |SK|
 N If you see Astor, talk to him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher - Astor's Letter of Introduction (1) |QID|1886| |SK| |C|Rogue| |R|Undead|
@@ -250,9 +250,9 @@ A The Deathstalkers |QID|1899| |N|Talk to Andron Gant - Talk to Andron - (54.8, 
 N Loot Andron's Bookshelf behind Andron - Andron's Ledger (1) - (55.4, 76.9) |QID|1899| |C|Rogue|
 A The Deathstalkers |QID|1978| |N|Talk to Mennet Carkad - Talk to Mennet - (83.5, 69.1)| |C|Rogue|
 T The Deathstalkers |QID|1978| |N|Talk to Varimathras - Talk to Varimathras - (58.9, 78.8)| |C|Rogue|
-N If you can't do this, just run out of Undercity normally - (55.2, 90.9) |O|
+N Perform a Logout Skip by positioning your character on the edge of the circle until it looks like they're floating, then logging out and back in - If you can't do this, just run out of Undercity normally - (55.2, 90.9) |O|
 A Return the Book |QID|366| |N|Talk to Bethor Iceshard - Talk to Bethor - (84.1, 17.5)| |C|Rogue|
-N If you can't do this, just run out of Undercity normally - (84.9, 20.3)
+N Perform a Logout Skip by positioning your character on the highest part of the lowest staircase until it looks like they're floating, then logging out and back in - If you can't do this, just run out of Undercity normally - (84.9, 20.3)
 R Exit Undercity |N|(61.9, 64.8)| |SK|
 T Rear Guard Patrol |QID|356| |N|Talk to Deathguard Linnea - Talk to Linnea - (65.5, 60.2)|
 N Kill Captain Melrache and his Scarlet Bodyguards in the tower. Loot them for their Scarlet Insignia Rings - Captain Melrache (1) - Scarlet Bodyguard (2) - Scarlet Insignia Ring (10) - (79.5, 25.1) |QID|374|
@@ -280,8 +280,8 @@ t Train [Kick] |N|Talk to Marion Call - Talk to Marion on the second floor - (61
 t Train [Health Funnel] |N|Talk to Rupert Boch - Talk to Rupert - (61.6, 52.4)| |C|Warlock|
 N If you see Astor, talk to him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher - Astor's Letter of Introduction (1) |QID|1886| |SK| |C|Rogue|
 T Rear Guard Patrol |QID|356| |N|Talk to Deathguard Linnea - Talk to Linnea - (65.5, 60.2)|
-N (61.8, 65.1) |SK| |C|Priest/Rogue/Warrior|
-N (66.1, 20.1) |SK| |C|Priest/Rogue/Warrior|
+N Enter Undercity - (61.8, 65.1) |SK| |C|Priest/Rogue/Warrior|
+N Take the lift down to the Undercity - (66.1, 20.1) |SK| |C|Priest/Rogue/Warrior|
 N Talk to Auctioneer Rhyker - Talk to Auctioneer Rhyker - Buy a [Lesser Magic Wand] from the Auction House - If you do this and were gathering [Linen Cloth] earlier, you can sell your [Linen Cloth] on the Auction House - If you don't want to or can't do this, skip this step - Lesser Magic Wand (1) - (64.2, 49.6) |C|Priest|
 N Talk to Louis Warren - Talk to Louis Warren in the Trade Quarter - Buy a [Cutlass] from him - Collect Cutlass (1) - (61.1, 40.9) |O| |C|Rogue|
 N Talk to Louis Warren - Talk to Louis Warren in the Trade Quarter - Buy a [Cutlass] from him - Alternatively, check the Auction House for something better or cheaper - Collect Cutlass (1) - (61.1, 40.9) |O| |C|Rogue|
@@ -289,10 +289,10 @@ N Equip the [Cutlass] |U|851| |SK| |C|Rogue|
 N Talk to Louis Warren - Talk to Louis Warren in the Trade Quarter - Buy a [Claymore] from him - Collect Claymore (1) - (61.1, 40.9) |O| |C|Warrior|
 N Talk to Louis Warren - Talk to Louis Warren in the Trade Quarter - Buy a [Claymore] from him - Alternatively, check the Auction House for something better or cheaper - Collect Claymore (1) - (61.1, 40.9) |O| |C|Warrior|
 N Equip the [Claymore] |U|1198| |SK| |C|Warrior|
-N If you can't do this, just run out of Undercity normally - (61.1, 54.1) |O| |C|Rogue|
+N Perform a Logout Skip by jumping on top of the stack of barrels, then logging out and back in - If you can't do this, just run out of Undercity normally - (61.1, 54.1) |O| |C|Rogue|
 t Touch of Weakness |QID|5658| |N|Talk to Aelthalyste - Talk to Aelthalyste - (49.0, 18.3)| |O| |C|Priest|
 R The Prodigal Lich Returns |QID|411| |N|Talk to Bethor Iceshard - Talk to Bethor - (84.1, 17.5)| |O| |C|Rogue/Warrior/Priest|
-N If you can't do this, just run out of Undercity normally - (84.9, 20.3) |O| |C|Warrior|
+N Perform a Logout Skip by positioning your character on the highest part of the lowest staircase until it looks like they're floating, then logging out and back in - If you can't do this, just run out of Undercity normally - (84.9, 20.3) |O| |C|Warrior|
 t Train [Tailoring] |N|Talk to Victor Ward - Talk to Victor - (70.1, 29.8)| |O| |C|Priest|
 N Turn all your [Linen Cloth] into [Bolt of linen Linen Cloth] - Bolt of Linen Cloth (30) - (70.8, 30.7) |O| |C|Priest|
 t Train [Brown Linen Robe] |N|Talk to Victor Ward - Talk to Victor - (70.1, 29.8)| |O| |C|Priest|
@@ -303,14 +303,14 @@ N Talk to Thaddeus Webb - Talk to Thaddeus. Buy a [Copper Rod] and [Simple Wood]
 t Train [Lesser Magic Wand] |N|Talk to Malcomb Wynn - Talk to Malcomb - (62.5, 60.3)| |O| |C|Priest|
 N Create a [Lesser Magic Wand] - If you did not get a [Lesser Magic Essence] then buy one from Thaddeus if there is one available. Otherwise finish this step later - Lesser Magic Wand (1) |O| |C|Priest|
 N Equip the [Lesser Magic Wand] |U|11287| |SK| |C|Priest|
-N If you can't do this, just run out of Undercity normally - (62.0, 62.3) |O|
+N Perform a Logout Skip by jumping on top of the stack of barrels, then logging out and back in - If you can't do this, just run out of Undercity normally - (62.0, 62.3) |O|
 R The Deathstalkers |QID|1886| |N|Talk to Mennet Carkad - Talk to Mennet - (83.5, 69.1)| |O| |C|Rogue|
 A The Deathstalkers |QID|1898| |N|Talk to Mennet Carkad - Talk to Mennet - (83.5, 69.1)| |O| |C|Rogue|
 A The Deathstalkers |QID|1899| |N|Talk to Andron Gant - Talk to Andron - (54.8, 76.3)| |O| |C|Rogue|
 N Loot Andron's Bookshelf behind Andron - Andron's Ledger (1) - (55.4, 76.9) |QID|1899| |O| |C|Rogue|
 A The Deathstalkers |QID|1978| |N|Talk to Mennet Carkad - Talk to Mennet - (83.5, 69.1)| |O| |C|Rogue|
 T The Deathstalkers |QID|1978| |N|Talk to Varimathras - Talk to Varimathras - (58.9, 78.8)| |O| |C|Rogue|
-N If you can't do this, just run out of Undercity normally - (55.2, 90.9) |O|
+N Position your character on the edge of the circle until it looks like they're floating. Perform a Logout Skip by logging out and back in - If you can't do this, just run out of Undercity normally - (55.2, 90.9) |O|
 R Exit Undercity |N|(61.9, 64.8)| |SK| |C|Rogue|
 R Leave Undercity through the Sewers |N|(47.2, 39.1)| |O| |C|Rogue/Warrior/Priest|
 R Travel to Silverpine Forest |N|(53.2, 75.8)|

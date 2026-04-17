@@ -8,10 +8,10 @@ return [[
 N 35-36 Desolace |N|Converted from RestedXP guide|
 
 F Wetlands >> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth - (55.5, 47.7)| |SK|
-R Take the boat to Darkshore |N|Level your [First Aid] while waiting for the boat to Darkshore - (7.1, 58.0)|
+R Take the boat to Darkshore |N|Travel to the Menethil Harbor docks - Level your [First Aid] while waiting for the boat to Darkshore - (7.1, 58.0)|
 F Stonetalon >> Fly to Stonetalon |N|Talk to Caylais Moonfeather - Talk to Caylais Moonfeather - (36.7, 45.0)|
 R Travel to Desolace |N|(54.0, 3.4)| |SK|
-N (67.3, 15.0)
+N Travel to the path leading to Nijel's Point in Desolace - (67.3, 15.0)
 A Vahlarriel's Search |QID|1437| |N|Talk to Vahlarriel Demonslayer - Talk to Vahlarriel Demonslayer - (66.4, 11.8)|
 f Desolace >> Get the Desolace Flight Path |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - (64.7, 10.5)|
 h Desolace |N|Talk to Innkeeper Lyshaerya - Talk to Innkeeper Lyshaerya - (66.3, 6.6)|
@@ -37,13 +37,13 @@ A The Karnitol Shipwreck |QID|1456| |N|Talk to Kreldig Ungor - Talk to Kreldig U
 A The Karnitol Shipwreck |QID|1456| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
 A Vahlarriel's Search |QID|1438| |N|Talk to Vahlarriel Demonslayer - Talk to Vahlarriel Demonslayer - (66.4, 11.8)|
 N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |SK|
-N (55.8, 28.9) |SK|
+N Travel to Thunder Axe Fortress - (55.8, 28.9) |SK|
 N Ascend the Watchtower - Kill the Burning Blade Seer atop the Tower. Loot it for the Sceptre - There may only ever be 1 Burning Blade Seer. You may need to wait for a respawn - (55.2, 30.1) |QID|5741|
-N (55.3, 27.4) |SK|
+N Enter the main Fortress - (55.3, 27.4) |SK|
 A Search for Tyranis |QID|1439| |N|Talk to Dalinda Malem - Talk to Dalinda Malem - (54.9, 26.1)|
-N (53.3, 29.2) |SK|
+N Enter the secondary Fortress - (53.3, 29.2) |SK|
 N Kill Tyranis Malem. Loot him for his Pendant - (53.0, 29.1) |QID|1439|
-N (55.3, 27.4) |SK|
+N Travel back towards Dalinda Malem - (55.3, 27.4) |SK|
 T Search for Tyranis |QID|1439| |N|Talk to Dalinda Malem - Talk to Dalinda Malem - (54.9, 26.1)| |SK|
 A Return to Vahlarriel |QID|1440| |N|Talk to Dalinda Malem - Talk to Dalinda Malem - This will start an escort quest - (54.9, 26.1)|
 N Talk to Dalinda Malem - Safely exit Thunder Axe Fortress with Dalinda Malem - (58.3, 30.9) |QID|1440|
@@ -90,7 +90,7 @@ F Tanaris >> Fly to Tanaris |N|Talk to Baritanas Skyriver - Talk to Baritanas Sk
 R Travel to Feralas |N|(41.1, 91.7)| |M|speedrun|
 D Die and respawn |N|Talk to Spirit Healer - Once you get to Feralas, walk along the mountains to the west to avoid aggroing mobs and then die near the stone obelisks - (40.6, 8.6)| |SK| |M|speedrun|
 F Tanaris >> Fly to Tanaris |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.2)| |M|speedrun|
-N (77.8, 77.3) |SK|
+N Travel to The Shimmering Flats - (77.8, 77.3) |SK|
 T Parts for Kravel |QID|1112| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|
 A Encrusted Tail Fins |QID|1107| |N|Talk to Wizzle Brassbolts - Talk to Wizzle Brassbolts - (78.1, 77.1)|
 A The Eighteenth Pilot |QID|1186| |N|Talk to Pozzik - Talk to Pozzik - (80.2, 75.9)|

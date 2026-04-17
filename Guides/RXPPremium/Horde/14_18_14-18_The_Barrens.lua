@@ -8,13 +8,13 @@ return [[
 N 14-18 The Barrens |N|Converted from RestedXP guide|
 
 A Conscript of the Horde |QID|840| |N|Talk to Takrin Pathseeker - Talk to Takrin - (50.8, 43.6)| |C|Shaman| |R|Tauren|
-N (54.3, 39.4) |SK| |C|Shaman| |R|Tauren|
+N Go into Dustwind Cave - (54.3, 39.4) |SK| |C|Shaman| |R|Tauren|
 N Kill Cultists. Loot them for a Reagent Pouch - Reagent Pouch (1) - (51.9, 25.7) |QID|1525| |C|Shaman| |R|Tauren|
 A Crossroads Conscription |QID|842| |N|Talk to Kargal Battlescar - Talk to Kargal - (62.3, 19.4)| |C|Shaman| |R|Tauren|
-N (54.5, 28.0) |SK| |C|Warrior| |R|!Undead|
+N Travel to the top of the mountain - (54.5, 28.0) |SK| |C|Warrior| |R|!Undead|
 A Forged Steel |QID|1503| |N|Talk to Thun'grim Firegaze - Talk to Thun'grim - (57.2, 30.3)| |C|Warrior| |R|!Undead|
 N Loot the Stolen Iron Chest for its Forged Steel Bars - Forged Steel Bars (1) - (55.0, 26.6) |QID|1503| |C|Warrior| |R|!Undead|
-N (54.5, 28.0) |SK| |C|Warrior| |R|!Undead|
+N Travel to the top of the mountain - (54.5, 28.0) |SK| |C|Warrior| |R|!Undead|
 T Forged Steel |QID|1503| |N|Talk to Thun'grim Firegaze - Talk to Thun'grim - (57.2, 30.3)| |C|Warrior| |R|!Undead|
 D Die and respawn |N|(50.7, 32.6)| |SK| |C|!Shaman/!Warrior| |R|!Undead| |M|speedrun|
 A The Forgotten Pools |QID|870| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |C|!Shaman/!Warrior| |R|!Undead| |M|speedrun|
@@ -35,18 +35,18 @@ A Raptor Thieves |QID|869| |N|Talk to Gazrog - Talk to Gazrog - (51.9, 30.3)| |C
 h The Barrens |N|Talk to Innkeeper Boorand Plainswind - Talk to Innkeeper Boorand - (52.0, 29.9)| |C|!Shaman/!Warrior| |R|!Tauren/!Undead|
 A Meats to Orgrimmar |QID|6365| |N|Talk to Zargh - Talk to Zargh - (52.6, 29.8)| |C|!Warrior/!Shaman/!Warrior/!Shaman| |R|Orc| |M|speedrun|
 N Kill Plainstriders. Loot them for their Beaks - Plainstrider Beak (7) |QID|844| |SK|
-N (51.1, 22.7) |SK| |R|!Tauren/!Undead|
-N (47.6, 19.2) |SK| |R|!Tauren/!Undead|
+N Travel to the top of the mountain - (51.1, 22.7) |SK| |R|!Tauren/!Undead|
+N Go inside Dreadmist Den - (47.6, 19.2) |SK| |R|!Tauren/!Undead|
 N Right click the Altar - Make sure you have a [Flawed Power Stone] (30 minute duration) on you - Collect Flawed Power Stone - Destroy the Demon Seed (1) - (48.0, 19.1) |QID|924| |R|!Tauren/!Undead|
-N (47.6, 19.4) |SK|
+N Travel down the mountain where you came from - (47.6, 19.4) |SK|
 N Kill a Razormane Water Seeker or Razormane Thornweaver. Loot them for a Fire Tar - Fire Tar (1) - (55.0, 25.2) |QID|1525| |SK| |C|Shaman|
 N Kill Water Seekers, Thornweavers and Hunters - Razormane Water Seeker (8) - Razormane Thornweaver (8) - Razormane Hunter (3) |QID|871| |SK|
 A Chen's Empty Keg |QID|819| |N|Collect Chen's Empty Keg - (55.7, 27.3)| |U|4926|
 N Kill Water Seekers, Thornweavers and Hunters - Razormane Water Seeker (8) - Razormane Thornweaver (8) - Razormane Hunter (3) - (53.6, 24.5) |QID|871|
-N (54.5, 28.0) |SK| |C|Warrior| |R|!Undead|
+N Travel to the top of the mountain - (54.5, 28.0) |SK| |C|Warrior| |R|!Undead|
 A Forged Steel |QID|1503| |N|Talk to Thun'grim Firegaze - Talk to Thun'grim - (57.2, 30.3)| |C|Warrior| |R|!Undead|
 N Loot the Stolen Iron Chest for its Forged Steel Bars - Forged Steel Bars (1) - (55.0, 26.6) |QID|1503| |C|Warrior| |R|!Undead|
-N (54.5, 28.0) |SK| |C|Warrior| |R|!Undead|
+N Travel to the top of the mountain - (54.5, 28.0) |SK| |C|Warrior| |R|!Undead|
 T Forged Steel |QID|1503| |N|Talk to Thun'grim Firegaze - Talk to Thun'grim - (57.2, 30.3)| |C|Warrior| |R|!Undead|
 N Kill every Raptor you see. Loot them for their Heads - Raptor Head (12) |QID|869| |SK|
 N Kill Plainstriders. Loot them for their Beaks - Plainstrider Beak (7) - (53.7, 29.2) |QID|844|
@@ -67,7 +67,7 @@ N Kill Razormane Geomancers and Razormane Defenders - Razormane Geomancer (8) - 
 N Loot the Crossroads' Supply Crates - It has multiple spawn locations - Crossroads' Supply Crates (1) - (58.4, 27.0) |QID|5041| |R|Tauren|
 N Kill Razormane Geomancers and Razormane Defenders - Razormane Geomancer (8) - Razormane Defender (8) - (58.9, 25.4) |QID|872| |R|Tauren|
 N Kill any Zhevra you see. Loot them for their Hooves - Zhevra Hooves (4) |QID|845| |SK| |R|Tauren|
-N (36.7, 57.8) |SK| |C|Shaman| |R|Tauren|
+N Travel the path up the mountain toward Telf - (36.7, 57.8) |SK| |C|Shaman| |R|Tauren|
 A Call of Fire |QID|1526| |N|Talk to Telf Joolam - Talk to Telf - (38.5, 58.9)| |C|Shaman| |R|Tauren|
 N Cast Use the [Fire Sapta] - (38.2, 58.6) |U|6636| |SK| |C|Shaman| |R|Tauren|
 N Kill the Minor Manifestation of Fire. Loot him for a Glowing Ember - Glowing Ember (1) - (39.0, 58.2) |QID|1526| |C|Shaman| |R|Tauren|
@@ -102,7 +102,7 @@ R Hearthstone |U|6948| |SK| |R|!Tauren|
 R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK| |C|Warrior/Warrior/Shaman/Shaman| |R|Orc/Troll/Orc/Troll|
 R Travel South to Camp Taurajo and enter Mulgore. Travel to Thunder Bluff from there |N|If you have the Thunder Bluff flight path, fly there instead - (68.7, 60.3)| |SK|
 N Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)
-N (69.9, 30.9) |SK| |C|Warrior/Warrior/Shaman/Shaman| |R|Tauren/Orc/Troll/Orc/Troll|
+N Travel to the Elder Rise - (69.9, 30.9) |SK| |C|Warrior/Warrior/Shaman/Shaman| |R|Tauren/Orc/Troll/Orc/Troll|
 T Testing an Enemy's Strength |QID|5723| |N|Talk to Rahauro - Talk to Rahauro - (70.4, 29.6)| |C|Warrior/Warrior/Shaman/Shaman| |R|Tauren/Orc/Troll/Orc/Troll|
 T Returning the Lost Satchel |QID|5724| |N|Talk to Rahauro - Talk to Rahauro - (70.4, 29.6)| |C|Warrior/Warrior/Shaman/Shaman| |R|Tauren/Orc/Troll/Orc/Troll|
 T Testing an Enemy's Strength |QID|5723| |N|Talk to Rahauro - Talk to Rahauro - (70.4, 29.6)| |C|Warrior/Warrior/Shaman/Shaman| |R|Tauren/Orc/Troll/Orc/Troll|
@@ -121,7 +121,7 @@ T The Demon Seed |QID|924| |N|Talk to Ak'Zeloth - Talk to Ak'Zeloth - (62.3, 20.
 N Kill every Raptor you see. Loot them for their Heads - Raptor Head (12) |QID|869| |SK| |C|Shaman|
 N Kill any Zhevra you see. Loot them for their Hooves - Zhevra Hooves (4) |QID|845| |SK| |C|Shaman|
 R Travel toward Durotar |N|(36.7, 57.8)| |SK| |C|Shaman|
-N (36.7, 57.8) |SK| |C|Shaman|
+N Travel the path up the mountain toward Telf - (36.7, 57.8) |SK| |C|Shaman|
 A Call of Fire |QID|1526| |N|Talk to Telf Joolam - Talk to Telf - (38.5, 58.9)| |C|Shaman|
 N Cast Use the [Fire Sapta] - (38.2, 58.6) |U|6636| |SK| |C|Shaman|
 N Kill the Minor Manifestation of Fire. Loot him for a Glowing Ember - Glowing Ember (1) - (39.0, 58.2) |QID|1526| |C|Shaman|
@@ -202,10 +202,10 @@ N Kill every Raptor you see. Loot them for their Heads - This quest does not hav
 N Kill Savannah Prowlers. Loot them for their Claws and Tusks - Prowler Claws (7) - Savannah Lion Tusk (5) - (41.6, 23.4) |QID|821|
 N Kill Witchwing Harpies and Witchwing Roguefeathers. Loot them for their Talons - Witchwing Talon (8) - (41.8, 14.8) |QID|867|
 R Travel to Stonetalon Mountains |SK|
-N (82.6, 98.6) |SK|
-N (74.7, 98.1)
-N (50.8, 37.1) |SK|
-N (69.9, 30.9) |SK|
+N Follow the path on the left upward - (82.6, 98.6) |SK|
+N Jump onto one of the cages. Perform a Logout Skip by logging out and back in - (74.7, 98.1)
+N Take the lift up to Thunder Bluff - (50.8, 37.1) |SK|
+N Travel to the Elder Rise - (69.9, 30.9) |SK|
 T Testing an Enemy's Strength |QID|5723| |N|Talk to Rahauro - Talk to Rahauro - (70.4, 29.6)|
 T Returning the Lost Satchel |QID|5724| |N|Talk to Rahauro - Talk to Rahauro - (70.4, 29.6)|
 T Testing an Enemy's Strength |QID|5723| |N|Talk to Rahauro - Talk to Rahauro - (70.4, 29.6)|
@@ -245,7 +245,7 @@ N Kill Plainstriders. Loot them for their Kidneys - Plainstrider Kidney (5) |QID
 N Kill Venture Co. Enforcers and Venture Co. Overseers. Loot them for Cats Eye Emerald - If it hasn't dropped after 25+ mobs, feel free to skip this quest - Cats Eye Emerald (1) - (61.5, 4.4) |QID|896|
 N Kill Venture Co. Overseers. Loot them for their [Flask of Oil] - Flask of Oil (5) - (61.5, 4.4)
 N Kill Venture Co. Overseers. Loot them for their [Flask of Oil] - You could also buy them from the auction house instead - Flask of Oil (5) - (61.5, 4.4)
-N (60.5, 3.8)
+N Jump onto the wooden beam. Perform a Logout Skip by logging out and back in. Run back to Orgrimmar if you don't succeed - (60.5, 3.8)
 R Enter Orgrimmar through the western entrance |N|(56.8, 45.5)| |SK|
 t Train [Heavy Linen Bandage] |N|Talk to Arnok - Talk to Arnok - Skip this step if you did not have enough [Linen Cloth] to reach 40 skill - (34.2, 84.5)|
 t Train Journeyman First Aid |N|Talk to Arnok - Talk to Arnok - Skip this step if you did not have enough [Linen Cloth] to reach 50 skill - (34.2, 84.5)|
@@ -334,14 +334,14 @@ N Talk to Beaten Corpse - Talk to the Beaten Corpse - Find Mankrik's Wife (1) - 
 N Kill Stormsnouts. Loot them for a Thunder Lizard Horn - Thunder Lizard Horn (1) |QID|821| |SK|
 U Lakota'Mani |QID|883| |N|Kill Lakota'mani. Loot him for the [Hoof of Lakota'mani] - Use the [Hoof of Lakota'mani] to start the quest - He has 4 spawnpoints (marked on the map) - Skip this step if you can't find him - Collect Hoof of Lakota'Mani - (45.1, 52.8)| |U|5099| |SK|
 N Kill Stormsnouts. Loot them for a Horn. This does not have to be completed now - Thunder Lizard Horn (1) |QID|821| |SK|
-N (45.2, 58.4) |SK|
+N Travel to Camp Taurajo - (45.2, 58.4) |SK|
 h The Barrens |N|Talk to Innkeeper Byula - Talk to Innkeeper Byula - (45.6, 59.0)|
 T Lakota'mani |QID|883| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.9, 59.1)|
 A Tribes at War |QID|878| |N|Talk to Mangletooth - Talk to Mangletooth - (44.5, 59.3)|
 N Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2) |O|
 R Travel into Mulgore |N|(68.7, 60.3)| |SK|
 R Take the lift into Thunder Bluff |N|If you have the Thunder Bluff flight path, fly there instead - (31.8, 65.9)| |SK|
-N (69.9, 30.9) |SK|
+N Travel to the Elder Rise - (69.9, 30.9) |SK|
 T Testing an Enemy's Strength |QID|5723| |N|Talk to Rahauro - Talk to Rahauro - (70.4, 29.6)| |O|
 T Returning the Lost Satchel |QID|5724| |N|Talk to Rahauro - Talk to Rahauro - (70.4, 29.6)| |O|
 T Testing an Enemy's Strength |QID|5723| |N|Talk to Rahauro - Talk to Rahauro - (70.4, 29.6)| |O|
@@ -369,7 +369,7 @@ T Counterattack! |QID|4021| |N|Talk to Regthar Deathgate - Talk to Regthar - (45
 T Centaur Bracers |QID|855| |N|Talk to Regthar Deathgate - Talk to Regthar - (45.4, 28.4)|
 N Kill Plainstriders. Loot them for their Kidneys - Plainstrider Kidney (5) |QID|821| |SK|
 N Kill Witchwing Slayers. Loot them for their Rings - Be careful as Witchwing Slayers cast [Execute] (deals a LOT of damage when you're at <20% health), and Witchwing Ambushers are [Stealthed] and patrol around - Watch out for Witchwing Ambushers. They are stealthed and patrol in the area - Harpy Lieutenant Ring (6) - (40.3, 15.5) |QID|875|
-N (35.3, 27.9) |SK|
+N Travel toward Seereth - (35.3, 27.9) |SK|
 A Avenge My Village |QID|6548| |N|Talk to Makaba Flathoof - Talk to Seereth and Makaba - (35.3, 27.9)|
 A Goblin Invaders |QID|1062| |N|Talk to Seereth Stonebreak - Talk to Seereth - (35.3, 27.9)| |O|
 

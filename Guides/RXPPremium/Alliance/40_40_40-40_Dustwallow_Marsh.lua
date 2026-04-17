@@ -7,7 +7,7 @@ return [[
 
 N 40-40 Dustwallow Marsh |N|Converted from RestedXP guide|
 
-N (7.3, 62.5) |SK|
+N Travel to the Menethil Harbor Dock - (7.3, 62.5) |SK|
 R Take the boat to Theramore |N|Level your [First Aid] while waiting - (5.1, 63.4)|
 F Ratchet >> Fly to Ratchet |N|Talk to Baldruc - Talk to Baldruc - (67.5, 51.3)| |SK| |C|Warlock|
 T Knowledge of the Orb of Orahil |QID|4965| |N|Talk to Menara Voidrender - Talk to Menara Voidrender - (62.5, 35.4)| |O| |C|Warlock|
@@ -31,7 +31,7 @@ N Talk to Belnistrasz - Follow and protect Belnistrasz during his ritual |QID|35
 T Extinguishing the Idol |QID|3525| |N|Click Belnistrasz's Brazier|
 N Kill Amnennar the Coldbringer |QID|3636|
 R Once you have completed RFD, leave your group and ghetto hearth to Wetlands |SK|
-N (7.3, 62.5) |SK|
+N Travel to the Menethil Harbor Dock - (7.3, 62.5) |SK|
 R Take the boat to Theramore |N|Level your [First Aid] while waiting - (5.1, 63.4)|
 A Triage |QID|6624| |N|Talk to Doctor Gustaf VanHowzen - Talk to Doctor Gustaf VanHowzen - (67.8, 49.0)|
 C Channel the [Triage Bandage] on the Alliance Soldiers. Prioritize Critically Injured Soldiers first |QID|6624| |N|Talk to Injured Alliance Soldier - (67.8, 49.0)| |U|16991|
@@ -59,7 +59,7 @@ T The Missing Diplomat |QID|1267| |N|Talk to Lady Jaina Proudmoore - Talk to Lad
 A Stinky's Escape |QID|1222| |N|Talk to "Stinky" Ignatz - Talk to "Stinky" Ignatz - This will start an escort quest - (46.9, 17.5)| |C|Warlock|
 N Talk to "Stinky" Ignatz - Follow "Stinky" Ignatz through the Marshlands - (48.8, 24.5) |QID|1222| |C|Warlock|
 T Hungry |QID|1177| |N|Talk to Mudcrush Durtfeet - Talk to Mudcrush Durtfeet - (35.2, 38.3)|
-N (35.7, 54.0) |SK|
+N Travel to Lost Point tower - (35.7, 54.0) |SK|
 N Attack Balos Jacken to 10% health to make him submit - (36.1, 54.3) |SK|
 A The Deserters |QID|1287| |N|Talk to Balos Jacken - Talk to Balos Jacken - (36.1, 54.3)|
 N Open the Gizmorium Shipping Crate. Loot it for the Seaforium Booster - (54.1, 56.5) |QID|1187|

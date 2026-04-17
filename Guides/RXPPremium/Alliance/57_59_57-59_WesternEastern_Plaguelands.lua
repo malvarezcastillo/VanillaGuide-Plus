@@ -12,7 +12,7 @@ h Hillsbrad Foothills |N|Talk to Innkeeper Anderson - Talk to Innkeeper Anderson
 N (75.6, 22.1) |C|Rogue|
 T The Azure Key |QID|8236| |N|Talk to Lord Jorach Ravenholdt - Talk to Lord Jorach Ravenholdt upstairs - (86.0, 78.9)| |C|Rogue|
 F Western Plaguelands >> Fly to Western Plaguelands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |M|hardcore|
-N (39.5, 81.2) |SK| |M|speedrun|
+N Travel towards Lieutenant Haggerdin in Alterac Mountains - (39.5, 81.2) |SK| |M|speedrun|
 T The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Haggerdin - Talk to Lieutenant Haggerdin - (39.5, 81.2)| |M|speedrun|
 R Travel to Western Plaguelands |N|(42.7, 84.0)| |SK| |M|speedrun|
 A Clear the Way |QID|5092| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)|
@@ -41,11 +41,11 @@ N Kill Farmer Dalson - Kill Farmer Dalson. Loot him for the Dalson Cabinet Key -
 T Locked Away |QID|5060| |N|Click the Locked Cabinet up stairs in the house - (47.4, 49.6)|
 N Kill Cauldron Lord Malvinious. Loot him for the Dalson's Tears Cauldron Key - Cauldron Lord Malvinious may spawn as you approach the Cauldron - (46.2, 52.4) |QID|5219|
 A Return to Chillwind Camp |QID|5220| |N|Click on the Scourge Cauldron - (46.2, 52.0)|
-N (38.0, 54.6) |SK|
+N Go inside the house - (38.0, 54.6) |SK|
 A Two Halves Become One |QID|5051| |N|Talk to Janice Felstone - Talk to Janice through the ground from the 1st floor - (38.4, 54.0)|
 N Kill the Jabbering Ghoul. Loot it for the [Good Luck Other-Half-Charm] - He patrols around the Field - Collect item 12722 (x1) - (38.2, 57.1)
 N Use the [Good Luck Other-Half-Charm] to create the Good Luck Charm - Collect item 12723 (x1) |U|12722| |SK|
-N (38.0, 54.6) |SK|
+N Go inside the house - (38.0, 54.6) |SK|
 T Two Halves Become One |QID|5051| |N|Talk to Janice Felstone - Talk to Janice through the ground from the 1st floor - (38.4, 54.0)|
 N Kill Diseased Wolves - Diseased Wolves share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn - (49.2, 58.4) |QID|4984|
 C Use the [Beacon Torch] next to the Tower entrance. You can do this without agroing the Elite Skeletal Warlord inside |QID|5097| |N|(42.3, 66.1)| |U|12815|
@@ -88,7 +88,7 @@ N The starting location is marked on your map. If you're unable to do it, just r
 A Redemption |QID|5742| |N|Talk to Tirion Fordring - Talk to Tirion Fordring - (7.5, 43.6)|
 N Talk to Tirion Fordring - Talk to Tirion Fordring - (7.5, 43.6) |QID|5742|
 A Of Forgotten Memories |QID|5781| |N|Talk to Tirion Fordring - Talk to Tirion Fordring - (7.5, 43.6)|
-N (27.9, 86.2) |SK|
+N Enter The Undercroft crypt - (27.9, 86.2) |SK|
 N Kill Zaeldarr the Outcast. Loot him for his Head - (27.5, 84.9) |QID|6021|
 A Hameya's Plea |QID|6024| |N|Click the Torn Scroll on the ground - (27.3, 85.2)|
 N Cast Click the Loose Dirt Mound to summon Mercutio Filthgorger and 3 additional Crypt Robbers - (28.3, 86.9) |SK|
@@ -105,7 +105,7 @@ A A Strange Historian |QID|5153| |N|Talk to Marlene Redpath - Talk to Marlene Re
 N Click Joseph Redpath's Monument. Loot it for Joseph's Wedding Ring - (49.7, 76.8) |QID|5153|
 N Kill Skeletal Executioners and Skeletal Acolytes. Loot them for their Skeletal Fragments |QID|5537| |SK|
 A A Matter of Time |QID|4971| |N|Talk to Chromie - Talk to Chromie upstairs - (39.5, 66.8)|
-N (43.8, 69.2) |SK|
+N Enter the Ruins of Andorhal Town Hall - (43.8, 69.2) |SK|
 N Enter the Ruins of Andorhal Town Hall - Open the Musty Tomes. Loot them for the Annals of Darrowshire - The correct Musty Tome will have its pages be a completely dark-shade, or have a brown stain. If it's only half white and half black, that is a trap - There can be times where all Musty Tomes are traps and you must open them to force a correct one to spawn - (43.5, 69.5) |QID|5154|
 C Use the [Temporal Displacer] at the silos to make them spawn. If the silo isn't pulsing blue then it cannot spawn any Temporal Parasites |QID|4971| |N|Kill Temporal Parasites - Multiple Temporal Parasites can spawn at the same time, and once one dies, another one can instantly spawn. They will also keep casting [Slow] on you severely reducing your movement and attack speed - The Parasites cannot swim! If you get overwhelmed try to run into [Water] to evade them - (45.2, 62.6)| |U|12627|
 A Brother Carlin |QID|5210| |N|Talk to Chromie - Talk to Chromie upstairs - (39.5, 66.8)|

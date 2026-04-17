@@ -22,7 +22,7 @@ R Grind Saltspittle Murlocs while looking for a group for The Wailing Caverns. T
 N (69.7, 86.9)
 f Ratchet >> Get the Ratchet Flight Path |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)|
 A Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Crane Operator Bigglefuzz - (63.1, 37.6)|
-N (47.0, 35.4) |SK|
+N Travel to The Wailing Caverns. Ascend the mountain then drop down into the hidden cave above the entrance of The Wailing Caverns. Follow the Arrow to get to Nalpak and Ebru - (47.0, 35.4) |SK|
 A Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru|
 N Kill all types of Deviate creatures. Loot them for their Deviate Hides - This can be completed INSIDE and OUTSIDE of Wailing Caverns |QID|1486| |SK|
 N Kill Mad Magglish. Loot him for the 99-Year-Old Port - Mad Magglish can spawn in a few locations - This quest is completed OUTSIDE of Wailing Caverns |QID|959|
@@ -35,8 +35,9 @@ N Kill all types of Deviate creatures. Loot them for their Deviate Hides - This 
 N (63.0, 37.2) |SK|
 N Talk to Sputtervalve - Talk to Sputtervalve - (63.0, 37.2) |QID|6981|
 T Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Crane Operator Bigglefuzz - (63.1, 37.6)|
-N (50.1, 35.2) |SK|
+N Ascend the steep mountain above The Wailing Caverns. Follow the Arrow - (50.1, 35.2) |SK|
 T The Glowing Shard |QID|6981| |N|Talk to Falla Sagewind - Talk to Falla Sagewind - (48.2, 32.8)|
+N Drop down into the hidden cave above the entrance of The Wailing Caverns. Follow the Arrow to get to Nalpak and Ebru |SK|
 T Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru|
 T Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru|
 T Deviate Hides |QID|1486| |N|Talk to Nalpak - Talk to Nalpak and Ebru|
@@ -56,9 +57,9 @@ G Grind Goblins to level 22 and 6700+xp
 T Super Reaper 6000 |QID|1093| |N|Talk to Ziz Fizziks - Talk to Ziz Fizziks - (59.0, 62.6)|
 T A Gnome's Respite |QID|1071| |N|Talk to Gaxim Rustfizzle - Talk to Gaxim Rustfizzle - (59.5, 67.1)|
 A A Scroll from Mauren |QID|1075| |N|Talk to Gaxim Rustfizzle - Talk to Gaxim Rustfizzle|
-N (51.0, 47.5)
+N Head north to the Mirkfallon Lake - (51.0, 47.5)
 N Kill Pridewing Wyverns and Pridewing Consorts. Loot them for their Pridewing Venom Sacs - (54.0, 40.1) |QID|1134|
-N (37.1, 8.1) |SK|
+N Travel to Stonetalon Peak - (37.1, 8.1) |SK|
 T Journey to Stonetalon Peak |QID|1056| |N|Talk to Keeper Albagorm - Talk to Keeper Albagorm - (37.1, 8.1)|
 F Ashenvale >> Fly to Ashenvale |N|Talk to Teloren - Talk to Teloren - (36.4, 7.2)|
 T Pridewings of Stonetalon |QID|1134| |N|Talk to Shindrell Swiftfire - Talk to Shindrell Swiftfire - (34.7, 48.8)|
@@ -78,10 +79,10 @@ H Hearthstone |N|Buy food/water if needed|
 R Ashenvale >> Fly to Ashenvale |N|Talk to Jarrodenus - Talk to Jarrodenus - (11.9, 77.6)|
 T An Aggressive Defense |QID|1025| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
 N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |SK|
-N (34.7, 44.3) |SK|
+N Travel to Thistlefur Village. Follow the Arrow for a shortcut - (34.7, 44.3) |SK|
 N Kill Dal Bloodclaw. Loot him for his Skull - Dal Bloodclaw patrols Thistlefur Village - (36.1, 36.6) |QID|1054|
 N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |SK|
-N Jump over the tree root and hug the right to avoid aggroing mobs - (27.5, 60.8) |SK|
+N Climb the hill next to the big tree to the right of the Fire Scar Shrine entrance - Jump over the tree root and hug the right to avoid aggroing mobs - (27.5, 60.8) |SK|
 N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to - Clear an exit path if needed so you can reset them along with the Succubus if needed - (27.4, 63.0) |QID|973|
 N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to - Clear an exit path if needed so you can reset them along with the Succubus if needed - (27.4, 63.0) |QID|973|
 N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |SK|

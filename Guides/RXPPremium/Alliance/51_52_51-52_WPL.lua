@@ -65,9 +65,9 @@ A Forging the Mightstone |QID|8418| |N|Talk to Commander Ashlam Valorfist - Talk
 A Target: Felstone Field |QID|5216| |N|Talk to High Priestess MacDonnell - Talk to High Priestess MacDonnell - (43.0, 84.5)|
 N Kill Cauldron Lord Bilemaw. Loot him for the Felstone Field Cauldron Key - Cauldron Lord Bilemaw may spawn as you approach the Cauldron - (37.0, 57.1) |QID|5216|
 A Return to Chillwind Camp |QID|5217| |N|Click on the Scourge Cauldron - (37.2, 56.9)|
-N (38.0, 54.6) |SK|
+N Go inside the house - (38.0, 54.6) |SK|
 A Better Late Than Never |QID|5021| |N|Talk to Janice Felstone - Talk to Janice Felstone up stairs - (38.4, 54.0)|
-N Exit the house - (38.0, 54.6) |SK|
+N Exit the house - Go inside the barn - (38.0, 54.6) |SK|
 A Better Late Than Never |QID|5022| |N|Click Janice's Parcel on the ground - This has a 5 second cast time - You can do this from behind the wall to avoid aggroing anything inside - Avoid aggroing the Scarlets outside the barn. If you do, run away - (38.7, 55.2)|
 G Grind until you are 16950 XP away from 52 |N|If you are not yet close, do one more Cauldron quest to get you where you need to be| |C|Hunter|
 N Kill any of the Scourge. Loot them for their Minion's Scourgestones - (37.2, 56.9) |QID|8414| |C|Paladin|

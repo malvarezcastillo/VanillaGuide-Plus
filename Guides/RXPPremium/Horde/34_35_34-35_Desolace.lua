@@ -32,7 +32,7 @@ R Travel into Desolace |N|(29.3, 79.7)| |C|Shaman|
 A The Corrupter |QID|1480| |N|Kill Burning Blade Shadowmage - Kill and loot members of the Burning Blade until you get a [Flayed Demon Skin] - Collect item 20310 (x1) - (55.8, 30.1)|
 G Grind Burning Blade mobs at Thunder Axe Fortress to level 35 |N|Kill Burning Blade Adept - (55.9, 29.2)| |C|Warrior/Hunter/Rogue/Druid/Shaman|
 A Sceptre of Light |QID|5741| |N|Talk to Azore Aldamort - Talk to Azore - (38.9, 27.2)|
-N (56.3, 57.1) |SK|
+N Travel to Ghost Walker Post - (56.3, 57.1) |SK|
 T Family Tree |QID|5361| |N|Talk to Nataka Longhorn - Talk to Nataka - (55.4, 55.7)|
 A Befouled by Satyr |QID|1434| |N|Talk to Takata Steelblade - Talk to Takata - (52.6, 54.4)|
 A The Corrupter |QID|1481| |N|Talk to Maurin Bonesplitter - Talk to Maurin - (52.2, 53.5)|
@@ -43,7 +43,7 @@ N Kill Hatefury Shadowstalkers. Loot them for a Scalp |QID|1481| |SK|
 N Kill Hatefury Satyrs. Prioritize killing the Hatefury Rogues - (75.3, 27.9) |QID|1434|
 N Kill Hatefury Shadowstalkers. Loot them for a Scalp - (75.3, 27.9) |QID|1481|
 A Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly - (62.3, 39.0)|
-N (56.3, 57.1) |SK|
+N Travel to Ghost Walker Post - (56.3, 57.1) |SK|
 T Befouled by Satyr |QID|1434| |N|Talk to Takata Steelblade - Talk to Takata - (52.6, 54.4)|
 A The Corrupter |QID|1482| |N|Talk to Maurin Bonesplitter - Talk to Maurin - (52.2, 53.4)|
 N Talk to Harnor - Talk to Harnor - (51.2, 53.3)
@@ -67,11 +67,11 @@ A Other Fish to Fry |QID|6143| |N|Talk to Drulzegar Skraghook - Talk to Drulzega
 f Shadowprey Village >> Get the Shadowprey Village flight path |N|Talk to Thalon - Talk to Thalon at the end of the dock - (21.6, 74.1)|
 T Fish in a Bucket TWICE to receive 2 [Bloodbelly Fish] |QID|5421| |N|Talk to Jinar'Zillen - Talk to Jinar'Zillen - Collect item 13546 (x2) - (22.4, 73.1)|
 N Talk to Tukk - Talk to Tukk - Buy [Razor Arrows] from him - Collect item 3030 (x2600) - (24.9, 71.8) |C|Hunter|
-N (62.3, 39.0) |SK|
+N Travel to northern Desolace - (62.3, 39.0) |SK|
 T Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly - (62.3, 39.0)|
 C Kill Burning Blade members |QID|1435| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick)| |U|6436| |SK|
 N Kill the Burning Blade Seer at the top of the tower. Loot it for the Sceptre - (55.2, 30.1) |QID|5741|
-N (55.3, 27.6) |SK|
+N Enter the large building - (55.3, 27.6) |SK|
 N Use the [Demon Pick] on the Hand of Iruxos Crystal - Kill the Demon Spirit after it spawns. Loot it for the Demon Box - (54.6, 27.5) |QID|5381|
 C Kill Burning Blade members |QID|1435| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick) - (56.8, 29.9)| |U|6436|
 A Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Return to Azore - (38.9, 27.1)|
@@ -90,7 +90,7 @@ N Kill Slitherblade Naga, Myrmidons, and Sorceresses |QID|6143| |SK|
 N Kill Slitherblade Oracles. Loot them for an Oracle Crystal - Slitherblade Oracles share spawns with other Slitherblade Nagas; you may have to kill them - (28.5, 11.1) |QID|1482|
 N Kill Slitherblade Naga, Myrmidons, and Sorceresses - (32.4, 23.0) |QID|6143|
 T Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Return to Azore - (38.9, 27.2)|
-N (56.3, 57.1) |SK|
+N Travel to Ghost Walker Post - (56.3, 57.1) |SK|
 T The Corrupter |QID|1482| |N|Talk to Maurin Bonesplitter - Return to Maurin - (52.2, 53.4)|
 A The Corrupter |QID|1484| |N|Talk to Maurin Bonesplitter - Return to Maurin - Wait for the RP to finish - (52.2, 53.4)|
 T Catch of the Day |QID|5386| |N|Talk to Nataka Longhorn - Talk to Nataka - (55.4, 55.8)|

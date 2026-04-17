@@ -49,7 +49,7 @@ N Kill Wavethrashers. Loot them for their Wavethrasher Scales - These can be har
 N Kill Highborne Apparitions and Highborne Lichlings. Loot them for an Ichor of Undeath - (17.1, 69.0) |QID|8256| |C|Priest|
 T The Ichor of Undeath |QID|8256| |N|Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6)| |C|Priest|
 N Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6) |C|Hunter/Priest|
-N (62.8, 81.8) |SK|
+N Make your way to southern tip Azshara. Follow the arrow - (62.8, 81.8) |SK|
 N Cast Once you are at the top of the mountain, use any [Noggenfogger Elixirs] you have to try and get the [Slow Fall] buff. This isn't required as you can still drop down safely without them. If you do get the buff mount up and jump toward the small island |U|8529| |SK|
 N Cast Use the [Standard Issue Flare Gun] while on top of the Landing Pad and wait for Pilot Xiggs Fuselighter to arrive - NOTE: It can take a few minutes for him to arrive! Wait patiently... |U|10444| |SK|
 A Return to Tymor |QID|3461| |N|Talk to Pilot Xiggs Fuselighter - Talk to Pilot Xiggs Fuselighter - Wait patiently for him to arrive! It can take a few minutes - (77.8, 91.3)|

@@ -64,7 +64,7 @@ T The Prophecy of Mosh'aru |QID|3527| |N|Talk to Yeh'kinya - Talk to Yeh'kinya -
 N (77.8, 77.3) |SK|
 T Gahz'rilla |QID|2770| |N|Talk to Wizzle Brassbolts - Talk to Wizzle Brassbolts - (78.1, 77.1)|
 H Hearthstone |N|Buy food/water if needed|
-N (55.3, 50.5) |SK| |C|Warlock|
+N Swim west towards Tabetha - (55.3, 50.5) |SK| |C|Warlock|
 N The follow up quest will have Tabetha summon Demon of the Orb which is a level 40 Elite that you need to kill. This quest is simple so long as you don't agro additional mobs - Kill any mobs around Tabetha's farm before accepting the next quest |SK| |C|Warlock|
 A Cleansing of the Orb of Orahil |QID|4961| |N|Talk to Tabetha - Talk to Tabetha - (46.0, 57.1)| |C|Warlock|
 A Cleansing of the Orb of Orahil |QID|4961| |N|Talk to Tabetha - Talk to Tabetha - (46.0, 57.1)| |O| |C|Warlock|

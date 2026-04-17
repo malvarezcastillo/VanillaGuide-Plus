@@ -8,13 +8,13 @@ return [[
 N 38-39 Swamp of Sorrows |N|Converted from RestedXP guide|
 
 N Talk to Newton Burnside - Talk to Newton Burnside - All [Green Hills of Stranglethorn - Pages] you found - [Silk Cloth] - Ensure you have 15 for later - [Encrusted Tail Fins] - [Blue Pearls] - [Bag of Water Elemental Bracers] - (57.1, 73.0) |SK| |C|!Mage|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Go into The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 N Talk to Spackle Thornberry - Talk to Spackle Thornberry - Buy [Grimoires] for your pets - (25.7, 77.6) |C|Warlock|
 A Morgan Stern |QID|1260| |N|Talk to Angus Stern - Talk to Angus Stern - (41.5, 89.4)| |C|!Warrior/!Rogue/!Druid/!Hunter|
 A Mazen's Behest |QID|1363| |N|Talk to Mazen Mac'Nadir - Talk to Mazen Mac'Nadir - (40.7, 62.8)|
 A Mazen's Behest |QID|1364| |N|Talk to Acolyte Dellis - Talk to Acolyte Dellis up stairs - (41.0, 63.8)|
-N (42.5, 33.5) |SK| |C|Priest/Paladin|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest/Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
 A In Search of The Temple |QID|1448| |N|Talk to Brohann Caskbelly - Talk to Brohann Caskbelly - (64.3, 20.6)|
@@ -39,7 +39,7 @@ N Kill all the Adolescent Whelps and Dreaming Whelps respawns. Loot them for the
 N Kill Young Sawtooth Crocolisks, Sorrow Spinners and Swamp Jaguars - (23.0, 45.6) |QID|1396|
 A The Lost Caravan |QID|1421| |N|Talk to Watcher Biggs - Talk to Watcher Biggs - (26.7, 59.8)|
 N Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays - The drop rate of this item is very low. Don't go out of your way to complete this quest |QID|1364| |SK|
-N (57.3, 30.7) |SK|
+N Travel to Fallow Sanctuary - (57.3, 30.7) |SK|
 N Kill Ongeku. Loot him for his Shard - Ongeku can be in a random location throughout Fallow Sanctuary - (65.0, 22.0) |QID|1373| |SK|
 N Loot the Draenethyst Crystals on the ground - (63.3, 22.4) |QID|1389| |SK|
 N Open the Caravan Chest. Loot it for the Wizards' Reagents - Avoid going through the middle of Fallow Sanctuary - (64.5, 18.3) |QID|1421|
@@ -64,7 +64,7 @@ N Talk to Newton Burnside - Talk to Newton Burnside - [Decrypted Letter] - [Lett
 N Talk to Newton Burnside - Talk to Newton Burnside - [Blue Pearls] - [Silk Cloth] (15) - (57.1, 73.0)
 N Talk to Frederick Stover - Talk to Frederick Stover inside, on the upper level - Check if Frederick has a [Massive Longbow] in stock (it's a limited supply item, he won't always have it). If he has one, buy it. It is a VERY POWERFUL level 42+ weapon - Restock on [Razor Arrows] if needed - Skip this step if he doesn't have one - Collect item 11307 (x1) - (50.2, 57.6) |C|Hunter|
 N Talk to Ardwyn Cailen - Talk to Ardwyn Cailen - Buy a [Pitchwood Wand] from her if it's better than your current wand. Equip it at 40 - Collect item 5238 (x1) - (44.2, 70.0) |SK| |C|Priest|
-N (42.5, 33.5) |SK| |C|Priest/Paladin|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest/Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior|

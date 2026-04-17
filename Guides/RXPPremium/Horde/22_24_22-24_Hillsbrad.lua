@@ -8,10 +8,10 @@ return [[
 N 22-24 Hillsbrad |N|Converted from RestedXP guide|
 
 R Leave Orgrimmar |SK|
-R Take the Zeppelin to Tirisfal Glades |N|(50.8, 13.8)|
+R Take the Zeppelin to Tirisfal Glades |N|Go up the Zeppelin Tower - (50.8, 13.8)|
 R Arrive in Tirisfal Glades
 R Enter Undercity |N|(61.8, 65.1)| |SK|
-N (66.1, 20.1) |SK|
+N Take the lift down to the Undercity - (66.1, 20.1) |SK|
 t Train [Teleport: Undercity] |N|Talk to Lexington Mortaim - Talk to Lexington - (84.2, 15.6)| |C|Mage|
 N Talk to Hannah Akeley - Talk to Hannah - Buy one or more [Rune of Teleportation] from her - Collect item 17031 (x1) - (82.8, 15.8) |C|Mage|
 A The Book of Ur |QID|1013| |N|Talk to Keeper Bel'dugur - Talk to Bel'dugur - (53.7, 54.5)|
@@ -26,11 +26,11 @@ f Sepulcher >> Get the Sepulcher flight path |N|Talk to Karos Razok - Talk to Ka
 T Mura Runetotem |QID|3301| |N|Talk to Mura Runetotem - Talk to Renferrel and Mura - (42.9, 40.9)|
 T Until Death Do Us Part |QID|264| |N|Interact with Yuriv's Tombstone on the ground - (44.2, 42.7)|
 T Return to Podrig |QID|6324| |N|Talk to Deathguard Podrig - Talk to Podrig - (43.4, 41.7)| |R|Undead|
-N (36.1, 28.3) |SK| |C|Druid|
+N Travel north/east toward the Great Sea - (36.1, 28.3) |SK| |C|Druid|
 N Loot the Strange Lockbox in the water for the [Half Pendant of Aquatic Endurance] - Collect item 15882 (x1) - (29.6, 29.3) |C|Druid|
 R Travel to Hillsbrad Foothills |SK|
 A Time To Strike |QID|494| |N|Talk to Deathstalker Lesh - Talk to Deathstalker Lesh - (20.8, 47.4)|
-N (62.1, 20.2) |SK|
+N Travel to Tarren Mill - (62.1, 20.2) |SK|
 f Tarren Mill >> Get the Tarren Mill Flight Path |N|Talk to Zarise - Talk to Zarise - (60.1, 18.6)|
 A Hinott's Assistance |QID|2480| |N|Talk to Serge Hinott - Talk to Hinott - (61.5, 19.2)| |C|Rogue|
 N Wait for Hinott to complete the cure - (61.5, 19.2) |QID|2480| |C|Rogue|
@@ -55,7 +55,7 @@ t Cast [Tame Beast] on a Forest Most Creeper. Attack mobs with it to learn [Bite
 N Talk to Theodore Mont Claire - Talk to Theodore - (62.3, 19.7) |C|Hunter|
 N Cast Use the [Instant Poison] on your weapons |SK| |C|Rogue|
 N Kill Bears and Spiders en route. Loot them for their Tongues and Ichor - Avoid Elder Gray Bears and Giant Moss Creepers as they're high level and not worth killing |QID|496| |SK|
-N (76.6, 46.5)
+N Run to Durnholde Keep - (76.6, 46.5)
 N Kill Syndicate Rogues, Watchmen, and Shadow Mages. - Loot the Shadow Mages for their Vials of Innocent Blood |QID|1066| |SK|
 N Kill Jailor Eston - Kill Jailor Eston. Loot him for his Iron Key - He can be found in front of Tog'thar's Barracks, or in front of Drull - Collect item 3467 (x1) - (79.5, 41.9) |SK|
 N Kill Jailor Marlgen - Kill Jailor Marlgen. Loot him for his Gold Key - He can be found in front of Tog'thar or at the bottom of the tower - Collect item 3499 (x1) - (79.5, 40.6)

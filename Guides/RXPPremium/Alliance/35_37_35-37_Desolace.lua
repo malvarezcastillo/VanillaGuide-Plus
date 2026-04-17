@@ -17,7 +17,7 @@ N Cast Teleport to Darnassus |C|Mage|
 R Travel through the purple portal to Rut'theran Village |N|(29.5, 41.4)| |SK| |C|Mage|
 R Desolace >> Fly to Desolace |N|Talk to Vesprystus - Talk to Vesprystus - (58.4, 94.0)| |C|Mage|
 R Wetlands >> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth - (55.5, 47.7)|
-R Take the boat to Darkshore |N|(7.1, 58.0)|
+R Take the boat to Darkshore |N|Travel to the Menethil Harbor docks - (7.1, 58.0)|
 F Desolace >> Fly to Desolace |N|Talk to Caylais Moonfeather - Talk to Caylais Moonfeather - (36.7, 45.0)|
 h Desolace |N|Talk to Innkeeper Lyshaerya - Talk to Innkeeper Lyshaerya - (66.3, 6.6)|
 A Down the Scarlet Path |QID|261| |N|Talk to Brother Anton - Talk to Brother Anton - (66.5, 7.9)|
@@ -49,19 +49,19 @@ N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kil
 N Kill the Kolkar. Loot them for their Charms - (70.0, 41.6) |QID|1384|
 N Kill Magram Centaurs. Loot them for their Ears - (68.8, 71.2) |QID|1387|
 A Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly F'utzbuckle - (62.3, 39.0)|
-N (55.8, 28.9) |SK|
+N Travel to Thunder Axe Fortress - (55.8, 28.9) |SK|
 N Ascend the Watchtower - Kill the Burning Blade Seer atop the Tower. Loot it for the Sceptre - There may only ever be 1 Burning Blade Seer. You may need to wait for a respawn - (55.2, 30.1) |QID|5741|
-N (55.3, 27.4) |SK|
+N Enter the main Fortress - (55.3, 27.4) |SK|
 A Search for Tyranis |QID|1439| |N|Talk to Dalinda Malem - Talk to Dalinda Malem - (54.9, 26.1)|
-N (53.3, 29.2) |SK|
+N Enter the secondary Fortress - (53.3, 29.2) |SK|
 N Kill Tyranis Malem. Loot him for his Pendant - (53.0, 29.1) |QID|1439|
-N (55.3, 27.4) |SK|
+N Travel back towards Dalinda Malem - (55.3, 27.4) |SK|
 T Search for Tyranis |QID|1439| |N|Talk to Dalinda Malem - Talk to Dalinda Malem - (54.9, 26.1)| |SK|
 A Return to Vahlarriel |QID|1440| |N|Talk to Dalinda Malem - Talk to Dalinda Malem - This will start an escort quest - (54.9, 26.1)|
 N Talk to Dalinda Malem - Safely exit Thunder Axe Fortress with Dalinda Malem - (58.3, 30.9) |QID|1440|
 N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |SK|
 A Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (38.9, 27.2)|
-N (30.1, 10.4) |SK|
+N Swim to Ranazjar Isle - (30.1, 10.4) |SK|
 N Kill the Slitherblades. Loot them for Rackmore's Golden Key |QID|6161| |SK|
 N Kill Slitherblade Tidehunters and Slitherblade Sea Witches. Loot them for Karnitol's Satchel |QID|1456| |SK|
 N Click the Serpent Statue to summon Lord Kragaru - Kill Lord Kragaru. Loot him for the Book of the Ancients - (28.2, 6.7) |QID|6027|
@@ -83,7 +83,7 @@ N Kill Scorpashi Snappers, Scorpashi Lashers and Scorpashi Venomlashs. Loot them
 T Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly F'utzbuckle - (62.3, 39.0)|
 N Kill Scorpashi Snappers, Scorpashi Lashers and Scorpashi Venomlashs. Loot them for their Venom - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn - You must complete this step now - (70.4, 63.0) |QID|1459|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
-N (36.2, 79.2) |SK|
+N Travel to Uthek the Wise in southern Desolace - (36.2, 79.2) |SK|
 A Ongeku |QID|1373| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
 H Hearthstone |C|!Warlock|
 A The Karnitol Shipwreck |QID|1457| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
@@ -91,7 +91,7 @@ T Reagents for Reclaimers Inc. |QID|1459| |N|Talk to Kreldig Ungor - Talk to Kre
 T Centaur Bounty |QID|1387| |N|Talk to Corporal Melkins - Talk to Corporal Melkins - (66.7, 10.9)|
 T Return to Vahlarriel |QID|1440| |N|Talk to Vahlarriel Demonslayer - Talk to Vahlarriel Demonslayer - (66.4, 11.8)|
 F Tanaris >> Fly to Tanaris |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - (64.7, 10.5)|
-N (77.8, 77.3) |SK|
+N Travel to The Shimmering Flats - (77.8, 77.3) |SK|
 T Parts for Kravel |QID|1112| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|
 A The Eighteenth Pilot |QID|1186| |N|Talk to Pozzik - Talk to Pozzik - (80.2, 75.9)|
 A Razzeric's Tweaking |QID|1187| |N|Talk to Razzeric - Talk to Razzeric - (80.3, 76.1)|

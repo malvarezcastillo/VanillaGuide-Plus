@@ -26,7 +26,7 @@ A The Thandol Span |QID|632| |N|Go into the doorway at the bridge. Avoid fightin
 A The Thandol Span |QID|633| |N|Talk to Rhag Garmason - Talk to Rhag Garmason - (49.9, 18.2)|
 A MacKreel's Moonshine |QID|647| |N|Talk to Foggy MacKreel - Cross the bridge into Arathi. Get on the edge of the broken bridge, then cast Slow Fall on yourself with the feather you took out the bank earlier. Jump across - If you failed the jump, skip this quest - Accepting this quest will start a 15 minute timer. Be quick and focused - Talk to Foggy MacKreel - (44.0, 88.2)|
 A Sully Balloo's Letter |QID|637| |N|Loot the letter near the dwarf corpse underwater - Collect item 4433 (x1) - (44.3, 92.9)|
-N (52.5, 90.4) |SK|
+N Swim east toward the ramp here - (52.5, 90.4) |SK|
 N Click on the Wagon - (48.9, 88.1) |QID|633|
 A Plea To The Alliance |QID|634| |N|Talk to Rhag Garmason - Run back to Wetlands - Talk to Rhag Garmason - (46.2, 88.1)|
 T Plea To The Alliance |QID|634| |N|Talk to Captain Nials - Run to Arathi - Talk to Captain Nials - (45.8, 47.6)|
@@ -64,7 +64,7 @@ A A King's Tribute |QID|689| |N|Talk to Grand Mason Marblesten - Talk to Grand M
 F Southshore >> Fly to Southshore |N|(55.5, 47.7)|
 h Hillsbrad Foothills |N|Go into the Inn - (51.2, 58.9)|
 A Costly Menace |QID|564| |N|Talk to Darren Malvew - Talk to Darren Malvew - (52.4, 56.0)|
-N (55.6, 55.8) |SK|
+N Run to the river leading up to Alterac - (55.6, 55.8) |SK|
 N AoE turtles along the river up north toward Western Plaguelands. You can get all 10 later if needed - Note that Turtles have frost resistance, so use Arcane Explosion and backwards strafe to kill him. Watch the video for reference - Collect item 3712 (x10) - (83.1, 52.8) |SK|
 R Travel to Western Plaguelands |N|(80.5, 32.0)|
 f Chillwind Camp >> Get the Chillwind Camp flight path |N|(79.0, 30.6)|

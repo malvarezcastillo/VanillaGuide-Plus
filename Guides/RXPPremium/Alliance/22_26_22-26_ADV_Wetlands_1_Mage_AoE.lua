@@ -15,10 +15,10 @@ h Wetlands |N|Talk to Innkeeper Helbrek - Talk to Helbrek - (10.7, 61.0)|
 A Digging Through the Ooze |QID|470| |N|Talk to Sida - Talk to Sida - (11.8, 58.0)|
 A In Search of The Excavation Team |QID|305| |N|Talk to Tarrel Rockweaver - Talk to Tarrel - (11.5, 52.1)|
 N Get ready to Logout Skip from the Mushroom in the cave soon |SK|
-N (34.0, 41.0) |SK|
+N Travel toward Ormer - (34.0, 41.0) |SK|
 A Ormer's Revenge |QID|294| |N|Talk to Ormer Ironbraid - Talk to Ormer - (38.2, 50.9)|
 A In Search of The Excavation Team |QID|306| |N|Talk to Merrin Rockweaver - Go into the cave - Talk to Merrin - (38.8, 52.4)|
-N (39.0, 52.6) |SK|
+N Jump on top of the Mushroom in the cave. Logout Skip to central Wetlands - (39.0, 52.6) |SK|
 A Daily Delivery |QID|469| |N|Talk to Einar Stonegrip - Talk to Einar - (49.9, 39.4)|
 N Buy Healing Potions from Kixxle if you have money - (50.2, 37.7) |SK|
 A Tramping Paws |QID|276| |N|Talk to Rethiel the Greenwarden - Talk to Rethiel - (56.3, 40.4)|
@@ -42,12 +42,12 @@ N AoE Mosshide Fenrunners, Mosshide Trappers, and Mosshide Brutes. Loot them for
 N AoE Monstrous Oozes, Crimson Oozes, and Black Oozes in and outside of the Crypt. Loot them for Sida's Bag - (43.4, 28.6) |QID|470|
 N AoE Mosshide Fenrunners, Mosshide Trappers, and Mosshide Brutes. Loot them for Crude Flint - Be careful as Mosshide Fenrunners have [Increased Movespeed] and run in fear at <25% health, Mosshide Trappers cast [Net], and Mosshide Brutes deal 2-handed damage - (45.0, 34.6) |QID|277| |SK|
 N AoE Mosshide Fenrunners, Mosshide Trappers, and Mosshide Brutes. Loot them for Crude Flint - Be careful as Mosshide Fenrunners have [Increased Movespeed] and run in fear at <25% health, Mosshide Trappers cast [Net], and Mosshide Brutes deal 2-handed damage - If you get [Netted], [Blink] away from now on - (32.8, 35.2) |QID|277| |SK|
-N (64.0, 63.5)
+N Travel toward the Mosshide Gnolls - (64.0, 63.5)
 N After killing the Mosshide Mistweaver, loot them for Crude Flint |QID|277| |SK|
 G AoE Mosshide Gnolls and Mosshide Mongrels to level 25 |N|Kill Mosshide Mongrel - (64.0, 63.5)|
 N AoE Mosshide Fenrunners. Loot them for their Crude Flint - Be careful as Mosshide Fenrunners have [Increased Movespeed] and run in fear at <25% health - (64.6, 56.1) |QID|277|
 A Blisters on the Land |QID|275| |N|Talk to Rethiel the Greenwarden - Talk to Rethiel - (56.4, 40.5)|
-N (36.4, 37.9) |SK|
+N Travel back to Menethil Harbor - (36.4, 37.9) |SK|
 H Hearthstone |SK|
 N Talk to Innkeeper Helbrek - Talk to Helbrek - Buy some [Sweet Nectar] from him - Remember to cast [Conjure Food Rank 3] instead of buying food - Collect item 1708 (x40) - (10.7, 61.0)
 A Reclaiming Goods |QID|281| |N|Talk to Karl Boran - Talk to Karl - (8.3, 58.6)|
@@ -58,15 +58,15 @@ A Return the Statuette |QID|286| |N|Click the Half-buried Barrel in the ground -
 N AoE Fen Creepers - Be careful as they are [Stealthed] and patrol around in the shallow water slightly - (17.8, 27.7) |QID|275| |SK|
 N AoE Giant Wetlands Crocolisks. Loot them for their Giant Crocolisk Skin - Be careful as they cast [Tendon Rip] (reduces movespeed by 70% for 8 seconds) - (17.9, 26.9) |QID|471|
 N AoE Fen Creepers - Be careful as they are [Stealthed] and patrol around in the shallow water slightly - (29.5, 23.6) |QID|275| |SK|
-N (22.5, 50.5)
+N Travel toward the Raptors - (22.5, 50.5)
 N AoE Black Oozes. Loot them for Sida's Bag |QID|470| |SK|
 N AoE Mottled Raptors and Mottled Screechers. Loot them for the Stone of Relu |QID|943| |SK|
 N AoE Mottled Raptors and Mottled Screechers - Be careful as Mottled Screechers cast [Call For Help]  (Aggros nearby Mottled Raptors and Mottled Screechers in a 75 yard radius at <50% health) - (22.5, 50.5) |QID|294|
-N Remember to check for the Neru Fragment (Dirt Patch) behind the tree leading up to Ormer - (34.0, 41.0) |SK|
+N Travel toward Ormer - Remember to check for the Neru Fragment (Dirt Patch) behind the tree leading up to Ormer - (34.0, 41.0) |SK|
 A Ormer's Revenge |QID|295| |N|Talk to Ormer Ironbraid - Talk to Ormer - (38.2, 50.9)|
 N Loot Flagongut's Fossil on the ground - (38.9, 52.2) |QID|943| |SK|
 A Uncovering the Past |QID|299| |N|Talk to Prospector Whelgar - Talk to Whelgar - (38.8, 52.4)|
-N (36.5, 49.7)
+N Jump down to Whelgar's Excavation - (36.5, 49.7)
 N AoE Mottled Scytheclaws and Mottled Razormaws. Loot them for the Stone of Relu |QID|943| |SK|
 N Loot the Fragments found all over the Excavation Site - Ados is a Coffer, Modr is a small Vase, Golm is a big Vase, Neru is a Dirt Patch - They can be found near Sarltooth's platform and on the ledge below it |QID|299| |SK|
 N AoE Mottled Scytheclaws and Mottled Razormaws - Be careful as Mottled Scytheclaws cast [Rend Flesh] (32 Damage every 3 sec for 12 sec) and Mottled Razormaws cast [Infected Wound] (Increases physical damage taken by 6 for 5 minutes) - (35.2, 50.3) |QID|295|
@@ -77,12 +77,12 @@ A Ormer's Revenge |QID|296| |N|Talk to Ormer Ironbraid - Talk to Ormer - ===PAY 
 N Kill Sarltooth. Loot him for Sarltooth's Talon - (33.3, 51.5) |QID|296|
 N Get ready to Logout Skip from the Mushroom in the cave soon |SK|
 T Uncovering the Past |QID|299| |N|Talk to Prospector Whelgar - Talk to Ormer and Whelgar - (38.2, 50.9)|
-N (39.0, 52.6)
-N (49.0, 44.9) |SK|
+N Jump on top of the Mushroom in the cave. Logout Skip to central Wetlands - (39.0, 52.6)
+N Run up the ramp to the Dragonmaw Orcs - (49.0, 44.9) |SK|
 N AoE Dragonmaw Raiders. Loot them for Dragonmaw War Banners - Be careful as they cast [Net] - (47.9, 46.5) |QID|464|
 N AoE Fen Creepers - Be careful as they are [Stealthed] and patrol around in the shallow water slightly - (48.9, 37.5) |QID|275|
 T Blisters on the Land |QID|275| |N|Talk to Rethiel the Greenwarden - Talk to Rethiel - (56.4, 40.5)|
-N (36.4, 37.9) |SK|
+N Travel back to Menethil Harbor - (36.4, 37.9) |SK|
 H Hearthstone |SK|
 T The Absent Minded Prospector |QID|943| |N|Talk to Archaeologist Flagongut - Talk to Flagongut through the wall - (10.8, 60.4)|
 T Digging Through the Ooze |QID|470| |N|Talk to Sida - Talk to Sida - (11.8, 58.0)|
@@ -92,12 +92,12 @@ N Talk to Falkan - Buy up to two [Runes of Teleportation] from him - Collect ite
 T Return the Statuette |QID|286| |N|Talk to Karl Boran - Talk to Karl - (8.3, 58.6)|
 N Cast Cast [Teleport: Stormwind] |SK|
 t Train your class spells (Cone of Cold, Remove Lesser Curse, Dampen Magic r2) |QID|1939| |N|Talk to Jennea Cannon - Talk to Jennea - (38.6, 79.3)|
-N (36.3, 82.9) |SK|
+N Go through the green portal - (36.3, 82.9) |SK|
 A Ur's Treatise on Shadow Magic |QID|1938| |N|Talk to High Sorcerer Andromath - Talk to Andromath - (37.5, 81.7)|
-N As a sidenote, you're fine to vendor [Silk Cloth] for now. You don't need to save it until prompted later - (42.1, 79.4) |SK|
+N Enter the Stormwind Bank - As a sidenote, you're fine to vendor [Silk Cloth] for now. You don't need to save it until prompted later - (42.1, 79.4) |SK|
 N Talk to Newton Burnside - Talk to Newton - NOTE: You need 12 stacks of each cloth ([Wool Cloth], [Silk Cloth], [Mageweave Cloth], and [Runecloth]) to do the cloth turnins later. You'll get these naturally as you level - [Light Feather] - [Wool Cloth] - [Dwarven Tinder] - (57.0, 73.0)
 N Talk to Newton Burnside - Talk to Newton - [Lean Wolf Flank] - [Stormwind Seasoning Herbs] - [Supplies for Sven] - [Glyph of Azora] - [Crate of Horseshoes] - (57.0, 73.0)
-N (57.1, 61.5) |SK|
+N Travel toward Dungar - (57.1, 61.5) |SK|
 R Sentinel >> Fly to Westfall |N|Talk to Dungar Longdrink - Talk to Dungar - (66.3, 62.1)|
 
 ]]

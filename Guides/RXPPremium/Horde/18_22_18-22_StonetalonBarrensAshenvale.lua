@@ -10,7 +10,7 @@ N 18-22 Stonetalon/Barrens/Ashenvale |N|Converted from RestedXP guide|
 N Kill Grimtotem Ruffians and Grimtotem Mercenaries in the area - Kill Grimtotem Ruffian (x8) - Kill Grimtotem Mercenary (x6) - (80.6, 90.0) |QID|6548|
 A Kill Grundig Darkcloud |QID|6629| |N|Talk to Makaba Flathoof - Talk to Makaba - (35.2, 27.8)|
 A Kill Grundig Darkcloud |QID|6629| |N|Talk to Makaba Flathoof - Talk to Makaba - (35.2, 27.8)| |O|
-N (75.9, 87.5) |SK|
+N Travel up the path to the bonfire - (75.9, 87.5) |SK|
 N Kill Grundig Darkcloud and Grimtotem Brutes - Make sure you kill all six Grimtotem Brutes before starting the quest inside - Kill Grundig Darkcloud (x1) - Kill Grimtotem Brute (x6) - (73.7, 86.1) |QID|6629|
 A Protect Kaya |QID|6523| |N|Talk to Kaya Flathoof - Talk to Kaya - (73.5, 85.6)|
 N Talk to Kaya Flathoof - Escort Kaya and stay close to her - Be careful! Three Grimtotems will spawn when you reach the bonfire in Camp Aparaje - Kaya Escorted to Camp Aparaje - (71.8, 86.8) |QID|6523|
@@ -27,7 +27,7 @@ N Talk to Innkeeper Jayka - Talk to Innkeeper Jayka - (47.5, 62.1)
 N Talk to Jeeda - Talk to Jeeda on the second floor of the inn - (47.6, 61.6)
 T Arachnophobia |QID|6284| |N|Talk to Maggran Earthbinder - Talk to Maggran - (47.2, 61.2)|
 f Sun Rock Retreat >> Get the Sun Rock Retreat flight path |N|Talk to Tharm - Talk to Tharm - (45.1, 59.9)|
-N (59.0, 62.6) |SK|
+N Travel toward Ziz - (59.0, 62.6) |SK|
 A Super Reaper 6000 |QID|1093| |N|Talk to Ziz Fizziks - Talk to Ziz - (59.0, 62.6)|
 N Loot the Spider Eggs near the trees - Be careful! The Deepmoss Hatchlings have a chance of summoning a level 22 Deepmoss Matriarch - Collect Deepmoss Egg (x15) |QID|1069| |SK|
 N Kill Deepmoss Venomspitters - Kill Deepmoss Venomspitter (x7) - (59.2, 61.5) |QID|6461|
@@ -110,9 +110,9 @@ t Train your class spells |N|Talk to Ur'kyo - Talk to Ur'kyo - (35.6, 87.8)| |C|
 t Train your class spells |N|Talk to Ur'kyo - Talk to Ur'kyo - (35.6, 87.8)| |O| |C|Priest|
 N Talk to Auctioneer Thathung - Talk to Thathung - Buy [Flask of Oil] from the Auction House if possible - Flask of Oil (5) - (55.6, 62.9)
 R Leave Orgrimmar |SK|
-R Take the Zeppelin to Stranglethorn Vale |N|(50.8, 13.8)|
-N Steer clear from the island. Follow the waypoint for safety! - (30.5, 29.1)
-N (30.0, 86.0) |SK|
+R Take the Zeppelin to Stranglethorn Vale |N|Go up the Zeppelin Tower - (50.8, 13.8)|
+N Swim directly to the west from Grom'Gol into the Vile Reef and then swim north toward Westfall - Steer clear from the island. Follow the waypoint for safety! - (30.5, 29.1)
+N Travel to the Westfall Lighthouse - (30.0, 86.0) |SK|
 A Keeper of the Flame |QID|103| |N|Talk to Captain Grayson - Talk to Captain Grayson - (30.0, 86.0)|
 T Keeper of the Flame |QID|103| |N|Talk to Captain Grayson - Talk to Captain Grayson - (30.0, 86.0)|
 A The Coastal Menace |QID|104| |N|Talk to Captain Grayson - Talk to Captain Grayson - (30.0, 86.0)|
@@ -144,7 +144,7 @@ N Kill Thunder Lizards. Loot them for their Blood - Thunder Lizard Blood (3) - (
 A Cry of the Thunderhawk |QID|913| |N|Talk to Jorn Skyseer - Talk to Jorn - (44.9, 59.1)|
 A Cry of the Thunderhawk |QID|913| |N|Talk to Jorn Skyseer - Talk to Jorn - (44.9, 59.1)|
 U Owatanka |QID|884| |N|Kill Owatanka. Loot him for [Owatanka's Tailspike] - Use the [Owatanka's Tailspike] to start the quest - He has 4 spawnpoints (marked on the map) - Collect Owatanka's Tailspike - (44.6, 62.7)| |U|5102| |SK| |C|Shaman|
-N (43.4, 77.4) |SK| |C|Shaman|
+N Travel South toward Brine - (43.4, 77.4) |SK| |C|Shaman|
 N Kill a Thunderhawk. Loot it for its Wings - Thunderhawk Wings (1) |QID|913| |SK| |C|Shaman|
 A Call of Water |QID|1535| |N|Talk to Brine - Talk to Brine - (43.4, 77.4)| |C|Shaman|
 C Fill your [Empty Brown Waterskin] in the watering hole below Brine's hut |QID|1535| |N|Filled Brown Waterskin (1) - (44.2, 76.8)| |U|7766| |C|Shaman|
@@ -164,7 +164,7 @@ N Talk to Kuruk - Talk to Kuruk. Buy  [Deadly Throwing Axe] from him - Deadly Th
 N Talk to Chesmu - Talk to Chesmu - (47.1, 57.9)
 N Talk to Chesmu - Talk to Chesmu - (47.1, 57.9) |O|
 h Thunder Bluff |N|Talk to Innkeeper Pala - Talk to Innkeeper Pala - (45.8, 64.7)|
-N (28.1, 33.0) |SK|
+N Travel to the Spirit Rise and enter the pools of vision - (28.1, 33.0) |SK|
 A Until Death Do Us Part |QID|264| |N|Talk to Clarice Foster - Talk to Clarice - (28.6, 25.6)| |SK|
 A Serpentbloom |QID|962| |N|Talk to Apothecary Zamah - Talk to Zamah - (22.8, 20.9)|
 A Serpentbloom |QID|962| |N|Talk to Apothecary Zamah - Talk to Zamah - (22.8, 20.9)| |O|
@@ -176,7 +176,7 @@ t Train your class spells |N|Talk to Tigor Skychaser - Talk to Tigor - (23.6, 18
 t Train your class spells |N|Talk to Tigor Skychaser - Talk to Tigor - (23.6, 18.7)| |O| |C|Shaman|
 t Train [Wool Bandage] |N|Talk to Pand Stonebinder - Talk to Pand - Skip this step if you did not have enough [Linen Cloth] to reach 80 skill - (29.7, 21.2)|
 N Create [Anti-Venom] if you found any [Small Venom Sacs] - Save them for later - Anti Venom |C|Rogue|
-N (69.9, 30.9) |SK|
+N Travel to the Elder Rise - (69.9, 30.9) |SK|
 A Nara Wildmane |QID|1490| |N|Talk to Arch Druid Hamuul Runetotem - Talk to Hamuul - (78.6, 28.6)|
 A Leaders of the Fang |QID|914| |N|Talk to Nara Wildmane - Talk to Nara - (75.7, 31.6)|
 T Nara Wildmane |QID|1490| |N|Talk to Nara Wildmane - Talk to Nara - (75.7, 31.6)|
@@ -189,11 +189,11 @@ A Trial of the Sea Lion |QID|30| |N|Talk to Tajarri - Talk to Tajarri - (36.5, 4
 R Hearthstone |U|6948| |C|Druid|
 R Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Bunthen Plainswind - Talk to Bunthen - (44.3, 45.9)| |SK| |C|Druid|
 R Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Bunthen Plainswind - Talk to Bunthen - (44.3, 45.9)| |SK| |C|Druid|
-N (61.3, 78.2) |SK| |C|Hunter|
+N Travel to the Hunter Rise - (61.3, 78.2) |SK| |C|Hunter|
 t Train your class spells |N|Talk to Urek Thunderhorn - Talk to Urek - (59.1, 86.9)| |C|Hunter|
 t Train your class spells |N|Talk to Urek Thunderhorn - Talk to Urek - (59.1, 86.9)| |O| |C|Hunter|
 t Train your pet spells |N|Talk to Hesuwa Thunderhorn - Talk to Hesuwa - (54.1, 84.0)| |C|Hunter|
-N (61.3, 78.2) |SK| |C|Warrior|
+N Travel to the Hunter Rise - (61.3, 78.2) |SK| |C|Warrior|
 A Speak with Ruga |QID|1823| |N|Talk to Torm Ragetotem - Talk to Torm - (57.3, 87.3)| |C|Warrior|
 N Talk to Kard Ragetotem - Talk to Kard. Buy a [Longsword] from him. - Collect Longsword (1) - (53.0, 56.6) |C|Rogue|
 N Equip the [Longsword] |U|923| |SK| |C|Rogue|
@@ -207,8 +207,8 @@ N Equip the [Heavy Recurve Bow] |U|3027| |SK| |C|Hunter|
 N Talk to Kuna Thunderhorn - Talk to Kuna - Buy [Sharp Arrows] from her - Collect item 2515 (x1600) - (47.0, 45.7) |C|Hunter|
 R Crossroads >>Fly to Crossroads |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK|
 N Now you should be looking for a group to Wailing Caverns - Grind Quilboars while assembling a Wailing Caverns group |SK|
-N (46.1, 36.9)
-N Follow the arrow closely to reach the hidden cave - (47.0, 35.2) |SK|
+N Travel to Wailing Caverns - (46.1, 36.9)
+N Run up the mountain at the Wailing Caverns meeting stone - Follow the arrow closely to reach the hidden cave - (47.0, 35.2) |SK|
 A Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru - They are located above the the Wailing Caverns cave entrance - (51.9, 55.4)|
 N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |SK| |M|hardcore|
 N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |SK| |M|hardcore|
@@ -218,7 +218,7 @@ N Kill all the Deviate Beasts you see. Loot them for their Hides - It is recomme
 N Kill all the Deviate Beasts you see. Loot them for their Hides - Deviate Hide (20) |QID|1486| |SK| |M|speedrun|
 N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |SK|
 N Kill Mad Magglish. Loot him for the 99-Year-Old Port - He has a long respawn timer. Skip this step if you cannot find him - 99-Year-Old Port (1) - (52.0, 55.2) |QID|959|
-N (51.9, 54.8)
+N Enter the WC Instance portal. Zone in - (51.9, 54.8)
 N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |SK| |M|hardcore|
 N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |SK| |M|hardcore|
 N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |SK| |M|speedrun|
@@ -247,7 +247,7 @@ T Smart Drinks |QID|1491| |N|Talk to Mebok Mizzyrix - Talk to Mebok - (62.4, 37.
 T Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Bigglefuzz - (63.1, 37.6)|
 N Talk to Sputtervalve - Talk to Sputtervalve - Speak with someone in Ratchet about the Glowing Shard - (63.0, 37.2) |QID|6981|
 F Crossroads >> Fly to The Crossroads |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)|
-N (50.5, 34.4) |SK|
+N Travel up the mountain - (50.5, 34.4) |SK|
 A In Nightmares |QID|3369| |N|Talk to Falla Sagewind - Talk to Falla - (48.2, 32.8)|
 A In Nightmares |QID|3369| |N|Talk to Falla Sagewind - Talk to Falla - (48.2, 32.8)|
 T Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru - They are located above the the Wailing Caverns cave entrance - (51.9, 55.4)|
@@ -257,7 +257,7 @@ R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Devrak - Talk to Devrak - (51.
 F Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)|
 T Leaders of the Fang |QID|914| |N|Talk to Nara Wildmane - Talk to Nara - (75.7, 31.6)|
 T In Nightmares |QID|3369| |N|Talk to Arch Druid Hamuul Runetotem - Talk to Hamuul - (78.6, 28.6)|
-N (28.5, 28.9) |SK|
+N Travel to the Spirit Rise and enter the pools of vision - (28.5, 28.9) |SK|
 T Serpentbloom |QID|962| |N|Talk to Apothecary Zamah - Talk to Apothecary Zamah - (23.0, 21.0)|
 h Thunder Bluff |N|Talk to Innkeeper Pala - Talk to Innkeeper Pala - (45.8, 64.7)|
 F Crossroads >>Fly to The Crossroads |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK|
@@ -287,20 +287,20 @@ A Kaya's Alive |QID|6401| |N|Talk to Makaba Flathoof - Talk to Seereth and Makab
 T Kill Grundig Darkcloud |QID|6629| |N|Talk to Makaba Flathoof - Talk to Seereth and Makaba - (35.3, 27.9)| |O|
 A Kaya's Alive |QID|6401| |N|Talk to Makaba Flathoof - Talk to Seereth and Makaba - (35.3, 27.9)| |O|
 A Shredding Machines |QID|1068| |N|Talk to Seereth Stonebreak - Talk to Seereth - (35.3, 27.9)| |O|
-N (82.6, 98.6) |SK|
+N Follow the path on the left upward - (82.6, 98.6) |SK|
 A Jin'Zils Forest Magic |QID|1058| |N|Talk to Witch Doctor Jin'Zil - Talk to Jin'Zil - (74.5, 97.9)|
 A Jin'Zils Forest Magic |QID|1058| |N|Talk to Witch Doctor Jin'Zil - Talk to Jin'Zil - (74.5, 97.9)|
 A Ken'zigla's Draught |QID|1511| |N|Talk to Ken'zigla - Talk to Ken'zigla - (73.2, 95.1)| |C|Warlock|
 T Blood Feeders |QID|6461| |N|Talk to Xen'Zilla - Talk to Xen'Zilla - (71.2, 95.0)|
-N (74.7, 98.1)
-N (54.2, 27.0) |SK|
+N Jump onto one of the cages. Perform a Logout Skip by logging out and back in - (74.7, 98.1)
+N Take the lift up to Thunder Bluff - (54.2, 27.0) |SK|
 A Arachnophobia |QID|6284| |N|Click the Wanted Poster - (59.1, 75.7)| |C|Hunter|
 N Kill Besseleth. Loot her for for her Fang - Clear the area around Besseleth. Be careful as she webs you - This quest is optional. If you can't do it, skip this quest - Collect Besseleth's Fang (x1) - (54.8, 72.0) |QID|6284| |C|Hunter|
 T Arachnophobia |QID|6284| |N|Talk to Maggran Earthbinder - Talk to Maggran - (47.2, 61.2)|
 T Kaya's Alive |QID|6401| |N|Talk to Tammra Windfield - Talk to Tammra - (47.5, 58.4)|
 N Talk to Innkeeper Jayka - Talk to Innkeeper Jayka - Do NOT set your [Hearthstone] - Vendor Trash - (47.5, 62.1)
 N Talk to Jeeda - Talk to Jeeda on the second floor of the inn - (47.5, 62.4)
-N (49.4, 61.7) |SK|
+N Run up the path to the right - (49.4, 61.7) |SK|
 A Elemental War |QID|6393| |N|Talk to Tsunaman - Talk to Tsunaman - (47.4, 64.2)|
 T Further Instructions |QID|1095| |N|Talk to Ziz Fizziks - Talk to Ziz - (59.0, 62.6)|
 N Kill XT:9. It patrols the southern side of the river - Skip this step if you can't find it - XT:9 (1) - (61.0, 52.3) |QID|1068|
@@ -309,13 +309,13 @@ N (73.8, 59.5) |SK|
 A Gerenzo's Orders |QID|1090| |N|Talk to Piznik - Talk to Piznik - This quest takes 5 minutes, and will spawn 3 waves of Kobolds at set times: - First wave at 15 seconds (3 Kobolds), Second wave at 2 minutes 15 seconds (4 Kobolds, 2 casters 2 melee), and the Third wave at 3 minutes 20 seconds (4 Kobolds). The objective completes at 5 minutes - (71.9, 60.0)|
 N Protect Piznik from incoming Windshear Vermin - First wave at 15 seconds (3 Kobolds), Second wave at 2 minutes 15 seconds (4 Kobolds, 2 casters 2 melee), and the Third wave at 3 minutes 20 seconds (4 Kobolds). The objective completes at 5 minutes - Keep Piznik safe while he mines the mysterious ore - (71.8, 60.2) |QID|1090|
 A Gerenzo's Orders |QID|1092| |N|Talk to Piznik - Talk to Piznik - (71.9, 60.0)|
-N (71.8, 60.3)
+N Jump onto the wooden wheel. Perform a Logout Skip by logging out and back in - (71.8, 60.3)
 T Gerenzo's Orders |QID|1092| |N|Talk to Ziz Fizziks - Talk to Ziz - (59.0, 62.6)|
 N Kill XT:9. It patrols the southern side of the river - Skip this step if you can't find it - XT:9 (1) - (61.0, 52.3) |QID|1068|
 N Kill XT:4. It patrols the northern side of the river - Skip this step if you can't find it - XT:4 (1) - (67.2, 46.9) |QID|1068|
-N (78.3, 42.5) |SK|
-N (78.9, 41.2)
-N Make sure to avoid Astranaar guards en route. Follow the waypoint for safety - (34.1, 53.6) |SK|
+N Enter the Talondeep Path - (78.3, 42.5) |SK|
+N Jump onto the white stone on your right. Perform a Logout Skip by logging out and back in - (78.9, 41.2)
+N Travel toward the Zoram'gar Outpost - Make sure to avoid Astranaar guards en route. Follow the waypoint for safety - (34.1, 53.6) |SK|
 G Grind to level 21 |N|(10.9, 27.0)| |O|
 f Zoram'gar Outpost >> Get the Zoram'gar Outpost flight path |N|Talk to Andruk - Talk to Andruk - (12.2, 33.8)|
 A Naga at the Zoram Strand |QID|6442| |N|Talk to Marukai - Talk to Je'neu, Karang, Mitsuwa and Marukai - (11.6, 34.3)|
@@ -327,7 +327,7 @@ G Grind to 21450+/25200 xp |N|(10.9, 27.0)|
 T Naga at the Zoram Strand |QID|6442| |N|Talk to Marukai - Talk to Warsong Runner and Marukai - (12.2, 34.2)|
 A Allegiance to the Old Gods |QID|6565| |N|Talk to Je'neu Sancrea - Talk to Je'neu Sancrea - (11.6, 34.3)| |C|Priest|
 A Amongst The Ruins |QID|6921| |N|Talk to Je'neu Sancrea - Talk to Je'neu Sancrea - (11.6, 34.3)| |C|Priest|
-N (43.9, 35.2) |C|Priest|
+N Travel to the entrance of Blackfathom Deeps - (43.9, 35.2) |C|Priest|
 N Loot Sapphire of Aku'Mai from the wall - Sapphire of Aku'Mai (20) |QID|6563| |SK| |C|Priest|
 U Allegiance to the Old Gods |QID|6564| |N|Kill Blackfathom Tide Priestess - Kill Blackfathom Tide Priestesses. Loot them for a [Damp Note] and use it to start the quest - Collect Damp Note (1) - (43.9, 34.9)| |U|16790| |C|Priest|
 N Loot Sapphire of Aku'Mai from the wall - Sapphire of Aku'Mai (20) - (44.3, 35.1) |QID|6563| |C|Priest|
@@ -350,7 +350,7 @@ A Between a Rock and a Thistlefur |QID|216| |N|Talk to Karang Amakkar - Talk to 
 R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Tharm - Talk to Tharm - (45.1, 59.9)| |SK|
 R Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Andruk - Talk to Andruk - (12.2, 33.8)| |SK|
 R Hearthstone |U|6948| |SK|
-N (69.9, 30.9) |SK|
+N Travel to the Elder Rise - (69.9, 30.9) |SK|
 A Forsaken Aid |QID|1064| |N|Talk to Magatha Grimtotem - Talk to Magatha - Wait for the RP to finish - (69.9, 30.9)|
 A Journey to Tarren Mill |QID|1065| |N|Talk to Apothecary Zamah - Talk to Zamah - (22.8, 20.9)|
 R Camp Taurajo >>Fly to Camp Taurajo |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |C|Warlock|
@@ -378,8 +378,8 @@ t Train [Teleport: Orgrimmar] |N|Talk to Thuul - Talk to Thuul at the top of the
 t Train your class spells |QID|5642| |N|Talk to Ur'kyo - Talk to Ur'kyo - (35.6, 87.8)| |C|Priest| |R|Troll|
 t Train your class spells |N|Talk to Ur'kyo - Talk to Ur'kyo - (35.6, 87.8)| |C|Priest| |R|Undead|
 t Train your class spells |N|Talk to Ur'kyo - Talk to Ur'kyo - (35.6, 87.8)| |O| |C|Priest| |R|Undead|
-N (26.2, 61.6) |SK| |C|Rogue/Druid|
-N (57.6, 7.5) |SK| |C|Rogue/Druid|
+N Enter The Barrens through the Western Exit - (26.2, 61.6) |SK| |C|Rogue/Druid|
+N Travel toward the Sludge Ven - (57.6, 7.5) |SK| |C|Rogue/Druid|
 N Loot the Strange Lockbox in the water for the [Half Pendant of Aquatic Agility] - Half Pendant of Aquatic Agility (1) - (56.7, 8.3) |C|Druid|
 N Talk to Taskmaster Fizzule - Target Taskmaster Fizzule, then use your [Flare Gun] TWICE and type /Salute - Be careful! Do NOT approach him until he becomes friendly or he will attack you! - (55.7, 5.9) |U|8051| |SK| |C|Rogue|
 A Mission: Possible But Not Probable |QID|2478| |N|Talk to Taskmaster Fizzule - Talk to Taskmaster Fizzule - (55.4, 5.6)| |C|Rogue|
@@ -388,8 +388,8 @@ N Each mob here will take increased damage to certain abilities - Use [Ambush] o
 N Run into the Rogue Tower and kill Drones, Patrollers and Lookouts - Mutated Venture Co. Drone (2) - Venture Co. Patroller (2) - Venture Co. Lookout (2) - (54.7, 5.7) |QID|2478| |C|Rogue|
 N At the top of the tower you'll find Gallywix. Loot him for his Head - Use [Ambush] to reduce his HP to half. Use [Gouge] to restore energy and use [Evasion] - Remember to use a Potion and [Thistle Tea] if needed - Gallywix's Head (1) - (54.8, 5.6) |QID|2478| |C|Rogue|
 N Use your lock picking to open Gallywix's Lockbox & loot the Mixture - Cache of Zanzil's Altered Mixture (1) - (54.8, 5.6) |QID|2478| |C|Rogue|
-N (61.3, 4.2) |SK| |C|Druid| |M|hardcore|
-N (60.5, 3.8) |C|Druid| |M|hardcore|
+N Travel toward the Boulder Lode Mine - (61.3, 4.2) |SK| |C|Druid| |M|hardcore|
+N Jump onto the wooden beam. Perform a Logout Skip by logging out and back in. Run back to Orgrimmar if you don't succeed - (60.5, 3.8) |C|Druid| |M|hardcore|
 D Die and respawn |SK| |C|Rogue/Druid| |M|speedrun|
 R Orgrimmar >> Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |C|Rogue/Druid| |M|speedrun|
 R Enter Orgrimmar through the western entrance |N|(56.8, 45.5)| |SK| |C|Rogue/Druid| |M|hardcore|

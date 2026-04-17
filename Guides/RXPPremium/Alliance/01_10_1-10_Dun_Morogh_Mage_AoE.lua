@@ -36,11 +36,11 @@ N Enter the Troll cave. Kill Grik'nir, then loot him for Grelin's journal - Coll
 A Senir's Observations |QID|282| |N|Talk to Grelin Whitebeard - Grind a bit back to here - Talk to Grelin Whitebeard - (25.1, 75.8)|
 A Senir's Observations |QID|420| |N|Talk to Mountaineer Thalos - Grind some mobs up to here - Talk to Mountaineer Thalos - (33.5, 71.8)|
 A Supplies to Tannok |QID|2160| |N|Talk to Hands Springsprocket - Talk to Hands Springsprocket - (33.9, 72.2)|
-N (34.1, 71.6)
+N Go through the tunnel - (34.1, 71.6)
 N Kill boars to get 4 Boar Meat for later - Collect Chunk of Boar Meat (x4) |QID|317| |SK|
 N Kill boars to get 6 Boar Ribs for later - Collect Crag Boar Rib (x6) |SK|
 G Grind to 2415/+2800xp |N|grind boars north-east to Kharanos - (36.4, 62.9)|
-N (47.0, 55.1) |M|speedrun|
+N Die and respawn at the Spirit Healer, or run to Kharanos. Make sure your subzone is NOT Coldridge Pass - (47.0, 55.1) |M|speedrun|
 T Senir's Observations |QID|420| |N|Talk to Senir Whitebeard - Talk to Senir Whitebeard - (46.7, 53.8)|
 N vendor trash - (46.7, 53.5) |SK|
 A Beer Basted Boar Ribs |QID|384| |N|Talk to Ragnar Thunderbrew - Talk to Ragnar Thunderbrew - (46.8, 52.4)|
@@ -80,7 +80,7 @@ A Frostmane Hold |QID|287| |N|Talk to Senir Whitebeard - Talk to Senir Whitebear
 T The Grizzled Den |QID|313| |N|Talk to Pilot Stonegear - Talk to Pilot Stonegear - (49.6, 48.6)|
 T Return to Bellowfiz |QID|320| |N|Talk to Pilot Bellowfiz - Talk to Pilot Bellowfiz - (49.4, 48.4)|
 A Operation Recombobulation |QID|412| |N|Talk to Razzle Sprysprocket - Inside the building - Talk to Razzle Sprysprocket - (45.8, 49.4)|
-N (43.1, 45.0)
+N Run up the ramp to Shimmerweed - (43.1, 45.0)
 N Clear mobs in this area. Be careful if you need to clear the middle camp. You can pull the mobs in the huts and line of sight (LoS) them behind the huts if you need 2 more mobs. If you get unlucky, run to the other area - Loot boxes on the ground - Collect Shimmerweed (x6) - (40.9, 45.3) |QID|315|
 N Polymorph Old Icebeard, then loot the meats - Collect MacGrann's Dried Meats (x1) - (38.5, 53.9) |QID|312|
 T Tundra MacGrann's Stolen Stash |QID|312| |N|Talk to Tundra MacGrann - Talk to Tundra MacGrann - (34.6, 51.7)|
@@ -89,17 +89,17 @@ A Shimmer Stout |QID|413| |N|Talk to Rejold Barleybrew - Talk to Rejold Barleybr
 T Return to Marleth |QID|311| |N|Talk to Marleth Barleybrew - Talk to Marleth Barleybrew - (30.2, 45.5)|
 N Kill Leper Gnomes. Loot them for Gears and Cogs - Collect Gyromechanic Gear (x8) - Collect Restabilization Cog (x8) - (27.2, 43.0) |QID|412|
 G Grind to 9
-N (24.5, 50.8)
+N Enter the cave - (24.5, 50.8)
 N Kill Headhunters inside the cave - Kill Frostmane Headhunter (x5) - (22.1, 50.3) |QID|287|
 N Carefully grind down into this nook in the cave - Fully explore Frostmane Hold - (23.0, 52.2) |QID|287| |M|hardcore|
-N (23.4, 51.5) |M|speedrun|
+N Go back up the cave - (23.4, 51.5) |M|speedrun|
 N Jump down, you die after - Fully explore Frostmane Hold - (23.0, 52.2) |QID|287| |M|speedrun|
 D Die and respawn |M|speedrun|
-N (46.7, 53.8) |M|hardcore|
+N Hearth if its up, otherwise grind back to Kharanos - (46.7, 53.8) |M|hardcore|
 A The Reports |QID|291| |N|Talk to Senir Whitebeard - Talk to Senir Whitebeard - (46.7, 53.8)|
 T Operation Recombobulation |QID|412| |N|Talk to Razzle Sprysprocket - Talk to Razzle Sprysprocket - (45.8, 49.4)|
 A Protecting the Herd |QID|314| |N|Talk to Rudra Amberstill - Talk to Rudra Amberstill - (60.1, 52.6)|
-N (62.3, 50.3) |SK|
+N Run up this part of the mountain - (62.3, 50.3) |SK|
 N Kill Vagash. Loot him for his Fang - Kite him to the guard south of the ranch. Make sure you do 51%+ damage to him - Be careful as this quest can be difficult - Collect Fang of Vagash (1) - (62.6, 46.1) |QID|314|
 T Protecting the Herd |QID|314| |N|Talk to Rudra Amberstill - Talk to Rudra Amberstill - (63.1, 49.8)|
 N Grind a little en route - vendor trash. Buy some food/water if needed - (68.6, 54.7)

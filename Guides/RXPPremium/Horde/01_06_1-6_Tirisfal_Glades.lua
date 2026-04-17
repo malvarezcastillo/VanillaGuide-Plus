@@ -8,10 +8,10 @@ return [[
 N 1-6 Tirisfal Glades |N|Converted from RestedXP guide|
 
 N You have selected a guide meant for Undead. It is recommended you choose the same starter zone that you start in |SK| |R|!Undead|
-N (30.0, 72.8) |SK|
+N Run up out of the crypt toward Mordo - (30.0, 72.8) |SK|
 A Rude Awakening |QID|363| |N|Talk to Undertaker Mordo - Talk to Mordo - (30.2, 71.7)|
 N Kill Duskbat - (29.9, 70.3) |SK| |C|Warrior/Warlock/Priest/Mage|
-N (32.2, 65.6) |SK| |C|Warrior/Priest/Mage|
+N Go inside the building - (32.2, 65.6) |SK| |C|Warrior/Priest/Mage|
 N Talk to Joshua Kien - Talk to Joshua - Buy [Refreshing Spring Water] from him - Vendor Trash - Collect Refreshing Spring Water (10) - (32.3, 65.4) |C|Priest/Mage|
 A The Mindless Ones |QID|364| |N|Talk to Shadow Priest Sarvis - (30.8, 66.2)| |SK| |C|Warlock/Mage|
 A The Damned |QID|376| |N|Talk to Novice Elreth - Talk to Elreth - (31.4, 66.2)| |C|Warlock/Mage|
@@ -55,12 +55,12 @@ T Encrypted Scroll |QID|3096| |N|Talk to David Trias - Talk to David - (32.5, 65
 N Open the Equipment Boxes on the ground. Loot them for the Scavenged Goods - Collect Scavenged Goods (x6) - (32.4, 64.4) |QID|3902|
 N Kill Young Night Web Spiders - (29.9, 57.3) |QID|380|
 N Kill Young Night Web Spiders close to the cave entrance - Kill Young Night Web Spider (10) - (28.2, 58.3) |QID|380|
-N (26.8, 59.4) |SK|
+N Go inside the cave - (26.8, 59.4) |SK|
 N Kill Night Web Spiders inside the cave - Kill Night Web Spider (x8) - (24.7, 59.5) |QID|380|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 N Cast Cast [Summon Imp] |SK| |C|Warlock| |M|speedrun|
-N Alternatively, run back to Deathknell - (31.1, 64.9) |SK| |M|hardcore|
+N Perform a Logout Skip inside the cave by jumping on top of a shredder, well, or the wooden plank stuck in the wall, then log out and back in - Alternatively, run back to Deathknell - (31.1, 64.9) |SK| |M|hardcore|
 T Scavenging Deathknell |QID|3902| |N|Talk to Deathguard Saltain - Talk to Saltain - (31.6, 65.6)|
 A The Scarlet Crusade |QID|381| |N|Talk to Executor Arren - Talk to Arren - (32.1, 66.0)|
 N Talk to Archibald Kava - Talk to Archibald - Vendor Trash - (32.4, 65.7) |C|Rogue/Warrior|

@@ -16,7 +16,7 @@ C Channel the [Triage Bandage] on the Alliance Soldiers. Prioritize Critically I
 T Triage |QID|6624| |N|Talk to Doctor Gustaf VanHowzen - Talk to Doctor Gustaf VanHowzen - (67.8, 49.0)|
 T ... and Bugs |QID|1258| |N|Talk to Morgan Stern - Talk to Morgan Stern - (66.3, 45.5)|
 h Dustwallow Marsh |N|Talk to Innkeeper Janene - Talk to Innkeeper Janene - (66.6, 45.2)|
-N (55.0, 50.7) |SK|
+N Swim to the hill west - (55.0, 50.7) |SK|
 N Open the Gizmorium Shipping Crate. Loot it for the Seaforium Booster - (54.1, 56.5) |QID|1187|
 A Cortello's Riddle |QID|626| |N|Click the Musty Scroll on the rock - (31.1, 66.1)|
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|

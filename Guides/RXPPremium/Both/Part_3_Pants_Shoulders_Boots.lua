@@ -24,17 +24,17 @@ N Collect the following items: - [Dark Iron Bars] are created by miners - [Encha
 A Anthion's Old Friend |QID|8948| |N|Talk to Anthion Harmon - Talk to Anthion outside Stratholme - (55.1, 17.5)| |U|22115|
 R Travel to Feralas |N|This next section takes place in Dire Maul. It is possible to solo but grouping up is strongly recommended| |SK| |M|speedrun|
 R Travel to Feralas |N|This next section takes place in Dire Maul. Make sure you have a group ready of at least 3 players| |SK| |M|hardcore|
-N Alternatively ask another player to open the doors for you - (43.4, 66.5) |SK|
-N (43.4, 66.5) |SK|
+N Enter the Northern entrance of Dire Maul - Alternatively ask another player to open the doors for you - (43.4, 66.5) |SK|
+N Enter the Northern entrance of Dire Maul - (43.4, 66.5) |SK|
 A Falrin's Vendetta |QID|8949| |N|Talk to Falrin Treeshaper - Talk to Falrin Treeshaper in the Dire Maul library|
 N Kill Gordok Ogres in Dire Maul North. Loot them for their Warbeads - Alternatively you can kill Spirestone Ogres in Lower Blackrock Spire - Ogre Warbeads (x25) |QID|8949|
 A The Instigator's Enchantment |QID|8950| |N|Talk to Falrin Treeshaper - Talk to Falrin Treeshaper in the Dire Maul library|
-N Alternatively ask another player to open the door for you - (43.0, 67.7) |SK|
-N (43.0, 67.7) |SK|
+N Enter the Western instance of Dire Maul - Alternatively ask another player to open the door for you - (43.0, 67.7) |SK|
+N Enter the Western entrance of Dire Maul - (43.0, 67.7) |SK|
 N Kill Eldreth Ghosts in Dire Maul West. Loot them for Jeering Spectre's Essence - Jeering Spectre's Essence (x1) |QID|8950|
 N Collect the following items: - [Large Brilliant Shards] are created by enchanters - [Dark Runes] are random drops in Scholomance - Buy them from the Auction House if possible - Large Brilliant Shard (x8) - Dark Rune (x4)
-N Alternatively ask another player to open the doors for you - (43.4, 66.5) |SK|
-N (43.4, 66.5) |SK|
+N Enter the Northern entrance of Dire Maul - Alternatively ask another player to open the doors for you - (43.4, 66.5) |SK|
+N Enter the Northern entrance of Dire Maul - (43.4, 66.5) |SK|
 A The Challenge |QID|9015| |N|Talk to Falrin Treeshaper - Talk to Falrin Treeshaper in the Dire Maul library|
 N Make sure you have a group ready - (48.1, 62.4) |SK|
 C Enter the Ring of Law arena and use the [Banner of Provocation] |QID|9015| |N|This will summon Theldren. Kill him and loot him for the Top Piece of Lord Valthalak's Amulet - This fight is hard. Theldren will spawn with multiple level 60 elite adds. Make sure your group has enough crowd control for them - Theldren's Team Defeated - Top Piece of Lord Valthalak's Amulet (x1)| |U|21986|

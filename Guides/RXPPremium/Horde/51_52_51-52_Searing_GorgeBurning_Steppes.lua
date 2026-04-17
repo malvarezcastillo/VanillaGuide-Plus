@@ -11,11 +11,11 @@ R Badlands >>Fly to Badlands |N|Talk to Breyk - Talk to Breyk - (46.1, 54.7)|
 R Badlands >>Fly to Badlands |N|Talk to Gringer - talk to Gringer - (26.9, 77.1)| |O|
 R Badlands >>Fly to Badlands |N|Talk to Gringer - If you have the Badlands flight path, talk to Gringer and fly there instead of taking the transporter| |SK|
 T Gnomer-gooooone! |QID|2843| |N|Talk to Scooty - Talk to Scooty - (27.7, 77.4)|
-N (27.6, 77.5) |SK|
-N (43.3, 53.5)
+N Step onto the transporter - (27.6, 77.5) |SK|
+N Exit Gnomeregan - (43.3, 53.5)
 N Travel to the waypoint arrow in Eastern Dun Morogh. Then use Blizzards character unstuck website (fast and more advanced) - Alternatively, travel through Loch Modan into Badlands - If you prefer the website method then start loading the website already. It usually takes a couple minutes to load. DO NOT SELECT TO MOVE YOUR CHARACTER YET - Click here to complete this step after deciding which path you will take - (77.4, 61.8)
 R Run to the Badlands |N|Use the shortcut to get to Badlands faster - (25.3, 67.3)| |SK|
-N (77.9, 62.3) |SK|
+N Enter the building in eastern Dun Morogh - (77.9, 62.3) |SK|
 R Jump on top of the lantern and log out |N|(78.0, 62.7)|
 A Dreadmaul Rock |QID|3821| |N|Talk to Thal'trak Proudtusk - Talk to Thal'trak - You may have to wait for Thal'trak to finish his RP. Just follow him - (3.4, 48.1)|
 N If you don't have 15 Silk Cloth, collect it from Shadowforge dwarves in Angor Fortress or the Hammertoe Dig Site - You will need the cloth for an upcoming quest. Badlands mobs have a substantially higher drop rate than Searing Gorge mobs - Collect item 4306 (x15) |SK|
@@ -38,15 +38,15 @@ N Kill Greater Lava Spiders along the western/southwestern mountains - (33.0, 39
 N Kill Heavy War Golems - (43.6, 40.8) |QID|7723| |SK|
 N Finish killing War Golems and Elementals. Loot them for their Heart of Flame and Golem Oil - Kill any Magma Elementals that you see. They can drop both quest items - (44.0, 38.2) |QID|3442|
 A Forging the Shaft |QID|3443| |N|Talk to Velarok Windblade - Talk to Velarok - (39.0, 39.0)|
-N (47.5, 46.9) |SK|
+N Jump down to the platform, and go inside the cave - (47.5, 46.9) |SK|
 N Descend to the cave's lower level, then kill Incendosaurs - (51.5, 36.5) |QID|7727|
-N (48.4, 41.1) |SK|
+N Exit the cave, then follow the platform up and re-enter the cave on its higher level - (48.4, 41.1) |SK|
 N Kill Dark Iron Taskmasters and Dark Iron Slavers |QID|7729| |SK|
 N Exit the cave again and re-enter through its right side - Kill Overseer Maltorius. Loot him for his Head and loot the Secret Plans: Fiery Flux - This is a challenging fight. Make a path for kiting or escape by clearing the entire room before getting the plans - (40.5, 35.8) |QID|7701|
 N Exit the cave again and re-enter through its right side. Clear the entire room before looting the Secret Plans: Fiery Flux to make an escape path - (40.5, 35.8) |QID|7722| |C|!Shaman/!Druid|
 N Kill all Dark Iron Dwarves and Slave Workers. Loot them for their Daggers - (46.4, 53.9) |QID|3443|
 N Kill Dark Iron Kidnapper - Keep killing Dark Iron Dwarves until you loot the [Grimesilt Outhouse Key] - Do not accept the quest yet! This may cause questlog issues - Collect item 11818 (x1) - (46.4, 53.9)
-N (35.5, 23.5) |SK|
+N Logout skip out of the cave. There are MANY different spots you can use - (35.5, 23.5) |SK|
 A The Flame's Casing |QID|3452| |N|Talk to Velarok Windblade - Talk to Velarok - (39.0, 39.0)|
 N Kill Twilight mobs. Loot them for the Symbol of Ragnaros - Be careful as this quest can be VERY hard. Be aware that the Dark Shamans have a 2000 health heal, and 500 damage instant shock spell. Group up for this quest if needed - (26.6, 35.0) |QID|3452| |M|speedrun|
 N Kill Twilight mobs. Loot them for the Symbol of Ragnaros - Be careful as this quest can be VERY hard. Be aware that the Dark Shamans have a 2000 health heal, and 500 damage instant shock spell. - (26.6, 35.0) |QID|3452| |M|hardcore|

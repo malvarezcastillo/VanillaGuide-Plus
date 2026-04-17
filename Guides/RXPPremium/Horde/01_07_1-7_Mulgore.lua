@@ -41,18 +41,18 @@ t Train [Moonfire] |QID|3094| |N|Talk to Gart Mistrunner - Talk to Gart - (45.1,
 A Call of Earth |QID|1519| |N|Talk to Seer Ravenfeather - Talk to Ravenfeather - (44.7, 76.2)| |C|Shaman|
 t Train [Earth Shock] |QID|3093| |N|Talk to Meela Dawnstrider - Talk to Meela - (45.0, 76.0)| |C|Shaman|
 N Kill Battleboars. Loot them for their Flanks and Snouts - Battleboar Flank (8) - Battleboar Snout (8) - (56.0, 85.5) |QID|780|
-N (59.7, 83.3) |SK|
+N Travel through the cave - (59.7, 83.3) |SK|
 N Kill Bristleback Quilboars. Loot them for their Belts - Bristleback Belt (12) |QID|757| |SK|
 N Kill Bristleback Shamans. Loot them for their Salves - Ritual Salve (2) |QID|1519| |SK| |C|Shaman|
 N Kill Chief Sharptusk Thornmantle inside the big hut. Loot him for his Head - Chief Sharptusk Thornmantle's Head (1) - (60.5, 81.0) |QID|3376|
-N (63.2, 82.7) |SK|
+N Enter the Cave - (63.2, 82.7) |SK|
 U Attack on Camp Narache |QID|781| |N|Loot the [Dirt-stained Map] on the ground. Use it to start the quest - Collect Dirt-Stained Map - (63.2, 82.7)| |U|4851|
 N Kill Bristleback Shamans. Loot them for their Salves - Ritual Salve (2) |QID|1519| |SK| |C|Shaman|
 N Kill Bristleback Quilboars. Loot them for their Belts - Bristleback Belt (12) - (63.9, 78.3) |QID|757|
 N Kill Bristleback Shamans. Loot them for their Salves - Ritual Salve (2) - (63.9, 80.1) |QID|1519| |C|Shaman|
 U Hearthstone |U|6948| |SK|
 A Rites of the Earthmother |QID|763| |N|Talk to Chief Hawkwind - (44.9, 77.1)|
-N (53.7, 80.2) |SK| |C|Shaman|
+N Travel toward the rock - (53.7, 80.2) |SK| |C|Shaman|
 N Cast Use the [Earth Sapta] |U|6635| |SK| |C|Shaman|
 A Call of Earth |QID|1521| |N|Talk to Minor Manifestation of Earth - Talk to the Manifestation - (53.7, 80.2)| |C|Shaman|
 T Call of Earth |QID|1521| |N|Talk to Seer Ravenfeather - Talk to Ravenfeather - (44.7, 76.2)| |C|Shaman|

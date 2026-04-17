@@ -7,10 +7,10 @@ return [[
 
 N 38-39 Alterac/Arathi |N|Converted from RestedXP guide|
 
-N (47.2, 59.7) |SK|
+N Travel toward Zinge - (47.2, 59.7) |SK|
 A Errand for Apothecary Zinge |QID|232| |N|Talk to Apothecary Zinge - Talk to Zinge - (50.1, 68.0)|
 A Errand for Apothecary Zinge |QID|238| |N|Talk to Alessandro Luca - Talk to Alessandro - (58.6, 54.7)|
-N (47.2, 59.7) |SK|
+N Return to Zinge - (47.2, 59.7) |SK|
 A Into the Field |QID|243| |N|Talk to Apothecary Zinge - Talk to Zinge - (50.1, 68.0)|
 T Bring the End |QID|3341| |N|Talk to Andrew Brownell - Talk to Andrew - (74.0, 33.3)|
 N Talk to Abigail Sawyer - Talk to Abigail - Buy a [Massive Longbow] from her if it's available - (54.7, 38.8) |C|Hunter|
@@ -75,7 +75,7 @@ A Guile of the Raptor |QID|701| |N|Talk to Tor'gan - Talk to Tor'gan - (74.7, 36
 A The Princess Trapped |QID|642| |N|Click the Shards of Myzrael - (62.5, 33.8)|
 N Kill Drywhisker Kobolds, Diggers and Surveyors. Loot them for their Motes of Myzrael - (84.3, 30.9) |QID|642|
 A Stones of Binding |QID|651| |N|Click the Iridescent Shards towards the back of the cave - (84.3, 30.9)|
-N (83.9, 28.5)
+N Jump onto a node or run to the back of the cave. Perform a Logout Skip by logging out and back in. You'll have to do a jump as you logout - (83.9, 28.5)
 N Loot the Stone of East Binding for the Cresting Key - Cresting Exiles have Frost Armor and Frost Nova - (66.7, 29.8) |QID|651|
 N Loot the Stone of Outer Binding for the Thundering Key - Thundering Exiles have powerful burst damage - (52.0, 50.8) |QID|651|
 N Kill Burning Exile - Loot the Stone of West Binding for the Burning Key - If you find yourself in danger, use a [Cresting Charm] on Burning Exiles - (25.5, 30.1) |QID|651| |U|4481|
@@ -87,13 +87,13 @@ N Use [Eagle Eye] to find Fozruk - Make sure to kill Sleeby and the rest of the 
 N Find and kill Fozruk. Loot him for his Rod of Order. Don't go out of your way to finish this step, he patrols the whole zone - (67.3, 31.1) |QID|652| |C|!Hunter|
 T Breaking the Keystone |QID|652| |N|Click the Keystone - If you are in a group, hand in this quest while with your party! Thenan (level 42 Elite) will spawn. You can either kill him or run away and reset him if you're solo - (36.1, 58.1)|
 A Myzrael's Allies |QID|688| |N|Click the Keystone - (36.1, 58.1)|
-N (36.0, 79.2)
+N Jump onto the mushroom in the back of the cave. Perform a Logout Skip by logging out and back in - (36.0, 79.2)
 N Kill Highland Fleshstalkers. Loot them for their Hearts |QID|701| |SK|
 N Kill Boulderfist Brutes and Boulderfist Magi - Be careful of the Magi's Frost Armor and Frost Nova - Be **EXTREMELY CAUTIOUS** of the rare spawn "Molok the Crusher" which is a non-elite that hits for 250-450 - (53.8, 74.6) |QID|678|
 N Kill Highland Fleshstalkers. Loot them for their Hearts - (49.7, 68.7) |QID|701|
 T Breaking the Keystone |QID|652| |N|Click the Keystone - If you are in a group, hand in this quest while with your party! Thenan, a level 42 Elite will spawn. You can either kill him or run away and reset him if you're solo - (36.1, 58.1)|
 A Myzrael's Allies |QID|688| |N|Click the Keystone - (36.1, 58.1)|
-N (73.5, 33.2) |SK|
+N Return to Hammerfall - (73.5, 33.2) |SK|
 A Foul Magics |QID|673| |N|Talk to Tor'gan - Talk to Tor'gan - (74.7, 36.4)|
 A Guile of the Raptor |QID|702| |N|Talk to Tor'gan - (74.7, 36.4)|
 T Myzrael's Allies |QID|688| |N|Talk to Zaruk - Talk to Zaruk - (74.4, 35.6)|
@@ -115,13 +115,13 @@ N Kill Syndicate. Loot them for the Sigil of Strom - It has a very low drop rate
 N Kill Marez Cowl. Loot her for her Orb - She has two spawn locations in the eastern side of the keep - (29.4, 64.4) |QID|673|
 N Kill Syndicate. Loot them for the Sigil of Strom - It has a very low drop rate. Be careful of respawns. Be careful of Syndicate Prowlers, who can net and disarm - (25.7, 62.6) |QID|639|
 D Die and respawn |SK| |M|speedrun|
-N (73.5, 33.2) |SK|
+N Return to Hammerfall - (73.5, 33.2) |SK|
 T Foul Magics |QID|673| |N|Talk to Tor'gan - Talk to Tor'gan - (74.7, 36.4)|
 T Call to Arms |QID|679| |N|Talk to Drum Fel - Talk to Drum Fel - (74.2, 33.9)|
 T The Real Threat |QID|680| |N|Talk to Korin Fel - Talk to Korin Fel - (74.0, 33.2)|
 T Sigil of Strom |QID|639| |N|Talk to Zengu - Talk to Zengu - (73.8, 33.9)|
 A Theldurin the Lost |QID|687| |N|Talk to Zaruk - Talk to Zaruk - (74.4, 35.6)| |O|
-N (21.6, 75.6) |SK|
+N Run through the cave to Faldir's Cove - (21.6, 75.6) |SK|
 A Land Ho! |QID|663| |N|Talk to Lolo the Lookout - Talk to Lolo - (31.8, 82.7)|
 T Land Ho! |QID|663| |N|Talk to Shakes O'Breen - Talk to Shakes O'Breen - (32.3, 81.4)|
 A Deep Sea Salvage |QID|662| |N|Talk to First Mate Nilzlix - Talk to Nilzlix - (32.8, 81.5)|

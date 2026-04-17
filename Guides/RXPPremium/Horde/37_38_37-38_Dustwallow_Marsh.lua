@@ -53,7 +53,7 @@ T The Theramore Docks |QID|1202| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - 
 A The Troll Witchdoctor |QID|1240| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)| |M|speedrun|
 A The Troll Witchdoctor |QID|1240| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)| |M|hardcore|
 R Camp Taurajo >>Fly to Camp Taurajo |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK|
-N (46.3, 90.3) |SK|
+N Travel to Razorfen Downs - (46.3, 90.3) |SK|
 A An Unholy Alliance |QID|6521| |N|Talk to Varimathras - Have somebody in your group share the following quests if possible. Alternatively, go to Undercity to pick them up yourself| |SK|
 A Bring the End |QID|3341| |N|Talk to Andrew Brownell - Have somebody in your group share the following quest if possible. Alternatively, go to Undercity to pick it up yourself| |SK|
 N Kill Ambassador Malcin. Loot him for his Head - He can spawn at 4 different tents outside the instance - (46.3, 90.3) |QID|6521| |SK|
@@ -107,8 +107,8 @@ R Hearthstone |U|6948| |O| |R|Tauren|
 R Orgrimmar >> Fly to Orgrimmar |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |O| |R|Tauren|
 R Leave Orgrimmar |SK| |C|!Mage|
 R Leave Orgrimmar |SK| |C|!Mage|
-R Take the Zeppelin to Undercity |N|(50.8, 13.8)| |C|!Mage|
-R Take the Zeppelin to Undercity |N|(50.8, 13.8)| |C|!Mage|
+R Take the Zeppelin to Undercity |N|Go up the Zeppelin Tower - (50.8, 13.8)| |C|!Mage|
+R Take the Zeppelin to Undercity |N|Go up the Zeppelin Tower - (50.8, 13.8)| |C|!Mage|
 N Cast Cast [Teleport: Undercity] |C|Mage|
 N Cast Cast [Teleport: Undercity] |C|Mage|
 t Train your class spells |N|Talk to Anastasia Hartwell - Talk to Anastasia - (85.1, 10.0)| |C|Mage|
@@ -116,10 +116,10 @@ t Train your class spells |N|Talk to Anastasia Hartwell - Talk to Anastasia - (8
 t Train [Portal: Undercity] |N|Talk to Lexington Mortaim - Talk to Lexington - (84.2, 15.6)| |C|Mage|
 T Bring the End |QID|3341| |N|Talk to Andrew Brownell - Talk to Andrew - (74.0, 33.3)| |C|Mage|
 N Talk to Hannah Akeley - Talk to Hannah - Buy two or more [Rune of Teleportation] from him - Collect item 17031 (x2) - (82.8, 15.8) |C|Mage|
-N (51.9, 64.7) |SK|
+N Travel toward Varimathras - (51.9, 64.7) |SK|
 T An Unholy Alliance |QID|6521| |N|Talk to Varimathras - Talk to Varimathras - (56.2, 92.2)| |O|
 A Into The Scarlet Monastery |QID|1048| |N|Talk to Varimathras - Talk to Varimathras - (56.2, 92.2)|
-N (47.2, 59.7) |SK|
+N Travel toward Faranell - (47.2, 59.7) |SK|
 A Hearts of Zeal |QID|1113| |N|Talk to Master Apothecary Faranell - Talk to Faranell - (48.8, 69.3)|
 t Train [Undead Horsemanship] |N|Talk to Zachariah Post - Talk to Velma and Zachariah - Buy a [Skeletal Horse] - (60.1, 52.5)| |O| |C|!Warlock| |R|Undead|
 N (47.4, 19.7)
@@ -128,10 +128,10 @@ N Kill Scarlet mobs. Loot them for their Hearts of Zeal |QID|1113| |SK|
 N Kill Houndmaster Loksey, Herod, High Inquisitor Whitemane and Scarlet Commander Mograine - Houndmaster Loksey is located in the Library - Herod is located in the Armory - High Inquisitor Whitemane and Scarlet Commander Mograine are located in the Cathedral |QID|1048|
 N Loot the Compendium of the Fallen - It's located in a bookshelf on the left in the last corner of the dungeon |QID|1049| |R|!Undead|
 N Cast Cast [Teleport: Undercity] |SK| |C|Mage|
-N (66.1, 9.2) |SK| |C|!Mage|
-N (51.9, 64.7) |SK|
+N Travel to Undercity - (66.1, 9.2) |SK| |C|!Mage|
+N Travel toward Varimathras - (51.9, 64.7) |SK|
 T Into The Scarlet Monastery |QID|1048| |N|Talk to Varimathras - Talk to Varimathras - (56.2, 92.2)|
-N (47.2, 59.7) |SK|
+N Travel toward Faranell - (47.2, 59.7) |SK|
 T Hearts of Zeal |QID|1113| |N|Talk to Master Apothecary Faranell - Talk to Faranell - (48.8, 69.3)|
 
 ]]

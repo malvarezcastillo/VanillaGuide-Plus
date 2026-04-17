@@ -27,7 +27,7 @@ A Buzzbox 411 |QID|1001| |N|(36.7, 46.3)|
 A Washed Ashore |QID|4681| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde - (36.6, 45.6)|
 A For Love Eternal |QID|963| |N|Talk to Cerellean Whiteclaw - Run to the Docks - Talk to Cerellean Whiteclaw - (36.7, 44.1)|
 N Kill darkshore threshers in the sea - Thresher Eye (3) |QID|1001| |SK|
-N (33.7, 42.5) |SK|
+N Run up to the docks then jump in the water at the intersection - (33.7, 42.5) |SK|
 N Click on the sea turtle head underwater - Sea Turtle Remains (1) - (31.9, 46.3) |QID|4681|
 T Washed Ashore |QID|4681| |N|Talk to Gwennyth Bly'Leggonde - Kill Threshers en route back to shore - Talk to Gwennyth Bly'Leggonde - (36.6, 45.6)|
 A Cleansing of the Infected |QID|2138| |N|Talk to Tharnariun Treetender - Talk to Tharnariun Treetender - (38.8, 43.4)|
@@ -82,7 +82,7 @@ N Kill Den Mother. Be careful as her cubs can knock you down for 2 seconds - Gri
 N Loot the Blackwood Nut Sample from the Barrel - Blackwood Nut Sample (1) - (51.8, 33.5)
 N Loot the Blackwood Fruit Sample from the Barrel. A mob will spawn in front of you, and in between the huts of the west - you may have to run - Blackwood Fruit Sample (1) - (52.9, 33.4)
 N Use the Filled Cleansing Bowl in your inventory near the campfire. This will turn all nearby furbolgs friendly. - Kill the Satyr that spawns in between the camps and then runs around the fire. Start at max range as he can be difficult. Loot the basket that drops on the ground after killing him - Talisman of Corruption (1) - (52.4, 33.3) |QID|4763|
-N (55.0, 32.8) |SK|
+N Head to the cave above the waterfall - (55.0, 32.8) |SK|
 N Stay on the upper part of the cave. If theres no Death Cap at the end of the top side, then drop down and get one from below - The first blue one at the mouth of the cave should've respawned by the time you've looted the Death Cap - Scaber Stalk (5) - Death Cap (1) - (55.7, 34.9) |QID|947|
 A The Tower of Althalaxx |QID|966| |N|Talk to Balthule Shadowstrike - Talk to Balthule Shadowstrike - (55.0, 24.9)|
 N Kill Dark Strand Fanatics. Loot them for Parchments - Worn Parchment (4) - (55.4, 26.8) |QID|966|
@@ -144,7 +144,7 @@ T The Absent Minded Prospector |QID|731| |N|Talk to Archaeologist Hollee - Talk 
 A The Absent Minded Prospector |QID|741| |N|Talk to Archaeologist Hollee - Talk to Archaeologist Hollee - (37.4, 41.8)|
 N Run back to the dock. Wait for the boat to Darnassus to arrive - (36.4, 43.8) |SK|
 R Take the boat to Darnassus
-N (56.0, 89.9)
+N Go through the purple portal - (56.0, 89.9)
 A The Absent Minded Prospector |QID|942| |N|Talk to Chief Archaeologist Greywhisker - Talk to Chief Archaeologist Greywhisker - (31.2, 84.5)|
 F Auberdine >> Fly to Auberdine |N|(58.4, 94.0)|
 R Take the boat to Menethil |N|(32.4, 43.8)|
@@ -156,7 +156,7 @@ N Buy a Bronze Tube if you haven't - This is a limited supply item, skip this st
 R Travel to Elwynn Forest |N|(32.5, 50.2)| |R|Human|
 R Travel to Stormwind City |N|(26.3, 38.5)| |R|Gnome|
 f Stormwind City >> Get the Stormwind City flight path |N|Run into Stormwind and get the Flight Path - (57.6, 59.5)| |R|Gnome|
-N (66.0, 65.6) |R|Gnome|
+N Drop down to the small ledge by running into the white wall. Be careful. Run along it toward the exit of Stormwind - (66.0, 65.6) |R|Gnome|
 t Train your class spells |N|Run into the upstairs of the Goldshire Inn - (43.0, 65.7)|
 R Run all the way east to Redridge Mountains. Sort out your keybinds en route, making sure you have your spells comfortably on your bars |N|(91.4, 73.6)|
 

@@ -439,6 +439,11 @@ function TurtleGuide:SmartSkipToStep()
 		end
 	end
 
+	-- If furthestStep landed on a sticky step, advance to the next non-sticky real step.
+	while furthestStep < table.getn(self.actions) and self:GetObjectiveTag("SK", furthestStep) do
+		furthestStep = furthestStep + 1
+	end
+
 	if furthestStep > 1 then
 		self:Debug(string.format(TurtleGuide.Locale["Skipping to step %d (completed content detected)"], furthestStep))
 	end

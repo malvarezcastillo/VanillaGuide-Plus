@@ -35,9 +35,9 @@ A A Matter of Time |QID|4971| |N|Talk to Chromie - Talk to Chromie on the top fl
 C Use your [Beacon Torch] on the outside corner of the tower's doorway |QID|5098| |N|Do not engage the elite inside - (44.2, 63.1)| |U|12815|
 C Spawn the Temporal Parasites by using your [Temporal Displacer] near the glowing silos |QID|4971| |N|Temporal Parasites spam Slow and can spawn more parasites upon death. Be ready to run to the water if they begin overwhelming you; they cannot swim - (45.8, 63.3)| |U|12627|
 C Use your [Beacon Torch] on the outside corner of the tower's doorway |QID|5098| |N|Do not engage the elite inside - (46.7, 71.1)| |U|12815|
-N (65.2, 86.3) |SK|
+N Travel south east along a path into The Hinterlands. Follow the waypoint for directions - (65.2, 86.3) |SK|
 T Jammal'an the Prophet |QID|1446| |N|Talk to Atal'ai Exile - Talk to the Atal'ai Exile - (33.8, 75.2)|
-N (24.7, 44.7) |SK|
+N Return to the Western Plaguelands - (24.7, 44.7) |SK|
 A Target: Writhing Haunt |QID|5233| |N|Talk to Shadow Priestess Vandis - Talk to Vandis - (83.0, 71.9)|
 A Scholomance |QID|838| |N|Talk to High Executor Derrington - Talk to Derrington - (83.2, 68.9)|
 A Skeletal Fragments |QID|964| |N|Talk to Apothecary Dithers - Talk to Dithers - (83.3, 69.2)|
@@ -62,7 +62,7 @@ N Kill Diseased Wolves - Diseased Wolves share spawns with Carrion Lurkers. If n
 A The Wildlife Suffers Too |QID|4985| |N|Talk to Mulgris Deepriver - Talk to Mulgris - (53.7, 64.7)|
 N Kill Diseased Grizzlies - Diseased Grizzlies share spawns with Plague Lurkers. If necessary, kill them to reset the area - (56.1, 63.3) |QID|4985|
 T The Wildlife Suffers Too |QID|4985| |N|Talk to Mulgris Deepriver - Talk to Mulgris - Don't accept the follow-up quest yet! - (53.7, 64.7)|
-N (7.6, 43.6) |SK|
+N Travel toward Tirion in the Eastern Plaguelands - (7.6, 43.6) |SK|
 A Carrion Grubbage |QID|5544| |N|Talk to Tirion Fordring - Talk to Tirion - (7.6, 43.6)|
 N Kill Carrion Worms. Loot them for their Meat |QID|5544| |SK|
 N Kill Plaguebats and Plaguehound Runts |QID|5542| |SK|
@@ -90,7 +90,7 @@ N Loot Augustus' Receipt Book on the second floor of the inn - (17.4, 31.1) |QID
 T Augustus' Receipt Book |QID|6164| |N|Talk to Augustus the Touched - Talk to Augustus back in the house - (14.4, 33.5)|
 N Talk to Augustus again - Sell your junk, then restock on food if necessary - (14.4, 33.5)
 N Perform the Eastern Plaguelands mountain skip to save time - (27.6, 43.3) |U|8529| |SK|
-N (7.6, 43.6) |SK|
+N Travel back to Tirion - (7.6, 43.6) |SK|
 A Redemption |QID|5742| |N|Talk to Tirion Fordring - Talk to Tirion - (7.6, 43.6)|
 A Of Forgotten Memories |QID|5781| |N|Talk to Tirion Fordring - Talk to Tirion - Type /sit when listening to Tirion's Tale. You can be mounted when doing this - (7.6, 43.6)|
 T Un-Life's Little Annoyances |QID|6042| |N|Talk to Nathanos Blightcaller - Talk to Nathanos - (26.6, 74.7)|
@@ -129,16 +129,16 @@ N Talk to William Montague - Talk to William - [Filled Vial Labeled #1] - [Fille
 N Talk to Auctioneer Cain - Talk to Cain - Buy 240 of each type of cloth on the auction house - Collect item 2592 (x240) - Collect item 4306 (x240) - Collect item 4338 (x240) - Collect item 14047 (x240) - (67.7, 35.9) |SK|
 N Go to the mailbox and retrieve the following: - Collect item 2592 (x60) - Collect item 4306 (x60) - Collect item 4338 (x60) - Collect item 14047 (x60) - (68.2, 38.3) |SK|
 T A Donation of Runecloth |QID|7818| |N|Talk to Ralston Farnsley - Talk to Ralston - Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later - Skip any of the donations which you do not have enough cloth for - (71.7, 29.2)|
-N (47.2, 59.7) |SK|
+N Travel toward Cuely - (47.2, 59.7) |SK|
 T Seeping Corruption |QID|3568| |N|Talk to Chemist Cuely - Talk to Cuely - (48.5, 71.9)|
 T Seeping Corruption |QID|3570| |N|Talk to Thersa Windsong - Talk to Cuely and Thersa - (48.7, 71.4)|
 A Andron's Payment to Jediga |QID|3564| |N|Talk to Andron Gant - Talk to Andron - (54.8, 76.3)|
 A Andron's Payment to Jediga |QID|3564| |N|Talk to Andron Gant - Talk to Andron - (54.8, 76.3)| |O|
 N Talk to Auctioneer Stockton - Talk to Auctioneer Stockton in the Trade Quarter - Buy the following items from the Auction House. You will need these later for multiple free quest turn ins in EPL - There are 5 different quests and each require 30. If you can't get 30 of one type then skip it - Collect item 22529 (x30) - Collect item 22526 (x30) - Collect item 22525 (x30) - Collect item 22527 (x30) - Collect item 22528 (x30) - (71.4, 46.7)
 N Take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it - Collect item 10575 (x1)
-N (52.0, 64.5) |SK|
+N Enter the Royal Quarter - (52.0, 64.5) |SK|
 A The Champion of the Banshee Queen |QID|5961| |N|Talk to Lady Sylvanas Windrunner - Talk to Sylvanas - (58.1, 91.8)|
-N If you can't do this, just run out of Undercity normally - (55.2, 90.9)
+N Perform a Logout Skip by positioning your character on the highest part of the lowest staircase until it looks like they're floating, then logging out and back in - If you can't do this, just run out of Undercity normally - (55.2, 90.9)
 R Light's Hope Chapel>>Fly to Light's Hope Chapel |N|Talk to Michael Garrett - Talk to Michael - (63.3, 48.5)| |SK|
 T Zaeldarr the Outcast |QID|6021| |N|Talk to Caretaker Alen - Talk to Alen - (79.6, 63.9)|
 T Brother Carlin |QID|5210| |N|Talk to Carlin Redpath - Talk to Carlin - (81.5, 59.8)|
@@ -153,7 +153,7 @@ T Defenders of Darrowshire |QID|5211| |N|Talk to Carlin Redpath - Talk to Carlin
 T The Ranger Lord's Behest |QID|6133| |N|Talk to Nathanos Blightcaller - Talk to Nathanos - (26.6, 74.7)|
 T The Champion of the Banshee Queen |QID|5961| |N|Talk to Nathanos Blightcaller - Talk to Nathanos - (26.6, 74.7)|
 T Hameya's Plea |QID|6024| |N|Click on the mound of dirt behind the crypt - (28.0, 86.2)|
-N (7.6, 43.6) |SK|
+N Travel back to Tirion - (7.6, 43.6) |SK|
 A Of Love and Family |QID|5846| |N|Talk to Tirion Fordring - Talk to Tirion - (7.6, 43.6)|
 T Of Love and Family |QID|5846| |N|Talk to Artist Renfray - Talk to Renfray - (65.8, 75.4)|
 N Kill Cauldron Lord Soulwrath. Loot him for his Cauldron Key - (62.8, 58.8) |QID|5235|

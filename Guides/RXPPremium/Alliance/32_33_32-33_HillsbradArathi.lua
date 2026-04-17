@@ -45,10 +45,10 @@ A The Thandol Span |QID|632| |N|Click on Ebenezer Rustlocke's Corpse - Ensure yo
 A The Thandol Span |QID|633| |N|Talk to Rhag Garmason - Talk to Rhag Garmason - (49.9, 18.2)|
 A MacKreel's Moonshine |QID|647| |N|Talk to Foggy MacKreel - Talk to Foggy MacKreel - Jump down onto the invisible chain first, then onto the broken beam on the bridge. All classes are able to do this jump. If you are unable to do it, skip this step - (43.2, 92.6)|
 A Sully Balloo's Letter |QID|637| |N|Dive down underwater - Open the Waterlogged Letter. Loot it for the [Waterlogged Envelope] - Use the [Waterlogged Envelope] to start the quest - Collect item 4433 (x1) - (44.3, 92.9)| |U|4433|
-N (52.5, 90.4) |SK|
+N Swim east toward the ramp here - (52.5, 90.4) |SK|
 N Click the Cache of Explosives - (48.8, 88.1) |QID|633|
 A Plea To The Alliance |QID|634| |N|Talk to Rhag Garmason - Talk to Rhag Garmason - (49.9, 18.2)|
-N (45.8, 47.5) |SK|
+N Travel to Refuge Point - (45.8, 47.5) |SK|
 T Plea To The Alliance |QID|634| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)|
 T Malin's Request |QID|690| |N|Talk to Skuerto - Talk to Skuerto - (46.7, 47.0)|
 f Arathi >> Get the Arathi Highlands Flight Path |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.7, 46.1)| |SK|
@@ -77,11 +77,11 @@ N Talk to Micha Yance - Talk to Micha Yance - Buy 4 [Soothing Spices] from him -
 N Talk to Sarah Raycroft - Talk to Sarah Raycroft upstairs - Restock on [Razor Arrows] if necessary| - (49.0, 55.2) |C|Hunter|
 f Southshore >>Get the Southshore Flight Path |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)|
 A Bartolo's Yeti Fur Cloak |QID|565| |N|Talk to Bartolo Ginsetti - Talk to Bartolo Ginsetti - (49.4, 55.5)|
-N (45.5, 31.2) |SK|
+N Enter the Darrow Hill Yeti Cave - (45.5, 31.2) |SK|
 N Kill Yetis. Loot them for their Fur |QID|565| |SK|
 N Loot the Alterac Granite on the ground - Alterac Granite spawns throughout the entire Cave - (44.4, 26.5) |QID|689|
 N Kill Yeti's. Loot them for their Fur - If all of the Yeti's are dead inside of the cave you may kill the Yeti's to the north around Alterac Mountains as well - (44.4, 26.5) |QID|565|
-N (34.3, 83.5)
+N Head to the Alterac Mountains hill located furthest west - (34.3, 83.5)
 N Kill Mountain Lions and Hulking Mountain Lions - Check the westernmost hill for all spawns before you head east, kill all Hulking Mountain Lions you see as the objective is hard to complete if you skip mobs - (30.9, 84.6) |QID|564| |SK|
 N Kill Syndicate Thieves and Syndicate Footpads - Kill all Syndicate mobs you see in the camp on the hill west of the road. This quest objective may be hard to complete if you skip mobs and you'd have to backtrack |QID|505| |SK|
 A Encrypted Letter |QID|511| |N|Click the Syndicate Documents on the table - (58.3, 68.0)|

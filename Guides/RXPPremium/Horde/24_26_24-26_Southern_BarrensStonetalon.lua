@@ -15,10 +15,10 @@ t Train your class spells |N|Talk to Urek Thunderhorn - Talk to Urek - (59.1, 86
 t Train your pet spells |N|Talk to Hesuwa Thunderhorn - Talk to Hesuwa - (54.1, 84.0)| |C|Hunter|
 t Train your class spells |N|Talk to Ker Ragetotem - Talk to Ker - (57.6, 85.5)| |C|Warrior|
 t Train your class spells |N|Talk to Torm Ragetotem - Talk to Torm - (57.3, 87.3)| |O| |C|Warrior|
-N (69.9, 30.9) |SK| |C|Druid|
+N Travel to the Elder Rise - (69.9, 30.9) |SK| |C|Druid|
 T Aquatic Form |QID|31| |N|Talk to Turak Runetotem - Talk to Turak - (76.5, 27.2)| |C|Druid|
 N Talk to Kuna Thunderhorn - Talk to Kuna - Buy a [Sturdy Recurve Bow] from her if it's available - (47.0, 45.7) |C|Hunter|
-N (28.1, 33.0) |SK|
+N Travel to the Spirit Rise and enter the pools of vision - (28.1, 33.0) |SK|
 A The Flying Machine Airport |QID|1086| |N|Talk to Apothecary Zamah - Talk to Zamah - (22.9, 21.0)|
 t Train your class spells |N|Talk to Miles Welsh - Talk to Miles - (25.3, 15.2)| |C|Priest|
 t Train your class spells |N|Talk to Miles Welsh - Talk to Miles - (25.3, 15.2)| |O| |C|Priest|
@@ -40,7 +40,7 @@ T Trial at the Field of Giants |QID|1824| |N|Talk to Ruga Ragetotem - Talk to Ru
 U The Harvester |QID|897| |N|Kill the Silithid Harvester. Loot it for the [Harvester's Head]. Use it to start the quest - Skip this quest if you can't find him. This mob is very rare! - Collect item 5138 (x1)| |U|5138| |SK|
 N Loot the Silithid Mounds for Silithid Eggs - (42.9, 69.9) |QID|868|
 U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1) - (44.8, 74.8)| |U|5103| |SK| |C|Shaman|
-N (43.8, 77.3) |SK| |C|Shaman|
+N Travel toward Brine - (43.8, 77.3) |SK| |C|Shaman|
 A Call of Water |QID|1534| |N|Talk to Brine - Talk to Brine - (43.4, 77.4)| |C|Shaman|
 U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1)| |U|5103| |SK|
 A Gann's Reclamation |QID|843| |N|Talk to Gann Stonespire - Talk to Gann - Gann patrols North and South on the road - (46.1, 75.4)|
@@ -57,12 +57,12 @@ N Kill Bael'dun Excavators and Bael'dun Foremen - (47.2, 85.0) |QID|843|
 U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1) - (47.2, 79.3)| |U|5103| |SK|
 A Revenge of Gann |QID|846| |N|Talk to Gann Stonespire - Talk to Gann - Gann patrols North and South on the road - (46.1, 75.4)|
 A Revenge of Gann |QID|846| |N|Talk to Gann Stonespire - Talk to Gann - Gann patrols North and South on the road - (46.1, 75.4)| |O|
-N (48.6, 84.5) |SK|
+N Travel to Bael Modan - (48.6, 84.5) |SK|
 N Kill Bael'dun Dwarves. Loot them for their Nitroglycerin, Wood Pulp, and Sodium Nitrate |QID|846| |SK|
 A The Tear of the Moons |QID|857| |N|Talk to Feegly the Exiled - Talk to Feegly - (48.9, 86.3)|
-N (49.0, 84.5) |SK|
+N Go down to the bottom floor of Bael'dun - (49.0, 84.5) |SK|
 N Open General Twinbraid's Strongbox. Loot it for the Tear of the Moons - Be careful! It is very easy overpull in General Twinbraid's room - Directly pull any mob other than General Twinbraid - (49.1, 84.2) |QID|857|
-N (49.4, 84.3) |SK|
+N Exit Bael'dun's Keep - (49.4, 84.3) |SK|
 T The Tear of the Moons |QID|857| |N|Talk to Feegly the Exiled - Talk to Feegly - (48.9, 86.3)|
 N Kill Bael'dun Dwarves. Loot them for their Nitroglycerin, Wood Pulp, and Sodium Nitrate - (49.0, 84.4) |QID|846|
 U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1)| |U|5103| |SK|
@@ -70,7 +70,7 @@ A Revenge of Gann |QID|849| |N|Talk to Gann Stonespire - Talk to Gann - Gann pat
 N Click the Bael Modan Flying Machine atop the platform - This has a 50 yard range - (47.0, 85.6) |QID|849|
 T Revenge of Gann |QID|849| |N|Talk to Gann Stonespire - Talk to Gann - Gann patrols North and South on the road - (46.1, 75.4)|
 U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1) - (44.9, 78.8)| |U|5103|
-N (50.5, 78.7)
+N Travel into Dustwallow Marsh - (50.5, 78.7)
 N Be careful! There are level 36-38 mobs in the area. Follow the waypoint arrow for safety - (30.6, 45.3) |SK|
 N Talk to Zulrg - Talk to Zulrg - Buy a [Big Stick] from him if it's up - (36.2, 31.8) |C|Warrior/Shaman|
 N Talk to Balai Lok'Wein - Talk to Balai - Buy [Healing Potions] and [Scrolls] from her if they're up - (36.5, 30.4)
@@ -103,25 +103,25 @@ A Cycle of Rebirth |QID|6301| |N|Talk to Tammra Windfield - Talk to Tammra - (47
 A Cycle of Rebirth |QID|6301| |N|Talk to Tammra Windfield - Talk to Tammra Windfield - (47.4, 58.4)|
 N Talk to Innkeeper Jayka - Talk to Innkeeper Jayka - (47.5, 62.1)
 N Talk to Jeeda - Talk to Jeeda on the second floor of the inn - Buy [Healing Potions] from her if they're up - (47.6, 61.6)
-N (49.4, 61.7) |SK|
+N Run up the path to the right - (49.4, 61.7) |SK|
 A Trouble in the Deeps |QID|6562| |N|Talk to Tsunaman - Talk to Tsunaman - (47.4, 64.2)|
 A Elemental War |QID|6393| |N|Talk to Tsunaman - Talk to Tsunaman - (47.4, 64.2)|
 A Arachnophobia |QID|6284| |N|Click the Wanted Poster - (59.1, 75.7)| |C|!Warlock|
 N Kill Besseleth. Loot her for for her Fang - Clear out the area befor you pull her. Be careful, she can web you for 10 seconds! - (54.8, 72.0) |QID|6284| |C|!Warlock|
-N (59.0, 62.6) |SK|
+N Travel to Windshear Crag - (59.0, 62.6) |SK|
 A Gerenzo Wrenchwhistle |QID|1096| |N|Talk to Ziz Fizziks - Talk to Ziz - (59.0, 62.6)|
 A Gerenzo Wrenchwhistle |QID|1096| |N|Talk to Ziz Fizziks - Talk to Ziz - (59.0, 62.6)|
 N Kill XT:9. It patrols the southern side of the river - (61.0, 52.3) |QID|1068|
 N Kill XT:4. It patrols the Northern side of the river - (67.2, 46.9) |QID|1068|
 C Use the [Toxic Fogger] below or on top of the platform |QID|1086| |N|(66.5, 45.5)| |U|5638|
-N (68.8, 39.6) |SK|
+N Travel up the mountain and enter the platform - (68.8, 39.6) |SK|
 N Kill Gerenzo. Loot him for his Mechanical Arm - Be careful! Venture Co. Machine Smiths can summon Venture Co. Harvest Reapers. Kill them one at a time - (64.5, 40.2) |QID|1096|
 N Talk to Nizzik - Talk to Nizzik - Buy gear upgrades if any are available - (62.7, 40.2)
 T Gerenzo Wrenchwhistle |QID|1096| |N|Talk to Ziz Fizziks - Talk to Ziz - (59.0, 62.6)|
 T Arachnophobia |QID|6284| |N|Talk to Maggran Earthbinder - Talk to Maggran - (47.2, 61.2)|
 N Loot all the Gaea Seeds you see from the ground as you travel past the lake - (49.7, 45.1) |QID|6301| |SK|
 N Kill all the Antlered Coursers you see en route to Stonetalon Peak. Loot them for their Eyes - (46.6, 27.5) |QID|1058| |SK|
-N (41.6, 16.0)
+N Arrive in Stonetalon Peak - (41.6, 16.0)
 N Kill Sons of Cenarius, Daughters of Cenarius and Cenarion Botanists |QID|1087| |SK|
 N Kill Sap Beasts. Loot them for their Sap - Only regular Sap Beasts drop the sap. Corrosive Sap Beasts do not drop it |QID|1058| |SK|
 N Kill a Fey Dragon. Loot it for its Scale |QID|1058| |SK|
@@ -132,24 +132,24 @@ N Kill a Fey Dragon. Loot it for a Scale - (34.0, 11.8) |QID|1058|
 N Kill Sap Beasts. Loot them for their Sap - Only regular Sap Beasts drop the sap. Corrosive Sap Beasts do not drop it - (33.6, 20.3) |QID|1058|
 N Finish killing Antlered Coursers as you run south back to the lake. Loot them for their Eyes - (44.5, 20.9) |QID|1058|
 N Loot Gaea Seeds from the ground around the lake - (47.9, 36.2) |QID|6301|
-N (42.6, 42.4) |SK|
+N Follow the western path toward The Charred Vale - (42.6, 42.4) |SK|
 N Kill Fire Elementals. Loot them for their Increndrite |QID|6393| |SK|
 N Kill Bloodfury Harpies. Be careful, they have special abilities - Bloodfury Slayers execute you when you are below 20% health - Bloodfury Ambushers shock for a amount of high damage on low cooldown - Bloodfury Roguefeathers can [Thrash] - (29.6, 63.6) |QID|6282|
-N (37.9, 67.8) |SK|
+N Follow the western path to Sun Rock Retreat - (37.9, 67.8) |SK|
 T Elemental War |QID|6393| |N|Talk to Tsunaman - Talk to Tsunaman - (47.4, 64.2)|
 A New Life |QID|6381| |N|Talk to Tammra Windfield - Talk to Tammra Windfield - (47.4, 58.4)|
 A Bloodfury Bloodline |QID|6283| |N|Talk to Maggran Earthbinder - Talk to Maggran - (47.2, 61.2)|
 N Talk to Innkeeper Jayka - Talk to Innkeeper Jayka - (47.5, 62.1)
 N Talk to Jeeda - Talk to Jeeda on the second floor of the inn - Buy [Healing Potions] from her if they're up - (47.6, 61.6)
 A Ordanus |QID|1088| |N|Talk to Braelyn Firehand - Talk to Braelyn - (45.9, 60.4)|
-N (44.3, 63.6) |SK|
+N Travel back to the Charred Vale - (44.3, 63.6) |SK|
 N Plant the seeds in the Gaea Dirt Mounds on the ground - (36.1, 68.0) |QID|6381| |SK|
 N Kill Fire Elementals. Loot them for their Increndrite |QID|6393| |SK|
 N Kill Bloodfury Ripper. Loot her for her Remains - Be careful. She is an elite but it can be killed solo. Skip this step if it is too difficult - Clear the Harpies around her first! She has a large social pull radius - (30.8, 61.9) |QID|6283|
 N Plant the seeds in the Gaea Dirt Mounds on the ground |QID|6381| |SK|
 N Kill Fire Elementals. Loot them for their Increndrite - (31.8, 70.9) |QID|6393|
 N Plant the seeds in the Gaea Dirt Mounds on the ground - (31.9, 64.2) |QID|6381|
-N (37.9, 67.8) |SK|
+N Follow the Western path back to Sun Rock Retreat - (37.9, 67.8) |SK|
 T Elemental War |QID|6393| |N|Talk to Tsunaman - Talk to Tsunaman - (47.4, 64.2)|
 T New Life |QID|6381| |N|Talk to Tammra Windfield - Talk to Tammra Windfield - (47.4, 58.4)|
 T Bloodfury Bloodline |QID|6283| |N|Talk to Maggran Earthbinder - Talk to Maggran - (47.2, 61.2)|
@@ -168,8 +168,8 @@ N Talk to Auctioneer Thathung - Talk to Thathung - Buy the [Shredder Operating M
 N Talk to Jin'sora - Talk to Jin'sora - Buy a [Sturdy Recurve Bow] from her if it's available - (78.1, 38.5) |C|Hunter|
 N Talk to Jin'sora - Talk to Jin'sora - Buy [Razor Arrows] from him - Collect item 3030 (x1800) - (78.1, 38.5) |C|Hunter|
 R Leave Orgrimmar through the Western exit |N|(26.2, 61.6)| |SK|
-N (56.8, 45.5) |SK|
-N You may encounter a few level 29-30 mobs, avoid them if possible - (89.9, 68.1)
+N Travel north alongside the river into Ashenvale - (56.8, 45.5) |SK|
+N Travel to Splintertree Post - You may encounter a few level 29-30 mobs, avoid them if possible - (89.9, 68.1)
 R Splintertree Post >> Fly to Splintertree Post |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |C|Hunter|
 R Travel to Ashenvale |N|(68.7, 85.9)| |C|!Hunter|
 

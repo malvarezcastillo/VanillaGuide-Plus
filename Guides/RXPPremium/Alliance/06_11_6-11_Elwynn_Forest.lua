@@ -23,10 +23,10 @@ h Elwynn Forest |N|Talk to Innkeeper Farley - Talk to Innkeeper Farley - (43.8, 
 G Grind to 6 |O|
 N Talk to Brog Hamfist - Talk to Brog Hamfist - Buy the [Balanced Throwing Daggers] from him if you can afford it - Collect Balanced Throwing Dagger (200) - (44.0, 65.9) |C|Rogue|
 N Equip the [Balanced Throwing Daggers] |U|2946| |SK| |C|Rogue|
-N (44.1, 66.0) |SK| |C|Warlock|
+N Travel downstairs - (44.1, 66.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Maximillian Crowe - Talk to Maximillian Crowe - (44.4, 66.2)| |C|Warlock|
 N Talk to Cylina Darkheart - Talk to Cylina Darkheart - Buy the [Grimoire of Blood Pact (Rank 1)] from her if you can afford it. If not you can buy it later - (44.4, 66.0) |C|Warlock|
-N (43.9, 66.5) |SK| |C|Mage/Rogue/Priest|
+N Travel upstairs in the Inn - (43.9, 66.5) |SK| |C|Mage/Rogue/Priest|
 t Train your class spells |N|Talk to Zaldimar Wefhellt - Talk to Zaldimar Wefhellt - (43.2, 66.2)| |C|Mage|
 t Train your class spells |QID|5624| |N|Talk to Priestess Josetta - Talk to Priestess Josetta - (43.3, 65.7)| |C|Priest|
 t Train your class spells |N|Talk to Keryn Sylvius - Talk to Keryn Sylvius - (43.9, 65.9)| |C|Rogue|
@@ -62,10 +62,10 @@ N Try to save a single [Minor Healing Potion] from now on as you will need it fo
 N Kill Kobold Miner - (37.8, 85.4)
 N Kill Kobold Miner - (37.8, 85.4)
 T Goldtooth |QID|87| |N|Talk to "Auntie" Bernice Stonefield - Talk to "Auntie" Bernice Stonefield - (34.5, 84.3)|
-N (41.3, 79.8) |O| |M|hardcore|
+N Jump on top of a shredder, the floating logs, the crates, or the minecart light inside the cave. Perform a logout skip by then logging out and back in - (41.3, 79.8) |O| |M|hardcore|
 N Kill Stonetusk Boar - Kill Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - Chunk of Boar Meat (1-10) - (32.5, 85.4) |SK|
 N Kill Stonetusk Boar - Kill Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by - Chunk of Boar Meat (10-50) - (32.5, 85.4) |SK|
-N (42.1, 67.3) |SK| |M|hardcore|
+N Return to Goldshire - (42.1, 67.3) |SK| |M|hardcore|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 A A Fishy Peril |QID|40| |N|Talk to Remy "Two Times" - Talk to Remy "Two Times" - Do NOT vendor the [Bag of Marbles] reward. This is an incredibly valuable item all the way through to level 60 - (42.1, 67.3)|
 A Further Concerns |QID|35| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
@@ -82,10 +82,10 @@ A Collecting Kelp |QID|112| |N|Talk to William Pestle - Talk to William Pestle -
 G Grind to 8 |O|
 t Train your class spells |N|Talk to Lyria Du Lac - Talk to Lyria Du Lac - (41.1, 65.8)| |C|Warrior|
 t Train your class spells |N|Talk to Brother Wilhelm - Talk to Brother Wilhelm - (41.1, 66.0)| |C|Paladin|
-N (44.1, 66.0) |SK| |C|Warlock|
+N Travel downstairs in the Inn - (44.1, 66.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Maximillian Crowe - Talk to Maximillian Crowe - (44.4, 66.2)| |C|Warlock|
 N Talk to Cylina Darkheart - Talk to Cylina Darkheart - Buy the [Grimoire of Firebolt (Rank 2)] from her if you can afford it. If not you can buy it later - (44.4, 66.0) |C|Warlock|
-N (43.9, 66.5) |SK| |C|Mage/Priest/Rogue/Warrior/Paladin|
+N Travel upstairs in the Inn - (43.9, 66.5) |SK| |C|Mage/Priest/Rogue/Warrior/Paladin|
 t Train your class spells |N|Talk to Zaldimar Wefhellt - Talk to Zaldimar Wefhellt - (43.2, 66.2)| |C|Mage|
 t Train your class spells |QID|5624| |N|Talk to Priestess Josetta - Talk to Priestess Josetta - (43.3, 65.7)| |C|Priest|
 t Train your class spells |N|Talk to Keryn Sylvius - Talk to Keryn Sylvius - (43.9, 65.9)| |C|Rogue|
@@ -97,11 +97,11 @@ N Kill Mangy Wolf - Kill Mangy Wolves. Loot them for their [Stringy Wolf Meat] -
 N Kill Murlocs and Murloc Streamrunners. Loot them for Crystal Kelp Fronds - Collect Crystal Kelp Frond (x4) - (50.8, 65.5) |QID|112|
 N Kill Kobold Miner - Rough Stone (1+) |SK| |C|Warrior/Paladin/Rogue|
 N Rough Stone (5) |SK| |C|Warrior/Paladin/Rogue|
-N (61.7, 53.6) |SK|
+N Enter the Jasperlode Mine - (61.7, 53.6) |SK|
 N Follow the path through middle to explore Jasperlode Mine - Scout through the Jasperlode Mine - (61.2, 51.5) |QID|76|
 N Kill Kobold Miner - Rough Stone (1+) |SK| |C|Warrior/Paladin/Rogue|
 N Rough Stone (5) |SK| |C|Warrior/Paladin/Rogue|
-N (61.8, 53.9) |SK|
+N Exit Jasperlode Mine - (61.8, 53.9) |SK|
 N Kill Gray Forest Wolf - Kill Gray Forest Wolves. Loot them for their [Stringy Wolf Meat] - Stringy Wolf Meat (1-10) - (69.3, 67.5) |SK|
 N Kill Gray Forest Wolf - Kill Gray Forest Wolves. Loot them for their [Stringy Wolf Meat] - Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by - Stringy Wolf Meat (10-50) - (69.3, 67.5) |SK|
 N Kill Young Forest Bear - Kite a Young Forest Bear toward Guard Thomas - Try to talk to Guard Thomas before the Young Forest Bear dies to the Stormwind Guards get quest credit - Make sure to deal 51%+ damage to get credit |SK|
@@ -149,12 +149,12 @@ N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Don't 
 R Travel to Redridge Mountains |N|(17.4, 69.6)| |C|!Warlock|
 A Encroaching Gnolls |QID|244| |N|Talk to Guard Parker - Talk to Guard Parker - (17.4, 69.6)| |O| |C|!Warlock|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |C|!Warlock| |M|speedrun|
-N (18.6, 69.2) |SK| |C|!Warlock| |M|hardcore|
+N BE CAREFUL: Stick to the main road and avoid any close mobs en-route - (18.6, 69.2) |SK| |C|!Warlock| |M|hardcore|
 T Encroaching Gnolls |QID|244| |N|Talk to Deputy Feldon - Talk to Deputy Feldon - (30.7, 60.0)| |O| |C|!Warlock|
 f Redridge Mountains >> Get the Redridge Mountains flight path |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |C|!Warlock|
 H Hearthstone |SK|
 A The Escape |QID|114| |N|Talk to William Pestle - Talk to William Pestle - (43.3, 65.7)|
-N (43.9, 66.5) |SK| |C|Warrior/Rogue|
+N Travel upstairs in the Inn - (43.9, 66.5) |SK| |C|Warrior/Rogue|
 t Train [First Aid] |N|Talk to Michelle Belle - Talk to Michelle Belle - (43.4, 65.5)| |C|Warrior/Rogue|
 t Train [Sprint] |N|Talk to Keryn Sylvius - Talk to Keryn Sylvius - Only train [Dual Wield] and [Sprint]. Do not train other spells to save your money for later - (43.9, 65.9)| |O| |C|Rogue|
 A Report to Gryan Stoutmantle |QID|109| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
@@ -165,21 +165,21 @@ t Train your class spells |QID|1638| |N|Talk to Lyria Du Lac - Talk to Lyria Du 
 A A Warrior's Training |QID|1638| |N|Talk to Lyria Du Lac - Talk to Lyria Du Lac - Do not train as you need to save your money for later - (41.1, 65.8)| |O| |C|Warrior|
 t Train your class spells |N|Talk to Brother Wilhelm - Talk to Brother Wilhelm - (41.1, 66.0)| |O| |C|Paladin|
 t Train your class spells |QID|2998| |N|Talk to Brother Wilhelm - Talk to Brother Wilhelm - (41.1, 66.0)| |O| |C|Paladin|
-N (44.1, 66.0) |SK| |C|Warlock|
+N Travel downstairs in the Inn - (44.1, 66.0) |SK| |C|Warlock|
 A Gakin's Summons |QID|1685| |N|Talk to Remen Marcot - Talk to Maximillian Crowe and Remen Marcot - (44.4, 66.2)| |C|Warlock|
-N (43.7, 66.4) |SK| |C|Mage/Priest|
+N Go Upstairs - (43.7, 66.4) |SK| |C|Mage/Priest|
 t Train your class spells |QID|5635| |N|Talk to Priestess Josetta - Talk to Priestess Josetta - (43.3, 65.7)| |O| |C|Priest|
 t Train your class spells |N|Talk to Zaldimar Wefhellt - Talk to Zaldimar Wefhellt - (43.2, 66.2)| |O| |C|Mage|
 t Train [Sprint] |N|Talk to Keryn Sylvius - Talk to Keryn Sylvius - Only train [Dual Wield] and [Sprint]. Do not train other spells to save your money for later - (43.9, 65.9)| |O|
 N Kill Stonetusk Boar - Kill Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - Chunk of Boar Meat (1-10) - (32.5, 85.4) |SK|
 N Kill Stonetusk Boar - Kill Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by - Chunk of Boar Meat (10-50) - (32.5, 85.4) |SK|
-N (43.2, 89.6) |SK|
+N Travel to The Maclure Vineyards - (43.2, 89.6) |SK|
 T The Escape |QID|114| |N|Talk to Maybell Maclure - Talk to Maybell Maclure - (43.2, 89.6)|
 N Talk to Ma Stonefield - Talk to Ma Stonefield - (34.7, 84.5)
 T Goldtooth |QID|87| |N|Talk to "Auntie" Bernice Stonefield - Talk to Ma Stonefield and "Auntie" Bernice Stonefield - (34.7, 84.5)|
 G Grind en route to 4510+/6500xp |SK| |C|!Warrior/!Warlock|
 G Grind en route to 5110+/6500xp |SK| |C|!Warrior/!Warlock|
-N (24.8, 76.2) |SK|
+N Travel to Westbrook Garrison - (24.8, 76.2) |SK|
 T Westbrook Garrison Needs Help! |QID|239| |N|Talk to Deputy Rainer - Talk to Deputy Rainer - (24.2, 74.5)|
 A The Collector |QID|123| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for the [Gold Pickup Schedule] - The [Gold Pickup Schedule] is a very rare drop. Ignore this step if you don't get it - Gruff Swiftbite a rare spawn, does have a 100% drop chance - Collect Gold Pickup Schedule (x1)| |U|1307| |SK| |C|Warlock|
 N Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands - Painted Gnoll Armband (8) |QID|11| |SK| |C|Warlock|
@@ -209,7 +209,7 @@ N Talk to Innkeeper Heather - Talk to Innkeeper Heather - Buy up to 20 [Longjaw 
 A Continue To Stormwind |QID|6281| |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |R|Human|
 F Stormwind >> Fly to Stormwind |N|Talk to Thor - Talk to Thor - (56.5, 52.6)|
 T Shipment to Stormwind |QID|61| |N|Talk to Morgan Pestle - Talk to Morgan Pestle - We choose the [Explosive Rockets] as the reward. It deals decent damage, and can be used for "Split pulling" which is incredibly useful - (56.2, 64.6)|
-N (57.8, 61.4) |SK| |C|Rogue|
+N Enter the Everyday Merchandise building - (57.8, 61.4) |SK| |C|Rogue|
 N Talk to Thurman Mullby - Talk to Thurman Mullby - Buy the [Keen Throwing Knives] from him - Collect Keen Throwing Knife (200) - (58.4, 61.7) |C|Rogue|
 N Talk to Thurman Mullby - Talk to Thurman Mullby - Buy the [Balanced Throwing Daggers] from him - Collect Balanced Throwing Dagger (200) - (58.4, 61.7) |C|Rogue|
 N Talk to Thurman Mullby - Talk to Thurman Mullby - Buy the [Keen Throwing Knives] from him - Collect Keen Throwing Knife (200) - (58.4, 61.7) |C|Rogue|
@@ -231,7 +231,7 @@ A The Tome of Divinity |QID|1643| |N|Talk to Duthorian Rall - Talk to Duthorian 
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.7, 32.8)| |C|Paladin| |R|Human|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.7, 32.8)| |O| |C|Paladin| |R|Human|
 T The Tome of Divinity |QID|1644| |N|Talk to Stephanie Turner - Talk to Stephanie Turner - (57.1, 61.7)| |C|Paladin| |R|Human|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Travel to The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |O| |C|Warlock|
 A Surena Caledon |QID|1688| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock|
@@ -254,10 +254,10 @@ T Cloth and Leather Armor |QID|59| |N|Talk to Sara Timberlain - Talk to Sara Tim
 N Grind en-route. Make sure you have at least 2 [Soul Shards] before reaching Redridge by using [Drain Soul] as mobs are about to die - Soul Shard (2) |SK| |C|Warlock|
 R Travel to Redridge Mountains |N|(17.4, 69.6)| |SK| |C|Warlock|
 A Encroaching Gnolls |QID|244| |N|Talk to Guard Parker - Talk to Guard Parker - (17.4, 69.6)| |C|Warlock|
-N Talk to Deputy Feldon - STICK TO THE MAIN ROAD AND AVOID ANY CLOSE MOBS EN-ROUTE - (18.6, 69.2) |C|Warlock|
+N Talk to Deputy Feldon - Travel towards Lakeshire - STICK TO THE MAIN ROAD AND AVOID ANY CLOSE MOBS EN-ROUTE - (18.6, 69.2) |C|Warlock|
 T Encroaching Gnolls |QID|244| |N|Talk to Deputy Feldon - (30.7, 60.0)| |C|Warlock|
 F Stormwind >> Fly to Stormwind |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |C|Warlock|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Travel to The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |O| |C|Warlock|
 A The Binding |QID|1689| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock|
 N Travel to the bottom of The Slaughtered Lamb - Cast Use the [Bloodstone Choker] to call forth a Summoned Voidwalker - (25.2, 80.7) |U|6928| |SK| |C|Warlock|
@@ -276,7 +276,7 @@ A Beat Bartleby |QID|1640| |N|Talk to Bartleby - Talk to Bartleby - (73.8, 36.3)
 N Attack Bartleby. He will submit at 1% - Beat Bartleby - (73.8, 36.3) |QID|1640| |C|Warrior|
 A Bartleby's Mug |QID|1665| |N|Talk to Bartleby - Talk to Bartleby - (73.8, 36.3)| |C|Warrior|
 T Bartleby's Mug |QID|1665| |N|Talk to Harry Burlguard - Talk to Harry Burlguard - (74.2, 37.2)| |C|Warrior|
-N (42.5, 33.5) |SK| |C|Priest|
+N Enter the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest|
 t Train your class spells |QID|5635| |N|Talk to High Priestess Laurena - Talk to High Priestess Laurena - (38.5, 26.9)| |O| |C|Priest|
 t Train your class spells |QID|5634| |N|Talk to High Priestess Laurena - Talk to High Priestess Laurena - (38.5, 26.9)| |C|Priest|
 t Train your class spells |N|Talk to High Priestess Laurena - Talk to High Priestess Laurena - (38.5, 26.9)| |O| |C|Priest|
@@ -298,10 +298,10 @@ N Kill Deeprun Rat - Use the [Rat Catcher's Flute] on Deeprun Rats inside the De
 R Deeprun Rat Roundup |QID|6661| |N|Talk to Monty - Talk to Monty inside the Deeprun Tram|
 R Take the Tram to Ironforge |N|(61.1, 11.6)| |SK|
 R Enter Ironforge
-N (67.4, 84.9) |SK| |C|Warrior|
+N Travel toward Bilban Tosslespanner - (67.4, 84.9) |SK| |C|Warrior|
 t Train your class spells |N|Talk to Bilban Tosslespanner - Talk to Bilban Tosslespanner - Ensure you save 20s 70c for later - (65.9, 88.4)| |C|Warrior|
 t Train your class spells |N|Talk to Bilban Tosslespanner - Talk to Bilban Tosslespanner - Ensure you save 20s 70c for later - (65.9, 88.4)| |O| |C|Warrior|
-N (61.6, 85.6) |SK| |C|Warrior|
+N Enter the Timberline Arms building - (61.6, 85.6) |SK| |C|Warrior|
 t Train 2h Maces |N|Talk to Buliwyf Stonehand - Talk to Bixi Wobblebonk and Buliwyf Stonehand - (62.2, 89.6)| |C|Warrior|
 N Talk to Brenwyn Wintersteel - Talk to Brenwyn Wintersteel down stairs - Buy the [Keen Throwing Knives] from her - Collect Keen Throwing Knife (200) - (62.4, 88.7) |C|Warrior|
 N Talk to Brenwyn Wintersteel - Talk to Brenwyn Wintersteel down stairs - Buy the [Balanced Throwing Daggers] from her - Collect Balanced Throwing Dagger (200) - (62.4, 88.7) |C|Warrior|
@@ -309,9 +309,9 @@ N Talk to Brenwyn Wintersteel - Talk to Brenwyn Wintersteel down stairs - Buy th
 N Talk to Brenwyn Wintersteel - Talk to Brenwyn Wintersteel down stairs - Buy the [Balanced Throwing Daggers] from her - Collect Balanced Throwing Dagger (200) - (62.4, 88.7) |C|Warrior|
 N Equip the [Keen Throwing Knives] |U|3107| |SK| |C|Warrior|
 N Equip the [Balanced Throwing Daggers] |U|2946| |SK| |C|Warrior|
-N (61.4, 88.4) |SK| |C|Warrior|
+N Exit the Timberline Arms building - (61.4, 88.4) |SK| |C|Warrior|
 f Ironforge >> Get the Ironforge flight path |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)|
-N (43.9, 59.5) |SK|
+N Enter the Stonefire Tavern - (43.9, 59.5) |SK|
 N (49.1, 56.0) |SK| |C|Mage/Paladin|
 t Train your class spells |N|Talk to Dink - Talk to Dink inside - (27.2, 8.6)| |C|Mage|
 t Train your class spells |N|Talk to Dink - Talk to Dink inside - (27.2, 8.6)| |C|Mage|
@@ -321,7 +321,7 @@ t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Fa
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.7, 32.8)| |O| |C|Paladin|
 h Ironforge |N|Talk to Innkeeper Firebrew - Talk to Innkeeper Firebrew inside - (18.1, 51.5)|
 R Jump on top of the Candles on the table. Perform a Logout Skip by logging out and back in |N|(19.1, 52.8)|
-N (48.8, 55.9) |SK|
+N Enter The High Seat - (48.8, 55.9) |SK|
 R Jump on top of either shoulder of the throne, then perform a Logout Skip by logging out and back in |N|(38.6, 56.4)| |O|
 N (49.1, 56.0) |SK| |C|Mage/Paladin|
 t Train your class spells |N|Talk to Dink - Talk to Dink inside - (27.2, 8.6)| |C|Mage|
@@ -333,7 +333,7 @@ R Jump onto the very top of the Mailbox, then perform a Logout Skip by logging o
 R Travel to Dun Morogh |N|Exit Ironforge|
 N Kill Elder Crag Boar - Kill Elder Crag Boars. Loot them for their [Chunks of Boar Meat] - This will be used to level your [Cooking] later - You need 10 [Cooking] for a quest in Auberdine later - Chunk of Boar Meat (1-10) |SK|
 N Kill Elder Crag Boar - Kill Elder Crag Boars. Loot them for their [Chunks of Boar Meat] - This will be used to level your [Cooking] later - You need 50 [Cooking] for a quest in Darkshire later - Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by - Chunk of Boar Meat (10-50) |SK|
-N (59.8, 49.6) |SK|
+N Go up the dirt path - (59.8, 49.6) |SK|
 N Kill Vagash - Kite Vagash down to Rudra |SK|
 N Equip the [Keen Throwing Knives] |U|3107| |SK| |C|Warrior/Rogue|
 A Protecting the Herd |QID|314| |N|Talk to Rudra Amberstill - Talk to Rudra Amberstill - (63.1, 49.9)|
@@ -362,7 +362,7 @@ A A Pilot's Revenge |QID|417| |N|Click the Dwarven Corpse on the ground - (79.7,
 N Kill Mangeclaw. Loot him for his Claw - Collect Mangy Claw (x1) - (79.0, 37.1) |QID|417|
 N Talk to Pilot Hammerfoot - Talk to Pilot Hammerfoot - (83.9, 39.2)
 N Equip the [Craftsman's Dagger] in your offhand |U|2218| |SK| |C|Rogue|
-N (84.4, 31.1)
+N Go through the tunnel to Loch Modan - (84.4, 31.1)
 
 ]]
 end)

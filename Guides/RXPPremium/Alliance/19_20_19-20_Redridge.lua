@@ -12,16 +12,16 @@ A Underground Assault |QID|2040| |N|Talk to Shoni the Shilent - Talk to Shoni th
 T Stormpike's Order |QID|1338| |N|Talk to Furen Longbeard - Talk to Furen Longbeard - (58.1, 16.5)| |R|!NightElf|
 A Collecting Memories |QID|168| |N|Talk to Wilder Thistlenettle - Talk to Wilder Thistlenettle - (65.4, 21.2)|
 T Humble Beginnings |QID|399| |N|Talk to Baros Alexston - Talk to Baros Alexston - (49.2, 30.3)| |R|!NightElf|
-N (37.7, 82.1) |SK| |C|Mage|
+N Travel to the Mage Tower - (37.7, 82.1) |SK| |C|Mage|
 t Train your class spells |N|Talk to Elsharin - Talk to Elsharin - (36.9, 81.1)| |C|Mage|
-N (42.5, 33.5) |SK| |C|Paladin/Priest| |R|!NightElf|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Paladin/Priest| |R|!NightElf|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest| |R|!NightElf|
 N Talk to Ardwyn Cailen - Talk to Ardwyn Cailen - Buy a [Burning Wand] if it's an upgrade - It's important to buy a non-shadow damage wand. You'll have to deal with mobs resistant to shadow damage later - Collect item 5210 (x1) - (42.6, 67.2) |C|Warlock/Priest|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Travel to The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 t Train [Pick Lock] |N|Talk to Osborne the Night Man - Talk to Osborne - Ensure you train [Lockpicking] as well as you will need it for your Rogue class quest soon - (74.6, 52.8)| |C|Rogue|
-N (74.9, 54.0) |SK| |C|Rogue|
+N Enter the SI:7 Headquarters. Travel up stairs toward Renzik "The Shiv" - (74.9, 54.0) |SK| |C|Rogue|
 A Redridge Rendezvous |QID|2281| |N|Talk to Renzik "The Shiv" - Talk to Renzik "The Shiv" - (75.8, 60.4)| |C|Rogue|
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior| |R|!NightElf|
 N Talk to Woo Ping - Talk to Woo Ping - (57.1, 57.7)
@@ -56,7 +56,7 @@ F Stormwind >> Fly to Stormwind |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |
 A The Defias Brotherhood |QID|141| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)|
 F Westfall >> Fly to Westfall |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)|
 A The Defias Brotherhood |QID|142| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)|
-N (44.5, 69.6) |SK|
+N Travel to Moonbrook - (44.5, 69.6) |SK|
 N Kill the Defias Messenger. Loot him for his Mysterious Message - The Defias Messenger spawns in Moonbrook. He walks along the road north of Moonbrook, to the Gold Coast Quarry and Jangolode Mine. If you don't see him along the road, wait for him to spawn in Moonbrook - He has a 4-5 minute respawn timer - A Mysterious Message (1) - (44.5, 69.6) |QID|142|
 T The Defias Brotherhood |QID|142| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)|
 A The Defias Brotherhood |QID|155| |N|Talk to The Defias Traitor - Talk to The Defias Traitor - You may need to wait for The Defias Traitor to spawn if he's not there - (55.7, 47.5)|
@@ -72,19 +72,19 @@ N Kill Skeletal Miners, Undead Dynamiters and Undead Excavators. Loot them for t
 N Kill the Defias inside The Deadmines. Loot them for their Bandanas - Red Silk Bandana (10) |QID|214| |SK|
 N Kill Sneed. Loot him for the Gnoam Sprecklesprocket - Gnoam Sprecklesprocket (1) |QID|2040|
 U The Unsent Letter |QID|373| |N|Kill Edwin VanCleef. Loot him for his Head and [An Unsent Letter] - Use [An Unsent Letter] to start the quest - An Unsent Letter (1) - Head of VanCleef (1)| |U|2874|
-N (56.3, 47.5) |SK|
+N Travel to Sentinel Hill - (56.3, 47.5) |SK|
 N Talk to Scout Riell - Talk to Gryan Stoutmantle and Scout Riell atop the Tower - (56.3, 47.5)
 F Stormwind >> Fly to Stormwind |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |SK|
 A Messenger to Stormwind |QID|121| |N|Talk to General Marcus Jonathan - Talk to General Marcus Jonathan - (64.0, 75.3)|
-N (37.7, 82.1) |SK| |C|Mage|
+N Travel to the Mage Tower - (37.7, 82.1) |SK| |C|Mage|
 t Train your class spells |N|Talk to Elsharin - Talk to Elsharin - (36.9, 81.1)| |C|Mage|
 t Train [Teleport: Stormwind] |N|Talk to Larimaine Purdue - Talk to Larimaine - (39.7, 79.5)| |C|Mage|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Travel to The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 A Devourer of Souls |QID|1716| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock|
 A The Corruption Abroad |QID|3765| |N|Talk to Argos Nightwhisper - Talk to Argos Nightwhisper - (21.4, 55.8)|
 t Train [Cat Form] |N|Talk to Sheldras Moontree - Talk to Sheldras Moontree - (20.9, 55.5)| |C|Druid|
-N (42.5, 33.5) |SK| |C|Paladin/Priest|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Paladin/Priest|
 A The Tome of Valor |QID|1649| |N|Talk to Duthorian Rall - Talk to Duthorian Rall. He will give you the [Tome of Valor] - Tome of Valor (1) - (39.8, 29.8)| |C|Paladin|
 A The Tome of Valor |QID|1650| |N|Talk to Duthorian Rall - Talk to Duthorian Rall - (39.8, 29.8)| |C|Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
@@ -92,7 +92,7 @@ t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (
 A Bazil Thredd |QID|389| |N|Talk to Baros Alexston - Talk to Baros Alexston - (48.1, 30.9)|
 T Underground Assault |QID|2040| |N|Talk to Shoni the Shilent - Talk to Wilder Thistlenettle and Shoni the Shilent - (65.4, 21.2)|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne - (74.6, 52.8)| |C|Rogue|
-N (74.9, 54.0) |SK| |C|Rogue|
+N Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw - (74.9, 54.0) |SK| |C|Rogue|
 A Mathias and the Defias |QID|2360| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)| |C|Rogue|
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior|
 N Talk to Marda Weller - Talk to Marda Weller - Buy a [Longsword] and equip it at 21 - Buy something from the Auction House if there's something cheaper/better - Longsword (1) - (57.4, 56.8) |C|Rogue|
@@ -103,7 +103,7 @@ N Talk to Gunther Weller - Talk to Gunther Weller - Buy a [Dacian Falx] if you h
 N Equip the [Dacian Falx] |U|922| |SK| |C|Warrior/Paladin|
 T Bazil Thredd |QID|389| |N|Talk to Warden Thelwater - Talk to Warden Thelwater - (42.4, 59.2)|
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - This will save you time as you won't need to run around looking for mobs to kill. Skip this step if you wish to not buy any - [Great Goretusk Snout] - [Tough Condor Meat] - [Crisp Spider Meat] - Great Goretusk Snout (5) - Tough Condor Meat (5) - Crisp Spider Meat (5) - (53.6, 59.8)
-N (32.2, 49.7) |SK|
+N Exit Stormwind. Travel to Goldshire - (32.2, 49.7) |SK|
 A Return to Verner |QID|119| |N|Talk to Smith Argus - Talk to Smith Argus - (41.7, 65.5)|
 A Return to Verner |QID|119| |N|Talk to Smith Argus - Talk to Smith Argus - (41.7, 65.5)|
 A A Watchful Eye |QID|94| |N|Talk to Theocritus - Talk to Theocritus at the top - (65.2, 69.7)|
@@ -144,7 +144,7 @@ N Jump into the Lake - Open the Sunken Chest. Loot it for Oslow's Toolbox - Oslo
 N (49.0, 70.0)
 N You MUST do this for your [Poisons] quest later - Stand on the waypoint location. Position your camera and cursor until you can click 3 Practice Lockboxes at once without having to move anything |C|Rogue|
 N Open Lucius's Lockbox. Loot it for the Token of Thievery - Token of Thievery - (52.0, 44.7) |QID|2282| |C|Rogue|
-N (33.5, 49.0) |SK|
+N Travel to Lakeshire - (33.5, 49.0) |SK|
 T Blackrock Menace |QID|20| |N|Talk to Marshal Marris - Talk to Marshal Marris - (33.5, 49.0)|
 A The Everstill Bridge |QID|89| |N|Talk to Foreman Oslow - Talk to Foreman Oslow - (32.1, 48.6)|
 T Murloc Poachers |QID|150| |N|Talk to Dockmaster Baren - Talk to Dockmaster Baren - (27.7, 47.4)|
@@ -164,21 +164,21 @@ N Equip the [Longsword] |U|923| |SK| |C|Rogue|
 N Talk to Gunther Weller - Talk to Gunther Weller - Buy a [Dacian Falx] if you have enough money. Equip it at 21 - Buy something from the Auction House if there's something cheaper/better - Dacian Falx (1) - (57.5, 57.1) |C|Warrior/Paladin|
 N Talk to Gunther Weller - Talk to Gunther Weller - Buy a [Dacian Falx] if you have enough money. Equip it at 21 - Dacian Falx (1) - (57.5, 57.1) |C|Warrior/Paladin|
 N Equip the [Dacian Falx] |U|922| |SK| |C|Warrior/Paladin|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Travel to The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 A Devourer of Souls |QID|1716| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock|
-N (37.7, 82.1) |SK| |C|Mage|
+N Travel to the Mage Tower - (37.7, 82.1) |SK| |C|Mage|
 t Train your class spells |N|Talk to Elsharin - Talk to Elsharin - (36.9, 81.1)| |C|Mage|
 t Train [Teleport: Stormwind] |N|Talk to Larimaine Purdue - Talk to Larimaine - (39.7, 79.5)| |C|Mage|
 A The Corruption Abroad |QID|3765| |N|Talk to Argos Nightwhisper - Talk to Argos Nightwhisper - (21.4, 55.8)|
 t Train [Cat Form] |N|Talk to Sheldras Moontree - Talk to Sheldras Moontree - (20.9, 55.5)| |C|Druid|
-N (42.5, 33.5) |SK| |C|Paladin/Priest|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Paladin/Priest|
 A The Tome of Valor |QID|1649| |N|Talk to Duthorian Rall - Talk to Duthorian Rall. He will give you the [Tome of Valor] - Tome of Valor (1) - (39.8, 29.8)| |C|Paladin|
 A The Tome of Valor |QID|1650| |N|Talk to Duthorian Rall - Talk to Duthorian Rall - (39.8, 29.8)| |C|Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne - (74.6, 52.8)| |C|Rogue|
-N (74.9, 54.0) |SK| |C|Rogue|
+N Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw - (74.9, 54.0) |SK| |C|Rogue|
 A Mathias and the Defias |QID|2360| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)| |C|Rogue|
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior|
 R Travel to Westfall |N|Fly there if you already have the Westfall Flight Path - (56.5, 52.6)| |C|Rogue| |R|NightElf|
@@ -194,17 +194,17 @@ N Collect item 6452 (x1) |SK| |C|Rogue| |R|!Dwarf|
 N Cast Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |U|6452| |O| |C|Rogue| |R|!Dwarf|
 N Cast Cast [Stoneform] to remove the [Touch of Zanzil] debuff |SK| |C|Rogue| |R|Dwarf|
 F Stormwind >> Fly to Stormwind |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |SK| |C|Rogue|
-N (42.9, 33.9) |SK| |C|Rogue| |R|!Dwarf|
+N Travel toward Shaina Fuller - (42.9, 33.9) |SK| |C|Rogue| |R|!Dwarf|
 N Talk to Shaina Fuller - If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead - (43.1, 26.2) |C|Rogue| |R|!Dwarf|
 t Train [Anti-Venom] |N|Talk to Shaina Fuller - If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead - (43.1, 26.2)| |C|Rogue| |R|!Dwarf|
 N Collect item 6452 (x1) |SK| |C|Rogue| |R|!Dwarf|
 N Cast Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |U|6452| |SK| |C|Rogue| |R|!Dwarf|
-N (74.9, 54.0) |SK| |C|Rogue|
+N Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw - (74.9, 54.0) |SK| |C|Rogue|
 T Klaven's Tower |QID|2359| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - Remember to re-equip your main weapon if you switched to a [Dagger] earlier - (75.8, 59.8)| |C|Rogue|
 A Messenger to Stormwind |QID|121| |N|Talk to General Marcus Jonathan - Talk to General Marcus Jonathan - (64.0, 75.3)|
-N (41.8, 65.6) |SK|
+N Travel to Goldshire - (41.8, 65.6) |SK|
 A Return to Verner |QID|119| |N|Talk to Smith Argus - Talk to Smith Argus - (41.7, 65.5)|
-N (65.2, 69.8) |SK|
+N Travel to the Tower of Azora. Ascend the tower - (65.2, 69.8) |SK|
 A A Watchful Eye |QID|94| |N|Talk to Theocritus - Talk to Theocritus at the top - (65.2, 69.7)|
 F Redridge >> Fly to Redridge |N|If you're in Goldshire it will be faster to Fly from Stormwind - If you're at the Tower of Azora simply run to Redridge - (66.3, 62.3)| |SK|
 A A Baying of Gnolls |QID|124| |N|Talk to Verner Osgood - Talk to Verner Osgood - (31.0, 47.3)|

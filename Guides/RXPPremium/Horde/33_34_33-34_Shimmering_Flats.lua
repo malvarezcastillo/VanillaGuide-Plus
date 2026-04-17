@@ -11,11 +11,11 @@ A Family Tree |QID|5361| |N|Talk to Cliffwatcher Longhorn - Talk to Cliffwatcher
 N Talk to Starn - Talk to Starn - Buy a [Dense Shortbow] from him if it's up - (44.9, 50.7) |C|Hunter|
 N Talk to Starn - Talk to Starn - Buy [Razor Arrows] from him - Collect item 3030 (x2600) - (44.9, 50.7) |C|Hunter|
 N Talk to Montarr - Talk to Montarr - (45.1, 50.8)
-N (54.7, 44.4) |SK| |C|Shaman|
+N Run up the ramp here - (54.7, 44.4) |SK| |C|Shaman|
 T Call of Air |QID|1531| |N|Talk to Prate Cloudseer - Talk to Prate - This turn-in grants a 1-hour buff with +40% move speed, +30% attack speed - (53.5, 42.7)| |C|Shaman|
 T Test of Strength |QID|1151| |N|Talk to Dorn Plainstalker - Talk to Dorn Plainstalker - (53.9, 41.5)|
 A The Swarm Grows |QID|1147| |N|Talk to Moktar Krin - Talk to Moktar - (67.6, 64.0)|
-N Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way - (77.8, 77.3) |QID|1110| |SK|
+N Travel to Kravel - Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way - (77.8, 77.3) |QID|1110| |SK|
 A Rocket Car Parts |QID|1110| |N|Talk to Kravel Koalbeard - Talk to Kravel - (77.8, 77.3)|
 A Hardened Shells |QID|1105| |N|Talk to Wizzle Brassbolts - Talk to Fizzle and Wizzle - (78.1, 77.1)|
 T Delivery to the Gnomes |QID|1114| |N|Talk to Fizzle Brassbolts - Talk to Fizzle and Wizzle - (78.1, 77.1)|
@@ -36,7 +36,7 @@ A Martek the Exiled |QID|1106| |N|Talk to Fizzle Brassbolts - Talk to Fizzle and
 T Hardened Shells |QID|1105| |N|Talk to Wizzle Brassbolts - Talk to Fizzle and Wizzle - (78.1, 77.1)|
 A Goblin Sponsorship |QID|1178| |N|Talk to Pozzik - Talk to Pozzik - (80.2, 75.9)|
 T A Bump in the Road |QID|1175| |N|Talk to Trackmaster Zherin - Talk to Zherin - (81.6, 78.0)|
-N (75.4, 97.4)
+N Travel to Gadgetzan - (75.4, 97.4)
 R Freewind Post >> Fly to Freewind Post |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK|
 A Family Tree |QID|5361| |N|Talk to Cliffwatcher Longhorn - Talk to Cliffwatcher Longhorn - (45.7, 50.7)|
 R Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Nyse - Talk to Nyse - (45.1, 49.1)| |SK|

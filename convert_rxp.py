@@ -367,6 +367,12 @@ def parse_step(step_lines, step_filter, current_zone):
             if zone and x is not None and y is not None:
                 result['zone'] = zone
                 result['coords'].append(f"{x:.1f}, {y:.1f}")
+            # Capture trailing `>>Description` on the goto line itself
+            m = re.search(r'>>\s*(.+)', body)
+            if m:
+                desc = strip_formatting(m.group(1))
+                if desc:
+                    notes.append(desc)
 
         elif body.startswith('.accept'):
             result['action'] = 'A'

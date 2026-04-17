@@ -11,10 +11,12 @@ N You have selected a guide meant for Gnomes and Dwarves. You should choose the 
 N Note that you have selected the single target mage guide. Single target is a lot safer than AoE Mage, but a LOT slower |SK| |C|Mage|
 A Dwarven Outfitters |QID|179| |N|Talk to Sten Stoutarm - Talk to Sten Stoutarm - (29.9, 71.2)|
 N Kill and loot Ragged Young Wolves until you have 10 copper or more of vendor trash - Tough Wolf Meat (8) |QID|179| |SK| |C|Warrior/Warlock|
+N Enter Anvilmar |SK| |C|Warrior/Warlock|
 N Talk to Grundel Harkin - Talk to Grundel Harkin inside - Vendor Trash |C|Warrior/Warlock|
 t Train [Battle Shout] |N|Talk to Thran Khorman - Talk to Thran Khorman inside| |C|Warrior|
 A Beginnings |QID|1599| |N|Talk to Alamar Grimm - Talk to Alamar Grimm inside - (28.6, 66.1)| |C|Warlock|
 H Hearthstone |SK| |C|Warrior/Warlock|
+N Exit Anvilmar |SK| |C|Warlock|
 N Kill Ragged Young Wolves. Loot them for their Tough Wolf Meat - Collect Tough Wolf Meat (x8) |QID|179|
 G Grind to level 2 |N|Kill Ragged Young Wolf| |O|
 N Talk to Adlin Pridedrift - Talk to Adlin Pridedrift - Vendor Trash - Buy 15 [Refreshing Spring Water] from him - Grind extra Ragged Young Wolves if you don't have enough money - Collect Refreshing Spring Water (x15) - (30.1, 71.6) |C|Priest/Mage/Warlock|
@@ -22,10 +24,12 @@ N Talk to Adlin Pridedrift - Talk to Adlin Pridedrift - (30.1, 71.6) |SK| |C|!Pr
 A Coldridge Valley Mail Delivery |QID|233| |N|Talk to Sten Stoutarm - Talk to Sten Stoutarm - (29.9, 71.2)|
 A A New Threat |QID|170| |N|Talk to Balir Frosthammer - Talk to Balir Frosthammer - (29.7, 71.3)|
 N Kill Rockjaw Troggs, Burly Rockjaw Troggs, Ragged Young Wolves, and Ragged Timber Wolves en route - Try to avoid Frostmane Troll Whelps - Kill Rockjaw Trogg (x6) - Kill Burly Rockjaw Trogg (x6) |QID|170| |SK| |C|Warlock|
-N (26.9, 79.8) |SK| |C|Warlock|
+N Enter the Frostmane Cave - (26.9, 79.8) |SK| |C|Warlock|
+N Travel toward the Frostmane Novices inside |SK| |C|Warlock|
 N Kill Frostmane Novices inside. Loot them for their Feather Charms - Collect Feather Charm (x3) |QID|1599| |C|Warlock|
 H Hearthstone |SK| |C|Warlock| |M|hardcore|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |C|Warlock| |M|speedrun|
+N Enter Anvilmar |SK| |C|Warlock|
 N Talk to Alamar Grimm - Talk to Alamar Grimm upstairs - (28.6, 66.1) |C|Warlock|
 N Kill Rockjaw Troggs and Burly Rockjaw Troggs - Kill Rockjaw Trogg (x6) - Kill Burly Rockjaw Trogg (x6) |QID|170| |SK|
 A Coldridge Valley Mail Delivery |QID|234| |N|Talk to Talin Keeneye - Talk to Talin Keeneye - (22.6, 71.4)|
@@ -38,11 +42,12 @@ A The Troll Cave |QID|182| |N|Talk to Grelin Whitebeard - Talk to Grelin Whitebe
 N Kill Frostmane Troll Whelps - Kill Frostmane Troll Whelp (x14) |QID|182| |SK| |C|Hunter|
 G Grind to level 4 |C|Hunter|
 A Scalding Mornbrew Delivery |QID|3364| |N|Talk to Nori Pridedrift - Talk to Nori Pridedrift - This will start a 5 minute timer for the quest. Do NOT go AFK or log out for the next 5 minutes - (25.0, 76.0)| |C|Paladin/Warlock/Hunter|
-N You have 5 minutes to return to Anvilmar before [Duncan's Scalding Mornbrew] expires |SK| |C|Paladin/Warlock/Hunter|
+N You have 5 minutes to return to Anvilmar before [Duncan's Scalding Mornbrew] expires - Enter Anvilmar |SK| |C|Paladin/Warlock/Hunter|
 A Bring Back the Mug |QID|3365| |N|Talk to Durnan Furcutter - Talk to Durnan Furcutter inside - Vendor Trash - (28.8, 66.4)| |C|Paladin/Warlock/Hunter|
 t Train [Serpent Sting] |N|Talk to Thorgas Grimson - Talk to Thorgas Grimson - (29.2, 67.5)| |C|Hunter|
 t Train [Judgement] |N|Talk to Bromos Grummner - Talk to Bromos Grummner inside - (28.8, 68.3)| |C|Paladin|
 t Train [Corruption] |QID|3115| |N|Talk to Alamar Grimm - Talk to Alamar Grimm upstairs - (28.6, 66.1)| |C|Warlock|
+N Exit Anvilmar |SK| |C|Paladin/Warlock/Hunter| |M|hardcore|
 T A New Threat |QID|170| |N|Talk to Balir Frosthammer - Talk to Balir Frosthammer - (29.7, 71.3)| |C|Paladin/Warlock/Hunter|
 N Talk to Adlin Pridedrift - Talk to Adlin Pridedrift - Vendor Trash - Buy 15 [Refreshing Spring Water] from him - Collect Refreshing Spring Water (x15) - (30.1, 71.6) |C|Warlock|
 N Kill Rockjaw Troggs and Burly Rockjaw Troggs - Kill Rockjaw Trogg (x6) - Kill Burly Rockjaw Trogg (x6) |QID|170| |SK| |C|!Paladin/!Warlock/!Hunter|
@@ -51,8 +56,11 @@ A The Stolen Journal |QID|218| |N|Talk to Grelin Whitebeard - Talk to Grelin Whi
 T Bring Back the Mug |QID|3365| |N|Talk to Nori Pridedrift - Talk to Nori Pridedrift - (25.0, 76.0)| |C|Paladin/Warlock/Hunter|
 A Scalding Mornbrew Delivery |QID|3364| |N|Talk to Nori Pridedrift - Talk to Nori Pridedrift - This will start a 5 minute timer for the quest. Do NOT go AFK or log out for the next 5 minutes - (25.0, 76.0)| |C|!Paladin/!Warlock/!Hunter| |M|speedrun|
 N You have 5 minutes to get Grelin Whitebeard's Journal and return to Anvilmar before [Duncan's Scalding Mornbrew] expires - If you fail the quest don't worry as you can get it again later |SK| |C|!Paladin/!Warlock/!Hunter| |M|speedrun|
+N Enter the Frostmane Cave |SK|
+N Travel towards Grik'nir the Cold inside |SK|
 N Kill Grik'nir the Cold inside. Loot him for Grelin Whitebeard's Journal - Collect Grelin Whitebeard's Journal (x1) |QID|218|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |C|!Paladin/!Warlock/!Hunter| |M|speedrun|
+N Exit the Frostmane Cave |SK|
 A Scalding Mornbrew Delivery |QID|3364| |N|Talk to Nori Pridedrift - Talk to Nori Pridedrift - (25.0, 76.0)| |C|!Paladin/!Warlock/!Hunter| |M|hardcore|
 A Senir's Observations |QID|282| |N|Talk to Grelin Whitebeard - Talk to Grelin Whitebeard - (25.1, 75.7)|
 A Bring Back the Mug |QID|3365| |N|Talk to Durnan Furcutter - Talk to Durnan Furcutter - If you failed the quest, skip this step - Vendor Trash - (28.8, 66.4)| |C|!Paladin/!Warlock/!Hunter| |M|speedrun|
@@ -68,12 +76,13 @@ t Train [Frostbolt] |N|Talk to Marryk Nurribit - Talk to Marryk Nurribit inside 
 t Train [Stealth] |N|Talk to Solm Hargrin - Talk to Solm Hargrin - (28.4, 67.5)| |C|Rogue|
 t Train your class spells |N|Talk to Branstock Khalder - Talk to Branstock Khalder - (28.6, 66.4)| |C|Priest|
 t Train [Rend] |N|Talk to Thran Khorman - Talk to Thran Khorman - (28.8, 67.2)| |C|Warrior|
+N Exit Anvilmar |SK| |C|!Paladin/!Warlock/!Hunter|
 T A New Threat |QID|170| |N|Talk to Balir Frosthammer - Talk to Balir Frosthammer - (29.7, 71.3)| |C|!Paladin/!Warlock/!Hunter|
 N Talk to Adlin Pridedrift - Talk to Adlin Pridedrift - Vendor Trash - Buy 5 [Refreshing Spring Water] from him - Collect Refreshing Spring Water (x5) - (30.1, 71.6) |C|Priest/Mage|
 A Senir's Observations |QID|282| |N|Talk to Grelin Whitebeard - Talk to Grelin Whitebeard - (25.1, 75.7)| |C|!Paladin/!Warlock/!Hunter| |M|speedrun|
 T Bring Back the Mug |QID|3365| |N|Talk to Nori Pridedrift - Talk to Nori Pridedrift - (25.0, 76.0)| |C|!Paladin/!Warlock/!Hunter|
 A Supplies to Tannok |QID|2160| |N|Talk to Hands Springsprocket - Talk to Mountaineer Thalos and Hands Springsprocket - (33.5, 71.8)|
-N (34.3, 71.0)
+N Travel through Coldridge Pass - (34.3, 71.0)
 
 ]]
 end)

@@ -21,7 +21,7 @@ N Kill Inferno Elementals, Blazing Elementals and Magma Elementals. Loot them fo
 A Forging the Shaft |QID|3443| |N|Talk to Velarok Windblade - Talk to Velarok Windblade - (39.1, 39.0)|
 N (47.5, 46.9) |SK|
 N Kill Incendosaurs - (46.7, 42.5) |QID|7727|
-N (48.4, 41.1)
+N Run back out of the cave, then follow the platform to the upper entrance of the cave - (48.4, 41.1)
 N Kill Overseer Maltorius. Loot him for his Head - This quest can be quite difficult. Look for additional group members if required - (40.8, 35.8) |QID|7701| |SK|
 N Loot the Secret Plans: Fiery Flux on the bench - After looting, jump down below to the main floor OR the ledge to the right of the plans to evade any mobs you have aggro of - This quest can be quite difficult. Look for additional group members if required - (40.4, 35.7) |QID|7722| |SK|
 U The Key to Freedom |QID|4451| |N|Kill +Dark Iron Slaver - Kill Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] - Any Dark Iron Dwarf may drop Thorium Plated Daggers and the [Grimesilt Outhouse Key] - Use the [Grimesilt Outhouse Key] to start the quest - Collect item 11818 (x1) - (43.2, 35.1)| |U|11818|

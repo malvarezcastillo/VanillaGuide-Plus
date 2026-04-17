@@ -35,28 +35,28 @@ N Move onto the Gazebo in the center of Mystral Lake - (48.9, 69.6) |QID|25|
 U The Befouled Element |QID|1918| |N|Kill Tideress. Loot her for the [Befouled Water Globe]. Use it to start the quest - Tideress patrols around the island and underwater - Collect item 16408 (x1) - (48.7, 69.5)| |U|16408|
 N Kill Befouled Water Elementals - (48.4, 69.7) |QID|25|
 U Ursangous's Paw |QID|23| |N|Kill Ursangous. Loot him for [Ursangous's Paw] and use it to start the quest - He patrols around slightly - Collect item 16303 (x1) - (43.8, 68.9)| |U|16303|
-N (35.6, 56.3) |SK|
+N Be careful of running into Astranaar (Alliance town), Alliance Guards can kill you. Follow the waypoint arrow for safety - (35.6, 56.3) |SK|
 N Use the [Empty Blue Waterskin] under the Gazebo - (33.5, 67.5) |QID|1534| |U|7767| |C|Shaman|
-N (12.2, 33.8) |SK|
+N Travel to Zoram Strand - (12.2, 33.8) |SK|
 f Zoram'gar Outpost >> Get the Zoram'gar Outpost flight path |N|Talk to Andruk - Talk to Andruk - (12.2, 33.8)| |SK|
 A Troll Charm |QID|6462| |N|Talk to Mitsuwa - Talk to Je'neu, Karang and Mitsuwa - (11.6, 34.3)|
 A Vorsha the Lasher |QID|6641| |N|Talk to Muglash - Talk to Muglash - This will start an escort quest. Be careful as it's difficult - (12.1, 34.6)|
 N Click the Brazier when you get there - There will be waves of Naga that spawn first - (9.6, 27.6) |QID|6641|
 T Vorsha the Lasher |QID|6641| |N|Talk to Warsong Runner - Talk to Warsong Runner - (12.2, 34.2)|
-N Make sure to avoid Astranaar guards en route - (36.8, 33.5)
+N Travel to Thistlefur Village - Make sure to avoid Astranaar guards en route - (36.8, 33.5)
 N Kill Thistlefur Shamans and Thistlefur Avengers en route to the cave |QID|216| |SK|
-N (38.7, 30.6)
+N Enter Thistlefur Hold - (38.7, 30.6)
 N Loot the Troll Chests on the ground for Troll Charms - (40.4, 33.2) |QID|6462|
 A Freedom to Ruul |QID|6482| |N|Talk to Ruul Snowhoof - Talk to Ruul in the back of the cave. This will start an escort - (41.5, 34.5)|
 N Talk to Ruul Snowhoof - Escort Ruul out of Thistlefur Village - Be careful! 3 Thistlefurs will spawn once you are halfway through the cave and another 3 outside the gate of Thistlefur Village - (38.7, 36.9) |QID|6482|
 N Finish killing Thistlefur Shamans and Thistlefur Avengers - (35.8, 32.0) |QID|216|
-N (58.0, 55.9) |SK|
+N Travel east toward Raynewood Retreat - (58.0, 55.9) |SK|
 U Shadumbra's Head |QID|24| |N|Kill Shadumbra. Loot her for [Shadumbra's Head] and use it to start the quest - Shadumbra patrols around slightly - Collect item 16304 (x1) - (52.2, 54.4)| |U|16304| |SK|
 N Kill Laughing Sister - Kill Laughing Sisters. Loot them for an [Etched Phial] - Collect item 5867 (x1) - (58.1, 56.1)
 U Shadumbra's Head |QID|24| |N|Kill Shadumbra. Loot her for [Shadumbra's Head] and use it to start the quest - Shadumbra patrols around slightly - Collect item 16304 (x1) - (60.9, 51.5)| |U|16304|
 N Talk to Keeper Ordanus - Kill Keeper Ordanus at the top of the building. Loot him for his Head - Be careful! He has two Cenarion Vindicators defending him. They can cast [Force of Nature] (summon 3 Treants) - Ordanus can cast [Entangling Roots] and [Lightning Bolt] - (62.1, 51.3) |QID|1088|
-N Be careful! A level 35 Wandering Protector (PVP elite) might patrol the area! - (63.0, 44.2)
-N (64.9, 43.8) |SK|
+N Travel toward the western entrance point into Night Run - Be careful! A level 35 Wandering Protector (PVP elite) might patrol the area! - (63.0, 44.2)
+N Travel to Night Run - (64.9, 43.8) |SK|
 N Kill Felmusk Shadowstalkers, Felmusk Satyrs, and Felmusk Felsworns. Loot them for their Satyr Horns - (67.8, 51.3) |QID|6441|
 N Use the [Etched Phial] in the Moonwell - (60.2, 72.9) |QID|1195| |U|5867|
 T Ashenvale Outrunners |QID|6503| |N|Talk to Kuray'bin - Talk to Kuray'bin - (71.1, 68.1)|
@@ -78,7 +78,7 @@ A Allegiance to the Old Gods |QID|6565| |N|Talk to Je'neu Sancrea - Talk to Je'n
 A Amongst The Ruins |QID|6921| |N|Talk to Je'neu Sancrea - Talk to Je'neu Sancrea - (11.6, 34.3)|
 T Je'neu of the Earthen Ring |QID|824| |N|Talk to Je'neu Sancrea - Talk to Je'neu Sancrea - (11.6, 34.3)| |C|!Rogue|
 A Amongst The Ruins |QID|6921| |N|Talk to Je'neu Sancrea - Talk to Je'neu Sancrea - (11.6, 34.3)| |C|Rogue|
-N (43.9, 35.2)
+N Travel to the entrance of Blackfathom Deeps - (43.9, 35.2)
 N Loot Sapphire of Aku'Mai from the wall |QID|6563| |SK|
 U Allegiance to the Old Gods |QID|6564| |N|Kill Blackfathom Tide Priestess - Kill Blackfathom Tide Priestesses. Loot them for a [Damp Note] and use it to start the quest - Collect item 16790 (x1) - (43.9, 34.9)| |U|16790|
 N Loot Sapphire of Aku'Mai from the wall - (44.3, 35.1) |QID|6563|
@@ -96,7 +96,7 @@ T Allegiance to the Old Gods |QID|6565| |N|Talk to Je'neu Sancrea - Talk to Je'n
 T The Essence of Aku'Mai |QID|6563| |N|Talk to Je'neu Sancrea - Talk to Je'neu Sancrea - (11.6, 34.3)|
 T Amongst The Ruins |QID|6921| |N|Talk to Je'neu Sancrea - Talk to Je'neu Sancrea - (11.6, 34.3)|
 T Baron Aquanis |QID|6922| |N|Talk to Je'neu Sancrea - Talk to Je'neu Sancrea - (11.6, 34.3)|
-N (43.9, 35.2) |C|Rogue|
+N Travel to the entrance of Blackfathom Deeps - (43.9, 35.2) |C|Rogue|
 N Loot Sapphire of Aku'Mai from the wall |QID|6563| |SK| |C|Rogue|
 U Allegiance to the Old Gods |QID|6564| |N|Kill Blackfathom Tide Priestess - Kill Blackfathom Tide Priestesses. Loot them for a [Damp Note] and use it to start the quest - Collect item 16790 (x1) - (43.9, 34.9)| |U|16790| |C|Rogue|
 N Loot Sapphire of Aku'Mai from the wall - (44.3, 35.1) |QID|6563| |C|Rogue|

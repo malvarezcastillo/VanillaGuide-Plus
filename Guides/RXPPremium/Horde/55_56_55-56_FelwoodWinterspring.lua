@@ -78,7 +78,7 @@ N Click the four Braziers on the ground - (36.3, 56.3) |QID|5165|
 N (37.4, 49.8) |SK|
 N Talk to Corrupted Saber - Interact with the Corrupted Saber once you are standing next to Winna Hazzard |QID|4506| |SK|
 T Corrupted Sabers |QID|4506| |N|Talk to Winna Hazzard - Approach Winna. Talk to the Corrupted Saber and then talk to Winna - (34.2, 52.3)|
-N (64.7, 8.1) |SK|
+N Travel to the the Timbermaw Hold Entrance - (64.7, 8.1) |SK|
 A Deadwood of the North |QID|8461| |N|Talk to Nafien - Talk to Nafien - (64.7, 8.1)|
 N Kill Deadwood Den Watchers, Deadwood Avengers ann Deadwood Shamans - Kill Deadwood Avengers first. If you multi-pull it will enrage if any furbolgs die nearby - (62.7, 8.1) |QID|8461| |SK|
 A Mystery Goo |QID|5085| |N|Click the Deadwood Cauldron - This is an instant cast. You can run away from the Deadwood Furbolgs after turning it in - (60.2, 5.9)|
@@ -152,8 +152,8 @@ N (35.4, 58.4) |SK|
 N Kill Rakaiah deep inside Shadow Hold - (35.4, 58.7) |QID|5204|
 A The Remains of Trey Lightforge |QID|5385| |N|Talk to Remains of Trey Lightforge - Talk to Remains of Trey Lightforge - Mobs around the remains can bug by keeping you in combat, despite not attacking you - (38.5, 50.4)|
 N Kill Shadow Lord Fel'dan, Moora and Salia. Loot Shadow Lord Fel'dan for his Head - Linger outside of the room and use line of sight (LOS) to avoid Fel'dan's shadowbolts. When he starts casting, hide out of sight. As soon as his cast ends/fails, step into sight so he starts casting again/doesn't get too close to the LOS point - (38.9, 46.8) |QID|5242|
-N (38.7, 46.8) |SK|
-N (35.4, 58.7)
+N Perform a logout skip to teleport out of Shadow Hold - (38.7, 46.8) |SK|
+N Exit Shadow Hold - (35.4, 58.7)
 N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |SK| |M|speedrun|
 N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |SK| |M|hardcore|
 N Kill Toxic Horrors. Loot them for their Toxic Horror Droplets - (49.8, 27.3) |QID|5086|
@@ -172,7 +172,7 @@ N Kill Winterfall Runners - The Runner's located at the cauldron in the northwes
 A High Chief Winterfall |QID|5121| |N|Talk to Donova Snowden - Talk to Donova - (31.3, 45.2)|
 D Die and respawn |SK| |C|!Mage| |M|speedrun|
 R Felwood>>Fly to Felwood |N|Talk to Yugrek - Talk to Yugrek` - (60.5, 36.3)| |C|!Mage| |M|speedrun|
-N (32.1, 66.6) |SK| |C|!Mage| |M|hardcore|
+N Go back to the Furbolg tunnel and take the north exit into Moonglade - (32.1, 66.6) |SK| |C|!Mage| |M|hardcore|
 R Felwood >> Fly to Felwood |N|Talk to Faustron - Talk to Faustron - (32.1, 66.6)| |C|!Mage| |M|hardcore|
 N Cast Cast [Teleport: Orgrimmar] |SK| |C|Mage|
 R Splintertree >> Fly to Splintertree Post |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |C|Mage|
@@ -204,7 +204,7 @@ t Train your class spells |N|Talk to Anastasia Hartwell - Talk to Anastasia - (8
 t Train your class spells |N|Talk to Anastasia Hartwell - Talk to Anastasia - (85.2, 10.1)| |O| |C|Mage|
 N Talk to Hannah Akeley - Talk to Hannah Akeley - Buy at least two [Rune of Teleportation] - Collect item 17031 (x2) - (82.8, 15.8) |C|Mage|
 R Leave Orgrimmar |SK| |C|!Mage|
-R Take the Zeppelin to Tirisfal Glades |N|(50.8, 13.8)| |C|!Mage|
+R Take the Zeppelin to Tirisfal Glades |N|Go up the Zeppelin Tower - (50.8, 13.8)| |C|!Mage|
 
 ]]
 end)

@@ -8,12 +8,12 @@ return [[
 N 48-49 The Hinterlands |N|Converted from RestedXP guide|
 
 R Leave Orgrimmar |SK|
-R Take the Zeppelin to Tirisfal Glades |N|(50.8, 13.8)|
+R Take the Zeppelin to Tirisfal Glades |N|Go up the Zeppelin Tower - (50.8, 13.8)|
 N Cast Cast [Teleport: Undercity] |C|Mage|
 t Train [Teleport: Undercity] |N|Talk to Lexington Mortaim - Talk to Lexington - (84.2, 15.6)| |C|Mage|
 N Talk to Hannah Akeley - Talk to Hannah - Buy at least four Rune of Teleportation from her - Collect item 17031 (x4) - (82.8, 15.8) |C|Mage|
 A Lines of Communication |QID|2995| |N|Talk to Oran Snakewrithe - Talk to Oran - (73.2, 32.8)|
-N (47.2, 59.7) |SK|
+N Travel toward Zinge - (47.2, 59.7) |SK|
 T Return to Apothecary Zinge |QID|864| |N|Talk to Apothecary Zinge - Talk to Zinge - (50.0, 68.2)|
 T To the Undercity for Yagyin's Digest |QID|728| |N|Talk to Keeper Bel'dugur - Talk to Bel'dugur - (53.8, 54.5)|
 T Reclaimed Treasures |QID|2342| |N|Talk to Patrick Garrett - Talk to Patrick - (62.3, 48.6)|
@@ -89,7 +89,7 @@ N Loot the Pile of Bones at the center of the pit for Huntsman Malkhor's Bones -
 N Loot the Pile of Skulls for Huntsman Malkhor's Skull - (58.6, 64.9) |QID|7849|
 A Recover the Key! |QID|7846| |N|Talk to Elder Torntusk - Talk to Elder Torntusk - (59.6, 77.8)|
 A Recover the Key! |QID|7846| |N|Talk to Elder Torntusk - Talk to Elder Torntusk - (59.6, 77.8)|
-N (57.3, 86.0) |SK|
+N You can get to the upper level (without fighting through many guards) by doing a jump skip - (57.3, 86.0) |SK|
 N Kill Vilebranch Aman'zasi Guards |QID|7861| |SK|
 N Kill Vile Priestess Hex - Be extremely cautious of her Hex ability, which she can potentially spam - (59.3, 78.2) |QID|7861|
 N Loot the Ancient Egg |QID|4787| |SK|
@@ -101,7 +101,7 @@ A Return to Primal Torntusk |QID|7847| |N|Talk to Elder Torntusk - Talk to Elder
 N Finish killing Vilebranch Trolls - Soul Eaters are on the 2nd level. Berserkers are on the 3rd level. Blood Drinkers and Shadow Hunters are on the 4th and 5th levels - (60.6, 65.4) |QID|7862|
 N Finish looting the Vessels of Tainted Blood on the ground - (67.9, 73.4) |QID|7850|
 N (77.3, 78.6) |SK|
-N (77.8, 81.5) |SK|
+N Go upstairs - (77.8, 81.5) |SK|
 T Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |N|Talk to Primal Torntusk - Talk to Primal Torntusk - (78.2, 81.2)|
 T Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |N|Talk to Primal Torntusk - Talk to Primal Torntusk - (78.2, 81.2)| |O|
 T Job Opening: Guard Captain of Revantusk Village |QID|7862| |N|Talk to Primal Torntusk - Talk to Primal Torntusk - (78.2, 81.2)| |O|
@@ -142,7 +142,7 @@ N Cast Cast [Teleport: Undercity] |SK| |C|Mage|
 N Talk to Hannah Akeley - Talk to Hannah - Buy at least four Rune of Teleportation from her - Collect item 17031 (x4) - (82.8, 15.8) |C|Mage|
 N Talk to Auctioneer Rhyker - Talk to Auctioneer Rhyker - Buy the following from the Auction House - Deposit them onto the bank afterwards! - Collect item 8391 (x5) - Collect item 8392 (x6) - Collect item 8393 (x6) - Collect item 8396 (x14) - Collect item 8394 (x11) - (64.2, 49.6)
 T Oran's Gratitude |QID|8273| |N|Talk to Oran Snakewrithe - Talk to Oran - (73.5, 32.7)|
-N (47.2, 59.7) |SK|
+N Travel toward Cuely - (47.2, 59.7) |SK|
 A Seeping Corruption |QID|3568| |N|Talk to Chemist Cuely - Talk to Cuely - (48.5, 71.9)|
 U Hearthstone |U|6948|
 R Tanaris >> Fly to Tanaris |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O|

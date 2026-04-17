@@ -35,8 +35,8 @@ T Jarl Needs Eyes |QID|1206| |N|Talk to "Swamp Eye" Jarl - Talk to "Swamp Eye" J
 G AoE Murlocs to level 40 |N|(57.2, 21.0)|
 t Train your class spells |R|Undead|
 N Go to the Reagent Vendor on your right and perform a Logout Skip by positioning your character on the highest part of the lowest staircase until it looks like they're floating, then logging out and back in. - If you can't do this, just run out of Undercity normally - (82.4, 15.3) |SK|
-N Skip this step if you won't have 90g or more after vendoring trash - (61.9, 66.6) |R|Undead|
-N Skip this step if you won't have 50g or more after vendoring trash - (61.9, 66.6) |R|Undead|
+N Skip this step if you won't have 90g or more after vendoring trash - Exit Undercity - (61.9, 66.6) |R|Undead|
+N Skip this step if you won't have 50g or more after vendoring trash - Exit Undercity - (61.9, 66.6) |R|Undead|
 t Run into Tirisfal Glades and get your mount and mount training. |N|(59.9, 52.6)| |R|Undead|
 t Run into Tirisfal Glades and get your mount and mount training. |N|(59.9, 52.6)| |R|Undead|
 t Train your class spells |R|Troll|
@@ -55,7 +55,7 @@ f Freewind Post >> Get the Freewind Post flight path |N|This is completely optio
 h Tanaris |N|Travel to Tanaris. Ride through Barrens -> Thousand Needles -> Gadgetzan - (52.5, 27.9)|
 A Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)| |M|speedrun|
 A Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)| |M|speedrun|
-N (38.7, 20.0) |M|speedrun|
+N Travel to Zul'Farrak - (38.7, 20.0) |M|speedrun|
 N You're now going to be doing Zul'Farrak. This can be extremely difficult, but is absolutely worth the xp/hr once you learn to do it - Click either of the links depending on whether or not you have a mount yet |SK| |M|speedrun|
 N Loot Troll Temper from the mobs you kill inside of Zul'Farrak |QID|3042| |SK| |M|speedrun|
 G AoE Zul'Farrak to level 44 |N|Start saving the Silk Cloth and Mageweave Cloth you get. You need 12 stacks of each for later| |M|speedrun|
@@ -67,7 +67,7 @@ A Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to
 N AoE Bandits and Thieves. Loot them for Water Pouches - Be careful as some of the mobs under the tents are bugged, and will evade all mobs aggroed onto you if you aggro one of them - (63.7, 31.3) |QID|1707| |M|speedrun|
 N Look for Caliph Scorpidsting in the area. Kill and loot him for his head - Be careful as he has two stealthed adds right next to him - (62.2, 37.8) |QID|2781| |M|speedrun|
 T WANTED: Caliph Scorpidsting |QID|2781| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.4)| |M|speedrun|
-N (68.7, 41.5) |M|speedrun|
+N Travel to Lost Rigger Cove. Open the AoE guide en route and watch it - (68.7, 41.5) |M|speedrun|
 N Loot pirates you AoE in the area for their hats |QID|8365| |SK| |M|speedrun|
 N Kill Andre Firebeard |QID|2875| |SK| |M|speedrun|
 A Ship Schedules |QID|2876| |N|Loot the Ship Schedule from the footlockers that drop from pirates in the area - Collect item 9250 (x1)| |SK| |M|speedrun|
@@ -83,7 +83,7 @@ A Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty Modi
 A Southsea Shakedown |QID|8366| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)| |M|hardcore|
 N AoE Bandits and Thieves. Loot them for Water Pouches - Be careful as some of the mobs under the tents are bugged, and will evade all mobs aggroed onto you if you aggro one of them - (63.7, 31.3) |QID|1707| |M|hardcore|
 T Wastewander Justice |QID|1690| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.4)| |M|hardcore|
-N (68.7, 41.5) |M|hardcore|
+N Travel to Lost Rigger Cove. Open the AoE guide en route and watch it - (68.7, 41.5) |M|hardcore|
 N Loot pirates you AoE in the area for their hats |QID|8365| |SK| |M|hardcore|
 N Kill Andre Firebeard |QID|2875| |SK| |M|hardcore|
 A Ship Schedules |QID|2876| |N|Loot the Ship Schedule from the footlockers that drop from pirates in the area - Collect item 9250 (x1)| |SK| |M|hardcore|
@@ -104,7 +104,7 @@ G AoE grind to 48 |N|Use any Captain's Keys you get on the 2nd floor of the 2nd 
 A Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)| |M|speedrun|
 T Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)| |M|speedrun|
 A Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)| |M|speedrun|
-N (38.7, 20.0) |M|speedrun|
+N Travel to Zul'Farrak - (38.7, 20.0) |M|speedrun|
 N If you ever hit lockout (max 5 instances per hour) and it won't let you back in ZF, do the Dowsing Widget - (39.1, 29.1) |QID|992| |SK| |M|speedrun|
 N You're now going to learn to do a harder version which takes longer, but gives more xp: Pulling scarabs. |SK| |M|speedrun|
 N You're now going to be doing Zul'Farrak. This can be extremely difficult, but is absolutely worth the xp/hr once you learn to do it - Click either of the links depending on whether or not you have a mount yet |SK| |M|speedrun|
@@ -119,7 +119,7 @@ T WANTED: Caliph Scorpidsting |QID|2781| |N|Talk to Chief Engineer Bilgewhizzle 
 T Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - Vendor and Repair at Krinkle - (51.4, 28.8)| |M|speedrun|
 T Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)| |M|speedrun|
 T Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)| |M|speedrun|
-N (38.7, 20.0) |M|speedrun|
+N Travel to Zul'Farrak - (38.7, 20.0) |M|speedrun|
 G AoE Zul'Farrak to level 52 |M|speedrun|
 T Ship Schedules |QID|2876| |N|Talk to Security Chief Bilgewhizzle - Talk to Security Chief Bilgewhizzle - (67.1, 23.9)| |M|hardcore|
 G AoE grind to 52 |N|Use any Captain's Keys you get on the 2nd floor of the 2nd ship to the east - Remember to save 12 stacks of Mageweave. You'll need it for cloth turnins later - (73.7, 46.9)| |M|hardcore|
@@ -127,12 +127,12 @@ t Teleport to Orgrimmar or Undercity. Train your level 50-52 spells |M|speedrun|
 H Hearthstone |N|Buy food/water if needed| |M|speedrun|
 T Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)| |M|speedrun|
 T Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)| |M|speedrun|
-N (38.7, 20.0) |M|speedrun|
+N Travel to Zul'Farrak - (38.7, 20.0) |M|speedrun|
 G AoE Zul'Farrak to level 54 |N|Remember to save 12 stacks of Mageweave. You'll need it for cloth turnins later| |M|speedrun|
 R Teleport to Undercity
 t Train your class spells |N|(85.2, 10.0)|
 N Go to the Reagent Vendor on your right and perform a Logout Skip by positioning your character on the highest part of the lowest staircase until it looks like they're floating, then logging out and back in. - If you can't do this, just run out of Undercity normally - (82.4, 15.3) |SK|
-N (61.9, 66.6)
+N Exit Undercity - (61.9, 66.6)
 T Argent Dawn Commission |QID|5405| |N|Talk to Argent Officer Garush - Run East to The Bulwark - Talk to Argent Officer Garush - (83.2, 68.5)|
 A Scarlet Diversions |QID|5096| |N|Talk to High Executor Derrington - Talk to High Executor Derrington - (83.1, 68.9)|
 N Loot the crate next to the fire - Collect item 12814 (x1) - (26.6, 56.2)
@@ -167,7 +167,7 @@ t Train your class spells |N|(85.2, 10.0)|
 A The Jeremiah Blues |QID|5049| |N|Talk to Royal Overseer Bauhaus - Talk to Royal Overseer Bauhaus - (67.6, 44.2)|
 A Good Luck Charm |QID|5050| |N|Talk to Ol' Emma - Under the staircase - Talk to Jeremiah Payson - Talk to Ol' Emma - (67.6, 44.2)|
 N Perform a Logout Skip by positioning your character until it looks like they're floating with some distance between you and the ground, then logging out and back in. - If you can't do this, just run out of Undercity normally - (67.6, 44.2) |SK|
-N (61.9, 66.6)
+N Exit Undercity - (61.9, 66.6)
 A Target: Gahrron's Withering |QID|5235| |N|Talk to Shadow Priestess Vandis - Talk to Shadow Priestess Vandis - (26.4, 59.1)|
 N You can now go and do ZG from 58-60. This is EXTREMELY hard, but is faster than open world aoe leveling if you're confident/already know how to do it |SK| |M|speedrun|
 A Two Halves Become One |QID|5051| |N|Talk to Janice Felstone - Go to the top floor of the house. Talk to Janice - Talk to Janice Felstone - (38.4, 54.1)|
@@ -205,7 +205,7 @@ N Summon Mercutio and his goons by clicking on the dirt pile, you have to kill h
 A Of Lost Honor |QID|5845| |N|Talk to Tirion Fordring - Talk to Tirion Fordring - (7.6, 43.7)|
 R Teleport to Undercity
 N Go to the Reagent Vendor on your right and perform a Logout Skip by positioning your character on the highest part of the lowest staircase until it looks like they're floating, then logging out and back in. - If you can't do this, just run out of Undercity normally - (82.4, 15.3) |SK|
-N (61.9, 66.6)
+N Exit Undercity - (61.9, 66.6)
 T Return to the Bulwark |QID|5236| |N|Talk to Shadow Priestess Vandis - Talk to Shadow Priestess Vandis - (83.0, 71.9)|
 A A Plague Upon Thee |QID|5902| |N|Talk to Mickey Levine - Talk to Mickey Levine - (83.3, 72.3)|
 N Use the Beacon Torch in your bags on the side of the doorway (do NOT kill the elite inside) - (40.1, 71.5) |QID|5098|

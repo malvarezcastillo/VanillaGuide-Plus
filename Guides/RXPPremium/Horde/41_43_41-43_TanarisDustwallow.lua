@@ -45,7 +45,7 @@ A Rizzle's Schematics |QID|1194| |N|Click on Rizzle's Unguarded Plans inside the
 A Back to Booty Bay |QID|1118| |N|Talk to Kravel Koalbeard - Talk to Kravel - (77.8, 77.3)|
 T Rizzle's Schematics |QID|1194| |N|Talk to Pozzik - Talk to Pozzik - (80.2, 75.9)|
 U Hearthstone |U|6948| |SK|
-N (75.4, 97.4) |SK|
+N Travel to Gadgetzan - (75.4, 97.4) |SK|
 R Brackenwall >> Fly to Dustwallow Marsh |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK|
 A Overlord Mok'Morokk's Concern |QID|1166| |N|Talk to Overlord Mok'Morokk - Talk to Overlord Mok'Morokk - (36.3, 31.4)|
 A Identifying the Brood |QID|1169| |N|Talk to Draz'Zilb - Talk to Draz'Zilb - (37.1, 33.0)|
@@ -57,7 +57,7 @@ N Kill Firemane Scouts and Firemane Ash Tails |QID|1168| |SK|
 N Kill Searing Whelps and Searing Hatchlings. Loot them for their Tongues and Hearts |QID|1169| |SK|
 N Loot the Barrel on the ground for Mok'Morokk's Snuff - (44.5, 66.0) |QID|1166|
 N Loot the Vase on the ground for Mok'Morokk's Grog - (38.7, 65.6) |QID|1166|
-N (38.3, 66.2) |SK|
+N Enter the cave - (38.3, 66.2) |SK|
 N Kill Firemane Scalebanes - They can only be found inside the cave |QID|1168| |SK|
 N Loot the Chest in the back of the cave for Mok'Morokk's Strongbox - (36.6, 69.5) |QID|1166|
 N Kill Firemane Scalebanes - They can only be found inside the cave - (37.4, 68.5) |QID|1168|
@@ -105,7 +105,7 @@ N Talk to Rekkul - Talk to Rekkul - Stock up on [Flash Powder] and [Poisons] - (
 t Train your class spells |N|Talk to Mirket - Talk to Mirket - (48.6, 47.0)| |C|Warlock|
 t Train your class spells |N|Talk to Mirket - Talk to Mirket - (48.6, 47.0)| |O| |C|Warlock|
 R Leave Orgrimmar |SK| |C|!Mage|
-R Take the Zeppelin to Undercity |N|(50.8, 13.8)| |C|!Mage|
+R Take the Zeppelin to Undercity |N|Go up the Zeppelin Tower - (50.8, 13.8)| |C|!Mage|
 N Cast Cast [Teleport: Undercity] |C|Mage|
 t Train your class spells |N|Talk to Anastasia Hartwell - Talk to Anastasia - (85.1, 10.0)| |C|Mage|
 t Train your class spells |N|Talk to Anastasia Hartwell - Talk to Anastasia - (85.1, 10.0)| |O| |C|Mage|

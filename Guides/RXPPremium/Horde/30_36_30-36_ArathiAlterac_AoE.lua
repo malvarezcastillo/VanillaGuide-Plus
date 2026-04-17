@@ -12,7 +12,7 @@ f Hammerfall >> Get the Hammerfall Flight Path |N|(73.0, 32.7)|
 A Hammerfall |QID|655| |N|Talk to Gor'mul - Talk to Gor'mul - (72.8, 33.7)|
 A Foul Magics |QID|671| |N|Talk to Tor'gan - Talk to Tor'gan - (74.7, 36.3)|
 N AoE raptors en route to Dabyrie Farmstead. Loot them for their eyes |QID|672| |SK|
-N (55.2, 39.9)
+N Run to Dabyrie's Farmstead - (55.2, 39.9)
 N Try and avoid pulling the named mobs just yet if possible. Marcel has Shield Wall (75% reduced damage), Fardel has ranged poison+Thrash, Kenata does nothing |SK|
 G AoE the Dabyrie Farmstead to 32 |N|Start saving the Wool Cloth and Silk Cloth you get. You need 12 stacks for later|
 N AoE the named NPCs. Loot them for their heads - (56.6, 38.7) |QID|1164|
@@ -24,7 +24,7 @@ T To Steal From Thieves |QID|1164| |N|Talk to Genavie Callow - Talk to Genavie C
 T Elixir of Agony |QID|513| |N|Talk to Master Apothecary Faranell - Talk to Master Apothecary Faranell - (53.0, 77.5)|
 H Hearthstone |N|vendor trash|
 N AoE raptors en route to Dabyrie Farmstead. Loot them for their eyes - (42.1, 39.4) |QID|672|
-N (55.2, 39.9)
+N Run to Dabyrie's Farmstead - (55.2, 39.9)
 G AoE the Dabyrie Farmstead to 34 |N|Start saving the Wool Cloth and Silk Cloth you get. You need 12 stacks for later|
 N Go in and around the cave. Start AoEing ogres - (32.9, 44.0) |QID|676|
 N Start AoEing Syndicates in the area. Try and avoid the Pathstalkers. Be careful of misspulling stealthed mobs - (32.3, 28.6) |QID|671|
@@ -42,7 +42,7 @@ h Arathi Highlands |N|(62.8, 19.0)|
 N It is HIGHLY recommended you watch the link, as it can be a bit tricky here |SK|
 N AoE Syndicates. Loot them for the Missive - (58.4, 67.5) |QID|533|
 G AoE Ogres and Syndicate to 34 & 56000+/62800xp |N|Keep grinding until your hearth cooldown is <8 minutes - (53.4, 53.5)|
-N (42.7, 95.3) |SK|
+N Go into the Yeti Cave - (42.7, 95.3) |SK|
 N AoE Yetis. Loot them for the Rod - (40.8, 93.2) |QID|552|
 N AoE the Dalaran mobs. Loot them for Worn Stone Tokens |QID|556| |SK|
 N Kill Alina. Loot her for the Shard. Kill Dermot, loot him for the Wedge - (20.2, 86.3) |QID|544|

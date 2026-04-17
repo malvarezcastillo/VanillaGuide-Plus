@@ -53,7 +53,7 @@ A Cry of the Thunderhawk |QID|913| |N|Talk to Jorn Skyseer - Talk to Jorn Skysee
 N Kill a Thunderhawk. Loot it for its Wings - Thunderhawk Wings (1) - (44.8, 63.2) |QID|913|
 T Cry of the Thunderhawk |QID|913| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.8, 59.1)|
 T Spirit of the Wind |QID|889| |N|Talk to Mangletooth - Turn in your Blood Shards for the Spirit of the Wind buff from Mangletooth. If you accidentally sold any shards, skip this step - Talk to Mangletooth - (44.5, 59.3)| |SK|
-N (32.0, 66.9)
+N Run to the lift and take it into Thunder Bluff - (32.0, 66.9)
 h Thunder Bluff |N|(45.8, 64.7)|
 A Steelsnap |QID|1131| |N|Talk to Melor Stonehoof - Talk to Melor Stonehoof - (61.5, 80.9)|
 T Apothecary Zamah |QID|853| |N|Talk to Apothecary Zamah - Go into The Pools of Vision - Talk to Apothecary Zamah - (30.1, 30.0)|

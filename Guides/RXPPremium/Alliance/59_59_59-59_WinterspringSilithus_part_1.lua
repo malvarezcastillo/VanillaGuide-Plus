@@ -34,7 +34,7 @@ A Are We There, Yeti? |QID|977| |N|Talk to Umi Rumplesnicker - Talk to Umi Rumpl
 N Kill Winterfall Shamans, Winterfall Den Watchers and Winterfall Ursas - Abandon this quest if the village is too crowded - (66.8, 34.9) |QID|8464| |SK|
 U The Final Piece |QID|5123| |N|Kill High Chief Winterfall - Kill High Chief Winterfall. Loot him for his [Crudely-written Log] - Use the [Crudely-written Log] to start the quest - Collect item 12842 (x1) - (69.8, 38.2)| |U|12842|
 N Kill Winterfall Shamans, Winterfall Den Watchers and Winterfall Ursas - Abandon this quest if the village is too crowded - (66.8, 34.9) |QID|8464|
-N (67.6, 43.0) |SK|
+N Enter the Yeti Cave - (67.6, 43.0) |SK|
 N Kill Ice Thistle Matriarchs and Ice Thistle Patriarchs. Loot them for their Pristine Yeti Horns - (69.9, 41.7) |QID|977|
 N Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns - Don't go out of your way to complete this yet |QID|4809| |SK|
 A Guardians of the Altar |QID|4901| |N|Talk to Ranshalla - Talk to Ranshalla - Guardians of the Altar will begin an escort quest. If you're in a party ensure everyone has turned in Find Ranshalla first. Auto accept has been turned off for Guardians of the Altar - (63.1, 59.5)|
@@ -104,7 +104,7 @@ N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of
 N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522| |M|hardcore|
 N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962| |M|hardcore|
 T A Better Ingredient |QID|9053| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)| |C|Druid|
-N (49.9, 81.7) |SK|
+N Enter The Slithering Scar Hive - (49.9, 81.7) |SK|
 N Cast Use the [Gorishi Queen Lure] at the Gorishi Silithid Crystal inside of The Slithering Scar. You will have to defeat 3 waves of attacking Gorishi. If you kill the final mob of each wave while OUTSIDE of the main room, you will be able to drink/eat between waves |U|11833| |SK|
 N Defeat the 3 waves of Gorishi attackers. Use the outside room as a reset point to eat/drink between waves if needed - Kill the Gorishi Hive Queen. Loot her for her Brain - (43.5, 81.1) |QID|4507| |U|11833|
 N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses - (27.0, 44.8) |QID|4513| |U|11955|

@@ -16,6 +16,7 @@ T Flight to Auberdine |QID|6342| |N|Talk to Laird - Talk to Laird - Buy up to 40
 T Flight to Auberdine |QID|6342| |N|Talk to Laird - Talk to Laird| |R|NightElf|
 N Talk to Laird - Talk to Laird - Buy up to 40 [Longjaw Mud Snappers] from him. Sell all your other level 5 or below food - Longjaw Mud Snapper (40) |O| |R|!NightElf|
 h Darkshore |N|Talk to Innkeeper Shaussiy - Talk to Shaussiy downstairs - (37.0, 44.1)| |SK|
+N Travel up stairs toward Wizbang Cranktoggle |SK|
 A Buzzbox 827 |QID|983| |N|Talk to Wizbang Cranktoggle - Talk to Wizbang Cranktoggle upstairs|
 A Buzzbox 827 |QID|983| |N|Talk to Wizbang Cranktoggle - Talk to Wizbang Cranktoggle upstairs|
 A Cave Mushrooms |QID|947| |N|Talk to Barithras Moonshade - Talk to Barithras Moonshade|
@@ -40,7 +41,9 @@ A Buzzbox 411 |QID|1001| |N|Click the Buzzbox 827 on the ground|
 A Buzzbox 411 |QID|1001| |N|Click the Buzzbox 827 on the ground|
 A Buzzbox 411 |QID|1001| |N|Click the Buzzbox 827 on the ground| |O| |C|!Hunter| |R|NightElf|
 A Washed Ashore |QID|4681| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde|
+N Travel toward Cerellean Whiteclaw on the dock |SK|
 A For Love Eternal |QID|963| |N|Talk to Cerellean Whiteclaw - Talk to Cerellean Whiteclaw|
+N Travel to the end of the dock, then jump into the water |SK|
 N Kill Darkshore Threshers. Loot them for their Thresher Eyes - Thresher Eye (3) - (33.6, 40.4) |QID|1001| |SK|
 N Open the Skeletal Sea Turtle. Loot it for the Sea Turtle Remains - Sea Turtle Remains (1) |QID|4681|
 A Fruit of the Sea |QID|1138| |N|Talk to Gubber Blump - Talk to Gubber Blump - (36.1, 44.9)| |O|
@@ -71,6 +74,8 @@ A Buzzbox 323 |QID|1002| |N|Click the Buzzbox 411 on the ground|
 A Buzzbox 323 |QID|1002| |N|Click the Buzzbox 411 on the ground| |O|
 N Kill Moonstalker Runts. Loot them for their Moonstalker Fangs - Moonstalker Fang (6) |QID|1002| |SK|
 N Kill Foreststrider Fledgling - Kill Foreststrider Fledglings. Loot them for their Strider Meat - Be careful as they [Flee] at <30% health - Strider Meat (5) |SK|
+N Travel toward Asterion |SK|
+N Travel toward Asterion |SK|
 A Bashal'Aran |QID|955| |N|Talk to Asterion - Talk to Asterion - Avoid killing Wild Grells and Vile Sprites en-route|
 T Bashal'Aran |QID|954| |N|Talk to Asterion - Talk to Asterion - Avoid killing Wild Grells and Vile Sprites en-route| |O|
 A Bashal'Aran |QID|955| |N|Talk to Asterion - Talk to Asterion| |O|
@@ -88,6 +93,7 @@ N Kill Moonkin - Kill Moonkin. Loot them for their [Small Eggs] - This will be u
 N Kill Moonkin - Kill Moonkin. Loot them for their [Small Eggs] - This will be used to level your [Cooking] to 50 later - Don't go out of your way to farm this now. Just remember to hold onto the eggs and start thinking how many skillups u still need to reach 50 cooking - Small Egg (10-49) |SK|
 N Kill Moonkin - Kill Moonkin. Loot them for their [Small Eggs] - This will be used to level your [Cooking] to 50 later - Don't go out of your way to farm this now. Just remember to hold onto the eggs and start thinking how many skillups u still need to reach 50 cooking - Small Egg (10-49) |SK|
 N Travel up to the Mysterious Red Crystal - Be careful of the two group of 2 Raging Moonkins west of the Mysterious Red Crystal as the duos closest to each other are leashed together - Locate the large, red crystal on Darkshore's eastern mountain range |QID|4811|
+N Enter the Moonkin Stone cave |SK| |C|Druid|
 N Cast Use the [Cenarion Moondust] at the Moonkin Stone inside the cave to summon Lunaclaw at the entrance of the cave - (43.5, 46.0) |U|15208| |SK| |C|Druid|
 N Kill Lunaclaw - Kill Lunaclaw - Defeat Lunaclaw (x1) - (43.1, 45.5) |QID|6001| |U|15208| |C|Druid|
 H Hearthstone |SK| |C|Hunter/Warrior/Druid| |R|NightElf|
@@ -148,6 +154,7 @@ N Kill Moonstalker Runts. Loot them for their Moonstalker Fangs - Moonstalker Fa
 T Beached Sea Creature |QID|4723| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde|
 T Beached Sea Turtle |QID|4722| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde|
 A Fruit of the Sea |QID|1138| |N|Talk to Gubber Blump - Talk to Gubber Blump - (36.1, 44.9)|
+N Return to Cerellean Whiteclaw on the dock |SK|
 T For Love Eternal |QID|963| |N|Talk to Cerellean Whiteclaw - Talk to Cerellean Whiteclaw - You may need to wait out his RP if someone else just turned in| |O|
 A As Water Cascades |QID|4812| |N|Talk to Sentinel Glynda Nal'Shea - Talk to Sentinel Glynda Nal'Shea|
 T Turn As Water Cascades |QID|4812| |N|Talk to Sentinel Glynda Nal'Shea - Talk to Sentinel Glynda Nal'Shea|
@@ -155,6 +162,7 @@ N Use the [Empty Water Tube] at the Auberdine moonwell - Moonwell Water Tube (1)
 A Tharnariun's Hope |QID|2139| |N|Talk to Tharnariun Treetender - Talk to Tharnariun Treetender| |O|
 A Tharnariun's Hope |QID|2139| |N|Talk to Tharnariun Treetender - Talk to Tharnariun Treetender| |O|
 A A Lost Master |QID|986| |N|Talk to Terenthis - Talk to Terenthis|
+N Go upstairs |SK|
 A The Tower of Althalaxx |QID|965| |N|Talk to Sentinel Elissa Starbreeze - Talk to Sentinel Elissa Starbreeze upstairs|
 N Talk to Gorbold Steelhand - Talk to Gorbold Steelhand - Buy [Mild Spices] from him until you have [Mild Spices] equal or more than the amount of [Small Eggs] that you currently have - Mild Spices (1-50) - Small Egg (1-50) |SK| |C|!Hunter|
 A Deep Ocean, Vast Sea |QID|982| |N|Talk to Gorbold Steelhand - Talk to Gorbold Steelhand|
@@ -178,11 +186,13 @@ N Kill Moonstalker Runts and Moonstalkers. Loot them for their Moonstalker Fangs
 A Beached Sea Turtle |QID|4725| |N|Click the Beached Sea Turtle - (44.2, 20.6)|
 N Kill Reef Crawlers. Loot them for their Fine Crab Chunks - Consider skipping some of the level 17 Reef Crawlers if you get decent drops. You don't have to complete this quest now - Be careful as they can cast [Muscle Tear] an instant attack dealing 30-55 damage - Fine Crab Chunks (6) |QID|1138| |SK|
 N Use the [Empty Sampling Tube] at the base of the Cliffspring River - Cliffspring River Sample (1) - (50.8, 25.5) |QID|4762| |U|12350|
+N Travel up the ramp toward the Buzzbox 323 |SK|
 A Buzzbox 525 |QID|1003| |N|Click the Buzzbox 323 on the ground| |O|
 A Buzzbox 525 |QID|1003| |N|Click the Buzzbox 323 on the ground|
 N Kill Rabid Thistle Bears - Be careful as they cast [Rabies] if you dont kill them fast enough (Instant Melee: Reduces ALL health regen by 50% for 10 Minutes) - Rabid Thistle Bear slain (20) |QID|2138| |SK| |C|Hunter/Druid|
 N Kill Foreststrider - Kill Foreststriders. Loot them for their Strider Meat - Strider Meat (5) |SK| |C|Hunter/Druid|
 N Kill Moonstalkers. Loot them for their Moonstalker Fangs - Moonstalker Fang (6) |QID|1002| |SK| |C|Hunter/Druid|
+N Travel toward Balthule Shadowstrike |SK| |C|Hunter/Druid|
 A The Tower of Althalaxx |QID|966| |N|Talk to Balthule Shadowstrike - Talk to Balthule Shadowstrike| |C|Hunter/Druid|
 N Kill Dark Strand Fanatics. Loot them for their Worn Parchments - Worn Parchment (4) |QID|966| |C|Hunter/Druid|
 A The Tower of Althalaxx |QID|967| |N|Talk to Balthule Shadowstrike - Talk to Balthule Shadowstrike| |C|Hunter/Druid|
@@ -192,9 +202,11 @@ N Kill Moonstalkers. Loot them for their Moonstalker Fangs - Moonstalker Fang (6
 N Kill Foreststrider - Kill Foreststriders. Loot them for their Strider Meat - Strider Meat (5) |O|
 N Kill Foreststrider - Kill Foreststriders. Loot them for their Strider Meat - Strider Meat (5)
 A Buzzbox 525 |QID|1003| |N|Click the Buzzbox 323 on the ground| |O|
+N Travel to the Cliffspring River Cave |SK|
 N Use the [Empty Cliffspring Falls Sampler] in the water at the entrance of the Cliffspring River Cave - Filled Cliffspring Falls Sampler (1) - (55.0, 33.4) |QID|6122| |C|Druid|
 N Loot the Scaber Stalks and a Death Cap on the ground - Stay on the upper section. If there is not a Death Cap at the end of the top side, drop down and get one from the southern room below - Be careful as Stormscale Wave Riders cast [Aqua Jet] (Ranged Instant: Deals damage to nearby enemies and knocks them back) - make sure you're not in a position to get knocked off the upper level of the cave - Scaber Stalk (5) - Death Cap (1) - (55.5, 36.2) |QID|947|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |C|!Druid| |R|NightElf| |M|speedrun|
+N Jump on top of the rock on the top floor inside the cave. Position your character until it looks like they're floating, then perform a Logout Skip by logging out and back in |SK|
 N Kill Foreststrider Fledgling - Kill Foreststrider Fledglings. Loot them for their Strider Meat - Be careful as they [Flee] at <30% health - Strider Meat (5) |SK|
 N Kill Moonstalker Runts. Loot them for their Moonstalker Fangs - Moonstalker Fang (6) |QID|1002| |SK|
 A The Blackwood Corrupted |QID|4763| |N|Talk to Thundris Windweaver - Talk to Thundris Windweaver|

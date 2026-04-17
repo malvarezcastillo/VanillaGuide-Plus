@@ -23,7 +23,7 @@ N Talk to Auctioneer Buckler - Talk to an Ironforge Auctioneer - Buy the followi
 R Loch Modan >> Fly to Loch Modan |N|Talk to Gryth Thurden - Talk to Gryth Thurden - If you have used the website unstuck to travel to Ironforge from Wetlands you will not have the Thelsamar flight path. In that case run through Dun Morogh to Loch Modan instead - (55.5, 47.7)|
 h Loch Modan |N|Talk to Innkeeper Hearthstove - Talk to Innkeeper Hearthstove - (35.5, 48.4)|
 A Badlands Reagent Run |QID|2500| |N|Talk to Ghak Healtouch - Talk to Ghak Healtouch - (36.5, 48.4)|
-N (65.9, 65.6) |SK|
+N Travel to Ironband's Excavation Site - (65.9, 65.6) |SK|
 A Find Agmond |QID|738| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)|
 R Travel to Badlands |N|(47.0, 79.3)| |SK|
 N Kill Buzzards. Loot them for their Gizzards and Wings - Kill Coyotes. Loot them for their Fangs - Collect item 3404 (x4) |QID|2500| |SK|
@@ -31,7 +31,7 @@ A Mirages |QID|718| |N|Talk to Sigrun Ironhew - Talk to Prospector Ryedol and Si
 N Kill Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick - (53.2, 30.6) |QID|719| |SK|
 A A Sign of Hope |QID|720| |N|Click the Crumpled Map on the ground - NOTE: If you quest log is full, skip this step. You will accept it in a moment - (53.0, 33.9)|
 N Kill Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick - (53.2, 30.6) |QID|719|
-N (66.9, 23.4) |SK|
+N Travel to Camp Kosh - (66.9, 23.4) |SK|
 N Loot the Supply Crate on the ground - The Supply Crate can spawn in a few locations at Camp Kosh - (66.6, 21.5) |QID|718|
 N Talk to Prospector Ryedol - Talk to Sigrun Ironhew and Prospector Ryedol - (53.8, 43.3)
 N Talk to Sigrun Ironhew - Talk to Sigrun Ironhew and Prospector Ryedol - (53.8, 43.3)

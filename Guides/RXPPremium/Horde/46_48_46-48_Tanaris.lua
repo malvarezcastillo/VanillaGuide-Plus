@@ -12,7 +12,7 @@ R Feralas >>Fly to Feralas |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK|
 R Feralas >>Fly to Feralas |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |SK|
 A The Sunken Temple |QID|3380| |N|Talk to Witch Doctor Uzer'i - Talk to Uzer'i - (74.5, 43.4)|
 R Tanaris >>Fly to Tanaris |N|Talk to Shyn - Talk to Shyn - (75.5, 44.4)|
-N (70.6, 62.7) |SK|
+N Travel to the Shimmering Flats - (70.6, 62.7) |SK|
 T Zanzil's Mixture and a Fool's Stout |QID|1119| |N|Talk to Kravel Koalbeard - Talk to Kravel - (77.8, 77.3)|
 T Razzeric's Tweaking |QID|1187| |N|Talk to Razzeric - Talk to Razzeric - (80.3, 76.1)|
 A Safety First |QID|1188| |N|Talk to Razzeric - Talk to Razzeric - (80.3, 76.1)|
@@ -122,7 +122,7 @@ T Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Light
 T Divino-matic Rod |QID|2768| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.5)|
 T Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 A Return to Apothecary Zinge |QID|864| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Bilgewhizzle - (52.4, 28.5)|
-N (67.0, 22.4) |SK|
+N Travel to Steamwheedle Port - (67.0, 22.4) |SK|
 T The Prophecy of Mosh'aru |QID|3527| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
 A The Ancient Egg |QID|4787| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
 R Travel to the Shimmering Flats |SK|

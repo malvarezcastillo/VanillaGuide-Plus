@@ -19,7 +19,7 @@ A Claws from the Deep |QID|279| |N|Talk to Karl Boran - Talk to Karl Boran - (8.
 A The Greenwarden |QID|463| |N|Talk to First Mate Fitzsimmons - Talk to First Mate Fitzsimmons - (10.9, 59.7)|
 h Wetlands |N|Talk to Innkeeper Helbrek - Talk to Innkeeper Helbrek - (10.7, 61.0)| |SK|
 N Talk to Innkeeper Helbrek - Talk to Innkeeper Helbrek - Buy a [Flagon of Dwarven Honeymead] - (10.7, 61.0) |QID|288|
-N (10.4, 61.0) |SK|
+N Travel upstairs towards Archaeologist Flagongut - (10.4, 61.0) |SK|
 T The Absent Minded Prospector |QID|942| |N|Talk to Archaeologist Flagongut - Talk to Archaeologist Flagongut upstairs - (10.8, 60.4)|
 N Talk to Samor Festivus - Talk to Samor Festivus upstairs - Buy as many [Healing Potions] that are available - This is a limited supply item. Skip this step if Samor Festivus doesn't have any - (10.5, 60.2)
 T The Third Fleet |QID|288| |N|Talk to First Mate Fitzsimmons - Talk to First Mate Fitzsimmons - (10.9, 59.7)|

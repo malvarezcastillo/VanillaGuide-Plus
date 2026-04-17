@@ -43,7 +43,7 @@ N Kill Timberlings. Loot them for their Seeds - Loot the Timberling Sprouts on t
 T Timberling Sprouts |QID|919| |N|Talk to Denalan - Talk to Denalan - (60.9, 68.5)|
 N Kill Nightsabers. Loot them for their Fangs - Kill Strigid Owls. Loot them for their Feathers - Kill Webwood Lurkers. Loot them for their Silk - Be careful as the Nightsabers and Strigid Owls move very fast! Strigid Owls will also social aggro other Owls if you run past them while in combat with one - Collect Nightsaber Fang (x3) - Collect Strigid Owl Feather (x3) - Collect Webwood Spider Silk (x3) |QID|488| |SK|
 N Kill Webwood Venomfang - Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - You need these for a later quest - Collect Small Spider Leg (x7) |SK|
-N (68.0, 59.7) |SK|
+N Travel to Starbreeze Village - (68.0, 59.7) |SK|
 N Open Tallonkai's Dresser. Loot it for the Emerald Dreamcatcher - Collect Emerald Dreamcatcher (x1) - (68.0, 59.7) |QID|2438|
 A Gnarlpine Corruption |QID|476| |N|Talk to Gaerolas Talvethren - Talk to Gaerolas Talvethren up stairs - (66.3, 58.5)|
 N Use the [Jade Phial] at the Starbreeze Village Moonwell - Collect Filled Jade Phial (x1) - (63.4, 58.1) |QID|929|
@@ -72,7 +72,7 @@ T Crown of the Earth |QID|929| |N|Talk to Corithras Moonrage - Talk to Corithras
 A Crown of the Earth |QID|933| |N|Talk to Corithras Moonrage - Talk to Corithras Moonrage - (56.1, 61.7)| |C|Druid|
 t Train your class spells |N|Talk to Kal - Talk to Kal - (55.9, 61.6)| |C|Druid|
 N Kill Webwood Venomfang - Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - You need these for a later quest - Collect Small Spider Leg (x7) |SK|
-N Loot the 3 felcones from the locations marked on your map. - Skip this step if any of them is not there and you're unable to complete the objective - Fel Cone 3/3 - (854.4, 9952.5) |QID|489|
+N Next to a small tree - On the small hill - Next to the massive tree - Loot the 3 felcones from the locations marked on your map. - Skip this step if any of them is not there and you're unable to complete the objective - Fel Cone 3/3 - (854.4, 9952.5) |QID|489|
 T Seek Redemption! |QID|489| |N|Talk to Zenn Foulhoof - Talk to Zenn Foulhoof - (60.4, 56.4)|
 N Loot the Fel Cones on the ground - They are usually located next to tree trunks - Collect Fel Cone (x3) |QID|489| |SK|
 N Kill Gnarlpine Mystics - If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn - Kill Gnarlpine Mystic (x7) |QID|2459| |SK|
@@ -83,18 +83,18 @@ N Talk to Brannol Eaglemoon - Talk to Brannol Eaglemoon - Vendor and repair if n
 N Loot the Fel Cones on the ground - They are usually located next to tree trunks - Collect Fel Cone (x3) - (59.0, 56.1) |QID|489|
 T Seek Redemption! |QID|489| |N|Talk to Zenn Foulhoof - Talk to Zenn Foulhoof - (60.4, 56.4)|
 N Kill Webwood Venomfang - Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - You need these for a later quest - Collect Small Spider Leg (x7) |SK|
-N (54.7, 52.8) |SK|
+N Travel to Fel Rock - (54.7, 52.8) |SK|
 N Kill Lord Melenas. Loot him for his Head - Lord Melenas may be located in many different spawn locations throughout Fel Rock - Collect Melenas' Head (x1) - (51.2, 50.6) |QID|932|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 T Crown of the Earth |QID|929| |N|Talk to Corithras Moonrage - Talk to Corithras Moonrage - (56.1, 61.7)| |C|!Druid|
 A Crown of the Earth |QID|933| |N|Talk to Corithras Moonrage - Talk to Corithras Moonrage - (56.1, 61.7)|
 N Kill Webwood Venomfang - Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - You need these for a later quest - Collect Small Spider Leg (x7) |SK|
-N (42.6, 76.2) |SK|
+N Travel to southwestern Teldrassil - (42.6, 76.2) |SK|
 A The Glowing Fruit |QID|930| |N|Click the Strange Fruited Plant - (42.6, 76.2)|
-N (42.4, 67.1) |SK|
+N Travel to the Pools of Arlithrien - (42.4, 67.1) |SK|
 C Use the [Tourmaline Phial] at the Pools of Arlithrien moonwell |QID|933| |N|(42.4, 67.1)| |U|5621|
 N Kill Webwood Venomfang - Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - Collect Small Spider Leg (x7) - (44.7, 70.5)
-N (56.1, 61.7) |SK| |M|hardcore|
+N Travel to Dolanaar - (56.1, 61.7) |SK| |M|hardcore|
 D Die and respawn |N|(43.5, 68.4)| |SK| |M|speedrun|
 A Crown of the Earth |QID|7383| |N|Talk to Corithras Moonrage - Talk to Corithras Moonrage - (56.1, 61.7)|
 T Recipe of the Kaldorei |QID|4161| |N|Talk to Zarrin - Talk to Zarrin - (57.1, 61.3)|
@@ -115,7 +115,7 @@ A The Road to Darnassus |QID|487| |N|Talk to Moon Priestess Amara - Talk to Moon
 A The Apple Falls |QID|2241| |N|Talk to Jannok Breezesong - Talk to Jannok Breezesong - (56.4, 60.1)| |C|Rogue|
 A The Road to Darnassus |QID|487| |N|Talk to Moon Priestess Amara - Talk to Moon Priestess Amara - Moon Priestess Amara patrols the road west of Dolanaar. She can also be busy fighting a furlbog ambush in which case you will have to wait for her to finish - (55.8, 58.3)|
 N Kill Gnarlpine Ambushers - Kill Gnarlpine Ambusher (x6) - (46.6, 53.0) |QID|487|
-N (38.3, 34.4) |SK|
+N Travel to The Oracle Glade - (38.3, 34.4) |SK|
 A The Enchanted Glade |QID|937| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - (38.3, 34.4)|
 C Use the [Amethyst Phial] at The Oracle Glade moonwell |QID|7383| |N|Collect Filled Amethyst Phial (x1) - (38.4, 34.0)| |U|18152|
 N Kill Bloodfeather Harpies. Loot them for their Belts - Bloodfeather Matriarchs cast [Healing Wave] and [Lightning Bolt] which does a lot of damage. Try to burst them fast - Collect Bloodfeather Belt (x6) |QID|937| |SK|
@@ -133,7 +133,7 @@ G Grind to level 10 |N|If you're still behind on xp do the harpy quest north - (
 G Grind to level 10 |C|!Druid|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |C|!Rogue| |M|speedrun|
 N Kill Bloodfeather Harpies on the way to Darnassus. Loot them for their Belts. You don't have to complete this objective now - Collect Bloodfeather Belt (x6) |QID|937| |SK| |C|!Rogue| |M|hardcore|
-N (82.0, 36.7) |SK| |C|!Rogue| |M|hardcore|
+N Travel to Darnassus - (82.0, 36.7) |SK| |C|!Rogue| |M|hardcore|
 A Vorlus Vilehoof |QID|1683| |N|Talk to Elanaria - Talk to Elanaria - (57.3, 34.6)| |C|Warrior|
 N Talk to Innkeeper Saelienne - Talk to Innkeeper Saelienne - (67.4, 15.7) |C|!Rogue/!Hunter/!Warrior|
 A Tumors |QID|923| |N|Talk to Rellian Greenspyre - Talk to Rellian Greenspyre - (38.2, 21.6)| |C|!Rogue|
@@ -175,12 +175,12 @@ A The Apple Falls |QID|2241| |N|Talk to Jannok Breezesong - Talk to Jannok Breez
 N Talk to Shalomon - Talk to Shalomon - Buy a [Walking Stick] - You will equip this later. Skip this step if you happened to find a different staff - Walking Stick (1) - (56.3, 59.5) |C|Hunter|
 T The Road to Darnassus |QID|487| |N|Talk to Moon Priestess Amara - Talk to Moon Priestess Amara - Moon Priestess Amara patrols the road west of Dolanaar - (55.8, 58.3)| |C|!Druid|
 D Die and respawn |N|Talk to Spirit Healer - (44.0, 54.6)| |SK| |C|Rogue| |M|speedrun|
-N (82.0, 36.7) |SK| |C|Rogue| |M|hardcore|
+N Travel to Darnassus - (82.0, 36.7) |SK| |C|Rogue| |M|hardcore|
 A Tumors |QID|923| |N|Talk to Rellian Greenspyre - Talk to Rellian Greenspyre - (38.2, 21.6)| |C|Rogue|
 A Grove of the Ancients |QID|952| |N|Talk to Arch Druid Fandral Staghelm - Talk to Arch Druid Fandral Staghelm atop the Tree - (35.0, 9.0)| |C|Rogue|
 A Destiny Calls |QID|2242| |N|Talk to Syurna - Talk to Syurna - (31.2, 17.7)| |C|Rogue|
 A Tears of the Moon |QID|2518| |N|Talk to Priestess A'moora - Talk to Priestess A'moora - (39.7, 92.7)| |C|Rogue|
-N (48.7, 62.2) |SK| |C|Warrior|
+N Travel toward Vorlus Vilehoof - (48.7, 62.2) |SK| |C|Warrior|
 N Kill Vorlus Vilehoof. Loot him for his Horn - Collect Horn of Vorlus (x1) - (47.2, 63.7) |QID|1683| |C|Warrior|
 t Attack mobs with it to learn [Claw (Rank 2)] |N|Cast [Tame Beast] on a Strigid Hunter to tame it -- .tame 1997 - (41.2, 44.4)| |SK| |C|Hunter|
 N Kill Timberling Tramplers, Timberling Mire Beasts and Elder Timberlings. Loot them for their Tumors - Collect Mossy Tumor (x5) - (41.7, 41.8) |QID|923| |SK|
@@ -196,10 +196,10 @@ R Travel to Darnassus |N|(82.0, 36.7)| |SK| |M|hardcore|
 A Nessa Shadowsong |QID|6344| |N|Talk to Mydrannul - Talk to Mydrannul - (70.7, 45.4)|
 R Travel to Darnassus |N|(82.0, 36.7)| |O| |M|speedrun|
 A Vorlus Vilehoof |QID|1683| |N|Talk to Elanaria - Talk to Elanaria - (57.3, 34.6)| |C|Warrior|
-N (48.7, 62.2) |SK| |C|Warrior|
+N Travel toward Vorlus Vilehoof - (48.7, 62.2) |SK| |C|Warrior|
 N Kill Vorlus Vilehoof. Loot him for his Horn - Collect Horn of Vorlus (x1) - (47.2, 63.7) |QID|1683| |C|Warrior|
 D Die and respawn |N|(43.6, 54.3)| |SK| |C|Warrior| |M|speedrun|
-N (82.0, 36.7) |SK| |C|Warrior| |M|hardcore|
+N Travel to Darnassus - (82.0, 36.7) |SK| |C|Warrior| |M|hardcore|
 T Vorlus Vilehoof |QID|1683| |N|Talk to Elanaria - Talk to Elanaria - (57.3, 34.6)| |C|Warrior|
 A Body and Heart |QID|6001| |N|Talk to Mathrengyl Bearwalker - Talk to Mathrengyl Bearwalker on the middle level - (35.4, 8.4)| |C|Druid|
 A Grove of the Ancients |QID|952| |N|Talk to Arch Druid Fandral Staghelm - Talk to Arch Druid Fandral Staghelm - (34.8, 9.3)|

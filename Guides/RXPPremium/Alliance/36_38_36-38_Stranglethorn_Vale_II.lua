@@ -32,7 +32,7 @@ N Talk to Corporal Bluth - Talk to Corporal Bluth - Restock on  [Razor Arrows] i
 T Return to Corporal Kaleb |QID|622| |N|Talk to Corporal Kaleb - Talk to Corporal Kaleb - (37.7, 3.3)| |O|
 A Panther Mastery |QID|192| |N|Talk to Sir S. J. Erlgadin - Talk to Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)|
 A The Hidden Key |QID|328| |N|Click on Bookie Herod's Records upstairs in the house - (43.7, 9.4)|
-N (46.3, 7.6) |SK|
+N Enter The Stockpile (Kurzen's Cave) - (46.3, 7.6) |SK|
 A The Spy Revealed! |QID|329| |N|Click Bookie Herod's Strongbox on the ground - (49.6, 7.6)| |SK|
 N Kill Kurzen Commandos and Kurzen Headshrinkers. Loot them for their [Silk Cloth] - Be cautious of Kurzen Commandos in [Stealth] - Save 15 [Silk Cloth] for a quest for later in Searing Gorge. You don't need to collect all 15 now - Collect item 4306 (x15) - (46.5, 6.9) |QID|574|
 A The Spy Revealed! |QID|329| |N|Click Bookie Herod's Strongbox on the ground - (49.6, 7.6)|
@@ -44,20 +44,20 @@ N Kill Snapjaw Crocolisk. Loot them for their Skin - (40.7, 21.9) |QID|577|
 N Kill Lashtail Raptors - Lashtail Raptors cast [Lash] which is a 2 second stun - (38.1, 20.5) |QID|195|
 N Kill Sin'Dall. Loot her for her Paw - Sin'Dall can be on top of the Plateau, or patrolling around it - (32.2, 17.2) |QID|188|
 N Kill Bloodscalp Trolls. Loot them for their Ears and Tusks - Save 15 [Silk Cloth] for a quest for later in Searing Gorge. You don't need to collect all 15 now - Collect item 4306 (x15) - (25.4, 12.6) |QID|1712| |SK| |C|Warrior|
-N (29.5, 19.1) |SK| |C|Warrior|
+N Travel to the Bal'lal Ruins - (29.5, 19.1) |SK| |C|Warrior|
 N Open the Moon Over the Vale. Loot it for The First Troll Legend - (29.5, 19.1) |QID|207| |C|Warrior|
-N (24.7, 8.9) |SK| |C|Warrior|
+N Travel to the Ruins of Zul'Kunda - (24.7, 8.9) |SK| |C|Warrior|
 N Open The Emperor's Tomb. Loot it for The Fourth Troll Legend - (24.7, 8.9) |QID|207| |C|Warrior|
 N Open the Fall of Gurubashi. Loot it for The Third Troll Legend - (22.9, 12.0) |QID|207| |C|Warrior|
 N Kill Bloodscalp Trolls. Loot them for their Ears and Tusks - Save 15 [Silk Cloth] for a quest for later in Searing Gorge. You don't need to collect all 15 now - Collect item 4306 (x15) - (25.4, 12.6) |QID|1712| |C|Warrior|
 N Kill Bloodscalp Trolls. Loot them for their Ears - Save 15 [Silk Cloth] for a quest for later in Searing Gorge. You don't need to collect all 15 now - Collect item 4306 (x15) - (25.5, 9.4) |QID|189| |SK|
-N (29.5, 19.1) |SK|
+N Travel to the Bal'lal Ruins - (29.5, 19.1) |SK|
 N Open the Moon Over the Vale. Loot it for The First Troll Legend - (29.5, 19.1) |QID|207|
-N (24.7, 8.9) |SK|
+N Travel to the Ruins of Zul'Kunda - (24.7, 8.9) |SK|
 N Open The Emperor's Tomb. Loot it for The Fourth Troll Legend - (24.7, 8.9) |QID|207|
 N Open the Fall of Gurubashi. Loot it for The Third Troll Legend - (22.9, 12.0) |QID|207|
 N Kill Bloodscalp Trolls. Loot them for their Ears - Save 15 [Silk Cloth] for a quest for later in Searing Gorge. You don't need to collect all 15 now - Collect item 4306 (x15) - (25.4, 12.6) |QID|189|
-N (21.1, 22.8) |SK|
+N Travel to the Haunted Island - (21.1, 22.8) |SK|
 N Kill Lesser Water Elementals. Loot them for their Bracers - (21.1, 22.8) |QID|601|
 N Cast Use your [Elixir of Water Breathing] if you have one |U|5996| |SK|
 N Open the Giant Clams. Loot them for Blue Pearls. You may also buy these from the Auction House - Collect item 4611 (x9) - (24.9, 29.1) |U|5996| |SK|
@@ -72,14 +72,14 @@ G Grind until you are 26k xp away from level 38 |N|(25.5, 9.4)|
 G Grind until you are 53000/76100 xp into level 37 |N|(25.5, 9.4)| |O|
 G Grind until you are 57500/76100 xp into level 37 |N|(25.5, 9.4)| |O|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
-N (38.6, 4.4) |SK| |M|speedrun|
+N Travel to the Rebel Camp - (38.6, 4.4) |SK| |M|speedrun|
 A Troll Witchery |QID|205| |N|Talk to Brother Nimetz - Talk to Brother Nimetz - (37.8, 3.6)| |M|speedrun|
 A Patrol Schedules |QID|330| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)| |M|speedrun|
 A Colonel Kurzen |QID|202| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)| |M|speedrun|
 N Talk to Corporal Bluth - Talk to Corporal Bluth - Restock on  [Razor Arrows] if needed - (38.0, 3.0) |C|Hunter|
 A Report to Doren |QID|331| |N|Talk to Corporal Sethman - Talk to Corporal Sethman - (37.7, 3.4)| |M|speedrun|
 T Report to Doren |QID|331| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)| |M|speedrun|
-N (35.7, 10.8) |SK|
+N Travel to Nesingwary's Expedition - (35.7, 10.8) |SK|
 A Panther Mastery |QID|193| |N|Talk to Sir S. J. Erlgadin - Talk to Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)|
 N Travel to the Rebel Camp |SK| |M|hardcore|
 A Troll Witchery |QID|205| |N|Talk to Brother Nimetz - Talk to Brother Nimetz - (37.8, 3.6)| |M|hardcore|

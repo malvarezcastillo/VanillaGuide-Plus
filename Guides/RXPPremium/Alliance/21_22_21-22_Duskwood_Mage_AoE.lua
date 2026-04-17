@@ -29,7 +29,7 @@ T Wolves at Our Heels |QID|226| |N|Talk to Lars - Talk to Lars - (7.7, 33.2)|
 N Finish off Spiders and their Legs - (10.7, 59.1) |QID|93|
 A Messenger to Westfall |QID|144| |N|Talk to Gryan Stoutmantle - Run to Westfall - Talk to Gryan Stoutmantle - (56.3, 47.5)|
 F Stormwind >> Fly to Stormwind City |N|(56.5, 52.6)|
-N (39.0, 81.9)
+N Run up the mage tower, then run through the green portal - (39.0, 81.9)
 t Train your class spells. Make sure you have at least 20 silver for later |N|(36.9, 81.2)|
 t Train the SW Portal |N|(39.8, 79.5)|
 N Remember to bind Blink to your bars |SK|
@@ -38,7 +38,7 @@ T Stormpike's Order |QID|1338| |N|Talk to Furen Longbeard - Talk to Furen Longbe
 A Brother Paxton |QID|344| |N|Talk to Milton Sheaf - Run to the Stormwind Keep, then into the Library - Talk to Milton Sheaf - (69.5, 28.1)|
 T The Defias Brotherhood |QID|135| |N|Talk to Master Mathias Shaw - Go upstairs in SI:7 - Talk to Master Mathias Shaw - (75.5, 55.2)|
 N Buy Stormwind Seasoning Herbs from Felicia for the Lean Wolf Meat (Darkshire) quest - Collect item 2665 (x1) - (58.6, 53.0)
-N (32.2, 49.3)
+N Exit Stormwind - (32.2, 49.3)
 A Ink Supplies |QID|345| |N|Talk to Brother Paxton - Run into Northshire Abbey - Talk to Brother Paxton - (45.5, 48.2)|
 H Hearthstone |N|Buy food/water if needed|
 A Messenger to Darkshire |QID|145| |N|Talk to Magistrate Solomon - Go into the Town Hall - Talk to Magistrate Solomon - (29.5, 46.0)|
@@ -62,13 +62,13 @@ A The Night Watch |QID|57| |N|Talk to Commander Althea Ebonlocke - Talk to Comma
 G Grind to 22
 R Teleport to Stormwind
 t Train your class spells |N|Respec to AoE Frost (if you didn't talent into it originally) - MAKE SURE you save at least 30s for later (10s for another rune, 20s for IF tele) - (36.9, 81.1)|
-N You'll eventually need 12 stacks of Wool, Silk, Mageweave and Runecloth - BANK YOUR LIGHT FEATHERS HERE. THIS IS SUPER IMPORTANT - (55.3, 68.2) |SK|
+N Bank your cloth here (to do cloth turnins for extra xp later) - You'll eventually need 12 stacks of Wool, Silk, Mageweave and Runecloth - BANK YOUR LIGHT FEATHERS HERE. THIS IS SUPER IMPORTANT - (55.3, 68.2) |SK|
 N Go into the building. Buy another Rune of Teleportation from Kyra - Collect item 17031 (x1) - (56.1, 65.3) |SK|
-N (32.2, 49.3)
+N Exit Stormwind - (32.2, 49.3)
 A Return to Kristoff |QID|346| |N|Talk to Brother Paxton - Run into Northshire Abbey - Talk to Brother Paxton - (45.5, 48.2)|
 R Teleport to Stormwind
 T Return to Kristoff |QID|346| |N|Talk to Brother Kristoff - Run to the outside of the Cathedral - Talk to Brother Kristoff - (45.7, 38.4)|
-N (63.7, 8.5) |SK|
+N Take the Deeprun Tram to Ironforge - (63.7, 8.5) |SK|
 R Travel to Ironforge
 T The Powers Below |QID|968| |N|Talk to Gerrig Bonegrip - Go inside the building - Talk to Gerrig Bonegrip - (51.1, 8.0)|
 t Talk to Milstaff. Train the Ironforge Portal |N|(25.5, 7.1)|

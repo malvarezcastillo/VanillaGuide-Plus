@@ -12,7 +12,7 @@ f Stormwind >> Get the Stormwind City flight path |N|Talk to Dungar Longdrink - 
 D Die and respawn |N|Talk to Spirit Healer - Cast [Life Tap] repeatedly until you have <10% health then jump down the ledge (NOT into the water) next to the flight master and die intentionally| |SK| |C|Warlock| |M|speedrun|
 A The Fargodeep Mine |QID|62| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
 A Kobold Candles |QID|60| |N|Talk to William Pestle - Talk to William Pestle - (43.3, 65.7)|
-N (43.9, 66.5) |SK| |C|Mage/Rogue|
+N Travel upstairs in the Inn - (43.9, 66.5) |SK| |C|Mage/Rogue|
 t Train your class spells |N|Talk to Zaldimar Wefhellt - Talk to Zaldimar Wefhellt - (43.2, 66.2)| |C|Mage|
 t Train your class spells |N|Talk to Keryn Sylvius - Talk to Keryn Sylvius - Prioritize training [Dual Wield] - (43.9, 65.9)| |C|Rogue|
 A Gold Dust Exchange |QID|47| |N|Talk to Remy "Two Times" - Talk to Remy "Two Times" - (42.1, 67.3)|
@@ -32,7 +32,7 @@ T The Collector |QID|123| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (
 A Manhunt |QID|147| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)| |C|Warlock|
 A Shipment to Stormwind |QID|61| |N|Talk to William Pestle - Talk to William Pestle - (43.3, 65.7)|
 T Gold Dust Exchange |QID|47| |N|Talk to Remy "Two Times" - Talk to Remy "Two Times" - Do NOT vendor the [Bag of Marbles] reward. This is an incredibly valuable item all the way through to level 60 - (42.1, 67.3)| |M|speedrun|
-N (74.0, 72.2) |SK|
+N Travel east to Guard Thomas - (74.0, 72.2) |SK|
 T Further Concerns |QID|35| |N|Talk to Guard Thomas - Talk to Guard Thomas - (74.0, 72.2)|
 A Protect the Frontier |QID|52| |N|Talk to Guard Thomas - Talk to Guard Thomas - (74.0, 72.2)|
 N Kill Prowlers and Young Forest Bears - Prioritize killing any Young Forest Bears you see - Kill Prowler (x8) - Kill Young Forest Bear (x5) |QID|52| |SK|
@@ -60,7 +60,7 @@ F Stormwind >> Fly to Stormwind |N|Talk to Ariena Stormfeather - Talk to Ariena 
 T Shipment to Stormwind |QID|61| |N|Talk to Morgan Pestle - Talk to Morgan Pestle - We choose the [Explosive Rockets] as the reward. It deals decent damage, and can be used for "Split pulling" which is incredibly useful - (56.2, 64.6)|
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - Buy [Chunks of Boar Meat] and/or [Stringy Wolf Meat] to level your [Cooking] with later - You need 50 [Cooking] for a quest in Darkshire later - If you don't want to or can't do this, skip this step - Buy the following items for a faster turn in at Loch Modan shortly and to level your [Cooking] skill with: - [Boar Intestines] - [Bear Meat] - [Spider Ichor] - [Chunks of Boar Meat] - [Stringy Wolf Meat] - Boar Intestines (3) - Bear Meat (3) - Spider Ichor (3) - Chunk of Boar Meat (1-50) - Stringy Wolf Meat (1-50) - (53.6, 59.8)
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - If you don't want to or can't do this, skip this step - Buy the following items for a faster turn in at Loch Modan shortly: - [Boar Intestines] - [Bear Meat] - [Spider Ichor] - Boar Intestines (3) - Bear Meat (3) - Spider Ichor (3) - (53.6, 59.8) |O|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Travel to The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 A The Binding |QID|1689| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock|
 N Travel to the bottom of The Slaughtered Lamb - Cast Use the [Bloodstone Choker] to call forth a Summoned Voidwalker - (25.2, 80.7) |U|6928| |SK| |C|Warlock|
@@ -73,7 +73,7 @@ T Deliver Thomas' Report |QID|39| |N|Talk to Marshal Dughan - Talk to Marshal Du
 T Manhunt |QID|147| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)| |C|Warlock|
 T Deliver Thomas' Report |QID|39| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
 t Train your class spells |N|Talk to Lyria Du Lac - Talk to Lyria Du Lac - (41.1, 65.8)| |C|Warrior|
-N (43.9, 66.5) |SK| |C|Mage/Rogue/Priest|
+N Travel upstairs in the Inn - (43.9, 66.5) |SK| |C|Mage/Rogue/Priest|
 t Train your class spells |N|Talk to Zaldimar Wefhellt - Talk to Zaldimar Wefhellt - (43.2, 66.2)| |C|Mage|
 t Train your class spells |N|Talk to Keryn Sylvius - Talk to Keryn Sylvius - (43.9, 65.9)| |C|Rogue|
 t Train your class spells |N|Talk to Priestess Josetta - Talk to Priestess Josetta - (43.3, 65.7)| |C|Priest|

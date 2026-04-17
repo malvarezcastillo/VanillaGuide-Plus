@@ -31,11 +31,12 @@ N Kill Moonstalker Runts and Moonstalkers. Loot them for their Moonstalker Fangs
 N Kill Rabid Thistle Bears in southern Darkshore - Be careful as they cast [Rabies] if you dont kill them fast enough (Instant Melee: Reduces all health regeneration by 50% for 10 minutes) - Rabid Thistle Bear slain (20) |QID|2138|
 N Collect 5 [Earthroot] as you quest - Earthroot (5) |QID|6123| |SK| |C|Druid|
 N Loot Lunar Fungi on the ground throughout caves - (43.4, 45.9) |QID|6123| |C|Druid|
+N Travel to the Grove of the Ancients |SK|
 A The Master's Glaive |QID|944| |N|Talk to Onu - Talk to Onu|
 N Kill Moonstalker Sires. Loot them for their Pelts - Care as they can cast [Exploit Weakness] a backstab attack dealing 20-40 damage if you turn your back to them - Fine Moonstalker Pelt (5) |QID|986| |SK|
 N Kill Grizzled Thistle Bears. Loot them for their Scalps - Be careful as they cast [Ravage] an instant attack dealing 20-40 damage and knocking you down for 2s - Grizzled Scalp (4) - (38.6, 80.5) |QID|1003| |SK|
 T Buzzbox 525 |QID|1003| |N|Click the Buzzbox 525 on the ground| |O|
-N (38.5, 86.0)
+N Travel to The Master's Glaive - (38.5, 86.0)
 N Kill Twilight Thug - Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below] - Book: The Powers Below (1) |SK|
 N Discover The Master's Glaive - Enter the Master's Glaive (1) |QID|944| |O|
 N Cast Use the [Phial of Scrying] and place it on the ground |U|5251| |SK|
@@ -63,6 +64,7 @@ A Beached Sea Creature |QID|4728| |N|Click the Beached Sea Creature|
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Go to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 R Auberdine >> Fly to Darkshore |N|Talk to Sindrayl - Talk to Sindrayl - (48.1, 67.3)| |C|Druid|
+N Return to Cerellean Whiteclaw on the dock |SK|
 T For Love Eternal |QID|963| |N|Talk to Cerellean Whiteclaw - Talk to Cerellean Whiteclaw - You may need to wait out his RP if someone else just turned in| |O|
 T Beached Sea Turtle |QID|4731| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde|
 T Fruit of the Sea |QID|1138| |N|Talk to Gubber Blump - Talk to Gubber Blump - (36.1, 44.9)| |O|
@@ -104,7 +106,7 @@ A Beached Sea Turtle |QID|4727| |N|Click the Beached Sea Turtle|
 N Escort The Threshwackonator 4100 to Gelkak Gyromast - Kill The Threshwackonator 4100 once it turns hostile - This quest is VERY difficult - If you are unable to kill the The Threshwackonator 4100, skip this step - Gyromast's Revenge (1) |QID|2078| |O|
 T Gyromast's Revenge |QID|2078| |N|Talk to Gelkak Gyromast - Talk to Gelkak Gyromast|
 N Kill Encrusted Tide Crawlers. Loot them for their Fine Crab Chunks - Fine Crab Chunks (6) |QID|1138| |SK| |C|Druid|
-N (18.5, 19.9) |SK| |C|Hunter| |R|!NightElf/!Dwarf|
+N Travel to Auberdine - (18.5, 19.9) |SK| |C|Hunter| |R|!NightElf/!Dwarf|
 H Hearthstone |SK| |C|Hunter| |R|!NightElf/!Dwarf|
 A Beached Sea Turtle |QID|4727| |N|Click the Beached Sea Turtle| |C|Druid|
 N Kill Sickly Deer - Use the [Curative Animal Salve] on Sickly Deer - Sickly Deer cured (10) - (49.7, 33.2) |QID|6124| |U|15826| |C|Druid|
@@ -118,7 +120,7 @@ T A Lost Master |QID|986| |N|Talk to Terenthis - Talk to Terenthis| |O|
 U Equip the [Enchanted Moonstalker Cloak] If it's better than your current Cloak |N|If you equip the [Enchanted Moonstalker Cloak], make sure you save your current cloak for later as the [Enchanted Moonstalker Cloak] is lost upon a later turn in| |U|5387| |SK|
 T Fruit of the Sea |QID|1138| |N|Talk to Gubber Blump - Talk to Gubber Blump - (36.1, 44.9)|
 T Beached Sea Turtle |QID|4727| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde|
-N (32.4, 43.7) |SK| |C|Warrior/Paladin/Mage/Warlock/Rogue|
+N Travel to the dock of the Menethil Harbor boat - (32.4, 43.7) |SK| |C|Warrior/Paladin/Mage/Warlock/Rogue|
 R Take the boat to Menethil Harbor |N|If you have a very good weapon in your bags that you can equip soon, skip this step - (32.3, 44.0)| |C|Warrior/Paladin|
 R Take the boat to Menethil Harbor |N|(32.3, 44.0)| |C|Warrior/Paladin/Mage/Warlock/Rogue|
 N Talk to Brak Durnad - Talk to Brak Durnad in Menethil Harbor - Buy a [Executioner's Sword] from him (if its up and you can afford it) - If there isn't one, don't worry as you'll be going to the AH later - Collect Executioner's Sword (1) - (11.6, 59.5) |O| |C|Warrior/Paladin|
@@ -127,10 +129,10 @@ N Equip the [Executioner's Sword] |U|4818| |O| |C|Warrior/Paladin| |R|!NightElf|
 N Equip the [Dacian Falx] |U|922| |O| |C|Warrior/Paladin| |R|!NightElf|
 R Ironforge >> Fly to Ironforge |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)| |C|Warrior/Paladin/Mage/Warlock/Rogue| |R|!NightElf|
 f Menethil Harbor >> Get the Menethil Harbor flight path |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)| |C|Rogue| |R|NightElf|
-N (5.5, 64.2) |SK| |C|Rogue| |R|NightElf|
+N Jump off the end of the dock and swim to the waypoint - (5.5, 64.2) |SK| |C|Rogue| |R|NightElf|
 R Use the character unstuck self service feature to skip to Ironforge. You will have to log off at the spot, then navigate to the help menu on another character (alternatively, paste the unstuck link below into your browser), then scroll down to self service. Click on your character and move. If you can't unstuck then skip this step and swim along the mountains to Westfall |N|(2.4, 78.7)| |C|Rogue| |R|NightElf|
 R If the website unstuck is not available, swim to Westfall |N|(4.5, 29.2)| |O| |C|Rogue| |R|NightElf|
-N (54.3, 9.3) |SK| |C|Rogue| |R|NightElf|
+N Run up the shore and make your way to Sentinel Hill - (54.3, 9.3) |SK| |C|Rogue| |R|NightElf|
 R Sentinel Hill >> Get the Sentinel Hill flight path |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |O| |C|Rogue| |R|NightElf|
 R The Defias Brotherhood |QID|65| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)| |O| |C|Rogue| |R|NightElf|
 R Run to Stormwind |N|(36.8, 72.4)| |O| |C|Rogue| |R|NightElf|
@@ -138,15 +140,15 @@ R Train 1h Swords |N|Talk to Woo Ping - Talk to Woo Ping - (57.1, 57.7)| |C|Rogu
 R Ironforge >> Get the Ironforge flight path |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.8)| |C|Rogue| |R|NightElf|
 R The Powers Below |QID|968| |N|Use the [Book: The Powers Below] to start the quest - (50.8, 5.6)| |U|5352| |O| |C|Paladin/Mage/Warlock/Rogue|
 R The Powers Below |QID|968| |N|Talk to Gerrig Bonegrip - Talk to Gerrig Bonegrip inside - (50.8, 5.6)| |C|Paladin/Mage/Warlock/Rogue|
-N (28.7, 25.6) |SK| |C|Mage|
+N Travel toward Ginny Longberry inside - (28.7, 25.6) |SK| |C|Mage|
 N Talk to Ginny Longberry - Talk to Ginny Longberry inside - Buy up to 4 [Runes of Teleportation] from her - Rune of Teleportation (4) - (31.3, 27.8) |C|Mage|
 t Train [Teleport: Ironforge] |N|Talk to Milstaff Stormeye - Talk to Milstaff Stormeye - (25.5, 7.0)| |C|Mage|
 t Train your class spells |N|Talk to Dink - Talk to Dink - (27.2, 8.6)| |C|Mage|
 R Train your class spells |N|Talk to Brandur Ironhammer - Talk to Brandur Ironhammer - (23.1, 6.1)| |C|Paladin|
-N (27.6, 8.1) |SK| |C|Mage|
-N (53.2, 7.0) |SK| |C|Warlock/Rogue|
-N (52.8, 5.1) |SK| |C|Warlock/Rogue|
-N (56.2, 46.8) |SK| |C|Warlock/Rogue|
+N Jump on top of the pillar above Bink, then walk slightly east of her onto the arrow position. Position your character until it looks like they're floating, then perform a Logout Skip by logging out and back in - (27.6, 8.1) |SK| |C|Mage|
+N Enter Jubahl Corpseseeker's house - (53.2, 7.0) |SK| |C|Warlock/Rogue|
+N walk onto the top of the bed, then jump onto the top of the bookshelf. Perform a Logout Skip by logging out and back in - (52.8, 5.1) |SK| |C|Warlock/Rogue|
+N Jump on top of the Gryphon's Head. Perform a Logout Skip by logging out and back in - (56.2, 46.8) |SK| |C|Warlock/Rogue|
 N Talk to Gearcutter Cogspinner - Talk to Gearcutter Cogspinner - Buy a [Bronze Tube] from him (if it's up) - (67.8, 42.5) |C|Mage/Warlock/Rogue|
 N (78.0, 51.4) |C|Mage/Warlock/Rogue|
 R Take the Deeprun Tram to Stormwind |N|Level your [First Aid] and [Cooking] if needed while on the Tram| |SK| |C|Mage/Warlock/Rogue|
@@ -156,7 +158,7 @@ t Train [Ambush] |N|Talk to Osborne the Night Man - Talk to Osborne the Night Ma
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne the Night Man - Make sure you train [Stealth], [Pick Pocket], and [Pick Lock] as you'll need them later - (74.7, 52.8)| |O| |C|Rogue|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne the Night Man - Make sure you train [Pick Pocket]and [Pick Lock] as you'll need them later - BE VERY CAREFUL with your money management in the coming steps. Only buy essential spells. You will need to have money for vanish soon and 75 silver to obtain a rune after returning to wetlands - (74.7, 52.8)| |O| |C|Rogue|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne the Night Man - Make sure you train [Pick Lock] as you'll need it later - BE VERY CAREFUL with your money management in the coming steps. Only buy essential spells. You will need to have money for vanish soon and 75 silver to obtain a rune after returning to wetlands - (74.7, 52.8)| |C|Rogue|
-N (74.8, 53.8) |SK| |C|Rogue|
+N Travel toward Renzik "The Shiv" and Master Mathias Shaw inside SI:7 upstairs - (74.8, 53.8) |SK| |C|Rogue|
 A Mathias and the Defias |QID|2360| |N|Talk to Master Mathias Shaw - Talk to Renzik "The Shiv" and Master Mathias Shaw - (75.8, 60.4)| |C|Rogue|
 N Talk to Marda Weller - Talk to Marda Weller inside - Buy a [Kris] from her or check the Auction House for something better/cheaper - BE VERY CAREFUL with your money management in the coming steps. Only buy one dagger if you don't have the money. You will need to have money for vanish soon and 75 silver to obtain a rune after returning to wetlands - Kris (2) - (57.4, 56.8) |C|Rogue|
 N Talk to Marda Weller - Talk to Marda Weller - Buy a [Kris] from her if you can afford it - BE VERY CAREFUL with your money management in the coming steps. Only buy one dagger if you don't have the money. You will need to have money for vanish soon and 75 silver to obtain a rune after returning to wetlands - Kris (2) - (57.4, 56.8) |C|Rogue|
@@ -174,6 +176,7 @@ A The Defias Brotherhood |QID|132| |N|Talk to Wiley the Black - Talk to Wiley th
 A Alther's Mill |QID|2282| |N|Talk to Lucius - Talk to Lucius - (28.1, 52.0)| |C|Rogue|
 G Grind to level 21 |QID|89| |N|Talk to Foreman Oslow - Talk to Foreman Oslow - (32.2, 48.6)| |C|Rogue|
 N You can kill some of the gnolls while on the way to Alther's Mill. You will complete this objective on the way back - Iron Pike (5) - Iron Rivet (5) - (39.6, 33.2) |QID|89| |SK| |C|Rogue|
+N Head toward Alther's Mill |C|Rogue|
 N You MUST do this for your [Poisons] quest later - Stand on the waypoint location. Position your camera and cursor until you can click 3 Practice Lockboxes at once without having to move anything |C|Rogue|
 N Open Lucius's Lockbox. Loot it for the Token of Thievery - Token of Thievery (1) - (52.0, 44.7) |QID|2282| |C|Rogue|
 N Finish off killing gnolls for the bridge parts - Iron Pike (5) - Iron Rivet (5) - (39.6, 33.2) |QID|89| |C|Rogue|
@@ -193,12 +196,12 @@ N Collect item 6452 (x1) |SK| |C|Rogue| |R|!Dwarf|
 N Cast Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |U|6452| |O| |C|Rogue| |R|!Dwarf|
 N Cast Cast [Stoneform] to remove the [Touch of Zanzil] debuff |SK| |C|Rogue| |R|Dwarf|
 F Stormwind >> Fly to Stormwind |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |SK| |C|Rogue|
-N (42.9, 33.9) |SK| |C|Rogue| |R|!Dwarf|
+N Travel toward Shaina Fuller - (42.9, 33.9) |SK| |C|Rogue| |R|!Dwarf|
 N Talk to Shaina Fuller - If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead - (43.1, 26.2) |C|Rogue| |R|!Dwarf|
 t Train [Anti-Venom] |N|Talk to Shaina Fuller - If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead - (43.1, 26.2)| |C|Rogue| |R|!Dwarf|
 N Collect item 6452 (x1) |SK| |C|Rogue| |R|!Dwarf|
 N Cast Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |U|6452| |SK| |C|Rogue| |R|!Dwarf|
-N (74.9, 54.0) |SK| |C|Rogue|
+N Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw - (74.9, 54.0) |SK| |C|Rogue|
 T Klaven's Tower |QID|2359| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - Remember to re-equip your main weapon if you switched to a [Dagger] earlier - (75.8, 59.8)| |C|Rogue|
 N Talk to Jasper Fel - Talk to Jasper Fel on the ground floor of the building - Buy reagents for crafting [Instant Poison] and [Vanish] from him - Empty Vial (20) - Collect item 2928 (x20) - Flash Powder (20) - (78.2, 58.8) |C|Rogue|
 N Open your spellbook and find the [Poisons] skill from the general tab. Open it and craft 20 Instant Poisons. Remember to keep them applied to both your weapons during combat - Instant Poison (20) |C|Rogue|
@@ -207,12 +210,12 @@ N Talk to Ardwyn Cailen - Talk to Ardwyn Cailen inside - Buy a [Dusk Wand] from 
 N Talk to Ardwyn Cailen - Talk to Ardwyn Cailen inside - Buy a [Dusk Wand] from her - Dusk Wand (1) - (42.6, 67.2) |C|Warlock|
 N Equip the [Dusk Wand] |U|5211| |SK| |C|Warlock|
 N Equip the [Greater Magic Wand] |U|11288| |SK| |C|Warlock|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Enter The Slaughtered Lamb. Go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 N Talk to Spackle Thornberry - Talk to Spackle Thornberry - Buy the [Grimoire of Torment (Rank 2)] from her - (25.7, 77.6) |SK| |C|Warlock|
 A Devourer of Souls |QID|1716| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock|
 t Use the [Grimoire of Torment (Rank 2)] |N|Talk to Spackle Thornberry| |U|16346| |SK| |C|Warlock|
-N Ascend the Mage Tower. Go through the Green Portal - (38.6, 81.9) |SK| |C|Mage|
+N Ascend the Mage Tower. Go through the Green Portal - Travel toward Larimaine Purdue - (38.6, 81.9) |SK| |C|Mage|
 t Train [Teleport: Stormwind] |N|Talk to Larimaine Purdue - Talk to Larimaine Purdue - (39.7, 79.5)| |C|Mage|
 H Hearthstone |SK| |C|Rogue|
 R If you are unable to do this, make your way back to Auberdine |N|Zone into the Stockade in Stormwind - Once inside: - (39.8, 54.4)| |C|Rogue|
@@ -225,7 +228,7 @@ R The Powers Below |QID|968| |N|Talk to Gerrig Bonegrip - Talk to Gerrig Bonegri
 R If you are unable to do this, make your way back to Auberdine |N|Zone into the Stockade in Stormwind - Once inside: - (39.8, 54.4)| |C|Mage/Warlock/Rogue|
 R Menethil >> Fly to Wetlands |N|Talk to Gryth Thurden - (55.5, 47.8)| |SK| |C|Rogue| |R|NightElf|
 R Travel to Menethil Harbor |O| |C|Warrior/Rogue| |R|NightElf|
-N (7.1, 58.0) |SK| |C|Warrior/Rogue| |R|NightElf|
+N Travel to the dock of the Auberdine boat - (7.1, 58.0) |SK| |C|Warrior/Rogue| |R|NightElf|
 R Take the boat to Auberdine |N|(4.4, 56.8)| |O| |C|Warrior/Rogue| |R|NightElf|
 R Hearthstone |SK| |C|!Druid|
 D Die and respawn |SK| |C|Hunter| |R|Dwarf| |M|speedrun|
@@ -235,6 +238,7 @@ T The Blackwood Corrupted |QID|4763| |N|Talk to Thundris Windweaver - Talk to Th
 T Tharnariun's Hope |QID|2139| |N|Talk to Tharnariun Treetender - Talk to Tharnariun Treetender| |R|!NightElf|
 A A Lost Master |QID|993| |N|Talk to Terenthis - Talk to Terenthis| |R|!NightElf|
 U Equip the [Enchanted Moonstalker Cloak] If it's better than your current Cloak |N|If you equip the [Enchanted Moonstalker Cloak], make sure you save your current cloak for later as the [Enchanted Moonstalker Cloak] is lost upon a later turn in| |U|5387| |SK| |R|!NightElf|
+N Travel to the dock of the Darnassus boat |SK| |C|Hunter| |R|Dwarf|
 N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |SK| |C|Hunter| |R|Dwarf|
 N You need 50 [Cooking] for a quest in Duskwood later - [Cook] the [Small Eggs] and [Mild Spices] into [Herb Baked Eggs] |SK| |C|Hunter| |R|Dwarf|
 R Take the boat to Darnassus |C|Hunter| |R|Dwarf|
@@ -249,7 +253,7 @@ A The Absent Minded Prospector |QID|942| |N|Talk to Chief Archaeologist Greywhis
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 A Power over Poison |QID|6125| |N|Talk to Dendrite Starblaze - Go to Moonglade - Talk to Dendrite Starblaze - (56.2, 30.4)| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
-N (18.5, 19.9) |SK| |C|Hunter| |R|NightElf/Dwarf|
+N Travel to Auberdine - (18.5, 19.9) |SK| |C|Hunter| |R|NightElf/Dwarf|
 H Hearthstone |SK| |C|Hunter| |R|NightElf/Dwarf|
 T Beached Sea Turtle |QID|4727| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde|
 T Fruit of the Sea |QID|1138| |N|Talk to Gubber Blump - Talk to Gubber Blump - (36.1, 44.9)|
@@ -258,6 +262,7 @@ N Talk to Dalmond - Talk to Dalmond - Stock up on [Sharp Arrows] - (37.5, 40.5) 
 T Tharnariun's Hope |QID|2139| |N|Talk to Tharnariun Treetender - Talk to Tharnariun Treetender| |R|NightElf|
 A A Lost Master |QID|993| |N|Talk to Terenthis - Talk to Terenthis| |R|NightElf|
 U Equip the [Enchanted Moonstalker Cloak] If it's better than your current Cloak |N|If you equip the [Enchanted Moonstalker Cloak], make sure you save your current cloak for later as the [Enchanted Moonstalker Cloak] is lost upon a later turn in| |U|5387| |O| |R|NightElf|
+N Travel to the dock of the Menethil Harbor boat |SK|
 N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |SK|
 N You need 50 [Cooking] for a quest in Duskwood later - [Cook] the [Small Eggs] and [Mild Spices] into [Herb Baked Eggs] |SK|
 R Take the boat to Menethil Harbor |N|You will now begin to travel to The Deadmines - (32.3, 44.0)| |O|
@@ -267,14 +272,14 @@ N Equip the [Executioner's Sword] |U|4818| |SK| |C|Paladin/Warrior| |R|!NightElf
 N Equip the [Dacian Falx] |U|922| |SK| |C|Paladin/Warrior| |R|!NightElf|
 R Ironforge >> Fly to Ironforge |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)| |SK| |R|!NightElf|
 f Menethil Harbor >> Get the Menethil Harbor flight path |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)| |R|NightElf|
-N (5.5, 64.2) |SK| |R|NightElf|
+N Jump off the end of the dock and swim to the waypoint - (5.5, 64.2) |SK| |R|NightElf|
 R Use the character unstuck self service feature to skip to Ironforge. You will have to log off at the spot, then navigate to the help menu on another character (alternatively, paste the unstuck link below into your browser), then scroll down to self service. Click on your character and move. If you can't unstuck then skip this step and swim along the mountains to Westfall |N|(2.4, 78.7)| |R|NightElf|
 R If the website unstuck is not available, swim to Westfall |N|(4.5, 29.2)| |O| |R|NightElf|
-N (54.3, 9.3) |SK| |R|NightElf|
+N Run up the shore and make your way to Sentinel Hill - (54.3, 9.3) |SK| |R|NightElf|
 R Sentinel Hill >> Get the Sentinel Hill flight path |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |O| |R|NightElf|
 R The Defias Brotherhood |QID|65| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)| |O| |R|NightElf|
 R Run to Stormwind |N|(36.8, 72.4)| |O| |R|NightElf|
-N (42.5, 33.5) |SK| |C|Priest| |R|NightElf|
+N Travel toward High Priestess Laurena inside the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest| |R|NightElf|
 R Train your class spells |N|Talk to High Priestess Laurena - Talk to High Priestess Laurena inside - (38.5, 26.9)| |C|Priest| |R|NightElf|
 N Talk to Buliwyf Stonehand - Talk to Buliwyf Stonehand inside - (61.2, 89.5) |O| |C|Warrior/Hunter| |R|NightElf/NightElf|
 N Talk to Brenwyn Wintersteel - Talk to Brenwyn Wintersteel downstairs - Buy the [Keen Throwing Knives] from her - Collect Keen Throwing Knife (200) - (62.4, 88.7) |O| |C|Warrior| |R|NightElf|
@@ -282,20 +287,20 @@ N Equip the [Keen Throwing Knives] |U|3107| |SK| |C|Warrior| |R|NightElf|
 R Ironforge >> Get the Ironforge flight path |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.8)| |R|NightElf|
 R The Powers Below |QID|968| |N|Use the [Book: The Powers Below] to start the quest - (50.8, 5.6)| |U|5352| |O|
 R The Powers Below |QID|968| |N|Talk to Gerrig Bonegrip - Talk to Gerrig Bonegrip inside - (50.8, 5.6)|
-N (28.7, 25.6) |SK| |C|Mage|
+N Travel toward Ginny Longberry inside - (28.7, 25.6) |SK| |C|Mage|
 N Talk to Ginny Longberry - Talk to Ginny Longberry inside - Buy up to 4 [Runes of Teleportation] from her - Rune of Teleportation (4) - (31.3, 27.8) |C|Mage|
 t Train [Teleport: Ironforge] |N|Talk to Milstaff Stormeye - Talk to Milstaff Stormeye - (25.5, 7.0)| |C|Mage|
 t Train your class spells |N|Talk to Dink - Talk to Dink - (27.2, 8.6)| |C|Mage|
 R Train your class spells |N|Talk to Toldren Deepiron - Talk to Toldren Deepiron - (25.2, 10.8)| |C|Priest|
-N (27.6, 8.1) |SK| |C|Mage/Priest|
+N Jump on top of the pillar above Bink, then walk slightly east of her onto the arrow position. Position your character until it looks like they're floating, then perform a Logout Skip by logging out and back in - (27.6, 8.1) |SK| |C|Mage/Priest|
 R Train your class spells |N|Talk to Briarthorn - Talk to Briarthorn - (51.1, 8.7)|
-N (53.2, 7.0) |SK|
+N Enter Jubahl Corpseseeker's house - (53.2, 7.0) |SK|
 N Talk to Jubahl Corpseseeker - Talk to Jubahl Corpseseeker - Buy [Grimoires] for your pets if you wish - (52.7, 6.1)
-N (52.8, 5.1) |SK|
-N (53.2, 7.0) |SK| |C|!Mage/!Priest|
-N (52.8, 5.1) |SK| |C|!Mage/!Priest|
+N walk onto the top of the bed, then jump onto the top of the bookshelf. Perform a Logout Skip by logging out and back in - (52.8, 5.1) |SK|
+N Enter Jubahl Corpseseeker's house - (53.2, 7.0) |SK| |C|!Mage/!Priest|
+N walk onto the top of the bed, then jump onto the top of the bookshelf. Perform a Logout Skip by logging out and back in - (52.8, 5.1) |SK| |C|!Mage/!Priest|
 N (61.0, 90.5) |SK| |C|Hunter/Warrior| |R|NightElf|
-N (56.2, 46.8) |SK| |C|!Mage/!Priest|
+N Jump on top of the Gryphon's Head. Perform a Logout Skip by logging out and back in - (56.2, 46.8) |SK| |C|!Mage/!Priest|
 N Talk to Gearcutter Cogspinner - Talk to Gearcutter Cogspinner - Buy a [Bronze Tube] from him (if it's up) - (67.8, 42.5) |O|
 N (78.0, 51.4) |O|
 R Take the Deeprun Tram to Stormwind |N|Level your [First Aid] and [Cooking] if needed while on the Tram| |SK|
@@ -310,16 +315,16 @@ t Train [Ambush] |N|Talk to Osborne the Night Man - Talk to Osborne the Night Ma
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne the Night Man - Make sure you train [Stealth], [Pick Pocket], and [Pick Lock] as you'll need them later - (74.7, 52.8)| |O| |C|Rogue|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne the Night Man - Make sure you train [Pick Pocket]and [Pick Lock] as you'll need them later - (74.7, 52.8)| |O| |C|Rogue|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne the Night Man - Make sure you train [Pick Lock] as you'll need it later - (74.7, 52.8)| |C|Rogue|
-N (74.8, 53.8) |SK| |C|Rogue|
+N Travel toward Renzik "The Shiv" and Master Mathias Shaw inside SI:7 upstairs - (74.8, 53.8) |SK| |C|Rogue|
 A Mathias and the Defias |QID|2360| |N|Talk to Master Mathias Shaw - Talk to Renzik "The Shiv" and Master Mathias Shaw - (75.8, 60.4)| |C|Rogue|
-N (74.6, 51.6) |SK| |C|Warrior|
+N Travel toward Wu Shen inside the Command Center - (74.6, 51.6) |SK| |C|Warrior|
 t Train your class spells |N|Talk to Wu Shen - Talk to Wu Shen inside upstairs - (78.7, 45.8)| |C|Warrior|
 N Talk to Woo Ping - Talk to Woo Ping - (57.1, 57.7)
 N Equip the [Executioner's Sword] |U|4818| |SK| |C|Warrior| |R|NightElf|
 N Talk to Marda Weller - Talk to Marda Weller inside - Buy a [Longsword] from her or check the Auction House for something better/cheaper - Longsword (1) - (57.4, 56.8) |C|Rogue|
 N Talk to Marda Weller - Talk to Marda Weller - Buy a [Longsword] from her if you can afford it - Longsword (1) - (57.4, 56.8) |C|Rogue|
 N Equip the [Longsword] |U|923| |SK| |C|Rogue|
-N (42.9, 34.2) |SK| |C|Paladin|
+N Travel to Duthorian Rall inside the Stormwind Cathedral - (42.9, 34.2) |SK| |C|Paladin|
 A The Tome of Valor |QID|1649| |N|Talk to Duthorian Rall - Talk to Duthorian Rall. He will give you the [Tome of Valor] - Tome of Valor (1) - (39.8, 29.8)| |U|6776| |C|Paladin|
 A The Tome of Valor |QID|1650| |N|Talk to Duthorian Rall - Talk to Duthorian Rall - (39.8, 29.8)| |C|Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.6, 32.0)| |C|Paladin|
@@ -330,16 +335,16 @@ N Talk to Ardwyn Cailen - Talk to Ardwyn Cailen inside - Buy a [Dusk Wand] from 
 N Talk to Ardwyn Cailen - Talk to Ardwyn Cailen inside - Buy a [Dusk Wand] from her - Dusk Wand (1) - (42.6, 67.2) |C|Warlock/Priest|
 N Equip the [Dusk Wand] |U|5211| |SK| |C|Warlock/Priest|
 N Equip the [Greater Magic Wand] |U|11288| |SK| |C|Warlock/Priest|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Enter The Slaughtered Lamb. Go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 N Talk to Spackle Thornberry - Talk to Spackle Thornberry - Buy the [Grimoire of Torment (Rank 2)] from her - (25.7, 77.6) |SK| |C|Warlock|
 A Devourer of Souls |QID|1716| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock|
 t Use the [Grimoire of Torment (Rank 2)] |N|Talk to Spackle Thornberry| |U|16346| |SK| |C|Warlock|
-N Ascend the Mage Tower. Go through the Green Portal - (38.6, 81.9) |SK| |C|Mage|
+N Ascend the Mage Tower. Go through the Green Portal - Travel toward Larimaine Purdue - (38.6, 81.9) |SK| |C|Mage|
 t Train [Teleport: Stormwind] |N|Talk to Larimaine Purdue - Talk to Larimaine Purdue - (39.7, 79.5)| |C|Mage|
 A The Corruption Abroad |QID|3765| |N|Talk to Argos Nightwhisper - Talk to Argos Nightwhisper - (21.4, 55.8)| |C|!Paladin|
 t Train your class spells |N|Talk to Sheldras Moontree - Talk to Sheldras Moontree - (20.9, 55.5)| |C|Druid|
-N (50.9, 57.8) |SK| |C|Hunter|
+N Enter The Empty Quiver inside the middle ring of the Trade District - (50.9, 57.8) |SK| |C|Hunter|
 N Talk to Landria - Talk to Frederick Stover - Buy a [Heavy Recurve Bow] and a [Medium Quiver] from him - Heavy Recurve Bow (1) - Medium Quiver (1) - (50.0, 57.6) |C|Hunter|
 N Talk to Landria - Talk to Frederick Stover - Buy a [Heavy Recurve Bow] and a [Medium Quiver] from him or check the Auction House for something better/cheaper - Heavy Recurve Bow (1) - Medium Quiver (1) - (50.0, 57.6) |C|Hunter|
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - This will save you time as you won't need to run around looking for mobs to kill. Skip this step if you wish to not buy any - [Great Goretusk Snout] - [Tough Condor Meat] - [Crisp Spider Meat] - Great Goretusk Snout (5) - Tough Condor Meat (5) - Crisp Spider Meat (5) - (53.6, 59.8) |M|speedrun|
@@ -370,18 +375,18 @@ N Collect item 6452 (x1) |SK| |C|Rogue| |R|!Dwarf|
 N Cast Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |U|6452| |O| |C|Rogue| |R|!Dwarf|
 N Cast Cast [Stoneform] to remove the [Touch of Zanzil] debuff |SK| |C|Rogue| |R|Dwarf|
 F Stormwind >> Fly to Stormwind |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |SK|
-N (42.9, 33.9) |SK| |C|Rogue| |R|!Dwarf|
+N Travel toward Shaina Fuller - (42.9, 33.9) |SK| |C|Rogue| |R|!Dwarf|
 N Talk to Shaina Fuller - If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead - (43.1, 26.2) |C|Rogue| |R|!Dwarf|
 t Train [Anti-Venom] |N|Talk to Shaina Fuller - If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead - (43.1, 26.2)| |C|Rogue| |R|!Dwarf|
 N Collect item 6452 (x1) |SK| |C|Rogue| |R|!Dwarf|
 N Cast Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |U|6452| |SK| |C|Rogue| |R|!Dwarf|
-N (74.9, 54.0) |SK|
+N Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw - (74.9, 54.0) |SK|
 A The Defias Brotherhood |QID|141| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)|
 N Start assembling a group for the Deadmines |SK|
 F Westfall >> Fly to Westfall |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |SK|
 A The Defias Brotherhood |QID|142| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)|
 N Equip the [Longsword] |U|923| |SK| |C|Rogue|
-N (44.5, 69.6) |SK|
+N Travel to Moonbrook - (44.5, 69.6) |SK|
 N Kill the Defias Messenger. Loot him for his Mysterious Message - The Defias Messenger spawns in Moonbrook. He walks along the road north of Moonbrook, to the Gold Coast Quarry and Jangolode Mine. If you don't see him along the road, wait for him to spawn in Moonbrook - He has a 4-5 minute respawn timer - A Mysterious Message (1) - (44.5, 69.6) |QID|142|
 T The Defias Brotherhood |QID|142| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)|
 A The Defias Brotherhood |QID|155| |N|Talk to The Defias Traitor - Talk to The Defias Traitor - You may need to wait for The Defias Traitor to spawn if he's not there - If you've already assembled a group, make sure your group has also turned in the previous part first before starting the escort - (55.7, 47.5)|
@@ -403,11 +408,11 @@ N Equip the [Dacian Falx] |U|922| |SK| |C|Paladin/Warrior|
 N Equip the [Longsword] |U|923| |SK| |C|Rogue|
 N Kill Edwin VanCleef. Loot him for his Head and [An Unsent Letter] - An Unsent Letter (1) - Head of VanCleef (1) |QID|166|
 N (38.9, 84.0) |SK|
-N (39.4, 85.8) |SK| |C|Paladin|
+N Travel toward Daphne Stilwell in her field - (39.4, 85.8) |SK| |C|Paladin|
 A The Tome of Valor |QID|1651| |N|Talk to Daphne Stilwell - Talk to Daphne Stilwell in her field to start her escort - She patrols around slightly in her field - Be careful as this can be slightly difficult. You'll face 3 waves of 3, then 4, then 5 level 17-18 Defias Raiders - (41.6, 88.7)| |C|Paladin|
 N Protect Daphne Stilwell - If either you or Daphne Stilwell dies, the quest will fail and you'll have to try again - Be careful as this can be slightly difficult. You'll face 3 waves of 3, then 4, then 5 level 17-18 Defias Raiders - Protect Daphne Stilwell (1) - (41.3, 88.5) |QID|1651| |C|Paladin|
 A The Tome of Valor |QID|1652| |N|Talk to Daphne Stilwell - Talk to Daphne Stilwell - She patrols around slightly in her field - (41.6, 88.7)| |C|Paladin|
-N (30.0, 86.0) |SK|
+N Travel to the Westfall Lighthouse - (30.0, 86.0) |SK|
 T Keeper of the Flame |QID|103| |N|Talk to Captain Grayson - Talk to Captain Grayson - (30.0, 86.0)|
 A The Coastal Menace |QID|104| |N|Talk to Captain Grayson - Talk to Captain Grayson - (30.0, 86.0)|
 A The Coastal Menace |QID|104| |N|Talk to Captain Grayson - Talk to Captain Grayson - (30.0, 86.0)| |O|
@@ -424,27 +429,27 @@ T Red Silk Bandanas |QID|214| |N|Talk to Scout Riell - Talk to Scout Riell atop 
 N Cast Cast [Teleport: Stormwind] |SK| |C|Mage|
 t Train your class spells |N|Talk to Elsharin - Talk to Elsharin - (36.9, 81.1)| |O| |C|Mage|
 R Stormwind >> Fly to Stormwind |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |SK|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Enter The Slaughtered Lamb. Go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |O| |C|Warlock|
-N (42.9, 34.2) |SK| |C|Paladin|
+N Travel to Duthorian Rall inside the Stormwind Cathedral - (42.9, 34.2) |SK| |C|Paladin|
 A The Test of Righteousness |QID|1653| |N|Talk to Duthorian Rall - Talk to Duthorian Rall - (39.8, 29.8)| |O| |C|Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.6, 32.0)| |O| |C|Paladin|
-N (42.5, 33.5) |SK| |C|Priest|
+N Travel toward High Priestess Laurena inside the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest|
 t Train your class spells |N|Talk to High Priestess Laurena - Talk to High Priestess Laurena inside - (38.5, 26.9)| |O| |C|Priest|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne the Night Man - (74.7, 52.8)| |O| |C|Rogue|
-N (74.6, 51.6) |SK| |C|Warrior|
+N Travel toward Wu Shen inside the Command Center - (74.6, 51.6) |SK| |C|Warrior|
 t Train your class spells |N|Talk to Wu Shen - Talk to Wu Shen inside upstairs - (78.7, 45.8)| |O| |C|Warrior|
 T Collecting Memories |QID|168| |N|Talk to Wilder Thistlenettle - Talk to Wilder Thistlenettle inside - (65.4, 21.2)|
 t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brightspear inside - (61.6, 15.3)|
 T Underground Assault |QID|2040| |N|Talk to Shoni the Shilent - Talk to Shoni the Shilent - (55.5, 12.5)|
 N Talk to Billibub Cogspinner - Talk to Billibub Cogspinner - Buy a [Bronze Tube] from him (if its up) - (55.2, 7.0)
-N (42.9, 34.2) |SK| |C|Paladin|
+N Travel to Duthorian Rall inside the Stormwind Cathedral - (42.9, 34.2) |SK| |C|Paladin|
 A The Test of Righteousness |QID|1653| |N|Talk to Duthorian Rall - Talk to Duthorian Rall - (39.8, 29.8)| |C|Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.6, 32.0)| |C|Paladin|
-N (42.5, 33.5) |SK| |C|Priest|
+N Travel toward High Priestess Laurena inside the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest|
 t Train your class spells |N|Talk to High Priestess Laurena - Talk to High Priestess Laurena inside - (38.5, 26.9)| |C|Priest|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne the Night Man - (74.7, 52.8)| |C|Rogue|
-N (74.6, 51.6) |SK| |C|Warrior|
+N Travel toward Wu Shen inside the Command Center - (74.6, 51.6) |SK| |C|Warrior|
 t Train your class spells |N|Talk to Wu Shen - Talk to Wu Shen inside upstairs - (78.7, 45.8)| |C|Warrior|
 N Cast Cast [Teleport: Stormwind] |SK| |C|Mage|
 t Train your class spells |N|Talk to Elsharin - Talk to Elsharin atop the Tower - (36.9, 81.1)| |O| |C|Mage|
@@ -462,6 +467,7 @@ R The Powers Below |QID|968| |N|Talk to Gerrig Bonegrip - Talk to Gerrig Bonegri
 R Hearthstone |O|
 N Talk to Dalmond - Talk to Dalmond - Buy a [Flint and Tinder] and a [Simple Wood] from him - This is for leveling up your [Cooking] while on the boat soon - You need 50 [Cooking] for a quest in Duskwood later - Simple Wood (1) - Flint and Tinder (1) - (37.5, 40.5) |C|!Hunter|
 N Talk to Gorbold Steelhand - Talk to Gorbold Steelhand - Buy [Mild Spices] from him until you have [Mild Spices] equal or more than the amount of [Small Eggs] that you currently have - Mild Spices (1-50) - Small Egg (1-50) |SK| |C|!Hunter|
+N Travel to the dock of the Menethil Harbor boat |SK| |C|!Hunter|
 N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |SK| |C|!Hunter|
 N You need 50 [Cooking] for a quest in Duskwood later - [Cook] the [Small Eggs] and [Mild Spices] into [Herb Baked Eggs] |SK| |C|!Hunter|
 R Take the boat to Menethil Harbor |N|(32.3, 44.0)| |C|!Hunter|
@@ -471,21 +477,21 @@ A Young Crocolisk Skins |QID|484| |N|Talk to James Halloran - Talk to James Hall
 f Wetlands>> Get the Wetlands flight path |N|Talk to Shellei Brondir - Talk to Shellei - (9.5, 59.7)| |C|!Hunter| |R|NightElf|
 N Talk to Neal Allen - Talk to Neal Allen - Buy a [Bronze Tube] - This is a limited supply item. Skip this step if Neal Allen doesn't have one - (10.4, 56.0) |C|!Hunter| |R|NightElf|
 N Kill Young Wetlands Crocolisks. Loot them for their Young Crocolisk Skin |QID|484| |SK| |C|!Hunter/!Warrior| |R|NightElf|
-N (49.9, 39.4) |SK| |C|!Hunter| |R|NightElf|
+N Travel east toward Einar Stonegrip - (49.9, 39.4) |SK| |C|!Hunter| |R|NightElf|
 A Daily Delivery |QID|469| |N|Talk to Einar Stonegrip - Talk to Einar Stonegrip - (49.9, 39.4)| |C|!Hunter| |R|NightElf|
 N Kill Young Wetlands Crocolisks. Loot them for their Young Crocolisk Skin - (53.2, 41.3) |QID|484| |C|!Hunter/!Warrior| |R|NightElf|
 R Logout on top of the mushrooms at the back of the cave. |N|Head to the cave at the base of the dam in eastern Wetlands - When you log back in, this will teleport you to Thelsamar - (63.9, 78.6)| |SK| |C|!Hunter| |R|NightElf|
-R Stay on the main road to avoid mobs |N|(53.1, 70.4)| |SK| |C|!Hunter| |R|NightElf|
+R Stay on the main road to avoid mobs |N|Travel to Loch Modan - (53.1, 70.4)| |SK| |C|!Hunter| |R|NightElf|
 A A Dark Threat Looms |QID|250| |N|Talk to Chief Engineer Hinderweir VII - Talk to Chief Engineer Hinderweir VII - (46.0, 13.6)| |C|!Hunter| |R|NightElf|
 A A Dark Threat Looms |QID|199| |N|Click the Suspicious Barrel - (56.0, 13.2)| |C|!Hunter| |R|NightElf|
 T A Dark Threat Looms |QID|199| |N|Talk to Chief Engineer Hinderweir VII - Talk to Chief Engineer Hinderweir VII - (46.0, 13.6)| |C|!Hunter| |R|NightElf|
 D Die and respawn |SK| |C|!Hunter| |R|NightElf| |M|speedrun|
 f Thelsamar >> Get the Thelsamar flight path |N|Talk to Thorgrum Borrelson - Talk to Thorgrum - (33.9, 51.0)| |C|!Hunter| |R|NightElf|
-N (21.3, 68.6) |C|!Hunter| |R|NightElf|
+N Travel to Dun Morogh - (21.3, 68.6) |C|!Hunter| |R|NightElf|
 R Travel to Ironforge |N|(55.1, 34.9)| |C|!Hunter| |R|NightElf|
 R Head to the trogg cave west and log out on top of the drilling machine near the entrance to perform a logout skip, that will teleport you to Ironforge |N|(70.7, 56.7)| |C|!Hunter| |R|NightElf|
 f Ironforge >> Get the Ironforge flight path |N|Talk to Gryth Thurden - Talk to Gryth - (55.5, 47.8)| |C|!Hunter| |R|NightElf|
-N (56.2, 46.8) |SK| |C|!Hunter|
+N Perform a Logout skip by jumping on top of one of the Gryphon's heads, and logging out, then back in - (56.2, 46.8) |SK| |C|!Hunter|
 N Talk to Gearcutter Cogspinner - Talk to Gearcutter Cogspinner - Buy a [Bronze Tube] - This is a limited supply item. Skip this step if Gearcutter Cogspinner doesn't have one - (67.8, 42.5) |SK| |C|!Hunter|
 R Enter the Deeprun Tram. Take the tram to Stormwind |N|Level your [First Aid] and [Cooking] if needed while waiting for the tram - (78.0, 52.0)| |C|!Hunter|
 

@@ -15,18 +15,18 @@ N Escort Erland safely to Rane Yorick - Worgs can spawn on top of each other, ea
 A The Deathstalkers' Report |QID|449| |N|Talk to Rane Yorick - Talk to Rane Yorick - (53.5, 13.4)|
 N Kill Mottled Worg - Kill Worgs. Loot them for their Hearts - Collect Discolored Worg Heart (x6) - (57.7, 10.1)
 D Die and respawn |SK| |M|speedrun|
-N (49.8, 28.7) |SK| |M|hardcore|
+N Travel to The Sepulcher - (49.8, 28.7) |SK| |M|hardcore|
 A Prove Your Worth |QID|421| |N|Talk to Dalar Dawnweaver - Talk to Dalar - (44.2, 39.7)|
 N Talk to Gwyn Farrow - Talk to Gwyn - Buy [Red-speckled Mushrooms] from her - Vendor trash - Red-speckled Mushroom (20) - (44.0, 39.8) |C|!Mage/!Priest|
 N Talk to Edwin Harly - Talk to Edwin - Buy [Lesser Healing Potions] from him if they're up - Vendor trash - (44.0, 39.9)
 A Supplying the Sepulcher |QID|6321| |N|Talk to Deathguard Podrig - Talk to Allister and Podrig - (44.0, 40.9)| |R|Undead|
 A Border Crossings |QID|477| |N|Talk to Shadow Priest Allister - Talk to Allister - (44.0, 40.9)|
-N (43.1, 41.3) |SK|
+N Enter the crypt - (43.1, 41.3) |SK|
 A The Dead Fields |QID|437| |N|Talk to High Executor Hadrec - Talk to Hadrec in the crypt - (43.4, 40.9)|
 A Return to Quinn |QID|430| |N|Talk to Apothecary Renferrel - Talk to Renferrel - (42.8, 40.9)|
 N Kill Moonrage Whitescalps - Moonrage Whitescalp (5) - (49.1, 36.7) |QID|421|
 A Arugal's Folly |QID|422| |N|Talk to Dalar Dawnweaver - Talk to Dalar - (44.2, 39.7)|
-N (52.7, 27.7) |SK|
+N Travel to Valgan's Field - (52.7, 27.7) |SK|
 N Enter the house and go to the second floor. Loot the Dusky Spellbooks on the ground - Remedy of Arugal (1) - (52.7, 27.7) |QID|422|
 N (53.4, 13.3) |SK|
 T Return to Quinn |QID|430| |N|Talk to Quinn Yorick - Talk to Quinn Yorick on the second floor of the house - (53.4, 13.3)|
@@ -45,7 +45,7 @@ D Die and respawn |SK| |M|speedrun|
 N (45.5, 41.3) |SK| |M|hardcore|
 A Arugal's Folly |QID|423| |N|Talk to Dalar Dawnweaver - Talk to Dalar - (44.2, 39.7)|
 T Arugal's Folly |QID|422| |N|Talk to Dalar Dawnweaver - Talk to Dalar - (44.2, 39.7)|
-N (43.1, 41.3) |SK|
+N Enter the crypt - (43.1, 41.3) |SK|
 A The Decrepit Ferry |QID|438| |N|Talk to High Executor Hadrec - Talk to Hadrec in the crypt - (43.4, 40.9)|
 N Talk to Gwyn Farrow - Talk to Gwyn - Buy [Red-speckled Mushrooms] from her - Vendor trash - Red-speckled Mushroom (20) - (44.0, 39.8) |C|!Mage/!Priest|
 N Talk to Edwin Harly - Talk to Edwin - Buy [Lesser Healing Potions] from him if they're up - (44.0, 39.9)
@@ -57,12 +57,12 @@ A Rot Hide Clues |QID|439| |N|Click the Boat at the side of the docks - (58.4, 3
 N Kill Moonrage Gluttons and Moonrage Darksouls. Loot them for their Shackles - Be careful! Moonrage Darksouls enrage when they are below 25% health. Kill them quickly when they are low - Glutton Shackle (6) - Darksoul Shackle (3) - (56.1, 45.8) |QID|423|
 A Maps and Runes |QID|478| |N|Kill Dalaran Apprentice - Click the Crate in the camp - Be careful! These mobs cast [Frostbolt] and flee at low health. Pull them back and kill them one by one until you can safely click on the crate - (49.9, 60.3)| |M|hardcore|
 A Maps and Runes |QID|478| |N|Kill Dalaran Apprentice - Click the Crate in the camp - Be careful, these mobs cast [Frostbolt] - (49.9, 60.3)| |M|speedrun|
-N (45.5, 41.3) |SK| |M|hardcore|
+N Travel back to The Sepulcher - (45.5, 41.3) |SK| |M|hardcore|
 D Die and respawn |SK| |M|speedrun|
 A Dalaran's Intentions |QID|482| |N|Talk to Dalar Dawnweaver - Talk to Allister and Dalar - (44.0, 40.9)|
 A Dalaran's Intentions |QID|482| |N|Talk to Dalar Dawnweaver - Talk to Allister and Dalar - (44.0, 40.9)|
 T Dalaran's Intentions |QID|482| |N|Talk to Shadow Priest Allister - Talk to Allister - (44.0, 40.9)|
-N (43.1, 41.3) |SK|
+N Enter the crypt - (43.1, 41.3) |SK|
 T Rot Hide Clues |QID|439| |N|Talk to High Executor Hadrec - Talk to Hadrec in the crypt - (43.4, 40.9)|
 N Talk to Karos Razok - Talk to Karos - (45.6, 42.6)
 R Undercity >> Fly to the Undercity |QID|6323| |N|Talk to Karos Razok - Talk to Karos - (45.6, 42.6)| |R|Undead|
@@ -87,14 +87,14 @@ t Train your class spells |N|Talk to Carolyn Ward - Talk to Carolyn - (83.9, 72.
 t Train your class spells |N|Talk to Carolyn Ward - Talk to Carolyn - (83.9, 72.1)| |O| |C|Rogue| |R|Undead|
 A The Deathstalkers |QID|1899| |N|Talk to Andron Gant - Talk to Andron - (54.8, 76.3)| |C|Rogue| |R|Undead|
 N Loot Andron's Bookshelf behind Andron - Andron's Ledger (1) - (55.4, 76.9) |QID|1899| |C|Rogue| |R|Undead|
-N (52.8, 77.7) |SK|
+N Travel toward Faranell in The Apothecarium - (52.8, 77.7) |SK|
 A Sample for Helbrim |QID|1358| |N|Talk to Apothecary Zinge - Talk to Faranell and Zinge in The Apothecarium - (48.8, 69.2)|
-N If you can't do this, just run out of Undercity normally - (48.9, 70.2) |O| |C|Rogue/Warrior| |R|Undead|
+N Perform a Logout Skip by jumping on top of the abomination's abdomen, then logging out and back in - If you can't do this, just run out of Undercity normally - (48.9, 70.2) |O| |C|Rogue/Warrior| |R|Undead|
 A The Deathstalkers |QID|1978| |N|Talk to Mennet Carkad - Talk to Mennet - (83.5, 69.1)| |C|Rogue| |R|Undead|
 t Train your class spells |N|Talk to Carolyn Ward - Talk to Carolyn - (83.9, 72.1)| |O| |C|Rogue| |R|Undead|
 t Train your class spells |N|Talk to Carolyn Ward - Talk to Carolyn - (83.9, 72.1)| |O| |C|Rogue| |R|Undead|
 T The Deathstalkers |QID|1978| |N|Talk to Varimathras - Talk to Varimathras - (58.9, 78.8)| |C|Rogue| |R|Undead|
-N If you can't do this, just run out of Undercity normally - (55.2, 90.9) |O| |C|Rogue|
+N Position your character on the edge of the circle until it looks like they're floating. Perform a Logout Skip by logging out and back in - If you can't do this, just run out of Undercity normally - (55.2, 90.9) |O| |C|Rogue|
 t Train [First Aid] |N|Talk to Mary Edras - Talk to Mary in the Rogues' Quarter - (73.2, 55.2)| |O| |C|!Rogue/!Warrior|
 N (73.2, 55.2) |O| |C|!Rogue/!Warrior|
 t Train [Heavy Linen Bandage] |N|Talk to Mary Edras - Talk to Mary in the Rogues' Quarter - (73.2, 55.2)| |O| |C|!Rogue/!Warrior|

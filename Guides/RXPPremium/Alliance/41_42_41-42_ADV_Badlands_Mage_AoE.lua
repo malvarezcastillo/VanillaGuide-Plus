@@ -8,15 +8,15 @@ return [[
 N 41-42 ADV Badlands Mage AoE |N|Converted from RestedXP guide|
 
 N Talk to Morhan Coppertongue - Talk to Morhan - Vendor Trash. Repair - (34.0, 46.5)
-N Go inside the Inn - (35.2, 47.7) |SK|
+N Go inside the Inn - Travel toward Hearthstove - (35.2, 47.7) |SK|
 N Talk to Innkeeper Hearthstove - Talk to Hearthstove - Buy some [Moonberry Juice] from him - Collect item 1645 (x160) - (34.0, 46.5)
-N Exit the Inn. Go inside the House - (35.2, 47.7) |SK|
+N Exit the Inn. Go inside the House - Travel toward Ghak - (35.2, 47.7) |SK|
 A Badlands Reagent Run |QID|2500| |N|Talk to Ghak Healtouch - Talk to Ghak - (37.1, 49.4)|
-N (46.1, 63.5) |SK|
+N Travel toward Ironband - (46.1, 63.5) |SK|
 A Find Agmond |QID|738| |N|Talk to Prospector Ironband - Talk to Ironband - (65.9, 65.6)|
-N (63.7, 74.6) |SK|
+N Jump up the side of the mountain, then go into the cave - (63.7, 74.6) |SK|
 R Logout Skip by logging out on top of the Mushroom at the back of the cave |N|(61.8, 75.7)|
-N (51.2, 31.9) |SK|
+N Travel toward Ryedol - (51.2, 31.9) |SK|
 R Travel to Badlands |SK|
 A Mirages |QID|718| |N|Talk to Sigrun Ironhew - Talk to Ryedol and Sigrun - (53.4, 43.4)|
 N AoE Shadowforge Darkweavers, Shadowforge Tunnelers, Shadowforge Chanters, and Shadowforge Warriors. Loot them for Ryedol's Lucky Pick - Be careful as Shadowforge Darkweavers cast [Shadow Bolt] (deals about 120-180 ranged damage), Shadowforge Chanters cast [Power Word: Shield] (absorbs damage) and [Renew] (heals damage over time). Shadowforge Warriors cast [Whirlwind] (melee-ranged AoE) - (53.0, 34.0) |QID|719| |SK|
@@ -35,12 +35,12 @@ A Study of the Elements: Rock |QID|710| |N|Talk to Lotwil Veriatus - Talk to Lot
 N AoE Lesser Rock Elementals. Loot them for Small Rock Shards - DON'T kill the normal Rock Elementals as you need them later - (23.0, 46.7) |QID|710| |SK|
 N AoE Giant Buzzards. Loot them for their Buzzard Gizzards and Buzzard Wings - AoE Elder Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Giant Buzzards cast [Infected Wound] (Increases physical damage taken by 9, stackable if batched) - Collect item 3404 (x4) - (14.9, 61.1) |QID|2500| |SK|
 A Study of the Elements: Rock |QID|711| |N|Talk to Lotwil Veriatus - Talk to Lotwil - (25.9, 44.9)|
-N (17.9, 41.1) |SK|
+N Travel toward the Rock Elementals - (17.9, 41.1) |SK|
 N AoE Rock Elementals. Loot them for Large Stone Slabs - (15.4, 32.5) |QID|711|
 A Study of the Elements: Rock |QID|712| |N|Talk to Lotwil Veriatus - Talk to Lotwil - (25.9, 44.9)|
 N Split pull Boss Tho'grun from his guards. Kill him. Loot him for the Sign of the Earth - Boss Tho'grun patrols counter-clockwise around the Middle/Western portions of Badlands |QID|732| |SK|
 N AoE Giant Buzzards. Loot them for their Buzzard Gizzards and Buzzard Wings - AoE Elder Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Giant Buzzards cast [Infected Wound] (Increases physical damage taken by 9, stackable if batched) - Collect item 3404 (x4) - (14.9, 61.1) |QID|2500| |SK|
-N (7.1, 73.3)
+N Travel toward the Greater Rock Elementals - (7.1, 73.3)
 N AoE Greater Rock Elementals. Loot them for Bracers of Rock Binding - (7.1, 73.3) |QID|712|
 N Split pull Boss Tho'grun from his guards. Kill him. Loot him for the Sign of the Earth - Boss Tho'grun patrols counter-clockwise around the Middle/Western portions of Badlands |QID|732| |SK|
 N AoE Dustbelcher Wyrmhunters, Dustbelcher Maulers, and Dustbelcher Shamans. Loot them for Scrap Metal - Be careful as Dustbelcher Wyrmhunters cast [Thrown] and [Net], Dustbelcher Maulers cast [Thrash], and Dustbelcher Shamans cast [Lightning Bolt] and [Healing Wave] - (13.8, 75.3) |QID|733|
@@ -58,9 +58,9 @@ N AoE Dustbelcher Brutes and Dustbelcher Ogres. Loot them for Scrap Metal - (62.
 T Tremors of the Earth |QID|732| |N|Talk to Garek - Talk to Garek - (61.9, 54.3)|
 N AoE Feral Crag Coyotes and Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Feral Crag Coyotes cast [Thrash] (Charges 2 extra attacks every 10 seconds) - (60.6, 56.0) |QID|2500|
 T Scrounging |QID|733| |N|Talk to Sigrun Ironhew - Talk to Sigrun - (53.8, 43.3)|
-N (51.6, 16.7) |SK|
+N Travel toward Ironband - (51.6, 16.7) |SK|
 T Find Agmond |QID|739| |N|Talk to Prospector Ironband - Talk to Ironband - (65.9, 65.6)|
-N (51.9, 68.0) |SK|
+N Travel toward Ghak - (51.9, 68.0) |SK|
 T Badlands Reagent Run |QID|2500| |N|Talk to Ghak Healtouch - Talk to Ghak - (37.1, 49.4)|
 N Cast Cast [Teleport: Stormwind] |SK| |R|Human|
 R Exit Stormwind |N|Skip this step if you DONT have enough money after vendoring for your [Horse Bridle] (90 Gold) - (32.3, 49.7)| |R|Human|

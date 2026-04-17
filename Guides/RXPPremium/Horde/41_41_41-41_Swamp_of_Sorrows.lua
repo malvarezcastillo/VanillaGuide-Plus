@@ -7,10 +7,10 @@ return [[
 
 N 41-41 Swamp of Sorrows |N|Converted from RestedXP guide|
 
-N (39.3, 6.5) |SK|
+N Travel to Duskwood - (39.3, 6.5) |SK|
 N Be careful of the Darkshire Guards! Don't mindlessly follow the road - Follow the waypoint arrow for safety - (74.1, 56.5) |SK|
 T Nothing But The Truth |QID|1372| |N|Talk to Apothecary Faustin - Talk to Zraedus and Faustin - (87.8, 35.6)|
-N (88.5, 41.0) |SK|
+N Travel to Deadwind Pass - (88.5, 41.0) |SK|
 R Travel to Swamp of Sorrows |N|(48.0, 34.6)|
 N Kill Adolescent Whelps and Dreaming Whelps. Loot them for their Dream Dust - Don't focus on this. Kill all of the whelps once. You'll finish it later - (15.1, 65.5) |QID|1116| |SK|
 A Lack of Surplus |QID|698| |N|Talk to Dar - Talk to Dar - (44.7, 57.1)|
@@ -67,7 +67,7 @@ A Excelsior |QID|628| |N|Talk to Drizzlik - Talk to Drizzlik - (28.3, 77.6)| |O|
 N Talk to Glyx Brewright - Talk to Glyx - Buy [Greater Healing Potions] from him if they're up - (28.1, 78.1)
 N Talk to Sly Garret - Talk to Sly - Stock up on [Flash Powder] and [Poisons] - (28.4, 76.8) |C|Rogue|
 N Talk to Viznik Goldgrubber - Talk to Viznik Goldgrubber - (26.6, 76.6)
-N (25.9, 73.1) |SK|
+N Run to the Booty Bay Dock - (25.9, 73.1) |SK|
 R Take the boat to Ratchet |N|(25.8, 73.0)|
 T Stinky's Escape |QID|1270| |N|Talk to Mebok Mizzyrix - Talk to Mebok - (62.4, 37.6)|
 F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |SK|

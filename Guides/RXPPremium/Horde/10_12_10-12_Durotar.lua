@@ -8,7 +8,7 @@ return [[
 N 10-12 Durotar |N|Converted from RestedXP guide|
 
 A Conscript of the Horde |QID|840| |N|Talk to Takrin Pathseeker - Talk to Takrin - (50.8, 43.6)| |C|Warrior/Shaman|
-N (62.3, 19.4) |C|Warrior/Shaman|
+N Travel to Far Watch Post - (62.3, 19.4) |C|Warrior/Shaman|
 A Crossroads Conscription |QID|842| |N|Talk to Kargal Battlescar - Talk to Kargal - (62.3, 19.4)| |C|Warrior/Shaman|
 A Path of Defense |QID|1498| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|
 A Thun'grim Firegaze |QID|1502| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|
@@ -50,10 +50,10 @@ R Travel to Thunder Bluff |N|(32.0, 66.9)| |SK| |C|Warrior/Shaman|
 t Train Two-Handed Maces |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Warrior|
 t Train Staves |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Warrior|
 N Talk to Tal - Talk to Tal - (47.0, 49.8) |C|Warrior/Shaman|
-N (28.1, 33.0) |SK| |C|Warrior/Shaman|
+N Travel to the Spirit Rise and enter the pools of vision - (28.1, 33.0) |SK| |C|Warrior/Shaman|
 T Apothecary Zamah |QID|853| |N|Talk to Apothecary Zamah - Talk to Zamah - (22.8, 20.9)| |C|Warrior/Shaman|
 N Equip the [Cauldron Stirrer] |U|5340| |SK| |C|Warrior/Shaman|
-N (29.0, 37.7) |SK| |C|Warrior/Shaman|
+N Run out of the cave, then leave Thunder Bluff by jumping down somewhere under the bridge - (29.0, 37.7) |SK| |C|Warrior/Shaman|
 N Kill Wolves, Cougars, Plainstriders and Swoops as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) - Trophy Swoop Quill (8) |QID|761| |SK| |C|Warrior/Shaman|
 N Kill Wolves, Cougars, Plainstriders and Swoops as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |SK| |C|Warrior/Shaman|
 N Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak] - Do not accept the quest yet - Collect Demon Scarred Cloak |SK| |C|Warrior/Shaman|
@@ -76,7 +76,7 @@ T Swoop Hunting |QID|761| |N|Talk to Harken Windtotem - Talk to Harken - (48.7, 
 t Train your class spells |N|Talk to Narm Skychaser - Talk to Narm - (48.4, 59.1)| |C|Shaman|
 t Train your class spells |N|Talk to Krang Stonehoof - Talk to Krang - (49.5, 60.6)| |C|Warrior|
 A Supervisor Fizsprocket |QID|765| |N|Talk to Morin - He patrols along the eastern road - (55.1, 60.6)| |C|Warrior/Shaman|
-N (61.5, 47.3) |SK| |C|Warrior/Shaman|
+N Travel to The Venture Co. Mine - (61.5, 47.3) |SK| |C|Warrior/Shaman|
 N Kill Venture Co. Workers and Venture Co. Supervisors - Venture Co. Worker (14) - Venture Co. Supervisor (6) |QID|764| |SK| |C|Warrior/Shaman|
 N Run into the mine and hug the right/east side. Kill Supervisor Fizsprocket. Loot him for his Clipboard - Fizsprocket's Clipboard (1) - (65.0, 43.3) |QID|765| |C|Warrior/Shaman|
 N Kill Venture Co. Workers and Venture Co. Supervisors - Venture Co. Worker (14) - Venture Co. Supervisor (6) - (61.4, 47.5) |QID|764| |C|Warrior/Shaman|
@@ -88,16 +88,16 @@ U Hearthstone |U|6948| |C|Warrior/Shaman|
 U Hearthstone |U|6948| |SK| |C|Warrior/Shaman|
 t Train your class spells |N|Talk to Tarshaw Jaggedscar - Talk to Tarshaw - (54.2, 42.5)| |C|Warrior|
 t Train your class spells |N|Talk to Swart - Talk to Swart - (54.4, 42.6)| |C|Shaman|
-N Be careful to not fall of the mountain, the path is very narrow. You could die if you fall - (36.7, 57.8) |SK| |C|Shaman|
+N Travel the path up the mountain toward Telf - Be careful to not fall of the mountain, the path is very narrow. You could die if you fall - (36.7, 57.8) |SK| |C|Shaman|
 A Call of Fire |QID|1525| |N|Talk to Telf Joolam - Talk to Telf - (38.5, 58.9)| |C|Shaman|
 N Talk to Jark - Talk to Jark - Buy [Small Brown Pouches] from him - (54.4, 42.2) |C|Warrior|
 N Kill Venomtail Scorpid - Tame a Venomtail Scorpid |SK| |C|Hunter|
 N Kill Burning Blade Cultists. Loot them for a Reagent Pouch - Reagent Pouch (1) - (53.2, 29.1) |QID|1525| |C|Shaman|
-N (56.3, 27.9) |SK|
+N Travel to Margoz - (56.3, 27.9) |SK|
 A Skull Rock |QID|827| |N|Talk to Margoz - Talk to Margoz - (56.4, 20.0)|
-N (56.5, 25.0) |SK| |C|!Warrior/!Shaman/!Hunter|
+N Travel toward Dustwind Cave - (56.5, 25.0) |SK| |C|!Warrior/!Shaman/!Hunter|
 N Kill Burning Blade Orcs. Loot them for their Collars - Searing Collar (6) - (53.2, 29.1) |QID|827| |C|!Warrior/!Shaman/!Hunter|
-N (55.1, 10.1) |SK| |C|Warrior/Shaman/Hunter|
+N Travel toward Skull Rock - (55.1, 10.1) |SK| |C|Warrior/Shaman/Hunter|
 N Kill Venomtail Scorpids. Loot them for their Poison Sacs - Venomtail Poison Sac (4) |QID|813| |SK| |C|Warrior/Shaman/Hunter|
 N Kill Burning Blade Orcs. Loot them for their Collars and for a Lieutenant's Insignia - Searing Collar (6) - Lieutenant's Insignia (1) - (54.7, 8.8) |QID|5726| |SK| |C|Warrior/Shaman/Hunter|
 U Burning Shadows |QID|832| |N|Kill Gazz'uz. Loot him for his [Eye of Burning Shadow] - Use the [Eye of Burning Shadow] to start the quest - Use your [Really Sticky Glue] on the Voidwalker to avoid being hit, and [Healing Potions] to restore health. Use LoS (line of sight) to avoid Gazz'uz his Shadow Bolts - You can run to bodies of water found within the cave to evade the Voidwalker after killing Gazz'uz - Be careful as he is VERY difficult. You can skip this quest if you need - Collect Eye of Burning Shadow - (51.8, 10.0)| |U|4903| |C|Warrior/Shaman/Hunter|
@@ -106,7 +106,7 @@ N Kill Venomtail Scorpids. Loot them for their Poison Sacs - Venomtail Poison Sa
 A Neeru Fireblade |QID|829| |N|Talk to Margoz - Talk to Margoz - (56.4, 20.0)|
 N Kill Dustwind Savages and Dustwind Storm Witches - Dustwind Savage (12) - Dustwind Storm Witch (8) - (54.0, 23.7) |QID|835|
 D Die and respawn |SK| |M|speedrun|
-N (53.8, 27.7) |SK| |M|hardcore|
+N Travel through the cave toward Rezlak - (53.8, 27.7) |SK| |M|hardcore|
 T Securing the Lines |QID|835| |N|Talk to Rezlak - Talk to Rezlak - (46.4, 22.9)|
 N Finish killing Venomtail Scorpids. Loot them for their Poison Sacs - Venomtail Poison Sac (4) - (38.7, 22.0) |QID|813| |C|Warrior/Shaman/Hunter|
 R Enter Orgrimmar |N|(49.0, 92.8)| |SK|
@@ -119,7 +119,7 @@ N Equip the [Sharp Throwing Axe] when you are level 11 |U|3135| |SK| |C|Rogue|
 t Train your class spells |QID|5654| |N|Talk to Ur'kyo - Talk to Ur'kyo - (35.6, 87.8)| |C|Priest| |R|Troll|
 t Train your class spells |QID|5652| |N|Talk to Ur'kyo - Talk to Ur'kyo - (35.6, 87.8)| |C|Priest| |R|Troll|
 t Train your class spells |N|Talk to Pephredo - Talk to Pephredo - (38.3, 85.5)| |C|Mage|
-N (68.0, 38.7) |SK| |C|Warrior|
+N Travel to the Valley of Honor - (68.0, 38.7) |SK| |C|Warrior|
 t Train your class spells |N|Talk to Grezz Ragefist - Talk to Grezz - (79.9, 31.3)| |C|Warrior|
 T The Admiral's Orders |QID|831| |N|Talk to Nazgrel - Talk to Nazgrel - (32.3, 35.8)| |C|!Warrior/!Shaman/!Hunter|
 A Hidden Enemies |QID|5727| |N|Talk to Thrall - Talk to Thrall - (31.7, 37.8)| |C|Warrior/Shaman/Hunter|
@@ -139,12 +139,12 @@ T Need for a Cure |QID|812| |N|Talk to Rhinag - Talk to Rhinag - (41.5, 18.6)| |
 N Jump down into Thunder Ridge and kill Lightning Hides. Loot them for their Scales - Singed Scale (5) - (42.0, 24.3) |QID|1498| |C|Warrior|
 N Travel south alongside the river toward Far Watch Post - Kill Dreadmaw Crocolisks on the way. Loot them for Kron's Amulet - Skip and abandon this quest if it won't drop - Kron's Amulet (1) - (34.4, 44.5) |QID|816| |C|Warrior/Shaman/Hunter|
 T Lost But Not Forgotten |QID|816| |N|Talk to Misha Tor'kren - Talk to Misha - (43.1, 30.2)| |C|Warrior/Shaman/Hunter|
-N (62.3, 19.4) |C|Warrior/Shaman/Hunter|
+N Travel to Far Watch Post - (62.3, 19.4) |C|Warrior/Shaman/Hunter|
 A Crossroads Conscription |QID|842| |N|Talk to Kargal Battlescar - Talk to Kargal - (62.3, 19.4)| |C|Hunter|
 A The Demon Seed |QID|924| |N|Talk to Ak'Zeloth - Talk to Ak'Zeloth - (62.3, 20.1)| |C|Warrior/Shaman/Hunter|
 T Flawed Power Stone |QID|926| |N|Loot the [Flawed Power Stone] next to Ak'Zeloth. This item has a 30 minute timer, so be sure to be quick - (62.3, 20.0)| |C|Warrior/Shaman/Hunter|
 A Thun'grim Firegaze |QID|1502| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|
-R Take the Zeppelin to Tirisfal Glades |N|(50.8, 13.8)| |C|Rogue/Mage/Priest/Warlock|
+R Take the Zeppelin to Tirisfal Glades |N|Go up the Zeppelin Tower - (50.8, 13.8)| |C|Rogue/Mage/Priest/Warlock|
 
 ]]
 end)

@@ -7,7 +7,7 @@ return [[
 
 N 29-30 Ashenvale |N|Converted from RestedXP guide|
 
-N (5.4, 57.5) |SK|
+N Travel to the Menethil Harbor Dock - (5.4, 57.5) |SK|
 R Take the boat to Darkshore |N|Level your [First Aid] while waiting - (4.6, 57.2)|
 F Stonetalon >> Fly to Stonetalon |N|Talk to Caylais Moonfeather - Talk to Caylais Moonfeather - (36.3, 45.6)|
 A Reclaiming the Charred Vale |QID|1057| |N|Talk to Keeper Albagorm - Talk to Keeper Albagorm - (37.1, 8.1)|
@@ -19,7 +19,7 @@ A Reclaiming the Charred Vale |QID|1059| |N|Talk to Keeper Albagorm - Talk to Ke
 F Ashenvale>> Fly to Ashenvale |N|Talk to Teloren - Talk to Teloren - (36.4, 7.2)|
 A Kayneth Stillwind |QID|4581| |N|Talk to Shindrell Swiftfire - Talk to Shindrell Swiftfire - (34.7, 48.8)|
 A Culling the Threat |QID|1054| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
-N (34.7, 44.3) |SK|
+N Travel to Thistlefur Village. Follow the Arrow for a shortcut - (34.7, 44.3) |SK|
 N Kill Dal Bloodclaw. Loot him for his Skull - Dal Bloodclaw patrols Thistlefur Village - (36.1, 36.6) |QID|1054|
 A The Tower of Althalaxx |QID|973| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
 N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to - Clear an exit path if needed so you can reset them along with the Succubus if needed - (25.3, 60.7) |QID|973|
@@ -31,7 +31,7 @@ A Fallen Sky Lake |QID|1035| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Wh
 A Raene's Cleansing |QID|1026| |N|Talk to Shael'dryn - Talk to Shael'dryn - (53.5, 46.2)|
 N Kill Crazed Ancient - Kill Withered Ancients and Crazed Ancients. Loot them for a Wooden Key - Collect item 5475 (x1) - (63.0, 43.8) |SK|
 N Open the Worn Chest. Loot it for the Iron Shaft - (54.4, 35.4) |QID|1026|
-N (53.4, 36.1) |SK|
+N Run up here for a shortcut - (53.4, 36.1) |SK|
 N Click the Tome of Mel'Thandris on the table - (50.5, 39.1) |QID|1022|
 A The Branch of Cenarius |QID|1031| |N|Talk to Anilia - Talk to Anilia - (78.3, 44.8)|
 N Kill Geltharis. Loot him for his Branch - (78.0, 42.4) |QID|1031|
@@ -56,19 +56,19 @@ N Click the Circle of Imprisonment in Satyrnaar - (81.6, 48.6) |QID|1140|
 N Click the Circle of Imprisonment in Night Run - Be cautious of Felmusk Shadowstalkers in [Stealth] - (78.8, 46.8) |QID|1140|
 N Kill Satyrs. Loot them for their Horns - (81.4, 49.9) |QID|1032|
 A Raene's Cleansing |QID|1028| |N|Talk to Shael'dryn - Talk to Shael'dryn - (53.5, 46.2)|
-N (57.0, 52.0) |SK|
+N Travel toward the Hidden Shrine - (57.0, 52.0) |SK|
 A Raene's Cleansing |QID|1055| |N|Click the Hidden Shrine - (56.3, 49.2)|
 A Raene's Cleansing |QID|1029| |N|Talk to Shael'dryn - Talk to Shael'dryn - (53.5, 46.2)|
 T Fallen Sky Lake |QID|1035| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)|
 A Raene's Cleansing |QID|1030| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
-N (53.3, 74.3)
+N Travel toward Krolg - (53.3, 74.3)
 N Cast Use [Dartol's Rod of Transformation] to turn into a Furbolg |U|5462| |SK|
 A Raene's Cleansing |QID|1045| |N|Talk to Krolg - Talk to Krolg - (50.9, 75.1)| |U|5462|
 N Kill Bloodtooth Guards and Ran Bloodtooth. Loot him for his Skull - Collect item 5388 (x1) - (54.2, 74.1) |QID|1045|
-N (53.3, 74.3) |SK|
+N Travel toward Krolg - (53.3, 74.3) |SK|
 N Cast Use [Dartol's Rod of Transformation] to turn into a Furbolg |U|5462| |SK|
 A Raene's Cleansing |QID|1046| |N|Talk to Krolg - Talk to Krolg - (50.8, 75.1)| |U|5462|
-N If you Turn in Raene's Cleansing you will gain 3,050XP, but you will permanently lose [Dartol's Rod of Transformation] - If you wish to keep it for RP purposes, abandon Raene's Cleansing, and [Dartol's Rod of Transformation] will remain in your bags - (36.6, 49.6) |SK|
+N Travel toward Raene Wolfrunner in Astranaar - If you Turn in Raene's Cleansing you will gain 3,050XP, but you will permanently lose [Dartol's Rod of Transformation] - If you wish to keep it for RP purposes, abandon Raene's Cleansing, and [Dartol's Rod of Transformation] will remain in your bags - (36.6, 49.6) |SK|
 T Raene's Cleansing |QID|1046| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
 T Satyr Slaying! |QID|1032| |N|Talk to Illiyana - Talk to Illiyana - (21.7, 53.3)|
 T The Tower of Althalaxx |QID|1140| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|

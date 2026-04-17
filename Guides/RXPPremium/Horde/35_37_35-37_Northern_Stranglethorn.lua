@@ -42,7 +42,7 @@ t Train your pet spells |N|Talk to Xao'tsu - Talk to Xao'tsu - (66.3, 14.8)| |C|
 N Talk to Auctioneer Thathung - Talk to Auctioneer Thathung - Buy three [Catseye Elixir] from the Auction House - Collect item 10592 (x3) - (55.6, 62.9) |C|!Hunter|
 R Orgrimmar |N|Talk to Innkeeper Gryshka - Talk to Innkeeper Gryshka - (54.1, 68.4)|
 R Leave Orgrimmar |SK|
-R Take the Zeppelin to Stranglethorn Vale |N|(50.8, 13.8)|
+R Take the Zeppelin to Stranglethorn Vale |N|Go up the Zeppelin Tower - (50.8, 13.8)|
 t Stranglethorn Vale |N|Talk to Innkeeper Thulbek - Talk to Innkeeper Thulbek - (31.5, 29.8)| |C|Mage|
 A Mok'thardin's Enchantment |QID|570| |N|Talk to Far Seer Mok'thardin - Talk to Far Seer Mok'thardin - (32.1, 29.2)|
 A The Defense of Grom'gol |QID|568| |N|Talk to Commander Aggro'gosh - Talk to Commander Aggro'gosh - (32.2, 28.9)|
@@ -90,7 +90,7 @@ N Kill Shadowmaw Panthers and Stranglethorn Tigresses across the river - Only do
 N Kill Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors - There are not enough Mosh'Ogg Brutes so you will have to wait for respawns at least once - (36.5, 31.6) |QID|569|
 N Kill Venture Co. Geologists. Loot them for their Crystals |QID|213| |SK|
 N Climb to the oil rig's top level, then kill Foreman Cozzle. Loot him for his Key - Collect item 5851 (x1) - (42.7, 18.0)
-N (43.5, 20.3) |SK|
+N Enter the house - (43.5, 20.3) |SK|
 N Loot Cozzle's Footlocker for the Fuel Regulator Blueprints - (43.3, 20.3) |QID|1182|
 N Return to the Mizjah Ruins and finish killing Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors - (36.5, 31.6) |QID|569|
 N Finish killing Venture Co. Geologists. Loot them for their Crystals - (43.3, 21.1) |QID|213|

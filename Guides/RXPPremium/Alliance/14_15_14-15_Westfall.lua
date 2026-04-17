@@ -10,7 +10,7 @@ N 14-15 Westfall |N|Converted from RestedXP guide|
 R Travel to Westfall |N|(19.0, 81.0)| |SK|
 A The Forgotten Heirloom |QID|64| |N|Talk to Farmer Furlbrow - Talk to Farmer Furlbrow - (60.0, 19.4)|
 A Poor Old Blanchy |QID|151| |N|Talk to Verna Furlbrow - Talk to Verna Furlbrow - (59.9, 19.4)|
-N (56.0, 31.2) |SK|
+N Travel to Saldean's Farm - (56.0, 31.2) |SK|
 A The Killing Fields |QID|9| |N|Talk to Farmer Saldean - Talk to Farmer Saldean - (56.0, 31.2)|
 A Goretusk Liver Pie |QID|22| |N|Talk to Salma Saldean - Talk to Salma Saldean - (56.4, 30.5)|
 T Return to Lewis |QID|6285| |N|Talk to Quartermaster Lewis - Talk to Quartermaster Lewis - (57.0, 47.2)| |R|Human|
@@ -23,12 +23,12 @@ N Talk to Innkeeper Heather - Talk to Innkeeper Heather - Buy food/water if need
 N Open the Sacks of Oats on the ground. Loot them for the Handful of Oats - You can usually find them near Farm Fences or Buildings - Handful of Oats (8) |QID|151| |SK|
 N Kill +Goretusk - Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers - Stringy Vulture Meat (3) - Goretusk Snout (3) - Goretusk Liver (8) |SK|
 N Kill Defias Trappers and Defias Smugglers. Loot them for their Red Leather Bandanas - Defias Trapper slain (15) - Defias Smuggler slain (15) - Red Leather Bandana (15) |QID|153| |SK|
-N (40.4, 52.7)
+N Travel to the Alexston's Farmstead, work on the other quest objectives as you move there - (40.4, 52.7)
 N Kill Harvest Watchers located on any of the fields as you run by them - Loot them for their Okra and Flasks of Oil - Havest Watcher slain (20) - Okra (3) - Flask of Oil (5) |QID|9| |SK|
 N Open Alexston's Chest. Loot it for A Simple Compass - A Simple Compass (1) - (36.2, 54.5) |QID|399|
 N Kill +Goretusk - Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers - Stringy Vulture Meat (3) - Goretusk Snout (3) - Goretusk Liver (8) |SK|
 N Kill Defias Trappers and Defias Smugglers. Loot them for their Red Leather Bandanas - Defias Trapper slain (15) - Defias Smuggler slain (15) - Red Leather Bandana (15) |QID|153| |SK|
-N (50.0, 22.6)
+N Travel to the Jansen Stead, work on the other quest objectives as you move there - (50.0, 22.6)
 N Open Furlbrow's Wardrobe. Loot it for Furlbrow's Pocket Watch - You can loot Furlbrow's Wardrobe from outside if you angle your camera correctly - Be aware of Benny Blanco. He hits hard - Furlbrow's Pocket Watch - (49.3, 19.3) |QID|64|
 N Kill Riverpaw Gnolls and Riverpaw Scouts. Loot them for their Gnoll Paws - Gnoll Paw (8) |QID|102| |SK|
 N Kill Murloc Coastrunner - Travel to the coast, kill Gnolls on the way for [Gnoll Paws] if needed - Kill Murloc Raiders and Murloc Coastrunners. Loot them for their Eyes - Murloc Eye (3) - (52.1, 10.4)
@@ -70,21 +70,21 @@ N Talk to Brenwyn Wintersteel - Talk to Brenwyn Wintersteel down stairs - Buy an
 N Talk to Brenwyn Wintersteel - Talk to Brenwyn Wintersteel down stairs - Buy a [Keen Throwing Dagger] - Keen Throwing Dagger - (62.4, 88.7) |C|Rogue| |R|Human|
 N Equip the [Keen Throwing Dagger] |U|3107| |SK| |C|Rogue| |R|Human|
 t Train your class spells |N|Talk to Beldruk Doombrow - Talk to Beldruk Doombrow - (24.6, 4.5)| |C|Paladin| |R|Dwarf|
-N (25.3, 1.5) |SK| |C|Paladin| |R|Dwarf|
+N Travel toward Muiredon upstairs - (25.3, 1.5) |SK| |C|Paladin| |R|Dwarf|
 A The Tome of Divinity |QID|1785| |N|Talk to Muiredon Battleforge - Talk to Muiredon Battleforge - (23.5, 8.3)| |C|Paladin| |R|Dwarf|
 T The Tome of Divinity |QID|1785| |N|Talk to Tiza Battleforge - Talk to Tiza Battleforge - (27.6, 12.2)| |C|Paladin| |R|Dwarf|
 F Wetlands>> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |SK| |C|Paladin| |R|Dwarf| |M|speedrun|
 R Exit Ironforge |N|(53.5, 34.9)|
-N (59.4, 42.9) |SK| |M|hardcore|
-N Kill Bluegill Raider - Watch the video guide for a reference on how to do the skip first! - Do the Deathless Dun Morogh -> Wetlands skip - Avoid the Wetlands Crocolisks and Murlocs when crossing the water - (59.5, 42.8) |M|hardcore|
-N (30.9, 33.1) |SK| |R|Human| |M|speedrun|
-N (32.4, 29.1) |R|Human| |M|speedrun|
+N Travel to the Dun Morogh -> Wetlands skip spot - (59.4, 42.9) |SK| |M|hardcore|
+N Kill Bluegill Raider - Watch the video guide for a reference on how to do the skip first! - Do the Deathless Dun Morogh -> Wetlands skip - Avoid the Wetlands Crocolisks and Murlocs when crossing the water - Travel to Menethil Harbor - (59.5, 42.8) |M|hardcore|
+N Travel to the Dun Morogh -> Wetlands deathskip spot - (30.9, 33.1) |SK| |R|Human| |M|speedrun|
+N Continue following through the mountain to the deathskip location - (32.4, 29.1) |R|Human| |M|speedrun|
 D Die and respawn |N|(33.0, 27.2)| |R|Human| |M|speedrun|
-N (12.7, 46.7) |R|Human| |M|speedrun|
+N Swim to Menethil Harbor - (12.7, 46.7) |R|Human| |M|speedrun|
 N Talk to Neal Allen - Talk to Neal Allen - Buy a [Bronze Tube] - This is a limited supply item. Skip this step if Neal Allen doesn't have one - (10.4, 56.0)
 f Wetlands>> Get the Wetlands flight path |N|Talk to Shellei Brondir - Talk to Shellei - (9.5, 59.7)| |C|Paladin| |R|Human/Dwarf|
 N Talk to Dewin Shimmerdawn - Talk to Dewin Shimmerdawn - Buy as many [Healing Potions] that are available - This is a limited supply item. Skip this step if Dewin Shimmerdawn doesn't have any - (8.0, 56.4)
-N (7.1, 58.0) |SK|
+N Travel to the dock of the Auberdine boat - (7.1, 58.0) |SK|
 N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |SK|
 N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |SK|
 N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |SK|

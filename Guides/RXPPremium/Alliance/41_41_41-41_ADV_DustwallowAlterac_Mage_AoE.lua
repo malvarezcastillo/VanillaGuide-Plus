@@ -8,7 +8,7 @@ return [[
 N 41-41 ADV Dustwallow/Alterac Mage AoE |N|Converted from RestedXP guide|
 
 N Cast Cast [Teleport: Ironforge] |SK|
-N (33.4, 63.6) |SK|
+N Enter the Ironforge Bank - (33.4, 63.6) |SK|
 N Talk to Bailey Stonemantle - Talk to Bailey - [Dirty Knucklebones] - [Recovered Tome] - (35.9, 60.1)
 N Talk to Bailey Stonemantle - Talk to Bailey - [Recovered Tome] - (35.9, 60.1)
 N Talk to Bailey Stonemantle - Talk to Bailey - [Dirty Knucklebones] - (35.9, 60.1)
@@ -20,7 +20,7 @@ A Baron's Demise |QID|523| |N|Talk to Magistrate Henry Maleb - Talk to Henry ins
 N AoE Crushridge Brutes and Crushridge Ogres. Loot them for their Dirty Knucklebones and Recovered Tomes - (48.0, 63.3) |QID|540|
 N AoE Crushridge Brutes and Crushridge Ogres. Loot them for their Dirty Knucklebones - (48.0, 63.3) |QID|500|
 N Kill Grel'borg the Miser. Loot him for the Perenolde Tiara - Be careful as he casts [Quick Flame Ward] (10-second fire immunity) |QID|543| |SK|
-N (39.5, 46.8) |SK|
+N Go inside the Town Hall - (39.5, 46.8) |SK|
 N Open the Weathered Bookcase. Loot it for the Worn Leather Book - This has a 5 second cast time - Don't kill Muckrake. Cast [Polymorph] on him and then run away - Be careful as Muckrake casts [Pummel] (interrupts for 5 seconds) - (38.4, 46.4) |QID|540|
 N Kill Grel'borg the Miser. Loot him for the Perenolde Tiara - Be careful as he casts [Quick Flame Ward] (10-second fire immunity) - He patrols between the front of the Town Hall and inside the Barracks. If he's inside the Barracks, wait for him to patrol back out - (40.5, 46.7) |QID|543|
 U The Ensorcelled Parchment |QID|551| |N|Open the Worn Wooden Chest on the ground inside. Loot it for the [Ensorcelled Parchment] - Use the [Ensorcelled Parchment] to start the quest - Collect item 3706 (x1) - (39.2, 14.7)| |U|3706| |SK|
@@ -35,7 +35,7 @@ N AoE Argus Shadow Mages - Be careful as they cast [Shadow Bolt] (Deals ranged d
 N AoE Syndicate Wizards and Syndicate Spies. Loot them for Alterac Signet Rings - Be careful as Syndicate Wizards cast [Fireball] (Deals ranged damage), and Syndicate Spies cast [Backstab] (deals double damage from behind) and are [Stealthed] |QID|512| |SK|
 N AoE Baron Vardus. Loot him for the Head of Baron Vardus - He can be found in any of the four encampments, or Strahnbrad's Inn inside the basement - Be careful as he casts [Backhand] (melee-range stun for 2 seconds), [Frost Nova] (roots for 8 seconds), and [Frostbolt] (slows and deals magic damage) - (61.8, 43.9) |QID|523|
 N AoE Syndicate Wizards and Syndicate Spies. Loot them for Alterac Signet Rings - Be careful as Syndicate Wizards cast [Fireball] (Deals ranged damage), and Syndicate Spies cast [Backstab] (deals double damage from behind) and are [Stealthed] - (60.1, 41.8) |QID|512|
-N (68.1, 46.5) |SK|
+N Travel toward Bibilfaz - (68.1, 46.5) |SK|
 F Southshore >> Fly to Southshore |N|Talk to Bibilfaz Featherwhistle - Talk to Bibilfaz - (42.9, 85.1)| |SK|
 A Stormpike's Deciphering |QID|554| |N|Talk to Loremaster Dibbs - Talk to Dibbs - (50.6, 57.1)|
 A Stormpike's Deciphering |QID|554| |N|Talk to Loremaster Dibbs - Talk to Dibbs - (50.6, 57.1)|
@@ -45,9 +45,9 @@ T Dark Council |QID|537| |N|Talk to Magistrate Henry Maleb - Talk to Henry insid
 T Dark Council |QID|537| |N|Talk to Magistrate Henry Maleb - Talk to Henry inside - (48.1, 59.1)|
 N Cast Cast [Teleport: Stormwind] |SK|
 N Talk to Charys Yserian - Enter the building - Talk to Charys - Buy two [Runes of Teleportation] from her - Collect item 17031 (x2) - (32.2, 79.8)
-N (69.0, 29.5) |SK|
+N Travel toward Remington - (69.0, 29.5) |SK|
 T The Perenolde Tiara |QID|543| |N|Talk to Court Remington Ridgewell - Talk to Remington - (74.2, 7.5)|
-N Go into the Stormwind Library - (72.6, 23.2) |SK|
+N Go into the Stormwind Library - Travel toward Milton - (72.6, 23.2) |SK|
 T Return to Milton |QID|542| |N|Talk to Milton Sheaf - Talk to Milton - (74.2, 7.5)|
 R AoE Mirefin Muckdwellers, Mirefin Coastrunners, Mirefin Puddlejumpers, Mirefin Murlocs, and Mudrock Spikeshells to 81430+/95800xp |N|Kill Mudrock Spikeshell - Be careful as Mirefin Muckdwellers cast [Creeping Mold] (20 damage every 10 seconds for 1 min), and Mirefin Coastrunners have [Increased Movespeed] - (57.1, 21.0)|
 N Cast Cast [Teleport: Stormwind] |SK| |R|Human|

@@ -46,7 +46,7 @@ N Talk to Bodley - Talk to Bodley - (48.9, 63.9) |U|22115|
 N Make sure you have a group ready - (49.0, 63.9) |SK|
 C Use the [Brazier of Beckoning] in War Master Voone's room to summon Mor Grayhoof |QID|8966| |N|Kill Mor Grayhoof. Loot him for the [Left Piece of Lord Valthalak's Amulet] - Mor Grayhoof Slain (x1) - Left Piece of Lord Valthalak's Amulet (x1)| |U|22049|
 R Travel to Feralas |SK|
-N Make sure you have a group ready - (43.8, 67.4) |SK|
+N Enter the Eastern entrance of Dire Maul - Make sure you have a group ready - (43.8, 67.4) |SK|
 C Use the [Brazier of Beckoning] in Alzzin the Wildshaper's room to summon Isalien |QID|8967| |N|Kill Isalien. Loot her for the [Left Piece of Lord Valthalak's Amulet] - Isalien slain (x1) - Left Piece of Lord Valthalak's Amulet (x1)| |U|22050|
 R Travel to Eastern Plaguelands |SK|
 N Make sure you have a group ready - (55.1, 17.5) |SK|
@@ -84,7 +84,7 @@ C Use the [Brazier of Beckoning] in War Master Voone's room to summon Mor Grayho
 U Use the [Left Piece of Lord Valthalak's Amulet], [Right Piece of Lord Valthalak's Amulet] and [Top Piece of Lord Valthalak's Amulet] to create [Lord Valthalak's Amulet] |QID|8989| |N|Lord Valthalak's Amulet (x1)| |U|21984| |O|
 U Use the [Left Piece of Lord Valthalak's Amulet], [Right Piece of Lord Valthalak's Amulet] and [Top Piece of Lord Valthalak's Amulet] to create [Lord Valthalak's Amulet] |QID|8989| |N|If you lost the [Top Piece of Lord Valthalak's Amulet], talk to Bodley to obtain it again - Lord Valthalak's Amulet (x1)| |U|21984|
 R Travel to Feralas |SK|
-N Make sure you have a group ready - (43.8, 67.4) |SK|
+N Enter the Eastern entrance of Dire Maul - Make sure you have a group ready - (43.8, 67.4) |SK|
 C Use the [Brazier of Beckoning] in Alzzin the Wildshaper's room to summon Isalien |QID|8990| |N|Kill Isalien. Loot her for the [Right Piece of Lord Valthalak's Amulet] - Isalien slain (x1) - Right Piece of Lord Valthalak's Amulet (x1)| |U|22050|
 U Use the [Left Piece of Lord Valthalak's Amulet], [Right Piece of Lord Valthalak's Amulet] and [Top Piece of Lord Valthalak's Amulet] to create [Lord Valthalak's Amulet] |QID|8990| |N|Lord Valthalak's Amulet (x1)| |U|21984| |O|
 U Use the [Left Piece of Lord Valthalak's Amulet], [Right Piece of Lord Valthalak's Amulet] and [Top Piece of Lord Valthalak's Amulet] to create [Lord Valthalak's Amulet] |QID|8990| |N|If you lost the [Top Piece of Lord Valthalak's Amulet], talk to Bodley to obtain it again - Lord Valthalak's Amulet (x1)| |U|21984|

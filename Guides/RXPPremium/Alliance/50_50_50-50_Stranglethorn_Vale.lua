@@ -28,7 +28,7 @@ N Kill King Mukla. Loot him for the Shackle Key - You can kite King Mukla around
 T Message in a Bottle |QID|630| |N|Talk to Princess Poobah - Talk to Princess Poobah - (38.5, 80.6)|
 N Kill Gorlash. Loot him for Smotts' Chest - Try to kite him if required to the Booty Bay enterance so guards assist you - (37.0, 69.7) |QID|8551|
 N Talk to Witch Doctor Unbagwa - Talk to Witch Doctor Unbagwa - Turn in your 10 [Gorilla Fangs] to summon Mokk the Savage - Kill Mokk the Savage. Loot him for the Heart of Mokk - You'll have to deal with 3 waves of attacking Gorillas. Focus killing Mokk the Savage then running away on the final wave - This can be difficult to solo. Find a group if required - Collect item 2799 (x10) - (35.3, 60.4) |QID|348|
-N (29.0, 73.0) |SK|
+N Travel to Booty Bay - (29.0, 73.0) |SK|
 A The Captain's Cutlass |QID|8553| |N|Talk to Captain Hecklebury Smotts - Talk to Captain Hecklebury Smotts - (26.7, 73.6)|
 T The Captain's Chest |QID|8551| |N|Talk to Captain Hecklebury Smotts - Talk to Captain Hecklebury Smotts - (26.7, 73.6)|
 A The Captain's Cutlass |QID|8553| |N|Talk to Captain Hecklebury Smotts - Talk to Captain Hecklebury Smotts - (26.7, 73.6)|
@@ -42,7 +42,7 @@ N Talk to Newton Burnside - Talk to Newton Burnside - 15 [Silk Cloth] (If you ha
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - Buy [Silk Cloth] from the Auction House for a quest later in Searing Gorge - Collect item 4306 (x15) - (53.6, 59.8)
 h StormwindClassic |N|Talk to Innkeeper Allison - Talk to Innkeeper Allison - (52.6, 65.7)|
 t Train your class spells |N|Talk to Sheldras Moontree - Talk to Sheldras Moontree - (20.9, 55.5)| |C|Druid|
-N (42.5, 33.5) |SK| |C|Priest/Paladin|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest/Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior|
@@ -54,8 +54,8 @@ R Teleport to Ironforge |N|(63.7, 8.4)| |SK| |C|!Mage|
 N Talk to Jubahl Corpseseeker - Talk to Jubahl Corpseseeker - Buy [Grimoires] for your pets - (53.2, 7.8) |C|Warlock|
 t Train your class spells |N|Talk to Briarthorn - Talk to Briarthorn - (51.1, 8.7)| |C|Warlock|
 F Loch Modan>> Fly to Loch Modan |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |M|hardcore|
-N (31.2, 56.5) |M|hardcore|
-N ==PAY ATTENTION TO THE UPCOMING SECTION== - Press Escape, then go into -> Options -> Controls - Check "Enable Interact Key" and bind the "Interact with Target" option to a key - Cross through the tunnel leading from Loch Modan to Searing Gorge. Open it using the interact button. You DO NOT need to have they key - (78.6, 16.4) |M|hardcore|
+N Travel south towards the tunnel leading to the Searing Gorge - (31.2, 56.5) |M|hardcore|
+N Travel through the tunnel into the Searing Gorge - ==PAY ATTENTION TO THE UPCOMING SECTION== - Press Escape, then go into -> Options -> Controls - Check "Enable Interact Key" and bind the "Interact with Target" option to a key - Cross through the tunnel leading from Loch Modan to Searing Gorge. Open it using the interact button. You DO NOT need to have they key - (78.6, 16.4) |M|hardcore|
 f Searing Gorge >> Get the Searing Gorge Flight Path |N|Talk to Lanie Reed - Talk to Lanie Reed - (32.6, 32.6)| |M|hardcore|
 F Thorium Point>> Fly to Searing Gorge |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |M|speedrun|
 

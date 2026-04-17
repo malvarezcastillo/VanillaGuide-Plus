@@ -38,7 +38,7 @@ N Use the [Preserved Threshadon Meat] on the stone-slab, then use the [Preserved
 T The Bait for Lar'korwi |QID|4292| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)|
 N Kill Diemetradons and Young Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |SK|
 N Kill Pterrordaxes. Loot them for their Webbed Pterrordax Scales - You don't need to collect all Webbed Pterrordax Scales right now - (56.3, 90.6) |QID|4503|
-N (49.9, 81.7)
+N Enter The Slithering Scar Hive - (49.9, 81.7)
 N Kill Gorishi Stingers and Gorishi Wasps. Loot them for their Gorishi Stings |QID|9052| |SK| |C|Druid|
 N Kill the Gorishi. Loot them for their Gorishi Scent Gland |QID|4496| |SK|
 N Enter The Slithering Scar Hive - Use the [Unused Scraping Vial] in the centre of the circular room - (48.7, 85.3) |QID|3883|
@@ -56,7 +56,7 @@ N Kill Frenzied Pterrordaxes. Loot them for their Webbed Pterrordax Scales - (20
 N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |SK|
 N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses - (27.0, 44.8) |QID|4513| |U|11955| |O|
 N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales - Dinosaur Bones may also be looted from the ground. The location is marked on your map to the southwest - (27.0, 44.8) |QID|4503|
-N (47.1, 47.1) |SK|
+N Travel up the Lava Path of Fire Plume Ridge for a shortcut to the top. Follow the Arrow precisely - (47.1, 47.1) |SK|
 C Use [Krakle's Thermometer] atop Fire Plume Ridge at the Hot Spot |QID|974| |N|(49.6, 45.7)| |U|12472|
 A The New Springs |QID|980| |N|Talk to Krakle - Talk to Krakle - (30.9, 50.4)|
 N Kill Scorching Elementals and Living Blazes. Loot them for their Ash - (45.4, 45.2) |QID|4502|

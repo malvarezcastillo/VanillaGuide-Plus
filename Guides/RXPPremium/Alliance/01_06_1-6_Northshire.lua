@@ -35,22 +35,22 @@ N Talk to Janos Hammerknuckle - Talk to Janos Hammerknuckle - Buy a [Dirk] from 
 N Equip the [Dirk] |U|2139| |SK| |C|Rogue|
 A Investigate Echo Ridge |QID|15| |N|Talk to Marshal McBride - Talk to Marshal McBride - (48.9, 41.6)|
 N Grind and sell trash until you have 2s 10c |SK| |C|Paladin/Warrior|
-N (48.8, 41.6) |SK| |C|Mage|
+N Travel toward Khelden Bremen upstairs - (48.8, 41.6) |SK| |C|Mage|
 t Train your class spells |QID|3104| |N|Talk to Khelden Bremen - Talk to Khelden Bremen inside upstairs - (49.7, 39.4)| |C|Mage|
-N (49.3, 40.7) |SK| |C|Priest|
+N Travel toward Priestess Anetta inside downstairs - (49.3, 40.7) |SK| |C|Priest|
 t Train your class spells |QID|3103| |N|Talk to Priestess Anetta - Talk to Priestess Anetta inside downstairs - (49.8, 39.5)| |C|Priest|
 N (48.9, 41.8) |SK| |C|Warrior/Paladin|
 t Train your class spells |QID|3100| |N|Talk to Llane Beshere - Talk to Llane Beshere inside downstairs - (50.2, 42.3)| |C|Warrior|
 t Train your class spells |QID|3101| |N|Talk to Brother Sammuel - Talk to Brother Sammuel - (50.4, 42.1)| |C|Paladin|
-N (49.3, 40.7) |SK| |C|Priest| |R|Human|
+N Travel toward Priestess Anetta inside downstairs - (49.3, 40.7) |SK| |C|Priest| |R|Human|
 t Train [Corruption] |QID|3105| |N|Talk to Drusilla La Salle - Talk to Drusilla La Salle - (49.9, 42.6)| |C|Warlock|
 N Kill Kobold Workers - Kill Kobold Worker (x10) - (47.5, 36.3) |QID|15|
 G Grind to 1110+/1400xp |N|(49.1, 38.3)| |SK|
 N Talk to Godric Rothgar - Talk to Godric Rothgar - Vendor trash - (47.7, 41.4) |SK|
 A Skirmish at Echo Ridge |QID|21| |N|Talk to Marshal McBride - Talk to Marshal McBride - (48.9, 41.6)|
-N (48.8, 41.6) |SK| |C|Mage|
+N Travel toward Khelden Bremen upstairs - (48.8, 41.6) |SK| |C|Mage|
 t Train your class spells |QID|3104| |N|Talk to Khelden Bremen - Talk to Khelden Bremen inside upstairs - (49.7, 39.4)| |C|Mage|
-N (49.3, 40.7) |SK| |C|Priest|
+N Travel toward Priestess Anetta inside downstairs - (49.3, 40.7) |SK| |C|Priest|
 t Train your class spells |QID|3103| |N|Talk to Priestess Anetta - Talk to Priestess Anetta inside downstairs - (49.8, 39.5)| |C|Priest|
 N (48.9, 41.8) |SK| |C|Warrior/Paladin|
 t Train your class spells |QID|3100| |N|Talk to Llane Beshere - Talk to Llane Beshere inside downstairs - (50.2, 42.3)| |C|Warrior|
@@ -64,7 +64,7 @@ U Equip the [Militia Warhammer] |U|5579| |SK| |C|Paladin|
 U Equip the [Militia Dagger] |U|2224| |SK| |C|Rogue|
 U Equip the [Militia Shortsword] |U|1161| |SK| |C|Warrior|
 A Skirmish at Echo Ridge |QID|21| |N|Talk to Marshal McBride - Talk to Marshal McBride - (48.9, 41.6)|
-N (47.6, 32.1) |SK|
+N Enter the Echo Ridge Mine - (47.6, 32.1) |SK|
 N Kill Kobold Laborers inside Echo Ridge Mine - Kill Kobold Laborer (x12) - (47.8, 31.5) |QID|21|
 T Milly Osworth |QID|3903| |N|Talk to Milly Osworth - Talk to Milly Osworth - (50.7, 39.3)|
 t Train [Pick Pocket] |QID|3102| |N|Talk to Jorik Kerridan - Talk to Jorik Kerridan - (50.3, 39.9)| |C|Rogue|
@@ -76,7 +76,7 @@ D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 A Grape Manifest |QID|3905| |N|Talk to Milly Osworth - Talk to Milly Osworth - (50.7, 39.3)| |C|Priest/Mage|
 N Talk to Deputy Willem - Talk to Deputy Willem - (48.2, 42.9)
 A Report to Goldshire |QID|54| |N|Talk to Marshal McBride - Talk to Marshal McBride inside - (48.9, 41.6)|
-N (49.6, 41.6) |SK| |C|Priest/Mage|
+N Travel upstairs - (49.6, 41.6) |SK| |C|Priest/Mage|
 T Grape Manifest |QID|3905| |N|Talk to Brother Neals - Talk to Brother Neals upstairs - (49.5, 41.6)| |C|Priest/Mage|
 A In Favor of the Light |QID|5623| |N|Talk to Priestess Anetta - Talk to Priestess Anetta inside - (49.8, 39.5)| |C|Priest|
 A Rest and Relaxation |QID|2158| |N|Talk to Falkhaan Isenstrider - Talk to Falkhaan Isenstrider - (45.6, 47.7)|

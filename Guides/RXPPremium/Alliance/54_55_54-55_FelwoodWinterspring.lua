@@ -8,7 +8,7 @@ return [[
 N 54-55 Felwood/Winterspring |N|Converted from RestedXP guide|
 
 A Deadwood of the North |QID|8461| |N|Talk to Nafien - Talk to Nafien - (64.8, 8.2)|
-N (27.7, 34.5) |SK|
+N Cross the furbolg tunnel, take the east exit at the intersection and head to Winterspring - (27.7, 34.5) |SK|
 T The New Springs |QID|980| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.2, 45.4)|
 A Winterfall Firewater |QID|5083| |N|Grind Furbolgs until you get an Empty Firewater Flask - Collect item 12771 (x1) - (31.1, 36.2)|
 A Falling to Corruption |QID|5084| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.2, 45.4)|
@@ -34,20 +34,20 @@ A Retribution of the Light |QID|5204| |N|Talk to Jessir Moonbow - Talk to Greta 
 N Go deep into the Shadow Hold. Kill 0Rakaiah - (38.5, 50.4) |QID|5204|
 A The Remains of Trey Lightforge |QID|5385| |N|Talk to Remains of Trey Lightforge - Talk to Remains of Trey Lightforge - (38.5, 50.4)|
 N Dive deeper into the Shadow Hold. Kill Moora and Salia. Kill Fel'dan and loot him for his Head - (38.9, 46.8) |QID|5242|
-N (49.7, 31.2)
+N Jump on top of the purple jar right next to the wall and logout to teleport to the Irontree Woods graveyard - (49.7, 31.2)
 N Kill water elementals for Toxic Horror Droplets - (50.0, 24.7) |QID|5086| |SK|
-N (49.5, 29.7) |SK|
+N Travel to the Felwood graveyard - (49.5, 29.7) |SK|
 U Ancient Spirit |QID|4261| |N|Talk to Arei - Talk to Arei - Use the [Flute of the Ancients] once you are at the graveyard to summon Arei - (49.6, 30.4)| |U|11445|
 N Talk to Arei - Escort Arei to the road north. He will be attacked a few times along the way |QID|4261|
-N (27.7, 34.5)
+N Cross the furbolg tunnel, take the east exit at the intersection and head to Winterspring - (27.7, 34.5)
 A Deadwood of the North |QID|8461| |N|Talk to Nafien - Talk to Nafien - (64.8, 8.1)|
 N Kill Deadwood Den Watchers, Deadwood Den Avengers and Deadwood Den Shamans - If you find the [Deadwood Ritual Totem], don't start the quest from this item yet - (62.6, 10.1) |QID|8461|
 A Speak to Salfa |QID|8465| |N|Talk to Nafien - Talk to Nafien - (64.8, 8.1)|
 N Talk to Nafien - Talk to Nafien - If you have more than 5 [Deadwood Headdress Feathers] you may turn them in for reputation with Timbermaw Hold |O|
-N (65.5, 3.5) |SK|
+N Travel through Timbermaw Hold to Kernda - (65.5, 3.5) |SK|
 T Deadwood Ritual Totem |QID|8470| |N|Talk to Kernda - Talk to Kernda - Kernda patrols the lower Timbermaw Hold path - Skip this step if you aren't neutral with Timbermaw Hold - (65.5, 3.5)| |U|20741|
 T Runecloth |QID|6031| |N|Talk to Meilosh - Talk to Meilosh - Skip this step if you aren't friendly with Timbermaw Hold - (65.7, 2.8)|
-N (27.7, 34.5) |SK|
+N Travel through Timbermaw Hold to Salfa in Winterspring - (27.7, 34.5) |SK|
 T Speak to Salfa |QID|8465| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)|
 T The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
 A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)| |M|speedrun|

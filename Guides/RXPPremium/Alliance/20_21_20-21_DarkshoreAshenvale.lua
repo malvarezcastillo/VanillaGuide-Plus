@@ -18,13 +18,14 @@ T The Corruption Abroad |QID|3765| |N|Talk to Gershala Nightwhisper - Talk to Ge
 A A Lost Master |QID|993| |N|Talk to Terenthis - Talk to Terenthis|
 U Equip the [Enchanted Moonstalker Cloak] If it's better than your current Cloak |N|If you equip the [Enchanted Moonstalker Cloak], make sure you save your current cloak for later as the [Enchanted Moonstalker Cloak] is lost upon a later turn in| |U|5387| |SK|
 N Kill Grizzled Thistle Bears. Loot them for their Scalps - Be careful as they cast [Ravage] an instant attack dealing 20-40 damage and knocking you down for 2s - (40.2, 81.3) |QID|1003| |SK|
+N Travel to the Grove of the Ancients |SK|
 T Mathystra Relics |QID|951| |N|Talk to Onu - Talk to Onu|
 T Onu |QID|948| |N|Talk to Onu - Talk to Onu| |O|
 A Escape Through Stealth |QID|995| |N|Talk to Volcor - Talk to Volcor - (45.0, 85.3)|
 A Escape Through Stealth |QID|995| |N|Talk to Volcor - Talk to Volcor - (45.0, 85.3)| |O|
 N Wait out the RP - Help Volcor escape the cave (1) - (44.4, 84.7) |QID|995|
 A The Master's Glaive |QID|944| |N|Talk to Onu - Talk to Onu|
-N (38.5, 86.0)
+N Travel to The Master's Glaive - (38.5, 86.0)
 N Kill Twilight Thug - Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below] - Book: The Powers Below (1) |SK|
 N Discover The Master's Glaive - Enter the Master's Glaive (1) - (38.5, 86.0) |QID|944| |O|
 N Cast Use the [Phial of Scrying] and place it on the ground |U|5251| |SK|
@@ -56,7 +57,7 @@ T Return to Onu |QID|950| |N|Talk to Onu - Talk to Onu|
 A The Sleeper Has Awakened |QID|5321| |N|Talk to Kerlonian Evershade - Talk to Kerlonian Evershade to start the escort - Skip this step if he is not there. It can take up to 25 minutes for him to respawn - This is a timed quest, you have to escort him all the way to ashenvale in 20 minutes|
 N Open Kerlonian's Chest. Loot it for the [Horn of Awakening] - Horn of Awakening (1) - (44.4, 76.3) |QID|5321|
 U Use the [Horn of Awakening] whenever Kerlonian falls asleep while standing next to him to wake him up |N|Kerlonian will follow you and ocasionally help in combat. Make sure you don't lose him as he will stop moving when he falls asleep. You have 25 minutes to reach Ashenvale and complete this quest - Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road - (27.3, 35.6)| |U|13536| |SK|
-N (45.0, 85.3) |SK|
+N Travel toward Volcor in the Cave - (45.0, 85.3) |SK|
 A Escape Through Stealth |QID|995| |N|Talk to Volcor - Talk to Volcor - (45.0, 85.3)|
 N Wait out the RP - (44.4, 84.7) |QID|995|
 R Travel south to Ashenvale |N|(25.8, 14.6)| |SK|

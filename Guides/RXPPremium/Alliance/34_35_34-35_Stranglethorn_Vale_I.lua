@@ -21,9 +21,9 @@ F Stormwind>> Fly to Stormwind |N|Talk to Gyll - Talk to Gyll - (27.5, 77.8)| |C
 N Talk to Newton Burnside - Talk to Newton Burnside - [Farren's Report] - [Cleverly Encrypted Letter] (If you found it earlier) - (57.1, 73.0)
 N Talk to Newton Burnside - Talk to Newton Burnside - Deposit any [Green Hills of Stranglethorn - Pages] you found - (57.1, 73.0)
 N Talk to Newton Burnside - Talk to Newton Burnside - Buy a [Elixir of Water Breathing] from the Auction House - Collect item 5996 (x1) - (57.1, 73.0) |C|!Warlock|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Head to the Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
-N (42.5, 33.5) |SK|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK|
 T Cleansing the Eye |QID|293| |N|Talk to Archbishop Benedictus - Talk to Archbishop Benedictus - (39.6, 27.2)| |SK|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
@@ -31,7 +31,7 @@ A Armed and Ready |QID|325| |N|Talk to Grimand Elmore - Talk to Grimand Elmore -
 T Gyrodrillmatic Excavationators |QID|2928| |N|Talk to Shoni the Shilent - Talk to Shoni the Shilent - (55.5, 12.5)|
 t Make sure you train [Flare]. You will need it for a rune later |N|Talk to Einris Brightspear - Talk to Einris Brightspear - (61.6, 15.3)| |C|Hunter|
 t Train your pet spells |N|Talk to Karrina Mekenda - Talk to Karrina Mekenda - (61.6, 16.0)| |C|Hunter|
-N (71.7, 25.6) |SK|
+N Travel to the Stormwind Keep - (71.7, 25.6) |SK|
 T Reassignment |QID|563| |N|Talk to Major Samuelson - Talk to Major Samuelson - (77.3, 17.2)|
 U An Old History Book |QID|337| |N|Talk to Milton Sheaf - Talk to Milton Sheaf - If you found [An Old History Book] you may turn it in - (74.2, 7.5)| |U|2794|
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior|
@@ -45,7 +45,7 @@ N Clear your way to the 2nd floor of the house - Cast Equip [Morbent's Bane] in 
 N Kill Morbent Fel - Kill Morbent Fel - This quest can be difficult. If you aren't confident doing it, you may skip this step - (16.9, 33.4) |QID|55| |U|7297|
 T Morbent Fel |QID|55| |N|Talk to Sven Yorgen - Talk to Sven Yorgen - (7.8, 34.1)|
 T A Daughter's Love |QID|231| |N|Click A Weathered Grave - (17.7, 29.1)|
-N (44.6, 87.6) |SK|
+N Travel to northern Stranglethorn Vale - (44.6, 87.6) |SK|
 A Jungle Secrets |QID|215| |N|Kill Kurzen's Agent - Keep an eye out for the special Private Thorsen event. He will patrol down the road from the Rebel camp every 30 minutes - Private Thorsen will be attacked by 2 of Kurzen's Agents. If you don't see this event, ignore this step - Kill both of Kurzen's Agents and then accept Private Thorsen's quest which becomes available after saving him - (40.3, 8.4)| |SK|
 T Supplies to Private Thorsen |QID|198| |N|Talk to Private Thorsen - Talk to Private Thorsen at the Rebel Camp - If Private Thorsen isn't at the Rebel Camp he may be in progress for his special event. Skip this step. Look for him down the path if you havn't accepted his quest yet - (38.0, 3.4)|
 A Bad Medicine |QID|204| |N|Talk to Sergeant Yohwa - Talk to Sergeant Yohwa - (38.0, 3.3)|
@@ -82,9 +82,9 @@ N Kill Panthers - (30.4, 12.4) |QID|191|
 N Kill Crystal Spine Basilisks. Loot them for their Shards - Crystal Spine Basilisks will cast [Crystal Gaze] which is a 6 second long stun. Simply move out of their melee range when they begin to cast to avoid it - (27.4, 18.5) |QID|605| |SK|
 N Kill Stranglethorn Raptors - (27.6, 15.4) |QID|194|
 N Kill Crystal Spine Basilisks. Loot them for their Shards - Crystal Spine Basilisks will cast [Crystal Gaze] which is a 6 second long stun. Simply move out of their melee range when they begin to cast to avoid it - (27.4, 18.5) |QID|605|
-N (21.6, 21.8) |QID|578|
+N Travel to the Haunted Island - (21.6, 21.8) |QID|578|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
-N (35.7, 10.8) |SK|
+N Travel to Nesingwary's Expedition - (35.7, 10.8) |SK|
 A Panther Mastery |QID|192| |N|Talk to Sir S. J. Erlgadin - Talk to Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)|
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
@@ -99,10 +99,10 @@ A Some Assembly Required |QID|577| |N|Talk to Drizzlik - Talk to Drizzlik - (28.
 F Duskwood >> Fly to Duskwood |N|Talk to Gyll - Talk to Gyll - (27.5, 77.8)| |SK|
 A The Carevin Family |QID|1042| |N|Talk to Clerk Daltry - Talk to Clerk Daltry in the town hall building - (72.6, 46.8)|
 A The Scythe of Elune |QID|1043| |N|Talk to Jonathan Carevin - Talk to Jonathan Carevin - (75.2, 48.8)|
-N (73.2, 76.2) |SK|
+N Travel to Roland's Doom - (73.2, 76.2) |SK|
 N Click the Mound of Dirt at the back of the Cave - (73.5, 79.1) |QID|1043|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |C|!Hunter| |M|speedrun|
-N (75.2, 48.8) |SK|
+N Travel to Darkshire - (75.2, 48.8) |SK|
 T The Scythe of Elune |QID|1043| |N|Talk to Jonathan Carevin - Talk to Jonathan Carevin - (75.2, 48.8)|
 R Teleport to Stormwind City |N|(43.1, 80.4)| |SK| |C|Mage|
 t Train your class spells |N|Talk to Jennea Cannon - Talk to Jennea - (36.9, 81.1)| |C|Mage|
@@ -111,12 +111,12 @@ R Stormwind>> Fly to Stormwind |N|Talk to Felicia Maline - Talk to Felicia Malin
 N Talk to Newton Burnside - Talk to Newton Burnside - [Farren's Report] - [Cleverly Encrypted Letter] (If you found it earlier) - [Alterac Granite] - (57.1, 73.0)
 N Talk to Newton Burnside - Talk to Newton Burnside - Deposit any [Green Hills of Stranglethorn - Pages] you found - (57.1, 73.0)
 N Talk to Newton Burnside - Talk to Newton Burnside - Buy a [Elixir of Water Breathing] from the Auction House - Collect item 5996 (x1) - (57.1, 73.0) |C|!Warlock|
-N (42.5, 33.5) |SK| |C|Priest/Paladin|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest/Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
 t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brightspear - (61.6, 15.3)| |C|Hunter|
 t Train your pet spells |N|Talk to Karrina Mekenda - Talk to Karrina Mekenda - (61.6, 16.0)| |C|Hunter|
-N (71.7, 25.6) |SK|
+N Travel to the Stormwind Keep - (71.7, 25.6) |SK|
 T Reassignment |QID|563| |N|Talk to Major Samuelson - Talk to Major Samuelson - (77.3, 17.2)|
 U An Old History Book |QID|337| |N|Talk to Milton Sheaf - Talk to Milton Sheaf - If you found [An Old History Book] you may turn it in - (74.2, 7.5)| |U|2794|
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior|

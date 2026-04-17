@@ -8,20 +8,20 @@ return [[
 N 29-32 Duskwood |N|Converted from RestedXP guide|
 
 t Train your class spells |N|Talk to Elsharin - Talk to Elsharin - (36.9, 81.1)| |C|Mage|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Head to the Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
-N (42.5, 33.5) |SK| |C|Priest/Paladin|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest/Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne - (74.7, 52.8)| |C|Rogue|
 t Train your class spells |N|Talk to Sheldras Moontree - Talk to Sheldras Moontree - (20.9, 55.5)| |C|Druid|
-N (42.5, 33.5) |SK| |C|!Priest/!Paladin|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|!Priest/!Paladin|
 A The Doomed Fleet |QID|270| |N|Talk to Bishop Farthing - Talk to Bishop Farthing - (39.1, 27.9)|
 A The Missing Diplomat |QID|1274| |N|Talk to Thomas - Talk to Thomas - Thomas walks around through the Cathedral - (38.7, 25.9)|
 A Tinkmaster Overspark |QID|2923| |N|Talk to Brother Sarno - Talk to Brother Sarno - (40.6, 31.0)|
 t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brightspear - (61.6, 15.3)| |C|Hunter|
-N (70.3, 27.2) |SK|
+N Travel to the Stormwind Keep - (70.3, 27.2) |SK|
 N This segment has a long grinding session, you can substitute that for a Gnomeregan run |SK|
 F Ironforge>> Fly to Ironforge |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)| |C|!Mage/!Hunter|
 R Teleport to Ironforge |SK| |C|Mage|
@@ -66,11 +66,11 @@ A The Missing Diplomat |QID|1244| |N|Talk to Watcher Backus - Talk to Watcher Ba
 N Kill Nightbane Shadow Weavers - (66.0, 44.6) |QID|173|
 A Worgen in the Woods |QID|221| |N|Talk to Calor - Talk to Calor - (75.3, 48.0)|
 N Kill Nightbane Dark Runners - Nightbane Dark Runners move very fast and have a larger than normal agro radius - (63.8, 51.8) |QID|221|
-N (84.6, 69.4) |SK|
+N Travel to the Eastvale Logging Camp - (84.6, 69.4) |SK|
 A The Legend of Stalvan |QID|75| |N|Talk to Marshal Haggard - Talk to Marshal Haggard - (84.6, 69.4)|
 N Head upstairs in the House - Open Marshal Haggard's Chest. Loot it for A Faded Journal Page - (85.7, 69.5) |QID|75|
 A The Legend of Stalvan |QID|78| |N|Talk to Marshal Haggard - Talk to Marshal Haggard - (84.6, 69.4)|
-N (28.1, 31.5) |SK|
+N Travel towards Abercrombie in Duskwood - (28.1, 31.5) |SK|
 N Kill Black Widow Hatchlings on the way to Abercrombie. Loot them for [Vials of Spider Venom] - Don't go out of your way to complete this objective now, you will complete it later |QID|101| |SK|
 A Ghoulish Effigy |QID|133| |N|Talk to Abercrombie - Talk to Abercrombie - (28.1, 31.5)|
 N Kill Plague Spreaders. Loot them for their Ribs and Fangs - Other Ghouls may also drop Ribs and Fangs but focus on Plague Spreaders - (24.3, 32.9) |QID|101|
@@ -78,7 +78,7 @@ A Ogre Thieves |QID|134| |N|Talk to Abercrombie - Talk to Abercrombie - (28.1, 3
 N Kill Black Widow Hatchlings on the way south. Loot them for [Vials of Spider Venom] - Don't go out of your way to complete this objective now, you will complete it later |QID|101| |SK|
 N Open the Defias Strongbox. Loot it for the Defias Docket - (23.9, 72.1) |QID|1244|
 N Loot Abercrombie's Crate on the ground - (33.4, 76.4) |QID|134|
-N (34.6, 77.9) |SK|
+N Enter the Vul'Gol Ogre Cave - (34.6, 77.9) |SK|
 N Kill Zzarc' Vul. Loot him for his Monocle - Zzarc' Vul has 2 spawn points inside the Cave - (38.0, 79.9) |QID|181|
 R Travel to Stranglethorn Vale |N|(44.6, 87.6)| |SK|
 A Jungle Secrets |QID|215| |N|Kill Kurzen's Agent - Keep an eye out for the special Private Thorsen event. He will patrol down the road from the Rebel camp every 30 minutes - Private Thorsen will be attacked by 2 of Kurzen's Agents. If you don't see this event, ignore this step - Kill both of Kurzen's Agents and then accept Private Thorsen's quest which becomes available after saving him - (40.3, 8.4)| |SK|
@@ -117,7 +117,7 @@ N Loot the Tear of Tilloa on the ground - (78.3, 36.0) |QID|335| |SK|
 N Kill Stalvan Mistmantle. Loot him for his Family Ring - Stalvan Mistmantle can hit quite hard. Kite him back to town and get help from the Watchers if needed - (77.3, 36.2) |QID|98|
 T The Totem of Infliction |QID|101| |N|Talk to Madame Eva - Talk to Madame Eva inside - (75.8, 45.3)|
 T Look To The Stars |QID|181| |N|Talk to Viktori Prism'Antras - Talk to Viktori Prism'Antras - (79.8, 48.0)|
-N (58.6, 80.0)
+N Head to the worgen area south of the Rotten Orchard - (58.6, 80.0)
 N Kill Nightbane Worgen - Kill Nightbane Worgens. Loot them for [An Old History Book] - Don't start the quest for it yet - Collect item 2794 (x1) - (62.3, 81.8) |SK|
 N Kill Nightbane Vile Fangs and Nightbane Tainted Ones - Be careful as all the mobs in the area respawn at once after 4.75-6.5 minutes of killing the first one - This area is a popular grinding spot for mages and may be constested. If you feel like there's too much competition you can complete this objective in the Roland's Doom area (cave, marked on your map) - (62.3, 81.8) |QID|222|
 N Kill Nightbane Worgen - Kill Nightbane Worgens until your Hearthstone cooldown is <25 minutes - If you know that you will be leveling in one session or generally not getting a lot of rested experience up to level 38, consider grinding to level 32 instead. This will help you reach a level 38 xp gate that is required later on - (62.3, 81.8)
@@ -169,21 +169,21 @@ A The Missing Diplomat |QID|1248| |N|Talk to Elling Trias - Talk to Elling Trias
 T Retrieval for Mauren |QID|1078| |N|Talk to Collin Mauren - Talk to Collin Mauren - (43.1, 80.4)| |C|!Mage|
 A Malin's Request |QID|690| |N|Talk to Archmage Malin - Talk to Archmage Malin - (39.8, 81.4)| |C|!Mage|
 A James Hyal |QID|1301| |N|Talk to Connor Rivers - Talk to Connor Rivers - (40.6, 91.9)| |C|!Mage|
-N (29.2, 74.0) |SK|
+N Go into The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK|
 A A Noble Brew |QID|336| |N|Talk to Zardeth of the Black Claw - Talk to Zardeth of the Black Claw - (26.4, 78.6)|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 A Seeking Strahad |QID|1798| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.3, 78.6)| |C|Warlock|
 A In Search of Menara Voidrender |QID|4738| |N|Talk to Demisette Cloyce - Talk to Demisette Cloyce - Skip this step if you picked up the same quest from Ironforge earlier - (25.3, 78.2)| |C|Warlock|
-N (42.5, 33.5) |SK| |C|Priest/Paladin|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest/Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
 T A Noble Brew |QID|336| |N|Talk to Lord Baurles K. Wishock - Talk to Lord Baurles K. Wishock - (75.2, 31.7)|
-N (68.7, 29.1)
-N (70.2, 11.6)
+N Head to the Stormwind Keep - (68.7, 29.1)
+N Head to the Stormwind Keep Library - (70.2, 11.6)
 U An Old History Book |QID|337| |N|Talk to Milton Sheaf - Talk to Milton Sheaf - If you found [An Old History Book] you may turn it in - (74.2, 7.5)| |U|2794|
 A Southshore |QID|538| |N|Talk to Milton Sheaf - Talk to Milton Sheaf - (74.2, 7.5)|
 t Train your class spells |N|Talk to Jennea Cannon - Talk to Jennea - Teleport back to the Stormwind Trainer and Train your level 34 class spells if you didn't earlier - (36.9, 81.1)| |C|Mage|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Go into The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 T You Have Served Us Well |QID|397| |N|Talk to Zggi - Talk to Zardeth of the Black Claw and Zggi - (26.4, 78.6)| |C|Warlock|
 t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brightspear - (61.6, 15.3)| |C|Hunter|
 A Gyrodrillmatic Excavationators |QID|2928| |N|Talk to Shoni the Shilent - Talk to Shoni the Shilent - (55.5, 12.5)|
@@ -200,12 +200,12 @@ A Essential Artificials |QID|2924| |N|Talk to Klockmort Spannerspan - Talk to Gn
 R Exit Ironforge |N|(53.5, 34.9)| |SK|
 A Gnogaine |QID|2926| |N|Talk to Ozzie Togglevolt - Talk to Ozzie Togglevolt - (46.0, 48.6)|
 h Dun Morogh |N|Talk to Innkeeper Belm - Talk to Innkeeper Belm inside - (47.4, 52.5)|
-N (24.4, 39.8) |SK|
+N Travel to Gnomeregan - (24.4, 39.8) |SK|
 C Use the [Empty Leaden Collection Phial] on a Irradiated Invader or Irradiated Pillager |QID|2926| |N|The Irradiated Invader or Irradiated Pillager must be ALIVE when you use it - This quest is completed while OUTSIDE of the dungeon| |U|9283|
-N You will get a follow up for when you go inside the dungeon - (46.0, 48.6) |SK|
+N Travel to Ozzie Togglevolt in Kharanos - You will get a follow up for when you go inside the dungeon - (46.0, 48.6) |SK|
 T Gnogaine |QID|2926| |N|Talk to Ozzie Togglevolt - Talk to Ozzie Togglevolt - (46.0, 48.6)|
 A The Only Cure is More Green Glow |QID|2962| |N|Talk to Ozzie Togglevolt - Talk to Ozzie Togglevolt - (45.9, 49.4)|
-N (24.4, 39.8) |SK|
+N Travel to Gnomeregan - (24.4, 39.8) |SK|
 N Kill Troggs and Gnomes. Loot them for a [White Punch Card] - Collect item 9279 (x1) - Kill Techbot. Loot him for his Memory Core - This quest is completed while OUTSIDE of the dungeon |QID|2922|
 N Kill Troggs and Gnomes. Loot them for a [White Punch Card] - Collect item 9279 (x1) - This quest is completed while OUTSIDE of the dungeon
 N Use the [White Punch Card] at the Matrix Punchograph 3005-A - This quest is completed while OUTSIDE of the dungeon - Collect item 9280 (x1)

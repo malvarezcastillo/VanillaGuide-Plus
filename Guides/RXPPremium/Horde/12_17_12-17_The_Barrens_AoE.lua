@@ -22,8 +22,8 @@ A Chen's Empty Keg |QID|819| |N|Check this location for Chen's Empty Keg. Loot i
 N Kill Quillboars in the area - Razormane Thornweaver (8) - Razormane Water Seeker (8) - Razormane Hunter (3) - (55.6, 26.6) |QID|871|
 T Flawed Power Stone |QID|926| |N|If the Flawed Power Stone in your bags has less than 10 minutes left, drop it, then go back and loot the Purple Stone next to Ak'Zeloth again| |SK| |R|!Undead|
 N Kill some Plainstriders en route if you have time on Flawed Power Stone. Loot them for Beaks - Plainstrider Beak (7) |QID|844| |SK| |R|!Undead|
-N (50.4, 22.0) |R|!Undead|
-N (47.6, 19.2) |R|!Undead|
+N Run up the mountain here - (50.4, 22.0) |R|!Undead|
+N Go to the cave surrounded by Burning Blade orcs - (47.6, 19.2) |R|!Undead|
 N Right click the Altar - Collect Flawed Power Stone - Destroy the Demon Seed (1) - (48.0, 19.1) |QID|924| |R|!Undead|
 N Kill Raptors that you see. Loot them for some Raptor Heads - you'll get more later - Raptor Head (12) |QID|869| |SK|
 N Kill Plainstriders. Loot them for Beaks - Plainstrider Beak (7) - (50.8, 32.1) |QID|844|
@@ -78,7 +78,7 @@ N Kill Supervisor Lugwizzle (He patrols all over the tower). Loot him for the Ig
 A The Escape |QID|863| |N|Talk to Wizzlecrank's Shredder - This will begin an escort - Talk to Wizzlecrank's Shredder - (56.5, 7.5)|
 N 2 Mobs will spawn at some point. Kill them then wait for his RP event at the end - Escort Wizzlecrank out of the Venture Co. drill site (1) - (55.3, 7.8) |QID|863|
 N Grind mobs in the area. Loot them until Cats Eye Emerald drops - Cats Eye Emerald (1) - (61.5, 4.3) |QID|896|
-N (11.5, 67.0) |SK|
+N Run to the west entrance of Orgrimmar - (11.5, 67.0) |SK|
 t Train your class spells |N|(38.8, 85.7)|
 A Doras the Wind Rider Master |QID|6385| |N|Talk to Innkeeper Gryshka - Talk to Innkeeper Gryshka - (54.2, 68.6)| |C|Mage| |R|Troll|
 N Talk to Doras - Run up to the Flight Master. Do NOT fly anywhere - Talk to Doras - (45.1, 63.9)

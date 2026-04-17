@@ -32,7 +32,7 @@ T Past Endeavors |QID|5057| |N|Talk to Storm Shadowhoof - Talk to Storm - (61.9,
 A Are We There, Yeti? |QID|5163| |N|Talk to Umi Rumplesnicker - Talk to Umi - (60.9, 37.7)|
 C Use the [Mechanical Yeti] on Legacki |QID|5163| |N|Talk to Legacki - (61.5, 38.6)| |U|12928|
 N Talk to Innkeeper Vizzie - Talk to Vizzie - (61.4, 38.8) |C|!Shaman|
-N (31.3, 45.2) |SK|
+N Travel back to Donova - (31.3, 45.2) |SK|
 A Words of the High Chief |QID|5128| |N|Talk to Donova Snowden - Talk to Donova - (31.3, 45.2)|
 T Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)|
 R Enter the tunnel, then take the north exit into Moonglade |N|(27.4, 33.6)| |SK| |C|!Druid|
@@ -49,7 +49,7 @@ A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (
 A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|speedrun|
 R Azshara >>Fly to Azshara |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |C|!Mage|
 U Hearthstone |U|6948| |SK| |C|!Mage|
-N (61.4, 38.8) |C|!Mage|
+N Arrive in Winterspring - (61.4, 38.8) |C|!Mage|
 R Azshara >>Fly to Azshara |N|Talk to Yugrek - Talk to Yugrek - (60.5, 36.3)| |SK| |C|!Mage|
 N Cast Cast [Teleport: Orgrimmar] |SK| |C|Mage|
 R Azshara >>Fly to Azshara |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK| |C|Mage|
@@ -156,7 +156,7 @@ N Split pull the adds that patrol with Deathclasp. Kite them until Deathclasp re
 N Loot Noggle's Satchel on the ground - (44.5, 91.4) |QID|8282| |C|Mage/Hunter/Warlock|
 N Loot Noggle's Satchel on the ground - Be careful not to aggro Deathclasp - (44.5, 91.4) |QID|8282| |C|!Mage/!Hunter/!Warlock|
 T True Believers |QID|8323| |N|Talk to Hermit Ortell - Talk to Hermit - (67.2, 69.8)|
-N (67.2, 69.2)
+N Jump onto one of the standing torches in the cave. Perform a Logout Skip by logging out and back in - (67.2, 69.2)
 T Noggle's Lost Satchel |QID|8282| |N|Talk to Noggle Ficklespragg - Talk to Noggle - (51.6, 38.5)|
 T Wanted - Deathclasp, Terror of the Sands |QID|8283| |N|Talk to Vish Kozus - Talk to Vish - (50.8, 33.6)|
 T Wanted - Deathclasp, Terror of the Sands |QID|8283| |N|Talk to Vish Kozus - Talk to Vish Kozus - (50.8, 33.6)| |C|Mage/Warlock/Hunter|

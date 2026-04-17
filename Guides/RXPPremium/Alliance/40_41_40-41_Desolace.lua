@@ -11,7 +11,7 @@ F Desolace >> Fly to Desolace |N|Talk to Baldruc - Talk to Baldruc - (67.5, 51.3
 h Desolace |N|Talk to Innkeeper Lyshaerya - Talk to Innkeeper Lyshaerya - (66.3, 6.6)|
 A Down the Scarlet Path |QID|261| |N|Talk to Brother Anton - Talk to Brother Anton - (66.5, 7.9)|
 A Reagents for Reclaimers Inc. |QID|1466| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
-N (47.8, 61.8) |SK|
+N Travel to Hornizz at the Kodo Graveyard - (47.8, 61.8) |SK|
 A Ghost-o-plasm Round Up |QID|6134| |N|Talk to Hornizz Brimbuzzle - Talk to Hornizz Brimbuzzle - (47.8, 61.8)|
 A Khan Jehn |QID|1374| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
 N Kill Burning Blade Summoners. Loot them for their Infernal Orb |QID|1799| |SK| |C|Warlock|
@@ -32,7 +32,7 @@ D Die and respawn |N|Talk to Spirit Healer - Once you get to Feralas, walk along
 F Tanaris >> Fly to Tanaris |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.2)| |M|speedrun|
 N Travel to Nijel's Point |SK| |M|hardcore|
 F Tanaris >> Fly to Tanaris |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - Don't worry about handing in quests yet, you will hearth back to Desolace momentarily - (64.7, 10.5)| |M|hardcore|
-N (77.8, 77.3) |SK|
+N Travel to The Shimmering Flats - (77.8, 77.3) |SK|
 A Martek the Exiled |QID|1106| |N|Talk to Fizzle Brassbolts - Talk to Fizzle Brassbolts - (78.1, 77.1)|
 A Back to Booty Bay |QID|1118| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|
 A Back to Booty Bay |QID|1118| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|

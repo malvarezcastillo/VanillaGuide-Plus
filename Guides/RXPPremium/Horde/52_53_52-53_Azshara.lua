@@ -66,7 +66,7 @@ A Stealing Knowledge |QID|3517| |N|Talk to Jediga - Talk to Jediga - (22.5, 51.4
 T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - (28.1, 50.1)| |SK| |C|Mage|
 A Magic Dust |QID|8251| |N|Talk to Archmage Xylem - Talk to Archmage Xylem - The Archmage wanders his tower - (29.2, 40.2)| |C|Mage|
 T Return Trip |QID|3421| |N|Talk to Nyrill - Talk to Nyrill - This will teleport you back down - (26.5, 46.3)| |SK| |C|Mage|
-N (41.6, 42.7) |SK| |C|Hunter/Priest|
+N Travel toward Ogtinc, he is located on a small peak - (41.6, 42.7) |SK| |C|Hunter/Priest|
 N Talk to Ogtinc - Talk to Ogtinc - Be careful of falling as you approach him; he's in a precarious spot - (42.4, 42.6) |C|Hunter/Priest|
 N Kill Mosshoof Courser - Mosshoof Coursers share respawn with Hippogryphs and Chimaeras - (48.4, 33.2) |C|Hunter/Priest|
 A Wavethrashing |QID|8231| |N|Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6)| |C|Hunter|
@@ -97,7 +97,7 @@ C Use your [Empty Vial Labeled #1] in the centre of the puddle |QID|3568| |N|(47
 N Loot the Glowing Tablets scattered around the ruins - (35.9, 53.5) |QID|3517|
 N Kill all Spitelash Nagas. Loot them for Some Rune - (44.0, 48.2) |QID|5534|
 N Kill Spitelash Sirens. Loot them for their Enchanted Corals - (44.0, 48.2) |QID|8252| |C|Mage|
-N (45.5, 37.8) |SK|
+N Run up the hill to leave the Ruins of Eldarath - (45.5, 37.8) |SK|
 N Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6) |C|Hunter/Priest|
 N Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6) |C|Hunter/Priest|
 T Kim'jael's "Missing" Equipment |QID|5534| |N|Talk to Kim'jael - Talk to Kim'jael - (53.5, 21.8)|

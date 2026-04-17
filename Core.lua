@@ -898,10 +898,10 @@ function TurtleGuide:SkipToNextObjective()
 		return
 	end
 
-	-- Find next incomplete objective (after current)
+	-- Find next incomplete, non-sticky objective (after current)
 	local nextStep = nil
 	for i = self.current + 1, table.getn(self.actions) do
-		if not self.turnedin[self.quests[i]] then
+		if not self.turnedin[self.quests[i]] and not self:GetObjectiveTag("SK", i) then
 			nextStep = i
 			break
 		end
@@ -924,6 +924,7 @@ function TurtleGuide:SkipToNextObjective()
 	self.current = nextStep
 	self:ForceWaypointUpdate()
 	self:SetStatusText(self.current)
+	if self.UpdateStickyPreview then self:UpdateStickyPreview(self.current) end
 	self:UpdateOHPanel()
 end
 
@@ -936,13 +937,17 @@ function TurtleGuide:GoToPreviousObjective()
 	-- Unmark current objective so we can come back to it
 	self:SetTurnedIn(self.current, false, true)
 
-	-- Find previous objective (go back one step, unmark it)
+	-- Find previous non-sticky objective
 	local prevStep = self.current - 1
+	while prevStep > 1 and self:GetObjectiveTag("SK", prevStep) do
+		prevStep = prevStep - 1
+	end
 	self:SetTurnedIn(prevStep, false, true)
 
 	self.current = prevStep
 	self:ForceWaypointUpdate()
 	self:SetStatusText(self.current)
+	if self.UpdateStickyPreview then self:UpdateStickyPreview(self.current) end
 	self:UpdateOHPanel()
 
 	-- Flag to re-check completion conditions after rewind

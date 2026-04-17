@@ -17,7 +17,7 @@ N (37.4, 49.8) |SK|
 A A Husband's Last Battle |QID|6162| |N|Talk to Dreka'Sur - Talk to Dreka'Sur - (34.8, 52.7)|
 A Well of Corruption |QID|4505| |N|Talk to Winna Hazzard - Talk to Winna - (34.2, 52.3)|
 f Felwood >>Get the Felwood Flight Path |N|Talk to Brakkar - Talk to Brakkar - (34.4, 53.9)|
-N (36.0, 67.0) |SK|
+N Travel to the green moonwell in the Ruins of Constellas - (36.0, 67.0) |SK|
 C Use your [Hardened Flasket] in the moonwell |QID|4505| |N|There are stealthed Satyrs with strong slowing poison in this area. Some of them patrol, so be careful - (32.3, 66.6)| |U|12566|
 N Kill Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners |QID|8460| |SK|
 N Kill Overlord Ror. Loot him for his Claw - Clear the area to avoid complications from his AoE fear - (48.2, 94.3) |QID|6162|
@@ -42,7 +42,7 @@ A Trolls of a Feather |QID|8422| |N|Talk to Impsy - Talk to Impsy - (41.5, 45.0)
 N Kill Angerclaw Grizzlies and Felpaw Ravagers |QID|4120| |SK|
 N Kill Warpwood Moss Flayers and Warpwood Shredders. Loot them for their Blood Ambers - (59.2, 20.4) |QID|4102|
 N Finish killing Angerclaw Grizzlies and Felpaw Ravagers - (56.0, 22.2) |QID|4120|
-N (64.7, 8.1) |SK|
+N Travel to the the Timbermaw Hold Entrance - (64.7, 8.1) |SK|
 T Speak to Nafien |QID|8462| |N|Talk to Nafien - Talk to Nafien - (64.7, 8.2)|
 R Enter the tunnel, then take the north exit into Moonglade |N|(65.4, 6.9)| |SK|
 T Seed of Life |QID|7066| |N|Talk to Keeper Remulos - Talk to the Keeper Remulos - (36.2, 41.8)|

@@ -7,7 +7,7 @@ return [[
 
 N 11-12 Voidwalker Quest |N|Converted from RestedXP guide|
 
-N (29.2, 74.0) |SK|
+N Travel to The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK|
 A Surena Caledon |QID|1688| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)|
 f Stormwind >> Get the Stormwind City flight path |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)|
 R Exit Stormwind |N|(73.2, 92.1)| |SK|
@@ -30,7 +30,7 @@ T Encroaching Gnolls |QID|244| |N|Talk to Deputy Feldon - Talk to Deputy Feldon 
 F Stormwind >> Fly to Stormwind |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)|
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - Buy [Chunks of Boar Meat] and/or [Stringy Wolf Meat] to level your [Cooking] with later - You need 50 [Cooking] for a quest in Darkshire later - If you don't want to or can't do this, skip this step - Buy the following items for a faster turn in at Loch Modan shortly and to level your [Cooking] skill with: - [Boar Intestines] - [Bear Meat] - [Spider Ichor] - [Chunks of Boar Meat] - [Stringy Wolf Meat] - Boar Intestines (3) - Bear Meat (3) - Spider Ichor (3) - Chunk of Boar Meat (1-50) - Stringy Wolf Meat (1-50) - (53.6, 59.8)
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - If you don't want to or can't do this, skip this step - Buy the following items for a faster turn in at Loch Modan shortly: - [Boar Intestines] - [Bear Meat] - [Spider Ichor] - Boar Intestines (3) - Bear Meat (3) - Spider Ichor (3) - (53.6, 59.8) |O|
-N (29.2, 74.0) |SK|
+N Travel to The Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)|
 A The Binding |QID|1689| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.6)|
 N Travel to the bottom of The Slaughtered Lamb - Cast Use the [Bloodstone Choker] to call forth a Summoned Voidwalker - (25.2, 80.7) |U|6928| |SK|

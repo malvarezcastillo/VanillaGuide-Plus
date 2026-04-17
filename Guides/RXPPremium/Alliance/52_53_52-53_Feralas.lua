@@ -10,7 +10,7 @@ N 52-53 Feralas |N|Converted from RestedXP guide|
 N Talk to Antarius - Talk to Antarius - (31.5, 43.1) |SK| |C|Hunter|
 A Improved Quality |QID|7733| |N|Talk to Pratt McGrubben - Talk to Pratt McGrubben - Skip this if you are level 53 or above - (30.6, 42.7)|
 A The Stave of Equinex |QID|2879| |N|Talk to Troyas Moonbreeze - Talk to Troyas Moonbreeze - (31.8, 45.5)|
-N (44.8, 43.4) |SK|
+N Swim to Zorbin Fandazzle - (44.8, 43.4) |SK|
 A Fuel for the Zapping |QID|7721| |N|Talk to Zorbin Fandazzle - Talk to Zorbin Fandazzle - (44.8, 43.4)|
 N Kill Sea Elementals and Sea Sprays. Loot them for their Water Elemental Cores |QID|7721| |SK|
 C Use [Zorbin's Ultra-Shrinker] to weaken them |QID|7003| |N|Kill Wave Striders, Deep Striders and Shore Striders. Loot them for their Miniaturization Residues - (44.6, 50.8)| |U|18904|

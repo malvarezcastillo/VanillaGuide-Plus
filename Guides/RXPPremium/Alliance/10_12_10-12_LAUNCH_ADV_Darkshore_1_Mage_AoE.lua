@@ -8,27 +8,27 @@ return [[
 N 10-12 LAUNCH ADV Darkshore 1 Mage AoE |N|Converted from RestedXP guide|
 
 N NOTE: The Launch route contains quests that are VERY difficult to do solo. This is specifically for either heavily crowded servers where you can group up for the harder quests, OR players who have mob taggers |SK|
-N (53.5, 37.5) |SK|
-N Do the Deathless Dun Morogh -> Wetlands skip - Eat to full after each fall if you don't feel confident - (60.2, 43.0)
-N Kill Bluegill Raider - Do the Deathless Dun Morogh -> Wetlands skip - Be careful of Sludginn (rare) before you drop down toward the coast (if he's up) - Be careful of the Bluegill Raiders to the west when you reach the sea - Avoid the Young Wetlands Crocolisks when crossing the sea. Wait for them to patrol away - (60.8, 10.3)
-N (10.8, 59.8) |SK|
+N Travel to the skip spot. Hug the left side of the mountain en route - (53.5, 37.5) |SK|
+N Do the Deathless Dun Morogh -> Wetlands skip - Eat to full after each fall if you don't feel confident - Carefully drop down the mountain side - (60.2, 43.0)
+N Kill Bluegill Raider - Do the Deathless Dun Morogh -> Wetlands skip - Be careful of Sludginn (rare) before you drop down toward the coast (if he's up) - Be careful of the Bluegill Raiders to the west when you reach the sea - Avoid the Young Wetlands Crocolisks when crossing the sea. Wait for them to patrol away - Travel to Menethil Harbor - (60.8, 10.3)
+N Go inside the Inn - (10.8, 59.8) |SK|
 N Talk to Samor Festivus - Jump onto the Chandelier downstairs - Talk to Samor through the wall - NOTE: To do this, bind "Interact with Target" under Gameplay -> Controls in the Options menu - If the Boat has just arrived, skip this step - Buy [Healing Potions] from him (if they're up) - (10.5, 60.2)
 f Menethil Harbor >> Get the Menethil Harbor flight path |N|Talk to Shellei Brondir - Talk to Shellei - (9.5, 59.7)|
 N If the Boat has just arrived, skip this step - Cook any [Chunks of Boar Meat] you have from outside (there's a campfire inside) - (7.9, 56.2) |SK|
 N Talk to Dewin Shimmerdawn - Talk to Dewin through the wall - If the Boat has just arrived, skip this step - Buy [Healing Potions] from him (if they're up) - (7.9, 56.2)
-N (6.1, 58.5) |SK|
+N Travel toward the Darkshore Boat - (6.1, 58.5) |SK|
 N Start spam casting [Conjure Water r2] to conjure as much water as possible |SK|
 R Take the boat to Darkshore |N|(4.2, 57.2)|
-N (35.7, 45.2) |SK|
+N Jump off the boat when you're closest to the shore - (35.7, 45.2) |SK|
 N Kill Pygmy Tide Crawler - Kite 2-3 Pygmy Tide Crawlers toward Wizbang (Remember to use [Frost Nova]) Kill them when you accept the quest |SK|
 N Talk to Laird - Buy up to 20 [Longjaw Mud Snappers] from him - Vendor Trash - Longjaw Mud Snapper (20) - (36.8, 44.3) |SK|
-N Go upstairs to the top floor - (36.7, 44.5) |SK|
+N Go upstairs to the top floor - Travel toward Wizbang - (36.7, 44.5) |SK|
 A Buzzbox 827 |QID|983| |N|Talk to Wizbang Cranktoggle - Talk to Wizbang - (37.0, 44.1)|
 N Kill the Pygmy Tide Crawlers you kited. Loot them for their Crawler Legs - Crawler Leg (6) |QID|983| |SK|
 N Talk to Laird - Buy up to 20 [Longjaw Mud Snappers] from him - Vendor Trash - Longjaw Mud Snapper (20) - (36.8, 44.3)
-N (37.9, 41.4) |SK|
+N Travel toward Terenthis - (37.9, 41.4) |SK|
 A Plagued Lands |QID|2118| |N|Talk to Tharnariun Treetender - Talk to Terenthis and Tharnariun - (39.4, 43.5)|
-N (37.4, 43.1) |SK|
+N Travel toward Thundris - (37.4, 43.1) |SK|
 N Talk to Dalmond - Talk to Dalmond - Buy as many [Small Brown Pouches] as you need/can - (37.5, 40.5) |SK|
 A Tools of the Highborne |QID|958| |N|Talk to Thundris Windweaver - Talk to Thundris - (37.4, 40.1)|
 A Easy Strider Living |QID|2178| |N|Talk to Alanndarian Nightsong - Talk to Thundris and Alanndarian - (37.4, 40.1)|
@@ -61,8 +61,8 @@ N Click The Lay of Ameth'Aran on the ground - This has a 5 second cast time - Re
 T The Fall of Ameth'Aran |QID|953| |N|Talk to Sentinel Tysha Moonblade - Talk to Tysha - (40.3, 59.7)|
 N Kill Cursed Highbornes and Writhing Highbornes - Kill Wailing Highbornes only if they're in your way - Highborne Relic (7) - (41.8, 58.0) |QID|958|
 N Kill Anaya Dawnrunner. Loot her for Anaya's Pendant - Anaya's Pendant (1) - (42.5, 60.7) |QID|963|
-N Avoid Thistle Bears, Moonkins, and Raging Moonkins en route (if possible) - (45.2, 53.4) |SK|
-N Kill Moonkin Oracle - Be careful as it casts [Wrath] (Ranged Cast: Deals 30-45 Nature damage), [Moonfire] (Ranged Instant: Deals 20-30 Nature damage, then 44 Nature damage over 12 seconds), and [Regrowth] (Self Cast: Heals for about 150 damage. Rare, but run if this happens) - You can LoS his [Wrath] behind the rocks inside the mouth of the cave - (45.8, 53.1)
+N Go inside the cave - Avoid Thistle Bears, Moonkins, and Raging Moonkins en route (if possible) - (45.2, 53.4) |SK|
+N Kill Moonkin Oracle - Kill the Moonkin Oracle inside the cave --, then drink Logout Skip by logging out on top of the Mushroom at the back of the cave - Be careful as it casts [Wrath] (Ranged Cast: Deals 30-45 Nature damage), [Moonfire] (Ranged Instant: Deals 20-30 Nature damage, then 44 Nature damage over 12 seconds), and [Regrowth] (Self Cast: Heals for about 150 damage. Rare, but run if this happens) - You can LoS his [Wrath] behind the rocks inside the mouth of the cave - (45.8, 53.1)
 T Bashal'Aran |QID|957| |N|Talk to Asterion - Talk to Asterion - (44.2, 36.3)|
 N Talk to Dalmond - Talk to Dalmond - Vendor Trash - (37.5, 40.5) |SK|
 T Tools of the Highborne |QID|958| |N|Talk to Thundris Windweaver - Talk to Thundris - (37.4, 40.1)|
@@ -73,7 +73,7 @@ A Washed Ashore |QID|4681| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth -
 N Talk to Laird - Talk to Laird - Buy up to 40 [Longjaw Mud Snappers] from him - Longjaw Mud Snapper (40) - (36.8, 44.3)
 T For Love Eternal |QID|963| |N|Talk to Cerellean Whiteclaw - Talk to Cerellean - (36.7, 44.0)|
 N Kill Darkshore Threshers - Do NOT go out of your way for these - Thresher Eye (3) |QID|1001| |SK|
-N (32.9, 42.2) |SK|
+N Run along the dock toward the Sea Turtle Remains - (32.9, 42.2) |SK|
 N Swim underwater - Loot the Sea Turtle Remains - Sea Turtle Remains (1) - (31.9, 46.3) |QID|4681|
 G Grind to 7825+/8800xp |N|Kill Young Reef Crawler - (36.1, 44.7)|
 T Washed Ashore |QID|4681| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth - (36.7, 45.1)|

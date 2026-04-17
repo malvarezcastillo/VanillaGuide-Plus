@@ -63,7 +63,7 @@ F Redridge >> Fly to Redridge Mountains |N|Talk to Borgus Stoutarm - Talk to Bor
 A The True Masters |QID|4184| |N|Talk to Magistrate Solomon - Talk to Magistrate Solomon - (30.0, 44.5)|
 R Stormwind >> Fly to Stormwind |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)|
 R A Donation of Runecloth |QID|7795| |N|Talk to Clavicus Knavingham - Talk to Clavicus Knavingham up stairs - Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (44.3, 74.0)|
-N (47.9, 31.3) |SK|
+N Travel toward Royal Factor Bathrilor upstairs - (47.9, 31.3) |SK|
 A Good Natured Emma |QID|5048| |N|Talk to Royal Factor Bathrilor - Talk to Royal Factor Bathrilor inside on the 2nd floor - (48.5, 30.6)|
 A Good Luck Charm |QID|5050| |N|Talk to Ol' Emma - Talk to Ol' Emma inside on the 2nd floor - She also sometimes patrols through the trade district and back to her house (see line on your map for reference) - (52.6, 41.8)|
 R Into The Temple of Atal'Hakkar |QID|1475| |N|Talk to Brohann Caskbelly - Talk to Brohann Caskbelly - (64.3, 20.6)|
@@ -71,7 +71,7 @@ A The True Masters |QID|4185| |N|Talk to Highlord Bolvar Fordragon - Talk to Hig
 A The First and the Last |QID|6182| |N|Talk to Highlord Bolvar Fordragon - Talk to Highlord Bolvar Fordragon - (78.2, 18.0)|
 N Talk to Lady Katrana Prestor - Talk to Lady Katrana Prestor - (78.1, 17.8) |QID|4185|
 A The True Masters |QID|4186| |N|Talk to Highlord Bolvar Fordragon - Talk to Highlord Bolvar Fordragon - (78.2, 18.0)|
-N (74.9, 54.0) |SK|
+N Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw - (74.9, 54.0) |SK|
 A Flint Shadowmore |QID|6184| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)|
 F Redridge>> Fly to Redridge Mountains |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |SK|
 A The True Masters |QID|4223| |N|Talk to Magistrate Solomon - Talk to Magistrate Solomon - (30.0, 44.5)|
@@ -84,12 +84,12 @@ N Click the Soft Dirt Mound atop the mountain - (81.0, 46.8) |QID|3825|
 T Ogre Head On A Stick = Party |QID|3825| |N|Talk to Oralius - Talk to Oralius - (84.6, 68.7)|
 T The True Masters |QID|4224| |N|Talk to Marshal Maxwell - Talk to Marshal Maxwell - (84.7, 69.0)|
 R Stormwind >> Fly to Stormwind |N|Talk to Borgus Stoutarm - Talk to Borgus Stoutarm - (84.3, 68.3)|
-N (47.9, 31.3) |SK|
+N Travel toward Royal Factor Bathrilor upstairs - (47.9, 31.3) |SK|
 A Good Natured Emma |QID|5048| |N|Talk to Royal Factor Bathrilor - Talk to Royal Factor Bathrilor inside on the 2nd floor - (48.5, 30.6)|
 A Good Luck Charm |QID|5050| |N|Talk to Ol' Emma - Talk to Ol' Emma inside on the 2nd floor. - She also sometimes patrols through the trade district and back to her house (see line on your map for reference) - (52.6, 41.8)|
 R Into The Temple of Atal'Hakkar |QID|1475| |N|Talk to Brohann Caskbelly - Talk to Brohann Caskbelly - (64.3, 20.6)|
 A The First and the Last |QID|6182| |N|Talk to Highlord Bolvar Fordragon - Talk to Highlord Bolvar Fordragon - (78.2, 18.0)|
-N (74.9, 54.0) |SK|
+N Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw - (74.9, 54.0) |SK|
 A Flint Shadowmore |QID|6184| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)|
 R A Donation of Runecloth |QID|7795| |N|Talk to Clavicus Knavingham - Talk to Clavicus Knavingham up stairs - Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (44.3, 74.0)|
 R You will now run Sunken Temple. Start looking for a group. You may fly to Blasted Lands and grind mobs there while you form a group |SK|

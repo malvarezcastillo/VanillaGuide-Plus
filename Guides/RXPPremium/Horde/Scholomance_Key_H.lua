@@ -30,10 +30,10 @@ A Mold Rhymes With... |QID|5514| |N|Talk to Apothecary Dithers - Talk to Dithers
 A Fire Plume Forged |QID|5802| |N|Talk to Krinkle Goodsteel - Talk to Krinkle Goodsteel - Turning in this quest requires you to pay 15 Gold - (51.5, 28.8)|
 N If you did not buy them earlier, go to the Auction House in any Major city and buy 2 [Thorium Bars] - Thorium Bar x2
 R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |SK|
-N (49.6, 47.6) |SK|
+N Travel to the top of the mountain at Fire Plume Ridge - (49.6, 47.6) |SK|
 C Use the [Skeleton Key Mold] at the pool of lava to create the Unfinished Skeleton Key |QID|5802| |N|Unfinished Skeleton Key (1) - (49.3, 47.0)| |U|14644|
 A Araj's Scarab |QID|5804| |N|Talk to Apothecary Dithers - Talk to Dithers - (83.3, 69.2)|
-N (45.6, 69.3) |SK|
+N Travel to the center of the Ruins of Andorhal - (45.6, 69.3) |SK|
 C Use an [Attuned Dampener] on him if you have one |QID|5804| |N|Kill Araj the Summonor. Loot Araj's Phylactery on the ground for Araj's Scarab - Araj is a strong elite. It is recommended to kill him in a group of at least 3 players - Araj's Scarab (1x) - (45.6, 69.3)| |U|12650| |M|speedrun|
 N Kill Araj the Summonor. Loot Araj's Phylactery on the ground for Araj's Scarab - Araj is a strong elite. It is recommended to kill him in a group of at least 3 players - Araj's Scarab (1x) - (45.6, 69.3) |QID|5804| |M|speedrun|
 C Use an [Attuned Dampener] on him if you have one |QID|5804| |N|Kill Araj the Summonor. Loot Araj's Phylactery on the ground for Araj's Scarab - Araj is a strong elite and is surrunded by many mobs, clear them carefully. It is recommended to kill him in a group of at least 4 players - Araj's Scarab (1x) - (45.6, 69.3)| |U|12650| |M|hardcore|

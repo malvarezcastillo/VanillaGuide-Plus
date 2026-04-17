@@ -48,7 +48,7 @@ A Webwood Egg |QID|917| |N|Talk to Gilshalan Windwalker - Talk to Gilshalan Wind
 N Equip the [Thistlewood Dagger] |U|5392| |SK| |C|Hunter/Rogue|
 t Train [Moonfire] |QID|3120| |N|Talk to Mardant Strongoak - Ascend the Aldrassil Tree - Talk to Mardant Strongoak - (57.8, 41.0)| |C|Druid|
 T Iverron's Antidote |QID|3522| |N|Talk to Iverron - Talk to Iverron - (54.6, 33.0)|
-N (56.7, 31.2) |SK|
+N Enter the Shadowthread Cave - (56.7, 31.2) |SK|
 N Loot a Webwood Egg on the ground at the back of the Cave - Collect Webwood Egg (x1) - (57.0, 26.4) |QID|917|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 N Logout skip on the ledge behind the eggs. Move your character until it looks like they're floating, then log out, and back in. - If you fall down, just run out the cave normally to the quest turn in |SK| |M|hardcore|

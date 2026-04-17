@@ -8,7 +8,7 @@ return [[
 N 7-13 Mulgore |N|Converted from RestedXP guide|
 
 D Die and respawn |SK| |M|speedrun|
-N (47.4, 60.7) |SK| |M|hardcore|
+N Run to Bloodhoof Village - (47.4, 60.7) |SK| |M|hardcore|
 A Mazzranache |QID|766| |N|Talk to Maur Raincaller - Talk to Maur - (47.0, 57.1)| |M|speedrun|
 A Dwarven Digging |QID|746| |N|Talk to Baine Bloodhoof - Talk to Ruul and Baine - (47.4, 62.0)|
 A Dwarven Digging |QID|746| |N|Talk to Baine Bloodhoof - Talk to Ruul and Baine - (47.4, 62.0)|
@@ -62,7 +62,7 @@ N Kill Stalkers and Cougars. Loot them for their Claws - Stalker Claws (6) - Cou
 A The Ravaged Caravan |QID|751| |N|Click the Sealed Supply Crate - (53.7, 48.2)|
 N Kill Stalkers and Cougars. Loot them for their Claws - Stalker Claws (6) - Cougar Claws (6) - (58.1, 48.6) |QID|756| |R|Tauren|
 D Die and respawn |SK| |M|speedrun|
-N (46.5, 55.5) |SK| |M|hardcore|
+N Travel back to Bloodhoof Village - (46.5, 55.5) |SK| |M|hardcore|
 t Train your class spells |N|Talk to Yaw Sharpmane - Talk to Yaw - (47.8, 55.7)| |C|Hunter|
 T Mazzranache |QID|766| |N|Talk to Maur Raincaller - Talk to Maur - (47.0, 57.1)|
 N Talk to Mahnott Roughwound - Talk to Mahnott - Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet - (45.7, 58.6) |C|Shaman/Druid|
@@ -99,7 +99,7 @@ N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quil
 N Use the [Thunderhorn Cleansing Totem] at the Well - Cleanse the Thunderhorn Water Well (1) - (44.5, 45.4) |QID|758| |R|Tauren|
 C Smash the [Picks] at the Forge |QID|746| |N|Kill Bael'dun Diggers and Bael'dun Appraisers. Loot them for their Prospector's Picks - Be careful as Bael'dun Appraisers cast [Lesser Heal] (Ranged Cast: Heals themselves or a nearby mob below 50% health for about 75 health) - Broken Tools (5) - (31.3, 49.9)| |U|4702|
 N Kill Windfury Wind Witches and Windfury Harpies. Loot them for their Talons - Windfury Talon (8) - (31.7, 40.3) |QID|743|
-N (33.4, 36.5) |SK|
+N Enter the cave just North of the Windfury Harpies - (33.4, 36.5) |SK|
 A Rite of Wisdom |QID|773| |N|Talk to Seer Wiserunner - Talk to Wiserunner - (32.7, 36.1)|
 T Rite of Vision |QID|772| |N|Talk to Seer Wiserunner - Talk to Wiserunner - (32.7, 36.1)|
 R Travel to Thunder Bluff |N|(32.0, 66.7)| |SK| |C|Druid/Hunter/Shaman|
@@ -134,7 +134,7 @@ N Kill Swoops. Loot them for their Quills - Trophy Swoop Quill (8) - (51.0, 18.4
 N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) - (50.8, 29.4) |QID|766|
 R Exit Thunder Bluff |SK|
 R Die and respawn |N|Make sure you die at the waypoint arrow or further south of it - (48.2, 38.9)| |SK| |M|speedrun|
-N (47.3, 57.2) |SK| |M|hardcore|
+N Travel back to Bloodhoof Village - (47.3, 57.2) |SK| |M|hardcore|
 T Mazzranache |QID|766| |N|Talk to Maur Raincaller - Talk to Maur - (47.0, 57.1)|
 T The Demon Scarred Cloak |QID|770| |N|Talk to Skorn Whitecloud - Talk to Skorn - (46.8, 60.2)|
 T Swoop Hunting |QID|761| |N|Talk to Harken Windtotem - Talk to Baine, Ruul, Mull and Harken - (47.5, 60.2)| |R|Tauren|
@@ -170,7 +170,7 @@ N Kill Venture Co. Workers and Venture Co. Supervisors - Venture Co. Worker (14)
 T Supervisor Fizsprocket |QID|765| |N|Talk to Morin - He patrols along the eastern road - (55.1, 60.6)|
 N Kill Prairie Wolf Alphas in the area. Loot them for their Teeth - Prairie Alpha Tooth (8) - (67.2, 63.8) |QID|759|
 D Die and respawn |SK| |M|speedrun|
-N (46.5, 55.5) |SK| |M|hardcore|
+N Travel back to Bloodhoof Village - (46.5, 55.5) |SK| |M|hardcore|
 A Wildmane Cleansing |QID|760| |N|Talk to Mull Thunderhorn - Talk to Mull - (48.5, 60.4)|
 R Travel to The Barrens |N|(69.6, 60.4)|
 F Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |C|Druid|
@@ -215,7 +215,7 @@ t Train your pet spells |N|Talk to Hesuwa Thunderhorn - Talk to Hesuwa - Drag [B
 t Train your class spells |N|Talk to Ker Ragetotem - Talk to Ker - (57.6, 85.5)| |O| |C|Warrior|
 t Train Two-Handed Maces |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Druid|
 t Train Staves |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Warrior/Hunter|
-N (28.1, 33.0) |SK|
+N Travel to the Spirit Rise and enter the pools of vision - (28.1, 33.0) |SK|
 T Apothecary Zamah |QID|853| |N|Talk to Apothecary Zamah - Talk to Zamah - (22.8, 20.9)|
 N Equip the [Cauldron Stirrer] |U|5340| |SK|
 t Train your class spells |N|Talk to Tigor Skychaser - Talk to Tigor - (23.6, 18.7)| |O| |C|Shaman|
@@ -242,10 +242,10 @@ N Talk to Uthrok - Talk to Uthrok. Buy a [Hunter's Boomstick] from him - Collect
 N Equip the [Hunter's Boomstick] |U|2511| |SK| |C|Hunter| |R|Tauren|
 U Chen's Empty Keg |QID|819| |N|Check for Chen's Empty Keg next to Kranal. Loot it and start the quest - You can get it later if it's not there - Collect Chen's Empty Keg| |U|4926| |SK| |C|Shaman|
 A Call of Fire |QID|1524| |N|Talk to Kranal Fiss - Talk to Kranal - (55.9, 19.9)| |C|Shaman|
-N Be careful to not fall of the mountain, the path is very narrow. You could die if you fall - (36.7, 57.8) |SK| |C|Shaman|
+N Travel the path up the mountain to Telf - Be careful to not fall of the mountain, the path is very narrow. You could die if you fall - (36.7, 57.8) |SK| |C|Shaman|
 A Call of Fire |QID|1525| |N|Talk to Telf Joolam - Talk to Telf - (38.5, 58.9)| |C|Shaman|
 A Conscript of the Horde |QID|840| |N|Talk to Takrin Pathseeker - Talk to Takrin - (50.8, 43.6)| |C|Shaman|
-N (54.3, 39.4) |SK| |C|Shaman|
+N Go into Dustwind Cave - (54.3, 39.4) |SK| |C|Shaman|
 N Kill Cultists. Loot them for a Reagent Pouch - Reagent Pouch (1) - (53.2, 29.1) |QID|1525| |C|Shaman|
 A Crossroads Conscription |QID|842| |N|Talk to Kargal Battlescar - Talk to Kargal - (62.3, 19.4)| |C|Shaman|
 A Path of Defense |QID|1498| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|

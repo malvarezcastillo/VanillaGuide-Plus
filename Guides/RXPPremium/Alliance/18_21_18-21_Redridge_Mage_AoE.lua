@@ -57,7 +57,7 @@ N Kill Bellygrub. Kite her back to Guard Adams all the way in the town - Be care
 T An Unwelcome Guest |QID|34| |N|Talk to Martie Jainrose - Talk to Martie Jainrose - (21.9, 46.3)|
 N Kill Gnolls. Loot them for Pikes and Rivets - Iron Pike (5) - Iron Rivet (5) - Redridge Brute (10) - Redridge Mystic (8) - (21.2, 36.2) |QID|124|
 N Kill the nicely stacked groups of Orcs. Loot them to finish off the axes - If you get unlucky after clearing the close groups, you have another opportunity later - Blackrock Axe (10) - (37.0, 45.1) |QID|20| |SK|
-N (49.2, 39.7) |SK|
+N Run toward the spiders - (49.2, 39.7) |SK|
 N Kill Spiders. Loot them for the meat - Be careful as their poison can do some damage - Be careful of Chatter (rare), as he has an 8 second-long stun - Crisp Spider Meat (5) - (57.2, 45.2)
 N Finish off killing Orcs for the axes - Blackrock Axe (10) - (61.7, 42.8) |QID|20|
 T Blackrock Menace |QID|20| |N|Talk to Marshal Marris - Talk to Marshal Marris - (33.5, 49.0)|

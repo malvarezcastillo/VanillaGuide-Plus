@@ -25,11 +25,11 @@ A Return to Feathermoon Stronghold |QID|2867| |N|Click the Solarsal Gazebo - (26
 A Against the Hatecrest |QID|2869| |N|Talk to Shandris Feathermoon - Talk to Shandris Feathermoon and Latronicus Moonspear - (30.3, 46.2)|
 N Kill Hatecrest Screamers, Hatecrest Wave Riders, Hatecrest Warriors and Hatecrest Sirens. Loot them for their Naga Scales - (26.6, 52.0) |QID|2869|
 A Against Lord Shalzaru |QID|2870| |N|Talk to Latronicus Moonspear - Talk to Latronicus Moonspear - (30.4, 46.2)|
-N (25.5, 64.9) |SK|
+N Travel to the Isle of Dread. Enter Shalzaru's Lair - (25.5, 64.9) |SK|
 N Kill Lord Shalzaru. Loot him for the Mysterious Relic - (28.5, 70.6) |QID|2870|
 N Kill Hatecrest Myrmidon - Do loops around the cave grinding Nagas until you get the [OOX-22/FE Distress Beacon] - Don't start the quest for this yet - Collect item 8705 (x1) |M|speedrun|
 G Do loops around the cave, grinding Nagas to level 45+87500xp |N|Kill Hatecrest Myrmidon - (27.6, 69.0)|
-N (38.7, 75.1) |SK|
+N Exit the naga cave and head southeast towards the ocean - Swim to the mainland - (38.7, 75.1) |SK|
 A Boat Wreckage |QID|4127| |N|Click on the Wrecked Row Boat in the water - (45.4, 65.0)|
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
@@ -41,7 +41,7 @@ A Psychometric Reading |QID|4130| |N|Talk to Quintis Jonespyre - Talk to Quintis
 A The Woodpaw Gnolls |QID|4131| |N|Talk to Ginro Hearthkindle - Talk to Ginro Hearthkindle up stairs - (32.1, 45.5)|
 A Delivering the Relic |QID|2871| |N|Talk to Latronicus Moonspear - Talk to Latronicus Moonspear - (30.4, 46.2)|
 T Delivering the Relic |QID|2871| |N|Talk to Vestia Moonspear - Talk to Vestia Moonspear - (30.1, 45.1)|
-N (45.1, 44.9) |SK|
+N Swim to the mainland - (45.1, 44.9) |SK|
 C Use [Yeh'kinya's Bramble] on their corpses to summon a Screecher Spirit |QID|3520| |N|Talk to Screecher Spirit - Kill Vale Screechers and Rogue Vale Screechers - Talk to the Screecher Spirit - (52.0, 48.9)| |U|10699| |SK|
 N Kill Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers - (58.8, 59.0) |QID|1452| |SK|
 R You must explore the Dire Maul zone as a pre-requisite to unlock a quest later on. Get close to the Dire Maul zone border until your General Chat changes to Dire Maul |N|(55.4, 45.5)|
@@ -62,7 +62,7 @@ N Kill Grimtotem Naturalists, Grimtotem Raiders and Grimtotem Shamans - Grimtote
 A Doling Justice |QID|2972| |N|Talk to Jer'kai Moonweaver - Talk to Jer'kai Moonweaver - (65.9, 45.6)|
 A The Writhing Deep |QID|4135| |N|Click the Large Leather Backpacks on the tree - (73.3, 56.3)|
 A Thalanaar Delivery |QID|4281| |N|Collect item 11463 (x1) - (73.3, 56.3)| |U|11463|
-N (73.6, 63.1) |SK|
+N Enter The Writhering Deep Hive from the lower southwest entrance - (73.6, 63.1) |SK|
 A Freed from the Hive |QID|4265| |N|Click the Zukk'ash Pod - (72.1, 63.7)|
 N Wait out the RP - (72.1, 63.7) |QID|4265|
 N Grind until your Hearthstone is off cooldown

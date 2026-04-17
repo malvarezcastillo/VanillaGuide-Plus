@@ -33,8 +33,8 @@ A The Mighty U'cha |QID|4301| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.
 N Loot Bloodpetal Sprouts around the zone until you have 8 Bloodcaps |QID|9052| |SK| |C|Druid|
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland and for Gorishi Stings - (50.6, 77.1) |QID|9052| |SK| |C|Druid|
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland - (50.6, 77.1) |QID|4496| |SK|
-N (50.0, 81.7)
-N (49.4, 82.9) |SK|
+N Enter the Silithid cave - (50.0, 81.7)
+N Enter the room on the left - (49.4, 82.9) |SK|
 C Use your [Scraping Vial] in the centre of the room |QID|3883| |N|(48.7, 85.3)| |U|11132|
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland and for Gorishi Stings - (51.7, 75.4) |QID|9052| |C|Druid|
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland - (51.7, 75.4) |QID|4496|
@@ -49,7 +49,7 @@ N Click the Western Crsytal Pylon - (23.9, 59.2) |QID|4288|
 N Kill Frenzied Pterrordax. Loot them for their Scales - (20.9, 59.5) |QID|4503| |SK|
 A Finding the Source |QID|974| |N|Talk to Krakle - Talk to Krakle - (30.9, 50.4)|
 N (47.1, 47.1)
-N (47.1, 47.1) |SK|
+N Take the lava path shortcut on the west side of the volcano to the top - (47.1, 47.1) |SK|
 N Kill Fire Elementals. Loot them for their Ash |QID|4502| |SK|
 C Climb up to the top of the volcano, then use [Krakle's Thermometer] |QID|974| |N|(49.6, 45.7)| |U|12472|
 N Kill Bloodpetal Trappers |QID|4145| |SK|
@@ -62,7 +62,7 @@ N Kill Bloodpetal Trappers - (31.2, 31.2) |QID|4145|
 N Kill Frenzied Pterrordax. Loot them for their Scales - (30.8, 59.6) |QID|4503|
 N Kill Diemetradons. Loot them for their Bones and Scales - (40.8, 62.8) |QID|4503|
 N Kill Fire Elementals. Loot them for their Ash - (46.7, 53.2) |QID|4502|
-N (52.4, 51.0) |SK|
+N Enter the cave on the east side of the volcano - (52.4, 51.0) |SK|
 A A Little Help From My Friends |QID|4491| |N|Talk to Ringo - Talk to Ringo - (51.9, 49.9)|
 C Escort Ringo to Marshal's Refuge. Use [Spraggle's Canteen] on him when he falls down |QID|4491| |N|Talk to Ringo - Be careful not to ride away too fast from Ringo - (43.6, 8.5)| |U|11804|
 T Beware of Pterrordax |QID|4501| |N|Talk to Spraggle Frock - Talk to Spraggle - (43.6, 8.5)|
@@ -97,7 +97,7 @@ D Die and respawn |N|(27.9, 59.0)| |SK| |M|speedrun|
 T Bungle in the Jungle |QID|4496| |N|Talk to Alchemist Pestlezugg - Talk to Pestlezugg - (50.9, 27.0)|
 R Feralas >>Fly to Feralas |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)|
 T The Strength of Corruption |QID|4120| |N|Talk to Talo Thornhoof - Talk to Talo - (76.2, 43.8)|
-N (55.9, 46.2) |SK|
+N Travel along the border of Dire Maul to the West Side - (55.9, 46.2) |SK|
 R You must explore the Dire Maul zone as a pre-requisite to unlock a quest later on. Get close to the Dire Maul zone border until your General Chat changes to Dire Maul |N|(55.4, 45.5)|
 N Talk to Gregan Brewspewer - Talk to Gregan - Buy some [Bait] from him - Collect item 11141 (x1) - (50.8, 49.8)
 N Talk to Miblon Snarltooth - Cast Place the [Bait] on the ground next to Miblon Snarltooth to distract him - (44.6, 10.6) |U|11141| |SK|

@@ -12,18 +12,18 @@ t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brights
 U The Unsent Letter |QID|373| |N|Use [An Unsent Letter] to start the quest| |U|2874| |SK|
 N Talk to Billibub Cogspinner - Talk to Billibub Cogspinner - Buy a [Bronze Tube] from him if its up - This is a limited supply item. Skip this step if Billibub Cogspinner doesn't have one - (55.2, 7.0)
 A Bazil Thredd |QID|389| |N|Talk to Baros Alexston - Talk to Baros Alexston - (48.1, 30.9)|
-N (74.6, 51.6) |SK| |C|Warrior|
+N Travel toward Wu Shen inside the Command Center - (74.6, 51.6) |SK| |C|Warrior|
 t Train your class spells |N|Talk to Wu Shen - Talk to Wu Shen inside upstairs - (78.7, 45.8)| |C|Warrior|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne the Night Man - (74.7, 52.8)| |C|Rogue|
 N Talk to Felicia Gump - Talk to Felicia Gump inside - Buy [Stormwind Seasoning Herbs] from her - Collect item 2665 (x1) - (64.2, 60.6)
-N (42.9, 34.2) |SK| |C|Paladin|
+N Travel to Duthorian Rall inside the Stormwind Cathedral - (42.9, 34.2) |SK| |C|Paladin|
 A The Tome of Valor |QID|1649| |N|Talk to Duthorian Rall - Talk to Duthorian Rall. He will give you the [Tome of Valor] - Collect item 6776 (x1) - (39.8, 29.8)| |U|6776| |C|Paladin|
 A The Tome of Valor |QID|1650| |N|Talk to Duthorian Rall - Talk to Duthorian Rall - (39.8, 29.8)| |C|Paladin|
 A The Tome of Valor |QID|1650| |N|Talk to Duthorian Rall - Talk to Duthorian Rall - (39.8, 29.8)| |O| |C|Paladin|
 A The Tome of Valor |QID|1649| |N|Talk to Duthorian Rall - Talk to Duthorian Rall. He will give you the [Tome of Valor] - Collect item 6776 (x1) - (39.8, 29.8)| |U|6776| |O| |C|Paladin|
 T The Tome of Valor |QID|1652| |N|Talk to Duthorian Rall - Talk to Duthorian Rall - (39.8, 29.8)| |C|Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.6, 32.0)| |C|Paladin|
-N (29.2, 74.0) |SK| |C|Warlock|
+N Go into The Slaughtered Lamb. Go downstairs - (29.2, 74.0) |SK| |C|Warlock|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
 N Talk to Spackle Thornberry - Talk to Spackle Thornberry - Buy [Grimoires] for your [Succubus] which you will have in a second. If you have extra gold also buy them for your [Voidwalker] - (25.7, 77.6) |C|Warlock|
 A The Binding |QID|65603| |N|Talk to Gakin the Darkbinder - Talk to Gakin the Darkbinder - (25.2, 78.5)| |C|Warlock|
@@ -55,7 +55,7 @@ F Westfall >> Fly to Westfall |N|Talk to Dungar Longdrink - Talk to Dungar Longd
 F Westfall >> Fly to Westfall |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |SK| |R|Human|
 A Wolves at Our Heels |QID|226| |N|Talk to Lars - Talk to Lars - Do NOT accept the quest Sven's Revenge from Sven Yorgen - (7.7, 33.3)|
 R Head to Elwynn Forest |N|(71.2, 89.1)| |SK| |C|!Warlock| |R|!Human|
-N (65.2, 69.8) |SK| |C|!Warlock| |R|!Human|
+N Travel to the Tower of Azora. Ascend the tower - (65.2, 69.8) |SK| |C|!Warlock| |R|!Human|
 A A Watchful Eye |QID|94| |N|Talk to Theocritus - Talk to Theocritus at the top - (65.2, 69.7)| |C|!Warlock| |R|!Human|
 R Travel to Redridge Mountains |SK| |C|!Warlock| |R|!Human|
 f Redridge Mountains >> Get the Redridge Mountains flight path |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |O| |C|!Warlock| |R|!Human|
@@ -75,7 +75,7 @@ T Selling Fish |QID|127| |N|Talk to Dockmaster Baren - Talk to Dockmaster Baren 
 T Murloc Poachers |QID|150| |N|Talk to Dockmaster Baren - Talk to Dockmaster Baren - (27.7, 47.4)|
 R Head to Duskwood |N|(5.5, 91.9)| |SK|
 N (73.5, 24.8) |SK|
-N (48.0, 17.2) |SK|
+N Travel to Darkshire - (48.0, 17.2) |SK|
 N Kill Starving Dire Wolves and Rabid Dire Wolves en route. Loot them for their Lean Wolf Flanks - Be careful as Starving Dire Wolves have [Increased Aggro Range] and Rabid Dire Wolves cast [Rabies] (Reduces ALL health regen by 50%) - You don't have to kill all Wolves now. Save the Lean Wolf Flanks for a later quest - Collect item 1015 (x10) |QID|226| |SK|
 N Kill Starving Dire Wolves and Rabid Dire Wolves en route - Be careful as Starving Dire Wolves have [Increased Aggro Range] and Rabid Dire Wolves cast [Rabies] (Reduces ALL health regen by 50%) - You don't have to kill all Wolves now |QID|226| |SK|
 A The Totem of Infliction |QID|101| |N|Talk to Madame Eva - Talk to Madame Eva inside - (75.8, 45.3)|
@@ -130,7 +130,7 @@ N Kill Old Murk-Eye. Loot him for his Scale - Old Murk-Eye patrols up and down t
 T Keeper of the Flame |QID|103| |N|Talk to Captain Grayson - Talk to Captain Grayson - (30.0, 86.0)|
 T Keeper of the Flame |QID|103| |N|Talk to Captain Grayson - Talk to Captain Grayson - (30.0, 86.0)|
 T The Coastal Menace |QID|104| |N|Talk to Captain Grayson - Talk to Captain Grayson - (30.0, 86.0)|
-N (17.9, 33.1) |SK| |C|Druid|
+N Swim out to sea - (17.9, 33.1) |SK| |C|Druid|
 N Open the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance - Collect item 15882 (x1) - (17.9, 33.1) |C|Druid|
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 C Use the [Half Pendant of Aquatic Agility] to combine it with the [Half Pendant of Aquatic Endurance] at the Shrine of Remulos |QID|272| |N|(36.0, 41.4)| |U|15883| |C|Druid|
@@ -143,12 +143,12 @@ H Hearthstone |C|Rogue|
 R Duskwood >> Fly to Duskwood |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |C|Rogue|
 R Stormwind >> Fly to Stormwind |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |SK| |C|Rogue|
 H Hearthstone |SK| |C|Rogue|
-N (42.9, 33.9) |SK| |C|Rogue| |R|!Dwarf|
+N Travel toward Shaina Fuller - (42.9, 33.9) |SK| |C|Rogue| |R|!Dwarf|
 N Talk to Shaina Fuller - If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead - (43.1, 26.2) |C|Rogue| |R|!Dwarf|
 t Train [Anti-Venom] |N|Talk to Shaina Fuller - If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead - (43.1, 26.2)| |C|Rogue| |R|!Dwarf|
 N Collect item 6452 (x1) |SK| |C|Rogue| |R|!Dwarf|
 N Cast Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |U|6452| |SK| |C|Rogue| |R|!Dwarf|
-N (74.9, 54.0) |SK| |C|Rogue|
+N Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw - (74.9, 54.0) |SK| |C|Rogue|
 T Klaven's Tower |QID|2359| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - Remember to re-equip your main weapon if you switched to a [Dagger] earlier - (75.8, 59.8)| |C|Rogue|
 N Type /lay on the chat and wait until the quest complete itself - (78.1, 59.0) |QID|2608|
 A The Touch of Zanzil |QID|2609| |N|Talk to Doc Mixilpixil - Talk to Doc Mixilpixil - (78.0, 58.8)|
@@ -204,7 +204,7 @@ N You are about to head to Stormwind soon, try to find a group for The Stockades
 t Train your class spells |N|Talk to Lyria Du Lac - Talk to Lyria Du Lac - (41.1, 65.8)| |C|Warrior|
 t Train your class spells |N|Talk to Brother Wilhelm - Talk to Brother Wilhelm - (41.1, 66.0)| |C|Paladin|
 A The Legend of Stalvan |QID|70| |N|Talk to Innkeeper Farley - Talk to Innkeeper Farley - (43.8, 65.8)|
-N (43.9, 66.5) |SK|
+N Go upstairs - (43.9, 66.5) |SK|
 t Train your class spells |N|Talk to Zaldimar Wefhellt - Talk to Zaldimar Wefhellt - (43.2, 66.2)| |C|Mage|
 t Train your class spells |N|Talk to Priestess Josetta - Talk to Priestess Josetta - (43.3, 65.7)| |C|Priest|
 t Train your class spells |N|Talk to Keryn Sylvius - Talk to Keryn Sylvius - (43.9, 65.9)| |C|Rogue|
@@ -226,31 +226,31 @@ A The Curious Visitor |QID|392| |N|Talk to Warden Thelwater - Talk to Warden The
 T Quell The Uprising |QID|387| |N|Talk to Warden Thelwater - Talk to Warden Thelwater - (41.1, 58.1)|
 A Shadow of the Past |QID|393| |N|Talk to Baros Alexston - Talk to Baros Alexston - (49.2, 30.3)|
 T The Color of Blood |QID|388| |N|Talk to Nikova Raskol - Nikova Raskol patrols in Old Town - (69.2, 39.6)|
-N (74.9, 54.0) |SK|
+N Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw - (74.9, 54.0) |SK|
 A Look to an Old Friend |QID|350| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)|
 A Infiltrating the Castle |QID|2745| |N|Talk to Elling Trias - Talk to Elling Trias up stairs - (61.2, 64.1)|
-N (70.3, 27.2) |SK|
+N Travel to the Stormwind Keep - (70.3, 27.2) |SK|
 A Items of Some Consequence |QID|2746| |N|Talk to Tyrion - Talk to Tyrion - (69.2, 14.4)|
-N (32.4, 49.9) |SK|
+N Exit Stormwind. Travel to Clara's Farm House in Elwynn Forest - (32.4, 49.9) |SK|
 N Loot Clara's Fresh Apples on the table - If you still need [Silk Cloth] buy some from the Auction House - (34.0, 57.2) |QID|2746|
 N Loot Clara's Fresh Apples on the table - (34.0, 57.2) |QID|2746|
-N (70.3, 27.2) |SK|
+N Travel to the Stormwind Keep - (70.3, 27.2) |SK|
 A The Attack! |QID|434| |N|Talk to Tyrion - Talk to Tyrion - Ensure your party has all turned in Items of Some Consequence before you accept The Attack! - Automatic quest accept has been turned off for this step. Note you may not be able to accept the quest if someone else is in the process of doing it - (69.2, 14.4)|
 N Wait in the center of the courtyard for Lord Gregor Lescovar and Marzon the Silent Blade to arrive. This takes roughly 2 minutes - Kill Lord Gregor Lescovar and Marzon the Silent Blade - (68.0, 14.1) |QID|434|
 A The Head of the Beast |QID|394| |N|Talk to Elling Trias - Talk to Elling Trias up stairs - (61.2, 64.1)|
-N (74.9, 54.0) |SK|
+N Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw - (74.9, 54.0) |SK|
 A Brotherhood's End |QID|395| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)|
 A An Audience with the King |QID|396| |N|Talk to Baros Alexston - Talk to Baros Alexston - (49.2, 30.3)|
-N (70.3, 27.2) |SK|
+N Travel to the Stormwind Keep - (70.3, 27.2) |SK|
 T An Audience with the King |QID|396| |N|Talk to Lady Katrana Prestor - Talk to Lady Katrana Prestor - (78.1, 17.8)|
-N (29.2, 74.0) |SK|
+N Head to the Slaughtered Lamb and go downstairs - (29.2, 74.0) |SK|
 A A Noble Brew |QID|335| |N|Talk to Zardeth of the Black Claw - Talk to Zardeth of the Black Claw - (26.4, 78.7)|
 t Train your class spells |N|Talk to Ursula Deline - Talk to Ursula Deline - (26.1, 77.2)| |C|Warlock|
-N (27.2, 78.1) |SK|
+N Exit the Slaughtered Lamb - (27.2, 78.1) |SK|
 A The Legend of Stalvan |QID|72| |N|Talk to Caretaker Folsom - Talk to Caretaker Folsom - (29.5, 61.9)|
 A The Legend of Stalvan |QID|74| |N|Click the Sealed Crate on the ground - (29.4, 61.5)|
 t Train your class spells |N|Talk to Sheldras Moontree - Talk to Sheldras Moontree - (20.9, 55.5)| |C|Druid|
-N (42.5, 33.5) |SK| |C|Priest/Paladin|
+N Travel to the Stormwind Cathedral - (42.5, 33.5) |SK| |C|Priest/Paladin|
 T The Tome of Valor |QID|1652| |N|Talk to Duthorian Rall - Talk to Duthorian Rall - (39.8, 29.8)| |C|Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
@@ -275,7 +275,7 @@ T Seasoned Wolf Kabobs |QID|90| |N|Talk to Chef Grual - Talk to Chef Grual in th
 A Return to Jitters |QID|240| |N|Talk to Chef Grual - Talk to Chef Grual in the inn's kitchen - (73.9, 43.5)|
 N Kill Black Ravager Mastiff - Kill Wolves throughout Duskwood. Loot them for their Lean Wolf Flanks - Collect item 1015 (x10) |SK|
 N Be careful not to run into Stitches the Abomination who may be patrolling the road between Raven Hill and Darkshire - He spawns after a player completes the Hermit questline and is extremely lethal if pulled |SK|
-N (22.9, 44.8) |SK|
+N Travel to Raven Hill Cemetery - (22.9, 44.8) |SK|
 T Return to Jitters |QID|240| |N|Talk to Jitters - Talk to Jitters - (18.4, 56.4)|
 N Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood - Don't start the quest for it yet - Collect item 2794 (x1) |SK|
 N Kill Skeletal Fiends and Skeletal Horrors. Loot them for their Rot Blossoms - (22.9, 44.8) |QID|156|

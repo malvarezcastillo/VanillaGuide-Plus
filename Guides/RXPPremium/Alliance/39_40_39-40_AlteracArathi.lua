@@ -16,7 +16,7 @@ N Mine the Lesser Bloodstone Deposits. Loot it for Lesser Bloodstone Ore - These
 N Kill Drywhisker Kobolds, Drywhisker Diggers and Drywhisker Surveyors. Loot them for their Motes - The quest turn in for this is inside the Cave. Clear your way to the back while completing it - (78.6, 40.0) |QID|642|
 N Mine the Lesser Bloodstone Deposits. Loot it for Lesser Bloodstone Ore - These are found inside of the Cave - Collect item 4278 (x4) - (87.1, 31.4) |O|
 A Stones of Binding |QID|651| |N|Click the Iridescent Shards at the back of the Cave - (84.3, 30.9)|
-N (70.3, 39.5) |SK|
+N Travel to the Circle of East Binding - (70.3, 39.5) |SK|
 N Kill Cresting Exile - Kill Cresting Exiles. Loot them for their Cresting Charms - Collect item 4481 (x8) |SK| |C|Warrior|
 N Open the Stone of East Binding. Loot it for the Cresting Key - (66.7, 29.7) |QID|651|
 N Kill Cresting Exile - Kill Cresting Exiles. Loot them for their Cresting Charms - Collect item 4481 (x8) - (67.5, 28.8) |C|Warrior|
@@ -31,7 +31,7 @@ N Open the Stone of Outer Binding. Loot it for the Thundering Key - (52.0, 50.7)
 N Kill Thundering Exile - Kill Thundering Exiles. Loot them for their Thundering Charms - Collect item 4480 (x8) - (52.7, 50.6) |C|Warrior|
 T Worth Its Weight in Gold |QID|691| |N|Talk to Apprentice Kryten - Talk to Apprentice Kryten - (46.2, 47.8)|
 A Wand over Fist |QID|693| |N|Talk to Skuerto - Talk to Skuerto - (46.7, 47.0)|
-N (54.2, 77.8) |SK|
+N Enter the Bolderfist Hall Cave - (54.2, 77.8) |SK|
 N Kill Kor'gresh Coldrage. Loot him for Trelane's Wand - (54.8, 81.9) |QID|693|
 N Perform a Logout skip on the banner next to Kor'gresh Coldrage to teleport closer to Refuge Point. If you are unable to do this just run out normally - (54.4, 80.8) |SK|
 T Wand over Fist |QID|693| |N|Talk to Skuerto - Do not accept the follow up yet - (46.7, 47.0)|
@@ -62,12 +62,12 @@ T In the Name of the Light |QID|1053| |N|Talk to Raleigh the Devout - Talk to Ra
 A Baron's Demise |QID|523| |N|Talk to Magistrate Henry Maleb - Talk to Magistrate Henry Maleb - (48.1, 59.1)|
 A Preserving Knowledge |QID|540| |N|Talk to Loremaster Dibbs - Talk to Loremaster Dibbs - (50.6, 57.1)|
 A Ansirem's Key |QID|603| |N|Talk to Archmage Ansirem Runeweaver - Talk to Archmage Ansirem Runeweaver - (18.8, 78.5)|
-N (39.8, 62.2) |SK|
+N Travel to the Ruins of Alterac. This location will also serve as your exit route, should you need it - (39.8, 62.2) |SK|
 N Kill Crushridge Warmongers - Crushridge Warmongers call for help at 25% HP |QID|504| |SK|
 N Kill Grel'borg the Miser. Loot him for the Perenolde Tiara - Grel'borg the Miser patrols the Ruins of Alterac. He is a level 39 Elite and easy to kill so long as you don't agro additional mobs. His patrol route is marked on your map - (40.4, 47.0) |QID|543|
 N Enter the Town Hall - Open the Weathered Bookcase. Loot it for the Worn Leather Book - You may kill Muckrake or just CC him, loot and then run away - If you decide to fight him be careful as Muckrake has a [Disarm] - (38.4, 46.4) |QID|540|
 N Kill Crushridge Warmongers - Crushridge Warmongers call for help at 25% HP - (38.4, 57.8) |QID|504|
-N (39.7, 18.2) |SK|
+N Travel to Dandred's Fold. Be careful of fall damage if dropping down from the Ruins of Alterac - (39.7, 18.2) |SK|
 N Kill the Syndicate. Loot them for their Signet Rings - Syndicate Assassins and Syndicate Spies will be in [Stealth] - (62.4, 43.6) |QID|512| |SK|
 N Open the Worn Wooden Chest. Loot it for the [Ensorcelled Parchment] - Don't start the quest from this item yet - Collect item 3706 (x1) - (39.2, 14.7) |SK|
 N Kill Nagaz. Loot him for his Head - (39.2, 14.3) |QID|537|
@@ -106,7 +106,7 @@ A Hints of a New Plague? |QID|660| |N|Talk to Kinelory - Talk to Quae and Kinelo
 N Talk to Kinelory - Escort Kinelory through Go'Shek Farm |QID|660|
 A Hints of a New Plague? |QID|661| |N|Talk to Quae - Talk to Quae - (60.2, 53.8)|
 A Wand over Fist |QID|693| |N|Talk to Skuerto - Talk to Skuerto - (46.7, 47.0)|
-N (54.2, 77.8) |SK|
+N Enter the Bolderfist Hall Cave - (54.2, 77.8) |SK|
 N Kill Kor'gresh Coldrage. Loot him for Trelane's Wand - He will cast [Trelane's Freezing Touch] which has a 3 second cast time that silences you for 12 seconds and slows your attack speed by 25% - (54.8, 81.9) |QID|693|
 N Perform a Logout skip on the banner next to Kor'gresh Coldrage to teleport closer to Refuge Point. If you are unable to do this just run out normally - (54.4, 80.8) |SK|
 A Trelane's Defenses |QID|694| |N|Talk to Skuerto - Talk to Skuerto - (46.7, 47.0)|
@@ -115,7 +115,7 @@ A Wanted! Otto and Falconcrest |QID|685| |N|Click the Wanted Board - (46.0, 47.8
 N Kill Burning Exile - Kill Burning Exiles. Loot them for their Burning Charms - Collect item 4479 (x8) |SK| |C|Warrior|
 N Open the Stone of West Binding. Loot it for the Burning Key - (25.5, 30.1) |QID|651|
 N Kill Burning Exile - Kill Burning Exiles. Loot them for their Burning Charms - Collect item 4479 (x8) - (67.5, 28.8) |C|Warrior|
-N (79.3, 66.8) |SK| |C|Warrior|
+N Travel to Chillwind Point in Alterac Mountains - (79.3, 66.8) |SK| |C|Warrior|
 N Click Bath'rah's Cauldron - (79.3, 66.8) |QID|1712| |C|Warrior|
 N Before Accepting The Summoning watch the video below on how to solo Cyclonian |SK| |C|Warrior|
 T Cyclonian |QID|1712| |N|Talk to Bath'rah the Windwatcher - Talk to Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior|
@@ -133,7 +133,7 @@ N Kill Otto and Lord Falconcrest. Loot them for their Heads - (26.0, 65.7) |QID|
 N Kill Marez Cowl. Loot her for her Head - Marez Cowl has 2 different spawn locations. One is on the high ground location, and the other is below behind the house. They are marked on your map - Be careful as there are [Stealthed] level 36-37 elite Syndicate Prowlers in the area surrounding both her spawns - Skip this step if you're not confident in your ability to solo it - (29.6, 63.7) |QID|684| |C|Hunter/Druid/Rogue|
 N Kill Marez Cowl. Loot her for her Head - Marez Cowl has 2 different spawn locations. One is on the high ground location, and the other is below behind the house. They are marked on your map - Be careful as there are [Stealthed] level 36-37 elite Syndicate Prowlers in the area surrounding both her spawns - (29.6, 63.7) |QID|684|
 N Kill Boulderfist Shamans. Loot them for the Azure Agate. try to avoid fighting Boulderfist Maulers as much as possible - Skip this step if you're not confident in your ability to solo it - (24.1, 61.9) |QID|694|
-N (24.6, 64.6) |SK|
+N Escape Stromgarde through the hole in the wall in the south of the Ogre area. You can do this by jumping up on either side of the metal railings near the bent lamp post and running over to it - Head to Faldir's Cove, follow the path between the mountains and Stromgarde's southeastern wall - (24.6, 64.6) |SK|
 A Land Ho! |QID|663| |N|Talk to Lolo the Lookout - Talk to Lolo the Lookout - (31.8, 82.7)|
 T Land Ho! |QID|663| |N|Talk to Shakes O'Breen - Talk to Shakes O'Breen - (32.3, 81.4)|
 A Deep Sea Salvage |QID|662| |N|Talk to First Mate Nilzlix - Talk to First Mate Nilzlix - (32.8, 81.5)|
@@ -147,7 +147,7 @@ U Equip your [Goggles of Gem Hunting] so the Elven Gems show up on your minimap 
 N Kill +Daggerspine Sorceress - Kill Daggerspine Raiders and Daggerspine Sorceresses - Be aware the Daggerspine Raiders will cast [Net] on you |QID|664| |U|5996| |SK|
 N Loot Maiden's Folly Log on the 2nd floor of the ship. It is inside of the Cauldron - (23.4, 85.1) |QID|662| |U|5996|
 N Loot Maiden's Folly Charts on the 2nd floor of the ship. It is on the Pillar - (23.0, 84.5) |QID|662| |U|5996|
-N (20.5, 85.6) |SK|
+N Swim to the other sunken ship - (20.5, 85.6) |SK|
 N Loot the Spirit of Silverpine Charts on the 2nd floor of the ship. It is on top of the Crate next to the Cannon - (20.5, 85.6) |QID|662| |U|5996|
 N Loot the Spirit of Silverpine Charts on the bottom of the ship. It is on the sea floor - (20.6, 85.1) |QID|662| |U|5996|
 U Equip your [Goggles of Gem Hunting] so the Elven Gems show up on your minimap |QID|666| |N|Loot the Elven Gems on the sea floor| |U|5996| |SK|
@@ -157,7 +157,7 @@ N Equip your normal [Helmet] |SK|
 T Deep Sea Salvage |QID|662| |N|Talk to First Mate Nilzlix - Talk to First Mate Nilzlix - (32.8, 81.5)|
 A Sunken Treasure |QID|668| |N|Talk to Doctor Draxlegauge - Talk to Captain Steelgut and Doctor Draxlegauge - (34.0, 80.8)|
 A Sunken Treasure |QID|669| |N|Talk to Shakes O'Breen - Talk to Shakes O'Breen - (32.3, 81.4)|
-N (35.8, 79.5) |SK|
+N Logout on top of the rock in the cave where you escorted Professor Phizzlethorpe, then log back in - (35.8, 79.5) |SK|
 D Die and respawn |N|Talk to Spirit Healer| |M|speedrun|
 A Myzrael's Allies |QID|653| |N|Click on the Keystone - (36.1, 58.1)| |M|speedrun|
 T Wanted! Marez Cowl |QID|684| |N|Talk to Captain Nials - Talk to Captain Nials - (45.8, 47.5)| |C|Hunter/Druid/Rogue| |M|speedrun|

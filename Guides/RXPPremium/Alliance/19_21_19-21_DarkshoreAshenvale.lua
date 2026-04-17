@@ -58,7 +58,7 @@ A Orendil's Cure |QID|1020| |N|Talk to Orendil Broadleaf - Talk to Orendil Broad
 A The Tower of Althalaxx |QID|973| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
 N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |SK|
 T Therylune's Escape |QID|945| |N|Talk to Therysil - Talk to Therysil - (22.6, 51.9)|
-N (522.9, 2716.1) |C|Hunter|
+N Head up the ramp to the north-west - (522.9, 2716.1) |C|Hunter|
 N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone for later - Gooey Spider Legs |SK|
 t Train your pet skills |N|Talk to Bolyun - Talk to Bolyun - (18.0, 60.0)| |SK| |C|Hunter|
 t Train [Aspect of the Cheetah] |N|Talk to Alenndaar Lapidaar - Talk to Alenndaar Lapidaar - (18.0, 59.8)| |C|Hunter|
@@ -75,8 +75,8 @@ N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will n
 N Loot Elune's Tear on the ground - (46.4, 46.4) |QID|1033|
 A The Ruins of Stardust |QID|1034| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)|
 N Loot the Stardust Covered Bushes for the Handful of Stardust - Their spawn locations are scattered throughout the island - (33.3, 67.8) |QID|1034|
-N (31.7, 64.2) |SK|
-N Jump over the tree root and hug the right to avoid aggroing mobs - (27.5, 60.8) |SK|
+N Head to the base of the mountain - Run straight north while climbing the mountain - (31.7, 64.2) |SK|
+N Climb the hill next to the big tree to the right of the Fire Scar Shrine entrance - Jump over the tree root and hug the right to avoid aggroing mobs - (27.5, 60.8) |SK|
 N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to - Clear an exit path if needed so you can reset them along with the Succubus if needed. You may skip this and do it at level 23 if you wish - (25.3, 60.7) |QID|973|
 T The Tower of Althalaxx |QID|973| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
 N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Gooey Spider Legs |SK|
@@ -96,7 +96,7 @@ N Keep any [Murloc Fins] you might loot. You will need 8 for a quest later - Mur
 N Kill Saltspittle Murlocs. Loot them for the Glowing Gem - Be careful as the Oracles can heal, and have a 90 damage instant-cast shock spell every few seconds - (20.4, 43.8) |QID|1023|
 H Hearthstone |C|Hunter| |R|Dwarf|
 D Die and respawn |SK| |R|!Dwarf| |M|speedrun|
-N (34.4, 48.0) |SK| |R|!Dwarf| |M|hardcore|
+N Travel to Astranaar - (34.4, 48.0) |SK| |R|!Dwarf| |M|hardcore|
 F Darkshore>> Fly to Darkshore |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)| |R|!Dwarf|
 A The Absent Minded Prospector |QID|741| |N|Talk to Archaeologist Hollee - Talk to Archaeologist Hollee - (37.4, 41.8)|
 N Restock/Resupply |SK|
