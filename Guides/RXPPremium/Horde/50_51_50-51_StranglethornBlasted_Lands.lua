@@ -35,7 +35,7 @@ t Train your class spells |N|Talk to Ian Strom - Talk to Ian on the second floor
 t Train your class spells |N|Talk to Ian Strom - Talk to Ian on the second floor of the inn - (26.8, 77.2)| |O| |C|Rogue|
 N Talk to Viznik Goldgrubber - Talk to Viznik - (26.6, 76.6)
 N Talk to Viznik Goldgrubber - Talk to Viznik - [Silk Cloth] - [Snickerfang Jowl] - [Blasted Boar Lung] - [Scorpok Pincer] - [Vulture Gizzard] - [Basilisk Brain] - (26.6, 76.6)
-R Stonard >>Fly to Stonard |N|Talk to Gringer - Talk to Gringer - NOTE: The Blasted Lands part of the guide is a filler section in case you are behind on levels. If you are level 52 or above skip to the next part (Searing Gorge or Azshara) - (26.9, 77.1)| |O|
+R Stonard >>Fly to Stonard |N|Talk to Gringer - Talk to Gringer - NOTE: The Blasted Lands part of the guide is a filler section in case you are behind on levels. If you are level 52 or above skip to the next part (Searing Gorge or Azshara) - (26.9, 77.1)| |SK|
 T Return to Fel'Zerul |QID|1444| |N|Talk to Fel'zerul - Talk to Fel'zerul - (47.9, 55.0)|
 t Train your class spells |N|Talk to Ogrom - Talk to Ogrom - (47.3, 53.4)| |C|Hunter|
 t Train your class spells |N|Talk to Ogrom - Talk to Ogrom - (47.3, 53.4)| |O| |C|Hunter|
@@ -48,10 +48,10 @@ t Train your class spells |N|Talk to Malosh - Talk to Malosh - (44.9, 57.6)| |C|
 t Train your class spells |N|Talk to Malosh - Talk to Malosh - (44.9, 57.6)| |O| |C|Warrior|
 N Talk to Rartar - Talk to Rartar inside the inn - Buy [Superior Healing Potions] from him if they're up - (45.4, 56.9)
 A Warrior Kinship |QID|8423| |N|Talk to Fallen Hero of the Horde - Talk to the Fallen Hero of the Horde - (34.2, 66.0)| |C|Warrior|
-R Travel to Blasted Lands |O|
+R Travel to Blasted Lands |SK|
 N Kill Helboars in the Blasted Lands - (53.6, 37.2) |QID|8423| |C|Warrior|
 A War on the Shadowsworn |QID|8424| |N|Talk to Fallen Hero of the Horde - Talk to the Fallen Hero of the Horde - (34.2, 66.0)| |C|Warrior|
-N As you're questing, keep an eye out for [Imperfect Draenethyst Fragments] and a [Flawless Draenethyst Sphere] - Collect item 10593 (x1) - Collect item 8244 (x1) |O|
+N As you're questing, keep an eye out for [Imperfect Draenethyst Fragments] and a [Flawless Draenethyst Sphere] - Collect item 10593 (x1) - Collect item 8244 (x1) |SK|
 N Kill Ashmane Boar - Kill Vultures. Loot them for their Gizzards - Kill Basilisks. Loot them for their Brains - Kill Boars. Loot them for their Lungs - Kill Scorpids. Loot them for their Pincers - Kill Hyenas. Loot them for their Jowls - Prioritize Scorpids, Vultures and Boars so you can receive the 25 Agility buff - Basilisks share spawns with Boars, and Hyenas share spawns with Scorpids - (62.5, 28.0) |SK| |C|Hunter/Rogue|
 T The Decisive Striker |QID|2585| |N|Talk to Bloodmage Drazial - Talk to Ambassador Ardalan - Once you have 3 Pincers, 2 Gizzards and 1 Lung turn in the quest for the 25 Agility buff - Collect item 8393 (x3) - Collect item 8396 (x2) - Collect item 8392 (x1) - (50.5, 14.2)| |C|Hunter/Rogue|
 T The Decisive Striker |QID|2585| |N|Talk to Bloodmage Drazial - Talk to Ambassador Ardalan - (50.5, 14.2)| |C|Hunter/Rogue|
@@ -60,8 +60,8 @@ T Snickerfang Jowls |QID|2581| |N|Talk to Bloodmage Drazial - Talk to Ambassador
 T Snickerfang Jowls |QID|2581| |N|Talk to Bloodmage Drazial - Talk to Bloodmage Drazial - (50.5, 14.2)| |C|Druid/Shaman/Warrior|
 N Kill Ashmane Boar - Kill Vultures. Loot them for their Gizzards - Kill Basilisks. Loot them for their Brains - Kill Boars. Loot them for their Lungs - Kill Scorpids. Loot them for their Pincers - Kill Hyenas. Loot them for their Jowls - Basilisks share spawns with Boars, and Hyenas share spawns with Scorpids - (62.5, 28.0)
 T Snickerfang Jowls |QID|2581| |N|Talk to Bloodmage Drazial - Talk to Bloodmage Lynnore and Bloodmage Drazial - (50.6, 14.3)|
-T Everything Counts In Large Amounts |QID|3501| |N|Talk to Kum'isha the Collector - Talk to Kum'isha the Collector - Collect item 10593 (x1) - (51.8, 35.6)| |O|
-T To Serve Kum'isha |QID|2521| |N|Talk to Kum'isha the Collector - Talk to Kum'isha the Collector - Collect item 8244 (x1) - (51.8, 35.6)| |O|
+T Everything Counts In Large Amounts |QID|3501| |N|Talk to Kum'isha the Collector - Talk to Kum'isha the Collector - Collect item 10593 (x1) - (51.8, 35.6)| |SK|
+T To Serve Kum'isha |QID|2521| |N|Talk to Kum'isha the Collector - Talk to Kum'isha the Collector - Collect item 8244 (x1) - (51.8, 35.6)| |SK|
 N If you go into the cave, be careful of the two elites at each end - (62.4, 39.4) |QID|8424| |C|Warrior|
 T War on the Shadowsworn |QID|8424| |N|Talk to Fallen Hero of the Horde - Talk to the Fallen Hero of the Horde - (34.2, 66.0)| |C|Warrior|
 N Talk to Thultazor - Talk to Thultazor - Buy [Superior Healing Potions] from him if they're up - (45.8, 52.9)

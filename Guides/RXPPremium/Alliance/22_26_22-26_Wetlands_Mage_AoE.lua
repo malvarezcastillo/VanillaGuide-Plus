@@ -69,7 +69,7 @@ N Run out of the Site to Ironbeard's Tomb. AoE Oozes. Loot them for Sida's Bag -
 N Run to the orc area. AoE them for their War Banners - Be careful as they attack fast, net, and have higher fire resistance - (43.7, 44.0) |QID|464|
 T Blisters on the Land |QID|275| |N|Talk to Rethiel the Greenwarden - Talk to Rethiel the Greenwarden - (56.4, 40.5)|
 H Hearthstone |N|Buy food/water if needed|
-N Remember to buy level 25 drink/Healing Potions if needed. But save some money for level 26 training later |O|
+N Remember to buy level 25 drink/Healing Potions if needed. But save some money for level 26 training later |SK|
 T The Absent Minded Prospector |QID|943| |N|Talk to Archaeologist Flagongut - Go upstairs - Talk to Archaeologist Flagongut - (10.8, 60.4)|
 A Lifting the Curse |QID|290| |N|Talk to First Mate Fitzsimmons - Talk to First Mate Fitzsimmons - (10.9, 59.6)|
 T Digging Through the Ooze |QID|470| |N|Talk to Sida - Talk to Sida - (11.8, 58.0)|

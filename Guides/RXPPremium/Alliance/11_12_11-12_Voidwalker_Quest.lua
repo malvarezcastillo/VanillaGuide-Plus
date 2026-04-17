@@ -15,11 +15,11 @@ A Wanted: "Hogger" |QID|176| |N|Talk to Deputy Rainer - Click the Wanted Poster 
 N Kill Hogger. Loot him for his Claw - Hogger can spawn in multiple locations - Cast [Fear] on Hogger continously and use your regular DoTs to kill him - This quest is difficult. Find a group for him if needed. Skip this step if you're unable to find a group or solo him - Huge Gnoll Claw (1) - (27.0, 86.7) |QID|176|
 D Die and respawn |SK| |M|speedrun|
 T Wanted: "Hogger" |QID|176| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
-N Kill Rockhide Boar - Kill Rockhide Boars. Loot them for their [Chunks of Boar Meat] - Chunk of Boar Meat (1-10) - (49.9, 73.0) |O| |C|Warlock|
-N Kill Rockhide Boar - Kill Rockhide Boars. Loot them for their [Chunks of Boar Meat] - Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by - Chunk of Boar Meat (10-50) - (49.9, 73.0) |O| |C|Warlock|
+N Kill Rockhide Boar - Kill Rockhide Boars. Loot them for their [Chunks of Boar Meat] - Chunk of Boar Meat (1-10) - (49.9, 73.0) |SK| |C|Warlock|
+N Kill Rockhide Boar - Kill Rockhide Boars. Loot them for their [Chunks of Boar Meat] - Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by - Chunk of Boar Meat (10-50) - (49.9, 73.0) |SK| |C|Warlock|
 N Kill Surena Caledon. Loot her for her Choker - Focus on killing Surena Caledon very quickly - Cast [Fear] on Morgan the Collector continously - Surena's Choker (1) - (71.1, 80.7) |QID|1688| |C|Warlock|
-N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Stringy Wolf Meat (1-10) - (84.4, 72.5) |O| |C|Warlock|
-N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by - Stringy Wolf Meat (10-50) - (84.4, 72.5) |O| |C|Warlock|
+N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Stringy Wolf Meat (1-10) - (84.4, 72.5) |SK| |C|Warlock|
+N Kill Prowler - Kill Prowlers. Loot them for their [Stringy Wolf Meat] - Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by - Stringy Wolf Meat (10-50) - (84.4, 72.5) |SK| |C|Warlock|
 R Travel to Redridge Mountains |N|(17.4, 69.6)| |SK|
 A Encroaching Gnolls |QID|244| |N|Talk to Guard Parker - Talk to Guard Parker - (17.4, 69.6)|
 A Hilary's Necklace |QID|3741| |N|Talk to Shawn - Talk to Shawn - Be careful of high level mobs en route - (29.3, 53.6)|

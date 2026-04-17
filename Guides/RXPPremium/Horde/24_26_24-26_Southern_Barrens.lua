@@ -9,7 +9,7 @@ N 24-26 Southern Barrens |N|Converted from RestedXP guide|
 
 R Camp Taurajo >>Fly to Camp Taurajo |N|Talk to Tal - Talk to Tal - (47.0, 49.8)|
 A Betrayal from Within |QID|879| |N|Talk to Mangletooth - Talk to Mangletooth - (44.5, 59.3)|
-N If possible, save 10 [Blood Shards] to be able to utilize the speed buff later in the guide - Make sure to turn off any autocomplete functions from addons such as Questie or Leatrix Plus for this! |O|
+N If possible, save 10 [Blood Shards] to be able to utilize the speed buff later in the guide - Make sure to turn off any autocomplete functions from addons such as Questie or Leatrix Plus for this! |SK|
 N Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.9, 59.1)
 A Trial at the Field of Giants |QID|1824| |N|Talk to Ruga Ragetotem - Talk to Ruga Ragetotem inside the building - (44.7, 59.4)| |C|Warrior|
 h The Barrens |N|Talk to Innkeeper Byula - Talk to Innkeeper Byula - (45.6, 59.0)|
@@ -23,33 +23,33 @@ N Loot the Silithid Mounds for Silithid Eggs - (42.9, 69.9) |QID|868|
 U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1) - (44.8, 74.8)| |U|5103| |SK| |C|Shaman|
 N (43.8, 77.3) |SK| |C|Shaman|
 A Call of Water |QID|1534| |N|Talk to Brine - Talk to Brine - (43.4, 77.4)| |C|Shaman|
-U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1)| |U|5103| |O|
+U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1)| |U|5103| |SK|
 A Gann's Reclamation |QID|843| |N|Talk to Gann Stonespire - Talk to Gann - Gann patrols North and South on the road - (46.1, 75.4)|
-N Kill +Razormane Warfrenzy - Kill Razormane Stalkers and Razormane Pathfinders. Loot them for the [Razormane Backstabber] - Kill Razormane Seers. Loot them for the [Charred Razormane Wand] - Kill Razormane Warfrenzies. Loot them for the [Razormane War Shield] - The Razormane Stalkers are stealthed - Collect item 5093 (x1) - Collect item 5092 (x1) - Collect item 5094 (x1) |O|
+N Kill +Razormane Warfrenzy - Kill Razormane Stalkers and Razormane Pathfinders. Loot them for the [Razormane Backstabber] - Kill Razormane Seers. Loot them for the [Charred Razormane Wand] - Kill Razormane Warfrenzies. Loot them for the [Razormane War Shield] - The Razormane Stalkers are stealthed - Collect item 5093 (x1) - Collect item 5092 (x1) - Collect item 5094 (x1) |SK|
 N Kill Kuz. Loot him for Kuz's Skull - Kuz patrols around slightly - (44.1, 80.0) |QID|879|
 N Kill Lok Orcbane. Loot him for Lok's Skull - (40.3, 80.7) |QID|879|
-N Kill Razormane Pathfinder - Kill Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber] - The Razormane Stalkers are stealthed - Collect item 5093 (x1) |O|
+N Kill Razormane Pathfinder - Kill Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber] - The Razormane Stalkers are stealthed - Collect item 5093 (x1) |SK|
 N Kill +Razormane Warfrenzy - Kill Razormane Seers. Loot them for a [Charred Razormane Wand] - Kill Razormane Warfrenzies. Loot them for a [Razormane War Shield] - Collect item 5092 (x1) - Collect item 5094 (x1) - (42.6, 78.8)
 N Kill Nak. Loot him for Nak's Skull - (43.9, 83.4) |QID|879|
 N Kill Razormane Pathfinder - Kill Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber] - The Razormane Stalkers are stealthed - Collect item 5093 (x1) - (45.5, 79.9)
 N Kill Bael'dun Excavators and Bael'dun Foremen |QID|843| |SK|
 N Kill Prospector Khazgorm. Loot him for Khazgorm's Journal - (48.3, 86.2) |QID|843|
 N Kill Bael'dun Excavators and Bael'dun Foremen - (47.2, 85.0) |QID|843|
-U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1) - (47.2, 79.3)| |U|5103| |O|
+U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1) - (47.2, 79.3)| |U|5103| |SK|
 A Revenge of Gann |QID|846| |N|Talk to Gann Stonespire - Talk to Gann - Gann patrols North and South on the road - (46.1, 75.4)|
 A Revenge of Gann |QID|846| |N|Talk to Gann Stonespire - Talk to Gann - Gann patrols North and South on the road - (46.1, 75.4)| |O|
-N (48.6, 84.5) |O|
-N Kill Bael'dun Dwarves. Loot them for their Nitroglycerin, Wood Pulp, and Sodium Nitrate |QID|846| |O|
+N (48.6, 84.5) |SK|
+N Kill Bael'dun Dwarves. Loot them for their Nitroglycerin, Wood Pulp, and Sodium Nitrate |QID|846| |SK|
 A The Tear of the Moons |QID|857| |N|Talk to Feegly the Exiled - Talk to Feegly - (48.9, 86.3)|
 N (49.0, 84.5) |SK|
 N Open General Twinbraid's Strongbox. Loot it for the Tear of the Moons - Be careful! It is very easy overpull in General Twinbraid's room - Directly pull any mob other than General Twinbraid - (49.1, 84.2) |QID|857|
 N (49.4, 84.3) |SK|
 T The Tear of the Moons |QID|857| |N|Talk to Feegly the Exiled - Talk to Feegly - (48.9, 86.3)|
 N Kill Bael'dun Dwarves. Loot them for their Nitroglycerin, Wood Pulp, and Sodium Nitrate - (49.0, 84.4) |QID|846|
-U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1)| |U|5103| |O|
+U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1)| |U|5103| |SK|
 A Revenge of Gann |QID|849| |N|Talk to Gann Stonespire - Talk to Gann - Gann patrols North and South on the road - (46.1, 75.4)|
 N Click the Bael Modan Flying Machine atop the platform - This has a 50 yard range - (47.0, 85.6) |QID|849|
-N Kill a Thunderhawk. Loot it for its Wings |QID|913| |O|
+N Kill a Thunderhawk. Loot it for its Wings |QID|913| |SK|
 T Revenge of Gann |QID|849| |N|Talk to Gann Stonespire - Talk to Gann - Gann patrols North and South on the road - (46.1, 75.4)|
 U Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - Collect item 5103 (x1) - (44.9, 78.8)| |U|5103|
 N Kill a Thunderhawk. Loot it for its Wings - (47.1, 78.7) |QID|913|
@@ -59,12 +59,12 @@ N Talk to Zulrg - Talk to Zulrg - Buy a [Big Stick] from him if it's up - (36.2,
 N Talk to Balai Lok'Wein - Talk to Balai - Buy [Healing Potions] and [Scrolls] from her if they're up - (36.5, 30.4)
 N Talk to Balai Lok'Wein - Talk to Balai - Buy the [First Aid Manuals] from her - Collect item 16112 (x1) - Collect item 16113 (x1) - Collect item 16084 (x1) - (36.5, 30.4)
 N Talk to Zanara - Talk to Zanara - Buy a [Dense Shortbow] from her if it's up - (35.5, 30.1) |C|Hunter|
-R Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Shardi - Talk to Shardi - (35.6, 31.9)| |O|
+R Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Shardi - Talk to Shardi - (35.6, 31.9)| |SK|
 R Brackenwall >> Get the Brackenwall Village Flight Path |N|Talk to Shardi - Talk to Shardi - (35.6, 31.9)|
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |O| |C|Druid|
-U Hearthstone |U|6948| |O|
+U Hearthstone |U|6948| |SK|
 A A New Ore Sample |QID|1153| |N|Talk to Tatternack Steelforge - Talk to Tatternack - (45.1, 57.7)|
 T Weapons of Choice |QID|893| |N|Talk to Tatternack Steelforge - Talk to Tatternack - (45.1, 57.7)| |O|
 T Owatanka |QID|884| |N|Talk to Jorn Skyseer - Talk to Jorn - (44.9, 59.1)|
@@ -77,7 +77,7 @@ T Betrayal from Within |QID|906| |N|Talk to Thork - Talk to Thork - (51.5, 30.9)
 T Egg Hunt |QID|868| |N|Talk to Korran - Talk to Korran - (51.1, 29.6)|
 h The Barrens |N|Talk to Innkeeper Boorand Plainswind - Talk to Innkeeper Boorand - (52.0, 29.9)|
 N Talk to Hula'mahi - Talk to Hula'mahi - Stock up on [Flash Powder] and supplies for [Instant Poison] - (51.4, 30.2) |C|Rogue|
-F Ratchet >> Fly to Ratchet |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O|
+F Ratchet >> Fly to Ratchet |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK|
 A Isha Awak |QID|873| |N|Talk to Mahren Skyseer - Talk to Mahren - (65.8, 43.9)|
 N Kill Isha Awak. Loot him for the Heart of Isha Awak - He has four different spawn locations alongside the coast - (65.7, 46.6) |QID|873|
 T Isha Awak |QID|873| |N|Talk to Mahren Skyseer - Talk to Mahren - (65.8, 43.9)|

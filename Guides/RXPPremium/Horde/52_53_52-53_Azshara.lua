@@ -7,12 +7,12 @@ return [[
 
 N 52-53 Azshara |N|Converted from RestedXP guide|
 
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 U Hearthstone |U|6948| |SK| |C|!Mage|
-R Orgrimmar >>Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O| |C|!Mage|
-N Cast Cast [Teleport: Orgrimmar] |O| |C|Mage|
+R Orgrimmar >>Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK| |C|!Mage|
+N Cast Cast [Teleport: Orgrimmar] |SK| |C|Mage|
 h Orgrimmar |N|Talk to Innkeeper Gryshka - Talk to Innkeeper Gryshka - (54.1, 68.4)|
 N Talk to Karus - Talk to Karus - [Box of Empty Vials] (or the [Empty Vials] if you openend the box) - (49.6, 69.1)
 N Talk to Karus - Talk to Karus - [Seed of Life] - [Box of Empty Vials] (or the [Empty Vials] if you openend the box) - (49.6, 69.1)
@@ -65,14 +65,14 @@ A Betrayed |QID|3505| |N|Talk to Ag'tor Bloodfist - Talk to Ag'tor - (22.2, 51.5
 A Stealing Knowledge |QID|3517| |N|Talk to Jediga - Talk to Jediga - (22.5, 51.4)|
 T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - (28.1, 50.1)| |SK| |C|Mage|
 A Magic Dust |QID|8251| |N|Talk to Archmage Xylem - Talk to Archmage Xylem - The Archmage wanders his tower - (29.2, 40.2)| |C|Mage|
-T Return Trip |QID|3421| |N|Talk to Nyrill - Talk to Nyrill - This will teleport you back down - (26.5, 46.3)| |O| |C|Mage|
+T Return Trip |QID|3421| |N|Talk to Nyrill - Talk to Nyrill - This will teleport you back down - (26.5, 46.3)| |SK| |C|Mage|
 N (41.6, 42.7) |SK| |C|Hunter/Priest|
 N Talk to Ogtinc - Talk to Ogtinc - Be careful of falling as you approach him; he's in a precarious spot - (42.4, 42.6) |C|Hunter/Priest|
 N Kill Mosshoof Courser - Mosshoof Coursers share respawn with Hippogryphs and Chimaeras - (48.4, 33.2) |C|Hunter/Priest|
 A Wavethrashing |QID|8231| |N|Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6)| |C|Hunter|
 T Coursers Antlers |QID|8153| |N|Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6)| |C|Hunter|
 A Kim'jael Indeed! |QID|3601| |N|Talk to Kim'jael - Talk to Kim'jael - (53.5, 21.8)|
-N Loot the Kim'Jael's Equipment boxes scattered around the camp |QID|3601| |O|
+N Loot the Kim'Jael's Equipment boxes scattered around the camp |QID|3601| |SK|
 N Kill Blood Elf Reclaimers and Blood Elf Surveyors. Loot them for their Dust - Be careful! Surveyors have a short cooldown Fire Nova, and Reclaimers have a high-damage fireball - (55.8, 25.9) |QID|8251| |C|Mage|
 N Kill Blood Elf Reclaimers and Blood Elf Surveyors - Be careful! Surveyors have a short cooldown Fire Nova, and Reclaimers have a high-damage fireball - (55.8, 25.9) |QID|3505|
 T Betrayed |QID|3505| |N|Click the Kaldorei Tome of Summoning on the pedestal in the summoning circle - (59.4, 31.2)|
@@ -85,10 +85,10 @@ N Travel south to the cliff and jump down into the water - (47.8, 60.8) |SK| |C|
 N Kill Wavethrashers. Loot them for their Wavethrasher Scales - These can be hard to find. Ensure to use [Track Beasts] and cast [Eagle Eye] around the coast to find them faster - (88.7, 25.9) |QID|8231| |C|Hunter|
 T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - (28.1, 50.1)| |SK| |C|Mage|
 A The Siren's Coral |QID|8252| |N|Talk to Archmage Xylem - Talk to Archmage Xylem - The Archmage wanders his tower - (29.2, 40.2)| |C|Mage|
-T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - (28.1, 50.1)| |O| |C|Mage|
+T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - (28.1, 50.1)| |SK| |C|Mage|
 N Travel south to the cliff and jump down into the water - (47.8, 60.8) |SK|
-N Kill all Spitelash Nagas. Loot them for Some Rune |QID|5534| |O|
-N Kill Spitelash Sirens. Loot them for their Enchanted Corals |QID|8252| |O| |C|Mage|
+N Kill all Spitelash Nagas. Loot them for Some Rune |QID|5534| |SK|
+N Kill Spitelash Sirens. Loot them for their Enchanted Corals |QID|8252| |SK| |C|Mage|
 U Open your [Box of Empty Vials] |N|Collect item 10687 (x1) - Collect item 10688 (x1) - Collect item 10689 (x1) - Collect item 10690 (x1)| |U|10695| |SK|
 C Use your [Empty Vial Labeled #4] in the centre of the puddle |QID|3568| |N|(47.5, 46.2)| |U|10690|
 C Use your [Empty Vial Labeled #3] in the centre of the puddle |QID|3568| |N|(48.7, 48.5)| |U|10689|
@@ -97,7 +97,7 @@ C Use your [Empty Vial Labeled #1] in the centre of the puddle |QID|3568| |N|(47
 N Loot the Glowing Tablets scattered around the ruins - (35.9, 53.5) |QID|3517|
 N Kill all Spitelash Nagas. Loot them for Some Rune - (44.0, 48.2) |QID|5534|
 N Kill Spitelash Sirens. Loot them for their Enchanted Corals - (44.0, 48.2) |QID|8252| |C|Mage|
-N (45.5, 37.8) |O|
+N (45.5, 37.8) |SK|
 N Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6) |C|Hunter/Priest|
 N Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6) |C|Hunter/Priest|
 T Kim'jael's "Missing" Equipment |QID|5534| |N|Talk to Kim'jael - Talk to Kim'jael - (53.5, 21.8)|

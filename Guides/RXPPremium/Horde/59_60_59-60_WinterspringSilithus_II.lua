@@ -9,8 +9,8 @@ N 59-60 Winterspring/Silithus II |N|Converted from RestedXP guide|
 
 R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |SK| |M|speedrun|
 T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.6, 8.1)| |M|speedrun|
-R Tanaris >>Fly to Tanaris |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O|
-R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (45.2, 5.8)| |O|
+R Tanaris >>Fly to Tanaris |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |SK|
+R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (45.2, 5.8)| |SK|
 T Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 A Calm Before the Storm |QID|4509| |N|Talk to Alchemist Pestlezugg - Talk to Pestlezugg - (50.9, 27.0)|
 R Hearthstone |U|6948| |SK|
@@ -32,7 +32,7 @@ R Orgrimmar >>Fly to Orgrimmar |N|Talk to Faustron - Talk to Faustron - (32.1, 6
 N Cast Cast [Teleport: Orgrimmar] |SK| |C|Mage|
 A Calm Before the Storm |QID|4511| |N|Talk to Zilzibin Drumlore - Talk to Zilzibin - He is located on the upper level in the Drag - (56.5, 46.4)|
 T Calm Before the Storm |QID|4511| |N|Talk to Karus - Talk to Karus - (49.7, 69.3)|
-N If you bought enough cloth earlier, go to the mailbox and retrieve the following: - Collect item 2592 (x60) - Collect item 4306 (x60) - Collect item 4338 (x60) - Collect item 14047 (x60) |O|
+N If you bought enough cloth earlier, go to the mailbox and retrieve the following: - Collect item 2592 (x60) - Collect item 4306 (x60) - Collect item 4338 (x60) - Collect item 14047 (x60) |SK|
 T A Donation of Runecloth |QID|7824| |N|Talk to Rashona Straglash - Talk to Rashona - Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later - Skip any of the donations which you do not have enough cloth for - (63.6, 51.2)|
 T A Donation of Runecloth |QID|7836| |N|Talk to Vehena - Talk to Vehena - Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later - Skip any of the donations which you do not have enough cloth for - (37.7, 87.9)|
 

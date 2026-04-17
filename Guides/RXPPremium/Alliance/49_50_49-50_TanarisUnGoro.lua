@@ -16,23 +16,23 @@ A The Scrimshank Redemption |QID|10| |N|Talk to Senior Surveyor Fizzledowser - T
 A The Thirsty Goblin |QID|2605| |N|Talk to Marin Noggenfogger - Talk to Marin Noggenfogger - (51.8, 28.7)|
 A Delivery for Marin |QID|2661| |N|Talk to Sprinkle - Talk to Sprinkle - (51.0, 26.9)|
 T Noggenfogger Elixir |QID|2662| |N|Talk to Marin Noggenfogger - Talk to Marin Noggenfogger - (51.8, 28.7)|
-N Make sure you carry 1 stack of noggenfogger with you at all times, buy 2 extra stacks and bank it |O|
+N Make sure you carry 1 stack of noggenfogger with you at all times, buy 2 extra stacks and bank it |SK|
 T Thistleshrub Valley |QID|3362| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 T The Sunken Temple |QID|3445| |N|Talk to Marvon Rivetseeker - Talk to Marvon Rivetseeker - (52.7, 45.9)|
 N Kill Wastewander Rogues, Wastewander Assassins and Wastewander Shadow Mages - Wastewander Rogues are in [Stealth] - (58.8, 39.3) |QID|1691| |SK|
 N Kill Caliph Scorpidsting. Loot him for his Head - Caliph Scorpidsting patrols through Waterspring Field and is accompanied by 2 Wastewander Rogues - (59.4, 41.1) |QID|2781|
 N Kill Wastewander Rogues, Wastewander Assassins and Wastewander Shadow Mages - (58.8, 39.3) |QID|1691|
 N (69.0, 41.6) |SK|
-N Kill +Southsea Swashbuckler - Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] - Open the [Pirate's Footlocker] until you find the [Ship Schedule] - Don't start the quest for the [Ship Schedule] yet - Collect item 9250 (x1) |QID|8365| |U|9276| |O|
-N Kill Andre Firebeard. Loot him for his Head - (73.4, 47.1) |QID|2875| |O|
+N Kill +Southsea Swashbuckler - Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] - Open the [Pirate's Footlocker] until you find the [Ship Schedule] - Don't start the quest for the [Ship Schedule] yet - Collect item 9250 (x1) |QID|8365| |U|9276| |SK|
+N Kill Andre Firebeard. Loot him for his Head - (73.4, 47.1) |QID|2875| |SK|
 N Travel upstairs in the house - Open the Stolen Cargo. Loot it for Stoley's Shipment - (72.2, 46.8) |QID|2873|
 N Kill +Southsea Swashbuckler - Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] - Open the [Pirate's Footlocker] until you find the [Ship Schedule] - Don't start the quest for the [Ship Schedule] yet - Collect item 9250 (x1) |QID|8365| |U|9276| |SK|
 N Kill Andre Firebeard. Loot him for his Head - (73.4, 47.1) |QID|2875|
 N Kill +Southsea Swashbuckler - Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] - Open the [Pirate's Footlocker] until you find the [Ship Schedule] - Don't start the quest for the [Ship Schedule] yet - Collect item 9250 (x1) - (71.1, 42.9) |QID|8365| |U|9276|
 G Grind to level 48 |N|Kill Southsea Swashbuckler - Kill any type of Southsea Pirate. Loot them for the [OOX-17/TN Distress Beacon] - Do not Accept the quest for this yet - If you don't find it by the time you are 49, skip it - Collect item 8623 (x1) - (71.1, 42.9)|
 G Grind to level 49 |N|Kill Southsea Swashbuckler|
-A Find OOX-17/TN! |QID|351| |N|Use the [OOX-17/TN Distress Beacon] to start the quest - Collect item 8623 (x1)| |U|8623| |O|
-N Cast Equip the [Gahz'ridian Detector] |U|9978| |O| |C|!Hunter|
+A Find OOX-17/TN! |QID|351| |N|Use the [OOX-17/TN Distress Beacon] to start the quest - Collect item 8623 (x1)| |U|8623| |SK|
+N Cast Equip the [Gahz'ridian Detector] |U|9978| |SK| |C|!Hunter|
 N Kill Dunemaul Brutes and Dunemaul Enforcers - You will complete this later, you don't need to finish it right now |QID|5863| |SK| |C|!Hunter|
 N Loot the Gahz'ridian on the ground around the Ruins - The Gahz'ridian will show up on your minimap with the [Gahz'ridian Detector] equiped - (46.0, 65.1) |QID|3161| |U|9978| |C|!Hunter|
 N Cast Equip your normal [Helmet] |SK| |C|!Hunter|
@@ -61,7 +61,7 @@ A Insect Part Analysis |QID|113| |N|Talk to Alchemist Pestlezugg - Talk to Alche
 A Thistleshrub Valley |QID|3362| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 T Insect Part Analysis |QID|113| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)|
 A The Stone Circle |QID|3444| |N|Talk to Marvon Rivetseeker - Talk to Marvon Rivetseeker - (52.7, 45.9)| |C|!Hunter|
-N (41.5, 57.8) |O|
+N (41.5, 57.8) |SK|
 N Kill Dunemaul Brutes and Dunemaul Enforcers |QID|5863| |SK|
 N Kill Gor'marok the Ravager - Be cautious as Gor'marok the Ravager can [Enrage] and deal significant damage very quickly - (41.5, 57.8) |QID|5863|
 N Kill Dunemaul Brutes and Dunemaul Enforcers - (37.8, 56.9) |QID|5863|
@@ -72,9 +72,9 @@ R Travel to Un'goro Crater |N|(27.0, 56.1)| |SK|
 A The Fare of Lar'korwi |QID|4290| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)|
 A The Fare of Lar'korwi |QID|4290| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)|
 A The Fare of Lar'korwi |QID|4290| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)|
-N Open the Bloodpetal Sprouts on the ground. Loot them for Bloodcaps |QID|9052| |O| |C|Druid|
-N Loot Power Crystals on the ground as you quest through Un'Goro Crater - Try to complete this now as you work your way up to Marshal's Refuge later - Collect item 11186 (x7) - Collect item 11185 (x7) - Collect item 11184 (x7) - Collect item 11188 (x7) |O|
-N Loot Un'Goro Soil on the ground as you quest through Un'Goro Crater - Collect item 11018 (x25) |O|
+N Open the Bloodpetal Sprouts on the ground. Loot them for Bloodcaps |QID|9052| |SK| |C|Druid|
+N Loot Power Crystals on the ground as you quest through Un'Goro Crater - Try to complete this now as you work your way up to Marshal's Refuge later - Collect item 11186 (x7) - Collect item 11185 (x7) - Collect item 11184 (x7) - Collect item 11188 (x7) |SK|
+N Loot Un'Goro Soil on the ground as you quest through Un'Goro Crater - Collect item 11018 (x25) |SK|
 A It's a Secret to Everybody |QID|3844| |N|Click on the Wrecked Raft - (63.0, 68.6)|
 A It's a Secret to Everybody |QID|3845| |N|Click the Small Pack underwater - (63.1, 69.1)|
 N Loot the Piece of Threshadon Carcass - (68.7, 56.7) |QID|4290|
@@ -98,7 +98,7 @@ A It's a Secret to Everybody |QID|3908| |N|Talk to Linken - Talk to Linken - (44
 N You no longer need these |C|Warrior/Rogue/Paladin/Druid|
 U Williden's Journal |QID|3884| |N|Talk to Williden Marshal - Talk to Williden Marshal - Collect item 11116 (x1) - (43.9, 7.1)| |U|11116| |C|Warrior/Rogue/Paladin/Druid|
 T Crystals of Power |QID|4284| |N|Talk to J.D. Collie - Talk to J.D. Collie - Skip this step if you don't have all 7 Power Crystals, you will finish it later - (41.9, 2.7)| |C|Warrior/Rogue/Paladin/Druid|
-N Kill dinos as you quest - This step is going to be finished later, don't go out of your way to complete this |QID|3882| |O|
+N Kill dinos as you quest - This step is going to be finished later, don't go out of your way to complete this |QID|3882| |SK|
 N Kill level 48-50 Lashers in northeastern Un'goro - (67.0, 28.0) |QID|4141| |SK|
 N Finish off Muigin and Larion - (69.5, 31.0) |QID|4141|
 R Un'Goro >> Get the Un'Goro Crater Flight Path |N|Talk to Gryfe - Talk to Gryfe - Fly or Hearth to Gadgetzan. Make sure you have the Flight Path before you Hearth - (45.2, 5.8)| |C|Warrior/Rogue/Paladin/Druid|

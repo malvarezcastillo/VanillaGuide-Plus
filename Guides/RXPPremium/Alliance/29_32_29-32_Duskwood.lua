@@ -22,7 +22,7 @@ A The Missing Diplomat |QID|1274| |N|Talk to Thomas - Talk to Thomas - Thomas wa
 A Tinkmaster Overspark |QID|2923| |N|Talk to Brother Sarno - Talk to Brother Sarno - (40.6, 31.0)|
 t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brightspear - (61.6, 15.3)| |C|Hunter|
 N (70.3, 27.2) |SK|
-N This segment has a long grinding session, you can substitute that for a Gnomeregan run |O|
+N This segment has a long grinding session, you can substitute that for a Gnomeregan run |SK|
 F Ironforge>> Fly to Ironforge |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)| |C|!Mage/!Hunter|
 R Teleport to Ironforge |SK| |C|Mage|
 t Train your class spells |N|Talk to Dink - Talk to Dink - (27.2, 8.6)| |C|Mage|
@@ -35,8 +35,8 @@ A A King's Tribute |QID|686| |N|Talk to King Magni Bronzebeard - Talk to King Ma
 A A King's Tribute |QID|689| |N|Talk to Grand Mason Marblesten - Talk to Grand Mason Marblesten - (39.0, 88.0)|
 N Talk to Thalgus Thunderfist - Talk to Thalgus Thunderfist downstairs - Buy a [Heavy Quiver] - Collect item 7371 (x1) - (61.4, 88.2) |C|Hunter|
 A The Brassbolts Brothers |QID|1179| |N|Talk to Pilot Longbeard - Talk to Pilot Longbeard - (72.7, 94.0)|
-R Enter the Deeprun Tram. Take the tram to Stormwind |N|Level your [First Aid] if needed while waiting for the tram - (78.0, 52.0)| |O| |C|!Mage|
-R Teleport to Stormwind |N|(78.0, 52.0)| |O| |C|Mage|
+R Enter the Deeprun Tram. Take the tram to Stormwind |N|Level your [First Aid] if needed while waiting for the tram - (78.0, 52.0)| |SK| |C|!Mage|
+R Teleport to Stormwind |N|(78.0, 52.0)| |SK| |C|Mage|
 A Armed and Ready |QID|325| |N|Talk to Grimand Elmore - Talk to Grimand Elmore - (51.8, 12.1)|
 T Cleansing the Eye |QID|293| |N|Talk to Archbishop Benedictus - Talk to Archbishop Benedictus - (39.6, 27.2)| |SK|
 A The Missing Diplomat |QID|1274| |N|Talk to Thomas - Talk to Thomas - Thomas walks around through the Cathedral - (38.7, 25.9)|
@@ -44,7 +44,7 @@ t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brights
 t Train your pet spells |N|Talk to Karrina Mekenda - Talk to Karrina Mekenda - Make sure you have your [Nature] and [Frost] reistances maxed on your pet. Talk to Karrina Mekenda to respec it if you don't have enough pet training points - (61.6, 16.0)| |C|Hunter|
 A The Missing Diplomat |QID|1241| |N|Talk to Bishop DeLavey - Talk to Bishop DeLavey - (78.3, 25.4)|
 U An Old History Book |QID|337| |N|Talk to Milton Sheaf - Talk to Milton Sheaf - If you found [An Old History Book] you may turn it in - (74.2, 7.5)| |U|2794|
-t If you hit level 30 turning in the next few quests in Stormwind, remember to train class/pet skills if you haven't already |N|Talk to Einris Brightspear - (61.6, 15.3)| |O| |C|Hunter|
+t If you hit level 30 turning in the next few quests in Stormwind, remember to train class/pet skills if you haven't already |N|Talk to Einris Brightspear - (61.6, 15.3)| |SK| |C|Hunter|
 A The Missing Diplomat |QID|1242| |N|Talk to Jorgen - Talk to Jorgen - (73.2, 78.4)|
 A The Missing Diplomat |QID|1243| |N|Talk to Elling Trias - Talk to Elling Trias - (59.9, 64.2)|
 N Talk to Newton Burnside - Talk to Newton Burnside - [A Torn Journal Page] - [Bottle of Zombie Juice] - [Skeleton Finger] - [Vial of Spider Venom] - (57.0, 72.9)
@@ -81,7 +81,7 @@ N Loot Abercrombie's Crate on the ground - (33.4, 76.4) |QID|134|
 N (34.6, 77.9) |SK|
 N Kill Zzarc' Vul. Loot him for his Monocle - Zzarc' Vul has 2 spawn points inside the Cave - (38.0, 79.9) |QID|181|
 R Travel to Stranglethorn Vale |N|(44.6, 87.6)| |SK|
-A Jungle Secrets |QID|215| |N|Kill Kurzen's Agent - Keep an eye out for the special Private Thorsen event. He will patrol down the road from the Rebel camp every 30 minutes - Private Thorsen will be attacked by 2 of Kurzen's Agents. If you don't see this event, ignore this step - Kill both of Kurzen's Agents and then accept Private Thorsen's quest which becomes available after saving him - (40.3, 8.4)| |O|
+A Jungle Secrets |QID|215| |N|Kill Kurzen's Agent - Keep an eye out for the special Private Thorsen event. He will patrol down the road from the Rebel camp every 30 minutes - Private Thorsen will be attacked by 2 of Kurzen's Agents. If you don't see this event, ignore this step - Kill both of Kurzen's Agents and then accept Private Thorsen's quest which becomes available after saving him - (40.3, 8.4)| |SK|
 T Welcome to the Jungle |QID|583| |N|Talk to Hemet Nesingwary - Talk to Barnil Stonepot and Hemet Nesingwary - (35.7, 10.5)|
 A Panther Mastery |QID|190| |N|Talk to Sir S. J. Erlgadin - Talk to Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)|
 N Kill Young Panthers |QID|190| |SK|
@@ -89,7 +89,7 @@ N Kill Young Stranglethorn Tigers - (35.4, 12.5) |QID|185|
 N Kill Young Panthers - (41.5, 12.0) |QID|190|
 T Panther Mastery |QID|190| |N|Talk to Sir S. J. Erlgadin - Talk to Ajeck Rouack and Sir S. J. Erlgadin - Don't accept the follow ups yet - (35.6, 10.6)|
 T Jungle Secrets |QID|215| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - Don't accept the follow up yet - (38.0, 3.0)|
-R Travel back to Duskwood |N|(44.7, 85.6)| |O|
+R Travel back to Duskwood |N|(44.7, 85.6)| |SK|
 N Kill Black Widow Hatchlings and Carrion Recluses. Loot them for their Spider Venom - (31.6, 59.4) |QID|101| |SK|
 N Kill Skeletal Fiends and Skeletal Horrors. Loot them for their Fingers - (22.9, 44.8) |QID|101|
 N Kill Black Widow Hatchlings and Carrion Recluses. Finish off looting them for their Spider Venom - (31.6, 59.4) |QID|101|
@@ -118,7 +118,7 @@ N Kill Stalvan Mistmantle. Loot him for his Family Ring - Stalvan Mistmantle can
 T The Totem of Infliction |QID|101| |N|Talk to Madame Eva - Talk to Madame Eva inside - (75.8, 45.3)|
 T Look To The Stars |QID|181| |N|Talk to Viktori Prism'Antras - Talk to Viktori Prism'Antras - (79.8, 48.0)|
 N (58.6, 80.0)
-N Kill Nightbane Worgen - Kill Nightbane Worgens. Loot them for [An Old History Book] - Don't start the quest for it yet - Collect item 2794 (x1) - (62.3, 81.8) |O|
+N Kill Nightbane Worgen - Kill Nightbane Worgens. Loot them for [An Old History Book] - Don't start the quest for it yet - Collect item 2794 (x1) - (62.3, 81.8) |SK|
 N Kill Nightbane Vile Fangs and Nightbane Tainted Ones - Be careful as all the mobs in the area respawn at once after 4.75-6.5 minutes of killing the first one - This area is a popular grinding spot for mages and may be constested. If you feel like there's too much competition you can complete this objective in the Roland's Doom area (cave, marked on your map) - (62.3, 81.8) |QID|222|
 N Kill Nightbane Worgen - Kill Nightbane Worgens until your Hearthstone cooldown is <25 minutes - If you know that you will be leveling in one session or generally not getting a lot of rested experience up to level 38, consider grinding to level 32 instead. This will help you reach a level 38 xp gate that is required later on - (62.3, 81.8)
 N Kill Nightbane Worgen - Keep killing Nightbane Worgens. Untill you loot [An Old History Book] - Don't start the quest for it yet - Collect item 2794 (x1) - (62.3, 81.8)
@@ -130,7 +130,7 @@ N Kill Mor'Ladim. Loot him for his Skull - Mor'Ladim hits very hard but moves qu
 T Morbent Fel |QID|55| |N|Talk to Sven Yorgen - Talk to Sven Yorgen - (7.8, 34.1)|
 N Kill Mor'Ladim. Loot him for his Skull - Mor'Ladim hits very hard but moves quite slow. Try to kite him around any large trees if required - This quest can be difficult. You may skip this step and come back at a higher level if you wish - (19.6, 37.3) |QID|228|
 R Travel to Stranglethorn Vale |N|(44.6, 87.6)| |SK|
-A Jungle Secrets |QID|215| |N|Kill Kurzen's Agent - Keep an eye out for the special Private Thorsen event. He will patrol down the road from the Rebel camp every 30 minutes - Private Thorsen will be attacked by 2 of Kurzen's Agents. If you don't see this event, ignore this step - Kill both of Kurzen's Agents and then accept Private Thorsen's quest which becomes available after saving him - (40.3, 8.4)| |O|
+A Jungle Secrets |QID|215| |N|Kill Kurzen's Agent - Keep an eye out for the special Private Thorsen event. He will patrol down the road from the Rebel camp every 30 minutes - Private Thorsen will be attacked by 2 of Kurzen's Agents. If you don't see this event, ignore this step - Kill both of Kurzen's Agents and then accept Private Thorsen's quest which becomes available after saving him - (40.3, 8.4)| |SK|
 T Welcome to the Jungle |QID|583| |N|Talk to Hemet Nesingwary - Talk to Barnil Stonepot and Hemet Nesingwary - (35.7, 10.5)|
 A Panther Mastery |QID|190| |N|Talk to Sir S. J. Erlgadin - Talk to Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)|
 N Kill Young Panthers |QID|190| |SK|
@@ -195,7 +195,7 @@ N Talk to Thalgus Thunderfist - Talk to Thalgus Thunderfist downstairs - Buy a [
 h Ironforge |N|Talk to Innkeeper Firebrew - Talk to Innkeeper Firebrew inside - (18.1, 51.5)| |C|!Mage|
 N Start Looking for a Gnomeregan group - (24.2, 39.1) |SK|
 R Ironforge >>Fly to Ironforge |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)|
-N Start Looking for a Gnomeregan group - (24.2, 39.1) |O|
+N Start Looking for a Gnomeregan group - (24.2, 39.1) |SK|
 A Essential Artificials |QID|2924| |N|Talk to Klockmort Spannerspan - Talk to Gnoarn, Tinkmaster Overspark, High Tinker Mekkatorque, Master Mechanic Castpipe and Klockmort Spannerspan - (69.2, 50.6)|
 R Exit Ironforge |N|(53.5, 34.9)| |SK|
 A Gnogaine |QID|2926| |N|Talk to Ozzie Togglevolt - Talk to Ozzie Togglevolt - (46.0, 48.6)|
@@ -209,17 +209,17 @@ N (24.4, 39.8) |SK|
 N Kill Troggs and Gnomes. Loot them for a [White Punch Card] - Collect item 9279 (x1) - Kill Techbot. Loot him for his Memory Core - This quest is completed while OUTSIDE of the dungeon |QID|2922|
 N Kill Troggs and Gnomes. Loot them for a [White Punch Card] - Collect item 9279 (x1) - This quest is completed while OUTSIDE of the dungeon
 N Use the [White Punch Card] at the Matrix Punchograph 3005-A - This quest is completed while OUTSIDE of the dungeon - Collect item 9280 (x1)
-N Kill all Gnomeregan Mobs. Loot them for their Robo-mechanical Guts |QID|2928| |O|
+N Kill all Gnomeregan Mobs. Loot them for their Robo-mechanical Guts |QID|2928| |SK|
 N Use the [Yellow Punch Card] at the Matrix Punchograph 3005-B - The console looking machine is located at the gnomish safe zone at the bottom floor, next to the big circular room where the slimes are located - Collect item 9282 (x1)
 A A Fine Mess |QID|2904| |N|Talk to Kernobee - This will start an escort quest. Kernobee spawns randomly in The Dormitory, right outside of the gnomish safe zone|
 N Escort Kernobee back to the start of the dungeon |QID|2904|
 C Use the [Heavy Leaden Collection Phial] on a Irradiated Slime, Irradiated Lurker or Irradiated Horror |QID|2962| |N|The Irradiated Slime, Irradiated Lurker or Irradiated Horror must be ALIVE when you use it - Note: You must turn this quest in within 2 hours of acquiring the [High Potency Radioactive Fallout]| |U|9364|
-N Open the Artificial Extrapolators. Loot them for Essential Artificials |QID|2924| |O|
+N Open the Artificial Extrapolators. Loot them for Essential Artificials |QID|2924| |SK|
 N Use the [Blue Punch Card] at the Matrix Punchograph 3005-C - The Punchograph is located on the suspended platform right next to the Electrocutioner 6000 - Collect item 9281 (x1)
 N Use the [Red Punch Card] at the Matrix Punchograph 3005-D |QID|2930|
 N Kill Mekgineer Thermaplugg |QID|2929|
-N Open the Artificial Extrapolators. Loot them for Essential Artificials - If you still haven't finished this quest, go back to places where you looted them before, since they respawn after a few minutes |QID|2924| |O|
-N Kill all Gnomeregan Mobs. Loot them for their Robo-mechanical Guts |QID|2928| |O|
+N Open the Artificial Extrapolators. Loot them for Essential Artificials - If you still haven't finished this quest, go back to places where you looted them before, since they respawn after a few minutes |QID|2924| |SK|
+N Kill all Gnomeregan Mobs. Loot them for their Robo-mechanical Guts |QID|2928| |SK|
 U Grime-Encrusted Ring |QID|2945| |N|Use the [Grime-Encrusted Ring] to start the quest - Collect item 9326 (x1)| |U|9326|
 T Grime-Encrusted Ring |QID|2945| |N|Take the [Grime-Encrusted Ring] to The Sparklematic 5200 in The Clean Zone|
 A Return of the Ring |QID|2947| |N|Click the The Sparklematic 5200 one more time|

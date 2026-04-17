@@ -166,9 +166,9 @@ N Kill Cauldron Lord Malvinous. Loot him for the key - (46.0, 52.3) |QID|5219|
 A Return to Chillwind Camp |QID|5220| |N|Click the Cauldron - (46.2, 52.0)|
 T Mrs. Dalson's Diary |QID|5058| |N|Inside the barn on the ground - (47.8, 50.7)|
 N Start AoEing the undead in the area. Be careful as the Skeletal Terrors fear. Watch the video for more info |SK|
-N Keep an eye out for the Wandering Skeleton whilst you're AoEing. Kill him then loot him for the Outhouse Key - Collect item 12738 (x1) |O|
-T Locked Away |QID|5059| |N|Click the outhouse. This will spawn a mob. Kill it - Collect item 12739 (x1) - (48.2, 49.6)| |O|
-T Locked Away |QID|5060| |N|Click the cabinet at the top floor of the house - (47.4, 49.7)| |O|
+N Keep an eye out for the Wandering Skeleton whilst you're AoEing. Kill him then loot him for the Outhouse Key - Collect item 12738 (x1) |SK|
+T Locked Away |QID|5059| |N|Click the outhouse. This will spawn a mob. Kill it - Collect item 12739 (x1) - (48.2, 49.6)| |SK|
+T Locked Away |QID|5060| |N|Click the cabinet at the top floor of the house - (47.4, 49.7)| |SK|
 G AoE Undead in the area to 54 & 156900+/173900xp |N|Remember to try and save 12 stacks of Runecloth. You'll need it for cloth turnins later|
 N Use the Beacon Torch in your bags on the side of the doorway (do NOT kill the elite inside) - (46.5, 71.2) |QID|5097|
 T All Along the Watchtowers |QID|5097| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)|
@@ -179,11 +179,11 @@ D Die and respawn |M|speedrun|
 N If you would have friendly rep after turning in and using your scourgestones to Pureheart, buy as many Manna Biscuits as possible to last you to level 60 - If you don't, skip this step - (42.8, 83.7) |SK|
 T Return to Chillwind Camp |QID|5223| |N|Talk to High Priestess MacDonnell - Talk to High Priestess MacDonnell - (43.0, 84.5)|
 R Teleport to Stormwind City
-N If you don't have 12 stacks of each cloth, or the Feathers, buy them from the Auction House - (53.6, 59.8) |O| |M|speedrun|
+N If you don't have 12 stacks of each cloth, or the Feathers, buy them from the Auction House - (53.6, 59.8) |SK| |M|speedrun|
 N Withdraw all your cloth from the bank. You need 12 stacks of Wool, Silk, Mageweave, and Runecloth - If you don't have inventory space, then leave half of the cloth in the bank and skip this step - Also get as many Light Feathers as you can. You'll need them for later - Collect item 2592 (x240) - Collect item 4306 (x240) - Collect item 4338 (x240) - Collect item 14047 (x240) - Collect item 17056 (x10) - (56.5, 73.4)
 T A Donation of Runecloth |QID|7795| |N|Talk to Clavicus Knavingham - Inside the 2nd floor of the house - Make sure you have no addons on that will automatically turn in extra runecloth (for rep) or you will be told to buy it again later - Talk to Clavicus Knavingham - (44.3, 74.0)|
 R Teleport to Ironforge
-N If you don't have 9 stacks of each cloth, buy it from the Auction House - (25.8, 75.4) |O| |M|speedrun|
+N If you don't have 9 stacks of each cloth, buy it from the Auction House - (25.8, 75.4) |SK| |M|speedrun|
 N Withdraw all your cloth from the bank. You need 9 stacks of Wool, Silk, Mageweave, and Runecloth - If you don't have inventory space, then leave half of the cloth in the bank and skip this step - Collect item 2592 (x180) - Collect item 4306 (x180) - Collect item 4338 (x180) - Collect item 14047 (x180) - (35.9, 60.1)
 T A Donation of Runecloth |QID|7805| |N|Talk to Mistina Steelshield - Talk to Mistina Steelshield - (43.2, 31.6)|
 T A Donation of Runecloth |QID|7811| |N|Talk to Bubulo Acerbus - Talk to Bubulo Acerbus - (74.1, 48.2)|
@@ -195,7 +195,7 @@ F Teldrassil >> Fly to Teldrassil |N|(36.3, 45.6)|
 N Wait here for the boat - (33.2, 40.2) |SK|
 R Get onto the boat when it comes. Take it to Darnassus
 N (56.0, 89.9)
-N If you don't have 3 stacks of each cloth, buy it from the Auction House - (56.4, 51.8) |O| |M|speedrun|
+N If you don't have 3 stacks of each cloth, buy it from the Auction House - (56.4, 51.8) |SK| |M|speedrun|
 N Withdraw all your cloth from the bank. You need 3 stacks of Wool, Silk, Mageweave, and Runecloth - If you don't have inventory space, then leave half of the cloth in the bank and skip this step - Collect item 2592 (x60) - Collect item 4306 (x60) - Collect item 4338 (x60) - Collect item 14047 (x60) - (39.9, 42.1)
 t Train the Darnassus portal for convenience if you want (its not needed for any part of the route later) |N|(40.6, 82.1)| |SK|
 T A Donation of Runecloth |QID|7800| |N|Talk to Raedon Duskstriker - Talk to Raedon Duskstriker - (64.0, 23.0)|

@@ -13,7 +13,7 @@ N Talk to Jubahl Corpseseeker - Talk to Jubahl Corpseseeker - Buy [Grimoires] fo
 t Train your class spells |C|Warrior/Hunter|
 t Ensure your pets [Frost Resistance] is maxed |N|Talk to Belia Thundergranite - Talk to Belia Thundergranite - (70.9, 85.8)| |C|Hunter|
 N Talk to Skolmin Goldfury - Talk to Skolmin Goldfury inside, on the upper level - Check if Skolmin has a [Massive Longbow] in stock (it's a limited supply item, he won't always have it). If he has one, buy it. It is a VERY POWERFUL level 42+ weapon - Restock on [Jagged Arrows] if needed - Skip this step if he doesn't have one - Collect item 11307 (x1) - (71.6, 66.6) |C|Hunter|
-R Enter the Deeprun Tram. Take the tram to Stormwind |N|Level your [First Aid] if needed while waiting for the tram - (78.0, 52.0)| |O|
+R Enter the Deeprun Tram. Take the tram to Stormwind |N|Level your [First Aid] if needed while waiting for the tram - (78.0, 52.0)| |SK|
 T The Perenolde Tiara |QID|543| |N|Talk to Count Remington Ridgewell - Talk to Count Remington Ridgewell - (74.0, 30.2)|
 T Return to Milton |QID|542| |N|Talk to Milton Sheaf - Talk to Milton Sheaf - (74.2, 7.5)|
 t Train your pet spells |N|Talk to Karrina Mekenda - Talk to Karrina Mekenda inside - (61.6, 16.0)| |SK| |C|Hunter|
@@ -51,7 +51,7 @@ A The Curse of the Tides |QID|611| |N|Talk to Catelyn the Blade - Talk to Cately
 A Up to Snuff |QID|587| |N|Talk to Deeg - Talk to Deeg - (26.9, 77.3)| |C|!Warlock|
 T The Bloodsail Buccaneers |QID|599| |N|Talk to Fleet Master Seahorn - Talk to Fleet Master Seahorn - (27.2, 77.0)|
 A Keep An Eye Out |QID|576| |N|Talk to Dizzy One-Eye - Talk to Dizzy One-Eye - (28.6, 75.9)|
-N Remember to equip the [Massive Longbow] as soon as you hit level 42 |O| |C|Hunter|
+N Remember to equip the [Massive Longbow] as soon as you hit level 42 |SK| |C|Hunter|
 N Keep any [Gorilla Fangs] you might loot. You will need 10 for a quest later - Collect item 2799 (x10) |SK|
 N Kill Elder Mistvale Gorillas. Loot them for their Mistvale Giblets and Gorilla Fangs - (31.9, 67.3) |QID|606|
 N Kill Jungle Stalkers - (27.3, 49.5) |QID|196|
@@ -66,11 +66,11 @@ T Colonel Kurzen |QID|202| |N|Talk to Lieutenant Doren - Talk to Lieutenant Dore
 T Return to Corporal Kaleb |QID|622| |N|Talk to Corporal Kaleb - Talk to Corporal Kaleb - (37.7, 3.3)| |O|
 A Raptor Mastery |QID|197| |N|Talk to Hemet Nesingwary - Talk to Sir S. J. Erlgadin and Hemet Nesingwary - (35.6, 10.5)|
 N Kill a Elder Saltwater Crocolisk. Loot it for its Elder Crocolisk Skin - (21.6, 16.6) |QID|628|
-N PAY CLOSE ATTENTION TO YOUR BREATH BAR |O| |C|!Warlock|
-N Cast Use your [Elixir of Water Breathing] if you have one - PAY CLOSE ATTENTION TO YOUR BREATH BAR IF YOU DO NOT HAVE ONE! |U|5996| |O| |C|!Warlock/!Druid|
-N Cast Use [Catelyn's Blade] on the Altar of the Tides underwater to summon Gazban - (25.0, 23.6) |U|4027| |O|
+N PAY CLOSE ATTENTION TO YOUR BREATH BAR |SK| |C|!Warlock|
+N Cast Use your [Elixir of Water Breathing] if you have one - PAY CLOSE ATTENTION TO YOUR BREATH BAR IF YOU DO NOT HAVE ONE! |U|5996| |SK| |C|!Warlock/!Druid|
+N Cast Use [Catelyn's Blade] on the Altar of the Tides underwater to summon Gazban - (25.0, 23.6) |U|4027| |SK|
 N Kill Gazban. Loot him for the Stone of the Tides - (25.0, 23.6) |QID|611|
-H Hearthstone |O|
+H Hearthstone |SK|
 T Venture Company Mining |QID|600| |N|Talk to Crank Fizzlebub - Talk to Crank Fizzlebub - (27.1, 77.2)|
 T Skullsplitter Tusks |QID|209| |N|Talk to Kebok - Talk to Krazek and Kebok - (26.9, 77.3)| |C|Warlock|
 T Skullsplitter Tusks |QID|209| |N|Talk to Kebok - Talk to Kebok - (27.0, 77.1)| |C|!Warlock|
@@ -80,30 +80,30 @@ N Talk to Auctioneer O'reely - Talk to Auctioneer O'reely - Buy any [Green Hills
 A Return to MacKinley |QID|607| |N|Talk to "Shaky" Phillipe - Talk to "Shaky" Phillipe - (26.9, 73.6)|
 A Voodoo Dues |QID|609| |N|Talk to "Sea Wolf" MacKinley - Talk to "Sea Wolf" MacKinley - (27.8, 77.1)|
 T Excelsior |QID|628| |N|Talk to Drizzlik - Talk to Drizzlik - (28.3, 77.6)|
-N (27.6, 70.0) |O|
-N (26.1, 67.0) |O|
+N (27.6, 70.0) |SK|
+N (26.1, 67.0) |SK|
 N Kill Naga Explorers on the island. Loot them for their Akiris Reeds - (27.0, 63.0) |QID|617|
 N (32.9, 74.1)
-N Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - Don't start the quest for this yet - Collect item 4098 (x1) |O|
+N Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - Don't start the quest for this yet - Collect item 4098 (x1) |SK|
 N Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye |QID|576| |SK|
 N Kill Bloodsail Swashbucklers - Loot the Bloodsail Charts and Bloodsail Orders. These can spawn randomly at one of the camps or in the small rowboat - (31.8, 79.5) |QID|604|
-N Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - Don't start the quest for this yet - Collect item 4098 (x1) |O|
-N Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye |QID|576| |O|
+N Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - Don't start the quest for this yet - Collect item 4098 (x1) |SK|
+N Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye |QID|576| |SK|
 N Kill Bloodsail Swashbucklers - Loot the Bloodsail Charts and Bloodsail Orders. These can spawn randomly at one of the camps or in the small rowboat - (31.8, 79.5) |QID|604|
 U Cortello's Riddle |QID|624| |N|Search the Bloodsail Ships for [Cortello's Riddle]. It can spawn on any of the 3 ships - Use [Cortello's Riddle] to start the quest - Collect item 4056 (x1) - (29.3, 88.3)| |U|4056|
 N Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - Don't start the quest for this yet - Collect item 4098 (x1) |SK|
 N Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye - (31.8, 79.5) |QID|576|
-N (40.0, 58.2) |O|
+N (40.0, 58.2) |SK|
 N Kill the Zanzils. Loot them for their Mixtures - (40.0, 58.2) |QID|621| |SK|
 N Kill Chucky "Ten Thumbs". Loot him for his Huge Ring - (40.0, 58.2) |QID|609|
-N (34.9, 51.8) |O|
-N Kill the Zanzils. Loot them for their Mixtures - (40.0, 58.2) |QID|621| |O|
+N (34.9, 51.8) |SK|
+N Kill the Zanzils. Loot them for their Mixtures - (40.0, 58.2) |QID|621| |SK|
 N Kill Jon-Jon the Crow. Loot him for his Golden Spyglass - (34.9, 51.8) |QID|609| |SK|
 N Kill Maury "Club Foot" Wilkins. Loot him for his Clubbed Foot - (35.3, 51.3) |QID|609|
 N Kill Jon-Jon the Crow. Loot him for his Golden Spyglass - (34.9, 51.8) |QID|609|
 N Kill the Zanzils. Loot them for their Mixtures - (34.9, 51.8) |QID|621|
 N Kill Tethis. Loot him for his Talon - Tethis can spawn in any of the spots marked on your map - (28.4, 46.9) |QID|197|
-N (35.7, 10.8) |O|
+N (35.7, 10.8) |SK|
 A Big Game Hunter |QID|208| |N|Talk to Hemet Nesingwary - Talk to Sir S. J. Erlgadin and Hemet Nesingwary - (35.7, 10.8)|
 T The Green Hills of Stranglethorn |QID|338| |N|Talk to Barnil Stonepot - Talk to Barnil Stonepot - Turn in all your [Green Hills of Stranglethorn - Pages] - Skip this step if you don't have all the [Green Hills of Stranglethorn - Chapters] - (35.7, 10.5)|
 N Use the [Flash Bomb] on King Bangalash when he is at 55% |U|4852| |SK|
@@ -114,14 +114,14 @@ A Supplies for Nethergarde |QID|1395| |N|Talk to Watchmaster Sorigal - Talk to W
 N (88.5, 41.0)
 A Cortello's Riddle |QID|625| |N|Click A Soggy Scroll in the water under the bridge - (22.9, 48.2)|
 A Cortello's Riddle |QID|625| |N|Click A Soggy Scroll in the water under the bridge - (22.9, 48.2)|
-N Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays |QID|1364| |O|
+N Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays |QID|1364| |SK|
 A Driftwood |QID|1398| |N|Talk to Watcher Biggs - Talk to Watcher Biggs - (26.7, 59.8)|
 N Loot Sundried Driftwood on the ground along the coast - (79.8, 6.9) |QID|1398| |SK|
 N Kill Silt Crawlers and Monstrous Crawlers. Loot them for their Pristine Crawler Legs - (79.8, 6.9) |QID|1258|
 N Loot Sundried Driftwood on the ground along the coast - (79.8, 6.9) |QID|1398|
 N Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays - The drop rate of this item is very low. Once there is no more to kill in Misty Valley, skip this step - (7.0, 31.6) |QID|1364|
 A Deliver the Shipment |QID|1425| |N|Talk to Watcher Biggs - Talk to Watcher Biggs - (26.7, 59.8)|
-R Travel to the Blasted Lands |N|(33.2, 67.3)| |O|
+R Travel to the Blasted Lands |N|(33.2, 67.3)| |SK|
 T Mazen's Behest |QID|1364| |N|Talk to Watcher Mahar Ba - Talk to Watcher Mahar Ba atop the Tower - (67.6, 19.2)|
 T Supplies for Nethergarde |QID|1395| |N|Talk to Quartermaster Lungertz - Talk to Quartermaster Lungertz - (66.5, 21.4)|
 N (65.5, 24.3) |O|
@@ -129,7 +129,7 @@ F Booty Bay >> Fly to Booty Bay |N|Talk to Alexandra Constantine - Talk to Alexa
 A Tran'rek |QID|2864| |N|Talk to Krazek - Talk to Deeg and Krazek - (26.9, 77.3)|
 T The Bloodsail Buccaneers |QID|604| |N|Talk to Fleet Master Seahorn - Talk to Fleet Master Seahorn - (27.2, 77.0)|
 A Zanzil's Mixture and a Fool's Stout |QID|1119| |N|Talk to Crank Fizzlebub - Talk to Whiskey Slim and Crank Fizzlebub - (27.1, 77.5)|
-N Note the Zanzil's Mixture and a Fool's Stout quest has a 2 hour timer that also ticks while you're offline. |O|
+N Note the Zanzil's Mixture and a Fool's Stout quest has a 2 hour timer that also ticks while you're offline. |SK|
 T Zanzil's Secret |QID|621| |N|Talk to Crank Fizzlebub - Talk to Whiskey Slim and Crank Fizzlebub - (27.1, 77.5)|
 A Akiris by the Bundle |QID|623| |N|Talk to Privateer Bloads - Talk to Privateer Bloads - (26.8, 76.4)|
 N Talk to Rickle Goldgrubber - Talk to Viznik or Rickle - [Gorilla Fangs] (If you have any) - [Carefully Folded Note] (If you have it) - (26.5, 76.6)

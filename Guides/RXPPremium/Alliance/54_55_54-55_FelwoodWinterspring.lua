@@ -17,13 +17,13 @@ N Collect item 11515 (x6) - (62.4, 8.6) |QID|8461|
 A Speak to Salfa |QID|8465| |N|Talk to Nafien - Talk to Nafien - (64.8, 8.2)|
 T Speak to Salfa |QID|8465| |N|Talk to Salfa - Cross the furbolg tunnel into Winterspring - Talk to Salfa - (27.7, 34.5)|
 A Toxic Horrors |QID|5086| |N|Talk to Donova Snowden - Head back to Wintersrping - Talk to Donova Snowden - (31.2, 45.3)|
-N Loot Corrupted Soul Shards from any Mobs in Felwood - Grind your way down south until you have 6 - Collect item 11515 (x6) |O|
+N Loot Corrupted Soul Shards from any Mobs in Felwood - Grind your way down south until you have 6 - Collect item 11515 (x6) |SK|
 T Felbound Ancients |QID|4441| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
 A Dousing the Flames of Protection |QID|5165| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)|
 T Purified! |QID|4442| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - You may need to wait for the RP - (51.4, 81.5)|
 R Salve via Hunting |QID|5882| |N|Talk to Arathandris Silversky - Kill Deadwood Gardener - Talk to Arathandris Silversky - Turn in your 6 [Corrupted Soul Shards] you have to receive 2 [Cenarion Plant Salves] - If you don't have 6 get them from the Furbolgs to the west - Collect item 11515 (x6) - (48.2, 93.8)|
 N Cast Look for a Corrupted Songflower. Click it to cleanse it. Click the Cleansed Songflower to receive the hour-long [Songflower Serenade] buff - Their locations have been marked on your map. Skip this step if you aren't able to find one - (55.8, 10.4) |SK|
-N (35.4, 58.4) |O|
+N (35.4, 58.4) |SK|
 N Click the four Braziers on the ground - (36.3, 56.3) |QID|5165| |SK|
 U A Strange Red Key |QID|5202| |N|Kill Jaedenar Legionnaire - Kill Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key] - Use the [Blood Red Key] to start the quest - This will begin an escort quest. Start this escort even if you still need to Extinguish Braziers - Collect item 13140 (x1)| |U|13140|
 A Rescue From Jaedenar |QID|5203| |N|Talk to Captured Arko'narin - Talk to Captured Arko'narin - (36.2, 55.5)|
@@ -90,7 +90,7 @@ A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind -
 A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|hardcore|
 N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |SK| |M|speedrun|
 N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |SK| |M|hardcore|
-N (35.4, 58.4) |O|
+N (35.4, 58.4) |SK|
 N Kill Rakaiah - (38.5, 50.4) |QID|5204|
 A The Remains of Trey Lightforge |QID|5385| |N|Talk to Remains of Trey Lightforge - Talk to the Remains of Trey Lightforge - (38.5, 50.4)|
 N Continue further into Shadow Hold - Kill Salia, Moora and Shadow Lord Fel'dan. Loot him for his Head - Kill Salia first as she casts [Mind Control] - (38.8, 46.8) |QID|5242|

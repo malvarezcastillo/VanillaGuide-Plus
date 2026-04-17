@@ -7,7 +7,7 @@ return [[
 
 N 35-36 Desolace |N|Converted from RestedXP guide|
 
-F Wetlands >> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth - (55.5, 47.7)| |O|
+F Wetlands >> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth - (55.5, 47.7)| |SK|
 R Take the boat to Darkshore |N|Level your [First Aid] while waiting for the boat to Darkshore - (7.1, 58.0)|
 F Stonetalon >> Fly to Stonetalon |N|Talk to Caylais Moonfeather - Talk to Caylais Moonfeather - (36.7, 45.0)|
 R Travel to Desolace |N|(54.0, 3.4)| |SK|
@@ -22,7 +22,7 @@ A The Karnitol Shipwreck |QID|1454| |N|Talk to Kreldig Ungor - Talk to Kreldig U
 A Strange Alliance |QID|1382| |N|Talk to Captain Pentigast - Talk to Corporal Melkins and Captain Pentigast - (66.7, 10.9)|
 N Kill Hatefury Satyrs. Loot them for their Claws and Horns - (73.0, 18.5) |QID|1458|
 A Reagents for Reclaimers Inc. |QID|1459| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
-N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |O|
+N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |SK|
 A Vahlarriel's Search |QID|1465| |N|Click the Malem Chest on the ground - (56.5, 17.8)|
 A Sceptre of Light |QID|5741| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (39.3, 28.8)|
 A Sceptre of Light |QID|5741| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (39.3, 28.8)|
@@ -36,7 +36,7 @@ H Hearthstone |N|Buy food/water if needed| |SK|
 A The Karnitol Shipwreck |QID|1456| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
 A The Karnitol Shipwreck |QID|1456| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
 A Vahlarriel's Search |QID|1438| |N|Talk to Vahlarriel Demonslayer - Talk to Vahlarriel Demonslayer - (66.4, 11.8)|
-N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |O|
+N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |SK|
 N (55.8, 28.9) |SK|
 N Ascend the Watchtower - Kill the Burning Blade Seer atop the Tower. Loot it for the Sceptre - There may only ever be 1 Burning Blade Seer. You may need to wait for a respawn - (55.2, 30.1) |QID|5741|
 N (55.3, 27.4) |SK|
@@ -47,7 +47,7 @@ N (55.3, 27.4) |SK|
 T Search for Tyranis |QID|1439| |N|Talk to Dalinda Malem - Talk to Dalinda Malem - (54.9, 26.1)| |SK|
 A Return to Vahlarriel |QID|1440| |N|Talk to Dalinda Malem - Talk to Dalinda Malem - This will start an escort quest - (54.9, 26.1)|
 N Talk to Dalinda Malem - Safely exit Thunder Axe Fortress with Dalinda Malem - (58.3, 30.9) |QID|1440|
-N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |O|
+N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |SK|
 A Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly F'utzbuckle - (62.3, 39.0)|
 A Kodo Roundup |QID|5561| |N|Talk to Smeed Scrabblescrew - Talk to Smeed Scrabblescrew - (60.9, 61.9)| |O|
 N Kill Magram Centaurs. Loot them for their Ears - Continue killing Magram Centaurs until you've reached Friendly reputation standing with Gelkis Clan Centaur - (68.8, 71.2) |QID|1382|
@@ -62,8 +62,8 @@ T Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly F'utz
 N Kill Scorpashi Snappers, Scorpashi Lashers and Scorpashi Venomlashs. Loot them for their Venom - Kill Aged Kodos. Loot them for their Aged Kodo Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn - You must complete this step now - (70.4, 63.0) |QID|1459|
 T Sceptre of Light |QID|5741| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (38.9, 27.2)|
 A Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (38.9, 27.2)|
-N Kill the Slitherblades. Loot them for Rackmore's Golden Key |QID|6161| |O|
-N Kill Slitherblade Tidehunters and Slitherblade Sea Witches. Loot them for Karnitol's Satchel |QID|1456| |O|
+N Kill the Slitherblades. Loot them for Rackmore's Golden Key |QID|6161| |SK|
+N Kill Slitherblade Tidehunters and Slitherblade Sea Witches. Loot them for Karnitol's Satchel |QID|1456| |SK|
 N Click the Serpent Statue to summon Lord Kragaru - Kill Lord Kragaru. Loot him for the Book of the Ancients - (28.2, 6.7) |QID|6027|
 N Kill the Slitherblades. Loot them for Rackmore's Golden Key |QID|6161| |SK|
 N Kill Slitherblade Tidehunters and Slitherblade Sea Witches. Loot them for Karnitol's Satchel - You may also find Slitherblade Tidehunters and Slitherblade Sea Witches in the water - (28.1, 10.9) |QID|1456|
@@ -71,7 +71,7 @@ N Kill the Slitherblades. Loot them for Rackmore's Golden Key - (28.1, 10.9) |QI
 T Claim Rackmore's Treasure! |QID|6161| |N|Click Rackmore's Chest on the ground - (30.0, 8.7)|
 T Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (38.9, 27.2)|
 H Hearthstone |N|Buy food/water if needed| |SK|
-N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |O| |C|Hunter| |M|speedrun|
+N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |SK| |C|Hunter| |M|speedrun|
 A The Karnitol Shipwreck |QID|1457| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
 A Down the Scarlet Path |QID|1052| |N|Talk to Brother Anton - Talk to Brother Anton - (66.5, 7.9)|
 T Reagents for Reclaimers Inc. |QID|1459| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
@@ -83,12 +83,12 @@ N Kill Ley Hunters, Mana Eaters and Mage Hunters. Loot them for their Brains - K
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 T Strange Alliance |QID|1382| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)| |M|speedrun|
 A Reagents for Reclaimers Inc. |QID|1467| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)| |M|hardcore|
-N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |O| |C|Hunter| |M|hardcore|
+N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |SK| |C|Hunter| |M|hardcore|
 t Attack mobs with it to learn [Claw (Rank 5)] |N|Cast [Tame Beast] on a Scorpashi Lasher to tame it - Use [Eagle Eye] to scout the spawn spots north of Sargeron (marked on your map) as they're much closer than the southen spawns - (73.6, 12.2)| |C|Hunter| |M|hardcore|
 N Talk to Shelgrayn - Talk to Shelgrayn - (65.6, 7.8) |C|Hunter| |M|hardcore|
 F Tanaris >> Fly to Tanaris |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - (64.7, 10.5)| |M|hardcore|
 R Travel to Feralas |N|(41.1, 91.7)| |M|speedrun|
-D Die and respawn |N|Talk to Spirit Healer - Once you get to Feralas, walk along the mountains to the west to avoid aggroing mobs and then die near the stone obelisks - (40.6, 8.6)| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - Once you get to Feralas, walk along the mountains to the west to avoid aggroing mobs and then die near the stone obelisks - (40.6, 8.6)| |SK| |M|speedrun|
 F Tanaris >> Fly to Tanaris |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.2)| |M|speedrun|
 N (77.8, 77.3) |SK|
 T Parts for Kravel |QID|1112| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|

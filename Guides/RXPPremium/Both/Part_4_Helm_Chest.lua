@@ -20,7 +20,7 @@ N This is a 10-man dungeon. You or somebody in your party must have the [Seal of
 N Kill Pyroguard Emberseer. Loot him for the Ember of Emberseer - This is the first boss in Upper Blackrock Spire - Ember of Emberseer (x1) |QID|8961|
 N Make sure you have a group ready - (48.1, 62.4) |SK|
 N Kill Lord Incendius. Loot him for the Incendicite of Incendius - Incendicite of Incendius (x1) |QID|8961|
-R Travel to Silithus |O|
+R Travel to Silithus |SK|
 N Kill Twilight Master - Kill Twilight mobs in Silithus. Loot them for their [Twilight Cultist] gear - You are going to need multiple [Twilight Cultist] sets. It is recommended for your group to have at least 5 sets - Alternatively buy them from the auction house - Twilight Cultist Robe (x1) - Twilight Cultist Mantle (x1) - Twilight Cultist Cowl (x1) - (38.3, 46.4)
 N Grind Twilight mobs or complete Cenarion Circle quests in Silithus to obtain reputation
 A Aurel Goldleaf |QID|8331| |N|Talk to Huum Wildmane - Talk to Huum Wildmane - (48.6, 37.9)|

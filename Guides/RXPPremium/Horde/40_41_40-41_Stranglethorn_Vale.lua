@@ -30,26 +30,26 @@ t Train your class spells |N|Talk to Grezz Ragefist - Talk to Grezz - (79.9, 31.
 A A Threat in Feralas |QID|2981| |N|Talk to Belgrom Rockmaul - Talk to Belgrom Rockmaul - (75.2, 34.2)|
 t Train [Wolf Riding] |N|Talk to Ogunaro Wolfrunner - Talk to Kildar and Ogunaro - Buy a [Wolf] - (69.4, 13.1)| |O| |C|!Warlock| |R|Orc|
 t Train [Raptor Riding] |N|Talk to Zjolnir - Talk to Xar'Ti and Zjolnir - Buy a [Raptor] - (55.3, 75.5)| |O| |R|Troll|
-R Take the Zeppelin to Undercity |N|(50.8, 13.8)| |O|
+R Take the Zeppelin to Undercity |N|(50.8, 13.8)| |SK|
 T Bring the End |QID|3341| |N|Talk to Andrew Brownell - Talk to Andrew - (74.0, 33.3)| |O|
 N (51.9, 64.7) |SK|
 T An Unholy Alliance |QID|6521| |N|Talk to Varimathras - Talk to Varimathras - (56.2, 92.2)| |O|
 R Take the Zeppelin to Stranglethorn Vale |O|
 U Hearthstone |U|6948| |O| |C|Mage|
-R Leave Orgrimmar |O|
+R Leave Orgrimmar |SK|
 R Take the Zeppelin to Stranglethorn Vale |N|(50.8, 13.8)|
 h Stranglethorn Vale |N|Talk to Innkeeper Thulbek - Talk to Innkeeper Thulbek - (31.5, 29.8)|
 A Mok'thardin's Enchantment |QID|572| |N|Talk to Far Seer Mok'thardin - Talk to Far Seer Mok'thardin - (32.1, 29.2)|
 T The Troll Witchdoctor |QID|1240| |N|Talk to Kin'weelay - Talk to Kin'weelay - (32.2, 27.8)|
 A Bloodscalp Clan Heads |QID|584| |N|Talk to Nimboya - Talk to Nimboya - (32.1, 27.8)|
 A Split Bone Necklace |QID|598| |N|Talk to Kin'weelay - Talk to Kin'weelay - (32.2, 27.7)|
-N (23.8, 10.8) |O|
+N (23.8, 10.8) |SK|
 N Kill Nezzliok the Dire. Loot him for his Head - Be careful. Nezzliok casts [Shock]. An instant 280 damage spell - (23.5, 9.5) |QID|584|
 N Kill Gan'zulah. Loot him for his Head - (23.4, 8.1) |QID|584|
 A Speaking with Nezzliok |QID|585| |N|Click on the Bubbling Cauldron - (32.2, 27.6)|
 N Kill Jungle Stalkers. Loot them for their Feathers - (33.0, 38.1) |QID|572|
 N Kill Venture Co. Goblins. Loot them for their Crystals - (40.4, 41.9) |QID|600|
-N Kill Skullsplitter Trolls. Loot them for their Tusks and Necklaces - The Necklaces can be completed later |QID|598| |O|
+N Kill Skullsplitter Trolls. Loot them for their Tusks and Necklaces - The Necklaces can be completed later |QID|598| |SK|
 N Loot the Ziata'jai Trophy Skulls for its Trophy - (42.2, 36.1) |QID|585|
 N Loot the Zul'Mamwe Trophy Skulls for its Trophy - (47.6, 39.6) |QID|585|
 N Loot the Balia'mah Trophy Skulls for its Trophy - (46.1, 32.3) |QID|585|

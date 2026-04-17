@@ -27,14 +27,14 @@ A Tharil'zun |QID|19| |N|Talk to Marshal Marris - Talk to Marris - (33.5, 49.0)|
 N (42.7, 39.4) |SK|
 N Split pull Tharil'zun IF he's patrolled to the north side of the keep. Kill him. Loot him for Tharil'zun's Head - Be careful as Tharil'zun casts [Net] - If he's not patrolling, skip this step - (66.4, 54.3) |QID|19| |SK|
 N (66.4, 54.3)
-N AoE all types of Shadowhide Gnolls EXCEPT Shadowhide Darkweavers. Loot them for their Shadowhide Pendants - Be careful as Rabid Shadowhide Gnolls cast [Rabies] (Reduces ALL health regen by 50%), Shadowhide Slayers cast [Execute] (deals a LOT of damage when you're at <20% health), and Shadowhide Assassins are [Stealthed] |QID|91| |O|
+N AoE all types of Shadowhide Gnolls EXCEPT Shadowhide Darkweavers. Loot them for their Shadowhide Pendants - Be careful as Rabid Shadowhide Gnolls cast [Rabies] (Reduces ALL health regen by 50%), Shadowhide Slayers cast [Execute] (deals a LOT of damage when you're at <20% health), and Shadowhide Assassins are [Stealthed] |QID|91| |SK|
 N (80.9, 48.8)
 N Loot Ur's Treatise on Shadow Magic on the bookcase located on the top floor of the Tower behind the Shadowhide Darkweaver - Be careful of the Shadowhide Assassin [Stealthed] inside the first room - AoE Servants of Ilgalar whilst LoSing them around the Stairs and Railings of the tower to avoid their [Mana Burn] ([Blizzard] and [Flamestrike] are both useful) - Do NOT aggro Morganth - This has a 5 second cast time - (78.9, 47.7) |QID|1938|
 T A Watchful Eye |QID|94| |N|Click the Old Lion Statue - This has a 5 second cast time - (84.6, 46.7)|
 N Split pull Lieutenant Fangore with [Blizzard]. Loot him for Fangore's Paw - Be careful as Lieutenant Fangore has a permanent passive call for help in a 60 yard radius - (80.5, 38.0) |QID|180|
 N AoE all types of Shadowhide Gnolls EXCEPT Shadowhide Darkweavers. Loot them for their Shadowhide Pendants - Be careful as Rabid Shadowhide Gnolls cast [Rabies] (Reduces ALL health regen by 50%), Shadowhide Slayers cast [Execute] (deals a LOT of damage when you're at <20% health), and Shadowhide Assassins are [Stealthed] - Try and save [Cold Snap], a [Healing Potion] and [Evocation] for later - (75.1, 49.8) |QID|91|
 N AoE the Gnolls inside the cave - Use [Mana Shield] before pulling to negate damage. Cast [Counterspell] on the Shadowhide Darkweaver to interrupt him. [Cone of Cold] -> [Frost Nova] -> [Flamestrike] -> [Arcane Explosion] them - (75.7, 32.4)
-N AoE the Gnolls inside the cave - Use [Mana Shield] before pulling to negate damage. Cast [Counterspell] on the Shadowhide Darkweaver to interrupt him. [Cone of Cold] -> [Frost Nova] -> [Flamestrike] -> [Arcane Explosion] them - (75.7, 32.4) |O|
+N AoE the Gnolls inside the cave - Use [Mana Shield] before pulling to negate damage. Cast [Counterspell] on the Shadowhide Darkweaver to interrupt him. [Cone of Cold] -> [Frost Nova] -> [Flamestrike] -> [Arcane Explosion] them - (75.7, 32.4) |SK|
 T Tharil'zun |QID|19| |N|Talk to Marshal Marris - Talk to Marris - (33.5, 49.0)|
 T Wanted: Lieutenant Fangore |QID|180| |N|Talk to Magistrate Solomon - Talk to Conacher and Solomon inside - (30.0, 44.5)|
 N Cast Cast [Teleport: Stormwind] |SK|

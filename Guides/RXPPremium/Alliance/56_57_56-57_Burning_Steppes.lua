@@ -44,7 +44,7 @@ A FIFTY! YEP! |QID|4283| |N|Talk to Oralius - Talk to Oralius - (84.6, 68.7)|
 A Dragonkin Menace |QID|4182| |N|Talk to Helendis Riverhorn - Talk to Helendis Riverhorn - (85.8, 68.9)|
 N (65.2, 24.0) |SK|
 A Tablet of the Seven |QID|4296| |N|Talk to Maxwort Uberglint - Talk to Tinkee Steamboil and Maxwort Uberglint - (65.2, 24.0)|
-N Kill Black Broodlings, Black Dragonspawns, Black Wyrmkins and a Black Drake - This quest can be hard but rewards a lot of XP at the end. Try to find a group if required or skip it if its too difficult - (81.8, 27.8) |QID|4182| |O|
+N Kill Black Broodlings, Black Dragonspawns, Black Wyrmkins and a Black Drake - This quest can be hard but rewards a lot of XP at the end. Try to find a group if required or skip it if its too difficult - (81.8, 27.8) |QID|4182| |SK|
 C Use the [Draco-Incarcinatrix 900] on Black Broodlings, then kill them. Note that taking damage will stop your cast |QID|4726| |N|Loot the Broodling Essence on the ground after they die - (81.8, 27.8)| |U|12284| |SK|
 A A Taste of Flame |QID|4022| |N|Talk to Cyrus Therepentous - Talk to Cyrus Therepentous - (95.1, 31.6)|
 T A Taste of Flame |QID|4022| |N|Talk to Cyrus Therepentous - Talk to Cyrus Therepentous - Select the gossip option: "I present you with proof of my deeds, Cyrus." - (95.1, 31.6)|
@@ -92,7 +92,7 @@ A The First and the Last |QID|6182| |N|Talk to Highlord Bolvar Fordragon - Talk 
 N (74.9, 54.0) |SK|
 A Flint Shadowmore |QID|6184| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)|
 R A Donation of Runecloth |QID|7795| |N|Talk to Clavicus Knavingham - Talk to Clavicus Knavingham up stairs - Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (44.3, 74.0)|
-R You will now run Sunken Temple. Start looking for a group. You may fly to Blasted Lands and grind mobs there while you form a group |O|
+R You will now run Sunken Temple. Start looking for a group. You may fly to Blasted Lands and grind mobs there while you form a group |SK|
 R Blasted Lands >> Fly to Blasted Lands |N|Talk to Borgus Stoutarm - Talk to Borgus Stoutarm - (84.3, 68.3)|
 R Blasted Lands>> Fly to Blasted Lands |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)|
 A Warrior Kinship |QID|8423| |N|Talk to Fallen Hero of the Horde - Talk to the Fallen Hero of the Horde - (34.3, 66.1)| |C|Warrior|
@@ -103,7 +103,7 @@ T War on the Shadowsworn |QID|8424| |N|Talk to Fallen Hero of the Horde - Talk t
 A Voodoo Feathers |QID|8425| |N|Talk to Fallen Hero of the Horde - Talk to the Fallen Hero of the Horde - (34.3, 66.1)| |C|Warrior|
 N Loot the Atal'ai Tablets on the ground - These can be looted en-route to the instance portal, as well as inside Sunken Temple |QID|1475| |SK|
 N Loot the Atal'ai Tablets on the ground |QID|1475| |SK|
-N Kill Atal'alarion. Loot him for the Putrid Vine - Atal'alarion is on the lower level of Sunken Temple and is summoned by clicking all Atal'ai Statues on the platforms |QID|9053| |O| |C|Druid|
+N Kill Atal'alarion. Loot him for the Putrid Vine - Atal'alarion is on the lower level of Sunken Temple and is summoned by clicking all Atal'ai Statues on the platforms |QID|9053| |SK| |C|Druid|
 T Into the Depths |QID|3446| |N|Click on the Altar of Hakkar - The Altar of Hakkar is located on the lower level of Sunken Temple| |SK|
 T Secret of the Circle |QID|3447| |N|Click on the Idol of Hakkar - Clicking all of the Atal'ai Statues on the platforms will activate the Idol of Hakkar - The Idol of Hakkar is located on the lower level of Sunken Temple|
 T Into the Depths |QID|3446| |N|Click on the Altar of Hakkar - The Altar of Hakkar is located on the lower level of Sunken Temple|
@@ -114,7 +114,7 @@ N Kill Jammal'an the Prophet. Loot him for his Head - You must kill the 6 Trolls
 A The Essence of Eranikus |QID|3373| |N|Kill the Shade of Eranikus. Loot him for the [Essence of Eranikus] - Use the [Essence of Eranikus] to start the quest - Ensure you have killed all Dragonkin mobs on the upper level before engaging the Shade of Eranikus otherwise they will all agro onto you - Collect item 10454 (x1)|
 T The Essence of Eranikus |QID|3373| |N|Click the Essence Font|
 T Voodoo Feathers |QID|8425| |N|Talk to Fallen Hero of the Horde - Talk to the Fallen Hero of the Horde - It is strongly advised you choose the [Diamond Flask] as your reward. Although the other rewards are also very good, you will not ever replace the [Diamond Flask] - (34.3, 66.1)| |C|Warrior|
-R Travel to Stormwind |O|
+R Travel to Stormwind |SK|
 R Stormwind >> Fly to Stormwind |N|Talk to Alexandra Constantine - Talk to Alexandra Constantine - (65.5, 24.3)|
 T Into The Temple of Atal'Hakkar |QID|1475| |N|Talk to Brohann Caskbelly - Talk to Brohann Caskbelly - (64.3, 20.6)|
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
@@ -129,8 +129,8 @@ N Take out any [Noggenfogger Elixirs] from your bank if you have any. These will
 N Take out any [Noggenfogger Elixirs] from your bank if you have any. These will come in handy in EPL shortly for a large mountain skip time save - Collect item 8529 (x40) - Collect item 17056 (x5) |C|Priest/Mage|
 N Talk to Auctioneer Buckler - Talk to an Ironforge Auctioneer - Buy the following items from the Auction House. You will need these later for a free quest turn in in EPL - Collect item 12359 (x2) - Collect item 11128 (x1) - Collect item 10562 (x8) - Collect item 10560 (x8) - (25.8, 75.5)
 N Talk to Auctioneer Buckler - Talk to an Ironforge Auctioneer - Buy the following items from the Auction House. You will need these later for multiple free quest turn ins in EPL - There are 5 different quests and each require 30. If you can't get 30 of one type then skip it - Collect item 22529 (x30) - Collect item 22526 (x30) - Collect item 22525 (x30) - Collect item 22527 (x30) - Collect item 22528 (x30) - Collect item 12359 (x2) - Collect item 11128 (x1) - Collect item 10562 (x8) - Collect item 10560 (x8) - (25.8, 75.5)
-R A Donation of Runecloth |QID|7811| |N|Talk to Bubulo Acerbus - Talk to Bubulo Acerbus - Do the Gnomeregan cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (74.1, 48.2)| |O|
-R A Donation of Runecloth |QID|7805| |N|Talk to Mistina Steelshield - Talk to Mistina Steelshield - Do the Ironforge cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (43.2, 31.6)| |O|
+R A Donation of Runecloth |QID|7811| |N|Talk to Bubulo Acerbus - Talk to Bubulo Acerbus - Do the Gnomeregan cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (74.1, 48.2)| |SK|
+R A Donation of Runecloth |QID|7805| |N|Talk to Mistina Steelshield - Talk to Mistina Steelshield - Do the Ironforge cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (43.2, 31.6)| |SK|
 t Train your class spells |C|Priest/Paladin|
 t Train your class spells |C|Warlock/Rogue|
 N Talk to Jubahl Corpseseeker - Talk to Jubahl Corpseseeker - Buy [Grimoires] for your pets - (53.2, 7.8) |C|Warlock|

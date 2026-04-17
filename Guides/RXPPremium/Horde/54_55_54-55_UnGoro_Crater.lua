@@ -7,7 +7,7 @@ return [[
 
 N 54-55 Un'Goro Crater |N|Converted from RestedXP guide|
 
-R Tanaris >>Fly to Tanaris |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |O|
+R Tanaris >>Fly to Tanaris |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |SK|
 A Bungle in the Jungle |QID|4496| |N|Talk to Alchemist Pestlezugg - Talk to Pestlezugg - (50.9, 27.0)|
 T The Stone Circle |QID|3444| |N|Talk to Marvon Rivetseeker - Talk to Marvon - (52.7, 45.9)|
 R Un'Goro Crater>>Fly to Un'Goro Crater |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)| |SK|
@@ -18,21 +18,21 @@ A Lost! |QID|4492| |N|Talk to Spraggle Frock - Talk to Spraggle - (43.6, 8.5)|
 A Beware of Pterrordax |QID|4501| |N|Click the Wanted Poster - (43.5, 8.4)|
 A Larion and Muigin |QID|4145| |N|Talk to Larion - Talk to Larion - (45.5, 8.7)|
 A Shizzle's Flyer |QID|4503| |N|Talk to Shizzle - Talk to Shizzle - (12.8, 8.1)|
-N Collect Un'Goro Soil as you quest throught Un'Goro - Collect item 11018 (x25) |O|
-N Kill some of the Pterrordax found north of the Northern Pylon. Loot them for their Scales - This does not need to be finished now |QID|4503| |O|
-N On your way to Fungal Rock, kill Bloodpetal Flayers - (52.8, 13.4) |QID|4145| |O|
+N Collect Un'Goro Soil as you quest throught Un'Goro - Collect item 11018 (x25) |SK|
+N Kill some of the Pterrordax found north of the Northern Pylon. Loot them for their Scales - This does not need to be finished now |QID|4503| |SK|
+N On your way to Fungal Rock, kill Bloodpetal Flayers - (52.8, 13.4) |QID|4145| |SK|
 N (63.0, 17.4)
 N Kill Un'Goro Stompers, Un'Goro Thunderers. and Un'Goro gorillas. Loot them for their Pelts - Be careful! Un'Goro Gorillas call for help in a 90 yard range. Un'Goro Thunderers have a high-damage, instant shock spell - (62.9, 18.2) |QID|4289|
-N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |O|
+N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |SK|
 N Kill Bloodpetal Threshers, Bloodpetal Lashers and Bloodpetal Flayers - (57.6, 36.8) |QID|4145|
 N Loot the Crate of Foodstuffs on the ground - (68.5, 36.5) |QID|3881|
 N Click the Eastern Crystal Pylon - (77.2, 50.0) |QID|4287|
 C Use the [Preserved Pheromone Mixture] |QID|4292| |N|Kill Lar'korwi as he spawns. Loot him for his Head - (79.9, 49.9)| |U|11570|
 A Bloodpetal Poison |QID|9052| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.6, 76.0)| |C|Druid|
 A The Mighty U'cha |QID|4301| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.6, 76.0)|
-N Loot Bloodpetal Sprouts around the zone until you have 8 Bloodcaps |QID|9052| |O| |C|Druid|
-N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland and for Gorishi Stings - (50.6, 77.1) |QID|9052| |O| |C|Druid|
-N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland - (50.6, 77.1) |QID|4496| |O|
+N Loot Bloodpetal Sprouts around the zone until you have 8 Bloodcaps |QID|9052| |SK| |C|Druid|
+N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland and for Gorishi Stings - (50.6, 77.1) |QID|9052| |SK| |C|Druid|
+N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland - (50.6, 77.1) |QID|4496| |SK|
 N (50.0, 81.7)
 N (49.4, 82.9) |SK|
 C Use your [Scraping Vial] in the centre of the room |QID|3883| |N|(48.7, 85.3)| |U|11132|
@@ -42,21 +42,21 @@ N Loot the Pterrordax you kill for their Scales - This does not need to be finis
 N Kill Pterrordax in the southern mountains - (43.6, 92.4) |QID|4501|
 N Finish looting Bloodpetal Sprouts around the zone until you have 8 Bloodcaps |QID|9052| |SK| |C|Druid|
 T Bloodpetal Poison |QID|9052| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.6, 76.0)| |C|Druid|
-N Kill Bloodpetal Trappers |QID|4145| |O|
-N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |O|
+N Kill Bloodpetal Trappers |QID|4145| |SK|
+N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |SK|
 N Loot the Research Equipment boxes on the ground - (38.5, 66.1) |QID|3881|
 N Click the Western Crsytal Pylon - (23.9, 59.2) |QID|4288|
-N Kill Frenzied Pterrordax. Loot them for their Scales - (20.9, 59.5) |QID|4503| |O|
+N Kill Frenzied Pterrordax. Loot them for their Scales - (20.9, 59.5) |QID|4503| |SK|
 A Finding the Source |QID|974| |N|Talk to Krakle - Talk to Krakle - (30.9, 50.4)|
 N (47.1, 47.1)
-N (47.1, 47.1) |O|
+N (47.1, 47.1) |SK|
 N Kill Fire Elementals. Loot them for their Ash |QID|4502| |SK|
 C Climb up to the top of the volcano, then use [Krakle's Thermometer] |QID|974| |N|(49.6, 45.7)| |U|12472|
-N Kill Bloodpetal Trappers |QID|4145| |O|
-N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |O|
-N Kill Frenzied Pterrordax. Loot them for their Scales |QID|4503| |O|
+N Kill Bloodpetal Trappers |QID|4145| |SK|
+N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |SK|
+N Kill Frenzied Pterrordax. Loot them for their Scales |QID|4503| |SK|
 A The New Springs |QID|980| |N|Talk to Krakle - Talk to Krakle - (30.9, 50.4)|
-N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |O|
+N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |SK|
 N Kill Frenzied Pterrordax. Loot them for their Scales |QID|4503| |SK|
 N Kill Bloodpetal Trappers - (31.2, 31.2) |QID|4145|
 N Kill Frenzied Pterrordax. Loot them for their Scales - (30.8, 59.6) |QID|4503|
@@ -88,7 +88,7 @@ C Use your [Devilsaur Barb] on it while it's asleep |QID|9051| |N|Track a Devils
 T Toxic Test |QID|9051| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.6, 76.0)| |C|Druid|
 A A Better Ingredient |QID|9053| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.6, 76.0)| |C|Druid|
 N Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles - Collect item 11018 (x25) - (50.9, 68.0)
-R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (43.2, 6.2)| |O| |M|hardcore|
+R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (43.2, 6.2)| |SK| |M|hardcore|
 R Travel back up to Tanaris |N|(27.1, 56.6)| |SK| |M|speedrun|
 R Travel back up to Tanaris |N|(27.1, 56.6)| |SK| |M|hardcore|
 A Secret of the Circle |QID|3447| |N|Talk to Marvon Rivetseeker - Talk to Marvon Rivetseeker - (52.7, 45.9)|
@@ -110,7 +110,7 @@ R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Om
 N Cast Cast [Teleport: Thunder Bluff] |C|Mage|
 t Train your class spells |N|Talk to Thurston Xane - Talk to Thurston - (25.2, 20.9)| |C|Mage|
 t Train your class spells |N|Talk to Thurston Xane - Talk to Thurston - (25.2, 20.9)| |O| |C|Mage|
-A A Call to Arms: The Plaguelands! |QID|5095| |N|Talk to Bluff Runner Windstrider - He patrols the terraces, so you may have to look around for him - (41.5, 57.9)| |O|
+A A Call to Arms: The Plaguelands! |QID|5095| |N|Talk to Bluff Runner Windstrider - He patrols the terraces, so you may have to look around for him - (41.5, 57.9)| |SK|
 A Assisting Arch Druid Runetotem |QID|3762| |N|Talk to Innkeeper Pala - Talk to Pala - (45.8, 64.7)|
 t Train your class spells |N|Talk to Urek Thunderhorn - Talk to Urek - (59.1, 86.9)| |C|Hunter|
 t Train your class spells |N|Talk to Urek Thunderhorn - Talk to Urek - (59.1, 86.9)| |O| |C|Hunter|

@@ -14,8 +14,8 @@ A Reagents for Reclaimers Inc. |QID|1466| |N|Talk to Kreldig Ungor - Talk to Kre
 N (47.8, 61.8) |SK|
 A Ghost-o-plasm Round Up |QID|6134| |N|Talk to Hornizz Brimbuzzle - Talk to Hornizz Brimbuzzle - (47.8, 61.8)|
 A Khan Jehn |QID|1374| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
-N Kill Burning Blade Summoners. Loot them for their Infernal Orb |QID|1799| |O| |C|Warlock|
-C Channel the [Felhas Ruby] on a Ley Hunter, Mana Eater or Mage Hunter as it is about to die |QID|4962| |U|12647| |O| |C|Warlock|
+N Kill Burning Blade Summoners. Loot them for their Infernal Orb |QID|1799| |SK| |C|Warlock|
+C Channel the [Felhas Ruby] on a Ley Hunter, Mana Eater or Mage Hunter as it is about to die |QID|4962| |U|12647| |SK| |C|Warlock|
 N Kill Ley Hunters, Mana Eaters and Mage Hunters. Loot them for their Brains - Kill Nether Sisters, Nether Maidens and Nether Sorceresses. Loot them for their Wings - Kill Doomwarder Captains. Loot them for their Blood - Prioritize Doomwarder Captains as you may need to wait for their respawns. Regular Doomwarders do not drop Blood. You could also ask someone to invite you so you change layers - (51.7, 83.9) |QID|1466|
 N Kill Burning Blade Summoners. Loot them for their Infernal Orb |QID|1799| |SK| |C|Warlock|
 C Channel the [Felhas Ruby] on a Ley Hunter, Mana Eater or Mage Hunter as it is about to die |QID|4962| |N|(50.6, 81.6)| |U|12647| |C|Warlock|
@@ -28,7 +28,7 @@ T Ghost-o-plasm Round Up |QID|6134| |N|Talk to Hornizz Brimbuzzle - Talk to Horn
 T Khan Jehn |QID|1374| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
 T Ghost-o-plasm Round Up |QID|6134| |N|Talk to Hornizz Brimbuzzle - Talk to Hornizz Brimbuzzle - (47.8, 61.8)| |M|hardcore|
 R Head to Feralas |N|(41.1, 91.7)| |M|speedrun|
-D Die and respawn |N|Talk to Spirit Healer - Once you get to Feralas, walk along the mountains to the west to avoid aggroing mobs and then die near the stone obelisks - (40.6, 8.6)| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - Once you get to Feralas, walk along the mountains to the west to avoid aggroing mobs and then die near the stone obelisks - (40.6, 8.6)| |SK| |M|speedrun|
 F Tanaris >> Fly to Tanaris |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.2)| |M|speedrun|
 N Travel to Nijel's Point |SK| |M|hardcore|
 F Tanaris >> Fly to Tanaris |N|Talk to Baritanas Skyriver - Talk to Baritanas Skyriver - Don't worry about handing in quests yet, you will hearth back to Desolace momentarily - (64.7, 10.5)| |M|hardcore|
@@ -37,7 +37,7 @@ A Martek the Exiled |QID|1106| |N|Talk to Fizzle Brassbolts - Talk to Fizzle Bra
 A Back to Booty Bay |QID|1118| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|
 A Back to Booty Bay |QID|1118| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|
 A Safety First |QID|1188| |N|Talk to Razzeric - Talk to Razzeric - (80.3, 76.1)|
-N Cast Cast Teleport: Moonglade |O| |C|Druid|
+N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 H Hearthstone |N|Buy food/water if needed| |SK| |C|Warlock|

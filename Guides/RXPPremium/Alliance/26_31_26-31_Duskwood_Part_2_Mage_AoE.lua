@@ -90,7 +90,7 @@ T The Night Watch |QID|58| |N|Talk to Commander Althea Ebonlocke - Talk to Comma
 A Translate Abercrombie's Note |QID|251| |N|Talk to Lord Ello Ebonlocke - Go inside the Keep - Talk to Lord Ello Ebonlocke - (71.9, 46.4)|
 A Translation to Ello |QID|252| |N|Talk to Sirra Von'Indi - Talk to Sirra Von'Indi - (72.6, 47.6)|
 A Bride of the Embalmer |QID|253| |N|Talk to Lord Ello Ebonlocke - Talk to Lord Ello Ebonlocke - (71.9, 46.4)|
-N It is HIGHLY Recommended you watch the Worgen Duskwood Section of the AoE guide, as it's important to know the pathing you should take for doing the 4 main worgen camps |O|
+N It is HIGHLY Recommended you watch the Worgen Duskwood Section of the AoE guide, as it's important to know the pathing you should take for doing the 4 main worgen camps |SK|
 A An Old History Book |QID|337| |N|Keep an eye out for the Old History Book. If you don't have it yet, keep grinding for it - Collect item 2794 (x1)| |SK|
 N (72.7, 71.8) |QID|222|
 G AoE grind the worgens to 31 & 40000/50800

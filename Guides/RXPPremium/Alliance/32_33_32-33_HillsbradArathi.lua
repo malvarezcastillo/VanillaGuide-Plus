@@ -45,7 +45,7 @@ A The Thandol Span |QID|632| |N|Click on Ebenezer Rustlocke's Corpse - Ensure yo
 A The Thandol Span |QID|633| |N|Talk to Rhag Garmason - Talk to Rhag Garmason - (49.9, 18.2)|
 A MacKreel's Moonshine |QID|647| |N|Talk to Foggy MacKreel - Talk to Foggy MacKreel - Jump down onto the invisible chain first, then onto the broken beam on the bridge. All classes are able to do this jump. If you are unable to do it, skip this step - (43.2, 92.6)|
 A Sully Balloo's Letter |QID|637| |N|Dive down underwater - Open the Waterlogged Letter. Loot it for the [Waterlogged Envelope] - Use the [Waterlogged Envelope] to start the quest - Collect item 4433 (x1) - (44.3, 92.9)| |U|4433|
-N (52.5, 90.4) |O|
+N (52.5, 90.4) |SK|
 N Click the Cache of Explosives - (48.8, 88.1) |QID|633|
 A Plea To The Alliance |QID|634| |N|Talk to Rhag Garmason - Talk to Rhag Garmason - (49.9, 18.2)|
 N (45.8, 47.5) |SK|
@@ -56,7 +56,7 @@ T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the b
 T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - Talk to Brewmeister Bilger - (19.7, 29.0)| |M|hardcore|
 A Down the Coast |QID|536| |N|Talk to Lieutenant Farren Orinelle - Talk to Lieutenant Farren Orinelle - (51.5, 58.4)|
 F Southshore>> Fly to Southshore |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)|
-A Assassin's Contract |QID|522| |N|The Shadowy Assassin attack on Southshore is a random event - If you ever see a Shadowy Assassin in Southshore, kill them. Loot them for the [Assassin's Contract] - Use the [Assassin's Contract] to start the quest - Skip this step if you don't see the event - Collect item 3668 (x1)| |U|3668| |O|
+A Assassin's Contract |QID|522| |N|The Shadowy Assassin attack on Southshore is a random event - If you ever see a Shadowy Assassin in Southshore, kill them. Loot them for the [Assassin's Contract] - Use the [Assassin's Contract] to start the quest - Skip this step if you don't see the event - Collect item 3668 (x1)| |U|3668| |SK|
 A Costly Menace |QID|564| |N|Talk to Darren Malvew - Talk to Darren Malvew - (52.4, 56.0)|
 T Southshore |QID|538| |N|Talk to Loremaster Dibbs - Talk to Loremaster Dibbs - (50.6, 57.1)|
 A Hints of a New Plague? |QID|659| |N|Talk to Phin Odelic - Talk to Phin Odelic - (50.3, 59.0)|
@@ -82,7 +82,7 @@ N Kill Yetis. Loot them for their Fur |QID|565| |SK|
 N Loot the Alterac Granite on the ground - Alterac Granite spawns throughout the entire Cave - (44.4, 26.5) |QID|689|
 N Kill Yeti's. Loot them for their Fur - If all of the Yeti's are dead inside of the cave you may kill the Yeti's to the north around Alterac Mountains as well - (44.4, 26.5) |QID|565|
 N (34.3, 83.5)
-N Kill Mountain Lions and Hulking Mountain Lions - Check the westernmost hill for all spawns before you head east, kill all Hulking Mountain Lions you see as the objective is hard to complete if you skip mobs - (30.9, 84.6) |QID|564| |O|
+N Kill Mountain Lions and Hulking Mountain Lions - Check the westernmost hill for all spawns before you head east, kill all Hulking Mountain Lions you see as the objective is hard to complete if you skip mobs - (30.9, 84.6) |QID|564| |SK|
 N Kill Syndicate Thieves and Syndicate Footpads - Kill all Syndicate mobs you see in the camp on the hill west of the road. This quest objective may be hard to complete if you skip mobs and you'd have to backtrack |QID|505| |SK|
 A Encrypted Letter |QID|511| |N|Click the Syndicate Documents on the table - (58.3, 68.0)|
 N Kill Syndicate Thieves and Syndicate Footpads - (58.3, 67.9) |QID|505|
@@ -90,14 +90,14 @@ N Finish off kiling Mountain Lions keep killing any Hulking Mountain Lions you s
 N Kill Snapjaw - Kill Snapjaws. Loot them for their Turtle Meat - Go up and down along the River until you've completed it - Be careful not to run into Narillasanz a level 44 elite red dragon that may be patroling around the area - Collect item 3712 (x10) - (71.4, 68.6)
 N Finish off kiling Hulking Mountain Lions. If there's not enough spawns to complete the objective you can find more in the area north of Strahnbrad - Be careful not to run into Narillasanz a level 44 elite red dragon that may be patroling around the area - (78.4, 48.1) |QID|564|
 f Chillwind>> Get the Western Plaguelands Flight Path |N|Talk to Bibilfaz Featherwhistle - Talk to Bibilfaz Featherwhistle - (42.9, 85.1)|
-F Southshore>> Fly to Southshore |N|Talk to Bibilfaz Featherwhistle - Talk to Bibilfaz Featherwhistle - (42.9, 85.1)| |O|
+F Southshore>> Fly to Southshore |N|Talk to Bibilfaz Featherwhistle - Talk to Bibilfaz Featherwhistle - (42.9, 85.1)| |SK|
 N Talk to Micha Yance - Talk to Micha Yance - Buy 1 [Fine Thread] from him - Collect item 2321 (x1) - (48.9, 55.0)
 N Talk to Micha Yance - Talk to Micha Yance - Buy 1 [Soothing Spice] from him - Collect item 3713 (x1) - (48.9, 55.0)
 T Bartolo's Yeti Fur Cloak |QID|565| |N|Talk to Bartolo Ginsetti - Talk to Bartolo Ginsetti - (49.4, 55.5)|
 A Letter to Stormpike |QID|514| |N|Talk to Loremaster Dibbs - Talk to Loremaster Dibbs - (50.6, 57.1)|
 T Soothing Turtle Bisque |QID|555| |N|Talk to Chef Jessen - Talk to Chef Jessen - (51.9, 58.7)|
 T Soothing Turtle Bisque |QID|555| |N|Talk to Chef Jessen - Talk to Chef Jessen - (51.9, 58.7)|
-N Talk to Wesley - Talk to Wesley - (50.4, 58.8) |O| |C|Hunter|
+N Talk to Wesley - Talk to Wesley - (50.4, 58.8) |SK| |C|Hunter|
 T Foreboding Plans |QID|510| |N|Talk to Magistrate Henry Maleb - Talk to Magistrate Henry Maleb - (48.1, 59.1)|
 T Costly Menace |QID|564| |N|Talk to Darren Malvew - Talk to Darren Malvew - (52.4, 56.0)|
 R Arathi>> Fly to Arathi Highlands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)|
@@ -105,8 +105,8 @@ t Attack mobs with it to learn [Bite (Rank 5)] |N|Cast [Eagle Eye] to try and fi
 A Northfold Manor |QID|681| |N|Talk to Captain Nials - Talk to Captain Nials - While on the flight path try to see if you fly over the Forsaken Courier. It travels the road from Go'shek farm to Tarren Mill. Knowing where it is will be useful for a quest soon - (45.8, 47.5)|
 T Malin's Request |QID|690| |N|Talk to Skuerto - Talk to Skuerto - (46.7, 47.0)|
 A Hints of a New Plague? |QID|658| |N|Talk to Quae - Talk to Quae - (60.2, 53.8)|
-N Talk to Deneb Walker - Travel to Stromgarde Keep to further train your [First Aid] - Follow the Arrow very closely once you are inside, as there are a lot of Elite mobs in the Keep - Talk to Deneb Walker - Buy the [Expert First Aid - Under Wraps], [Manual: Heavy Silk Bandage] and [Manual: Mageweave Bandage] from him - Collect item 16084 (x1) - Collect item 16112 (x1) - Collect item 16113 (x1) - (25.7, 59.5) |O|
-N Kill the Forsaken Courier. Loot her for her Sealed Folder - The Forsaken Courier spawns next to the Apothecary's hut in Go'shek farm (marked on your map) and walks all the way to Tarren Mill where it despawns. - It respawns about every 7 minutes after being killed or reaching Tarren Mill - (60.7, 61.0) |QID|658| |O|
+N Talk to Deneb Walker - Travel to Stromgarde Keep to further train your [First Aid] - Follow the Arrow very closely once you are inside, as there are a lot of Elite mobs in the Keep - Talk to Deneb Walker - Buy the [Expert First Aid - Under Wraps], [Manual: Heavy Silk Bandage] and [Manual: Mageweave Bandage] from him - Collect item 16084 (x1) - Collect item 16112 (x1) - Collect item 16113 (x1) - (25.7, 59.5) |SK|
+N Kill the Forsaken Courier. Loot her for her Sealed Folder - The Forsaken Courier spawns next to the Apothecary's hut in Go'shek farm (marked on your map) and walks all the way to Tarren Mill where it despawns. - It respawns about every 7 minutes after being killed or reaching Tarren Mill - (60.7, 61.0) |QID|658| |SK|
 N Kill Syndicate Mercenaries and Syndicate Highwaymen - Be aware Syndicate Highwaymen are in [Stealth] and can be found around the perimiter of Northfold Manor - (33.3, 32.6) |QID|681|
 H Hearthstone |N|Buy food/water if needed| |SK| |C|Hunter|
 N Talk to Wesley - Talk to Wesley - (50.4, 58.8) |SK| |C|Hunter|
@@ -122,12 +122,12 @@ F Wetlands >> Fly to Wetlands |N|Talk to Cedrik Prose - (49.3, 52.3)|
 R Hearthstone |C|!Mage|
 R Teleport to Ironforge |C|Mage|
 A Sara Balloo's Plea |QID|683| |N|Talk to Sara Balloo - Talk to Sara Balloo - (63.5, 67.3)|
-t Train your class spells |O| |C|Hunter/Warrior|
+t Train your class spells |SK| |C|Hunter/Warrior|
 T Letter to Stormpike |QID|514| |N|Talk to Prospector Stormpike - Talk to Prospector Stormpike - (74.6, 11.7)|
 N Talk to Briarthorn - Talk to Briarthorn - (51.1, 8.7) |C|Warlock|
-t Train your class spells |O| |C|Warlock/Rogue|
+t Train your class spells |SK| |C|Warlock/Rogue|
 A A King's Tribute |QID|686| |N|Talk to King Magni Bronzebeard - Talk to King Magni Bronzebeard - (39.1, 56.2)|
-t Train your class spells |O| |C|Priest/Paladin|
+t Train your class spells |SK| |C|Priest/Paladin|
 T A King's Tribute |QID|686| |N|Talk to Grand Mason Marblesten - (39.0, 88.0)|
 R Wetlands>> Fly to Wetlands |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.8)|
 A Cleansing the Eye |QID|293| |N|Talk to Glorin Steelbrow - Talk to Glorin Steelbrow - (10.6, 60.6)|

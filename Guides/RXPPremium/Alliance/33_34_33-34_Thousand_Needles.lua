@@ -47,7 +47,7 @@ N Kill all Monsters inside of RFK. Loot them for Treshala's Pendant |QID|1142| |
 T Willix the Importer |QID|1144| |N|Talk to Willix the Importer - Talk to Willix the Importer|
 N Kill all Monsters inside of RFK. Loot them for Treshala's Pendant |QID|1142|
 T The Crone of the Kraul |QID|1101| |N|Talk to Falfindel Waywarder - Talk to Falfindel Waywarder - (89.6, 46.6)|
-N NOTE: It is never time efficient to go to Darnassus to turn in Mortality Wanes. Buy a portal from a Mage to Darnassus when the guide tells you to use your Hearthstone next, so you can turn it in at Darnassus then use Hearthstone to remain on track with the guide, otherwise abandon Mortality Wanes |O|
+N NOTE: It is never time efficient to go to Darnassus to turn in Mortality Wanes. Buy a portal from a Mage to Darnassus when the guide tells you to use your Hearthstone next, so you can turn it in at Darnassus then use Hearthstone to remain on track with the guide, otherwise abandon Mortality Wanes |SK|
 N Kill Highperch Wyverns, Highperch Consorts and Highperch Patriarchs. Loot them for their Venom Sacs - (13.1, 34.2) |QID|1135|
 N (77.8, 77.3) |SK|
 A Rocket Car Parts |QID|1110| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - Don't accept the other quests yet - (77.8, 77.3)|
@@ -62,7 +62,7 @@ T Hardened Shells |QID|1105| |N|Talk to Wizzle Brassbolts - Talk to Fizzle Brass
 A Hemet Nesingwary |QID|5762| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - (77.8, 77.3)|
 N (51.0, 29.4) |SK|
 f Tanaris>> Get the Tanaris Flight Path |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)|
-H Hearthstone |O|
+H Hearthstone |SK|
 T Highperch Venom |QID|1135| |N|Talk to Fiora Longears - Talk to Fiora Longears - (66.5, 45.1)|
 A Captain Vimes |QID|1220| |N|Talk to Theramore Lieutenant - Talk to the Theramore Lieutenant - (68.1, 48.2)|
 N (68.2, 48.8) |SK|

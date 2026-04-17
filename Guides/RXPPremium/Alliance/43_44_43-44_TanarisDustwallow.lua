@@ -21,14 +21,14 @@ A Water Pouch Bounty |QID|1707| |N|Talk to Spigot Operator Luglunket - Talk to C
 A Handle With Care |QID|3022| |N|Talk to Curgle Cranklehop - Talk to Curgle Cranklehop - (52.4, 26.9)|
 T Tran'rek |QID|2864| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 A Safety First |QID|1189| |N|Talk to Shreev - Talk to Shreev - (51.0, 27.2)|
-N Kill Rocs. Loot them for their Gizzards - Don't go out of your way to finish this |QID|1452| |O|
-N Kill Wastewander Bandits and Wastewander Thieves. Loot them for their Wastewander Water Pouches - Kill them en-route to Steamwheedle Port. Don't complete this immediately - (60.4, 24.6) |QID|1707| |O|
+N Kill Rocs. Loot them for their Gizzards - Don't go out of your way to finish this |QID|1452| |SK|
+N Kill Wastewander Bandits and Wastewander Thieves. Loot them for their Wastewander Water Pouches - Kill them en-route to Steamwheedle Port. Don't complete this immediately - (60.4, 24.6) |QID|1707| |SK|
 A Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty Modiste - (66.6, 22.3)|
 A Screecher Spirits |QID|3520| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
 A Stoley's Shipment |QID|2873| |N|Talk to Stoley - Talk to Security Chief Bilgewhizzle and Stoley - (67.1, 23.9)|
 N Kill Wastewander Bandits and Wastewander Thieves. Loot them for their Wastewander Water Pouches - (60.1, 23.4) |QID|1707|
 T Water Pouch Bounty |QID|1707| |N|Talk to Spigot Operator Luglunket - Talk to Chief Engineer Bilgewhizzle and Spigot Operator Luglunket - (52.5, 28.5)|
-R Travel to The Shimmering Flats |N|(78.1, 77.1)| |O|
+R Travel to The Shimmering Flats |N|(78.1, 77.1)| |SK|
 T News for Fizzle |QID|1137| |N|Talk to Fizzle Brassbolts - Talk to Fizzle Brassbolts - (78.1, 77.1)|
 A Get the Gnomes Drunk |QID|1120| |N|Talk to Kravel Koalbeard - Talk to Kravel Koalbeard - This is a timed quest. If it has timed out already, abandon it instead - (77.8, 77.3)|
 T Get the Gnomes Drunk |QID|1120| |N|Talk to Gnome Pit Boss - Talk to Gnome Pit Boss - (77.6, 76.9)|
@@ -44,11 +44,11 @@ A Divino-matic Rod |QID|2768| |N|Talk to Chief Engineer Bilgewhizzle - Talk to C
 A Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 N (73.4, 47.1)
 N (38.9, 20.8)
-N Kill Trolls. Loot them for their Troll Temper |QID|3042| |O|
+N Kill Trolls. Loot them for their Troll Temper |QID|3042| |SK|
 N Kill Scarabs. Loot them for their Uncracked Scarab Shell |QID|2865| |SK|
 N Kill Theka the Martyr. Loot him for the First Mosh'aru Tablet |QID|3527| |O|
 N Kill Scarabs. Loot them for their Uncracked Scarab Shell |QID|2865|
-N Kill Sandfury Executioner - Ascend the Pyramid - Kill the Sandfury Executioner. Loot him for the Executioner's Key - Anyone in the party may loot the Key - Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band - Collect item 8444 (x1) |O|
+N Kill Sandfury Executioner - Ascend the Pyramid - Kill the Sandfury Executioner. Loot him for the Executioner's Key - Anyone in the party may loot the Key - Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band - Collect item 8444 (x1) |SK|
 N Defend Sergeant Bly and his band, then move down with them after a short period of time - Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion - After you kill Nekrum Gutchewer, eat and drink then talk to Sergeant Bly to fight him - Kill Sergeant Bly. Loot him for the Divino-matic Rod |QID|2768|
 N Defend Sergeant Bly and his band, then move down with them after a short period of time - Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion |QID|2991|
 N Defend Sergeant Bly and his band, then move down with them after a short period of time - Kill Nekrum Gutchewer. Eat and drink then talk to Sergeant Bly to fight him - Kill Sergeant Bly. Loot him for the Divino-matic Rod |QID|2768|
@@ -61,7 +61,7 @@ T Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Light
 T Divino-matic Rod |QID|2768| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.5)|
 T Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 T The Prophecy of Mosh'aru |QID|3527| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)| |O|
-N (77.8, 77.3) |O|
+N (77.8, 77.3) |SK|
 T Gahz'rilla |QID|2770| |N|Talk to Wizzle Brassbolts - Talk to Wizzle Brassbolts - (78.1, 77.1)|
 H Hearthstone |N|Buy food/water if needed|
 N (55.3, 50.5) |SK| |C|Warlock|

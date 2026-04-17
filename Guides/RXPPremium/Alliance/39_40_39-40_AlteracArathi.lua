@@ -16,7 +16,7 @@ N Mine the Lesser Bloodstone Deposits. Loot it for Lesser Bloodstone Ore - These
 N Kill Drywhisker Kobolds, Drywhisker Diggers and Drywhisker Surveyors. Loot them for their Motes - The quest turn in for this is inside the Cave. Clear your way to the back while completing it - (78.6, 40.0) |QID|642|
 N Mine the Lesser Bloodstone Deposits. Loot it for Lesser Bloodstone Ore - These are found inside of the Cave - Collect item 4278 (x4) - (87.1, 31.4) |O|
 A Stones of Binding |QID|651| |N|Click the Iridescent Shards at the back of the Cave - (84.3, 30.9)|
-N (70.3, 39.5) |O|
+N (70.3, 39.5) |SK|
 N Kill Cresting Exile - Kill Cresting Exiles. Loot them for their Cresting Charms - Collect item 4481 (x8) |SK| |C|Warrior|
 N Open the Stone of East Binding. Loot it for the Cresting Key - (66.7, 29.7) |QID|651|
 N Kill Cresting Exile - Kill Cresting Exiles. Loot them for their Cresting Charms - Collect item 4481 (x8) - (67.5, 28.8) |C|Warrior|
@@ -25,7 +25,7 @@ T Hints of a New Plague? |QID|658| |N|Talk to Quae - Talk to Quae - (60.2, 53.8)
 A Hints of a New Plague? |QID|660| |N|Talk to Kinelory - Talk to Quae and Kinelory - Someone may be doing the Kinelory escort if she isn't there. Wait until she returns - (60.2, 53.8)|
 N Talk to Kinelory - Escort Kinelory through Go'Shek Farm |QID|660|
 A Hints of a New Plague? |QID|661| |N|Talk to Quae - Talk to Quae - (60.2, 53.8)|
-N Kill the Forsaken Courier if you find her while questing. Loot her for her Sealed Folder - The Forsaken Courier patrols the road between Tarren Mill and Go'Shek Farm |QID|658| |O|
+N Kill the Forsaken Courier if you find her while questing. Loot her for her Sealed Folder - The Forsaken Courier patrols the road between Tarren Mill and Go'Shek Farm |QID|658| |SK|
 N Kill Thundering Exile - Kill Thundering Exiles. Loot them for their Thundering Charms - Collect item 4480 (x8) |SK| |C|Warrior|
 N Open the Stone of Outer Binding. Loot it for the Thundering Key - (52.0, 50.7) |QID|651|
 N Kill Thundering Exile - Kill Thundering Exiles. Loot them for their Thundering Charms - Collect item 4480 (x8) - (52.7, 50.6) |C|Warrior|
@@ -36,7 +36,7 @@ N Kill Kor'gresh Coldrage. Loot him for Trelane's Wand - (54.8, 81.9) |QID|693|
 N Perform a Logout skip on the banner next to Kor'gresh Coldrage to teleport closer to Refuge Point. If you are unable to do this just run out normally - (54.4, 80.8) |SK|
 T Wand over Fist |QID|693| |N|Talk to Skuerto - Do not accept the follow up yet - (46.7, 47.0)|
 R Southshore >> Fly to Southshore |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.7, 46.1)|
-A Assassin's Contract |QID|522| |N|The Shadowy Assassin attack on Southshore is a random event - If you ever see a Shadowy Assassin in Southshore, kill them. Loot them for the [Assassin's Contract] - Use the [Assassin's Contract] to start the quest - Skip this step if you don't see the event - Collect item 3668 (x1)| |U|3668| |O|
+A Assassin's Contract |QID|522| |N|The Shadowy Assassin attack on Southshore is a random event - If you ever see a Shadowy Assassin in Southshore, kill them. Loot them for the [Assassin's Contract] - Use the [Assassin's Contract] to start the quest - Skip this step if you don't see the event - Collect item 3668 (x1)| |U|3668| |SK|
 T Southshore |QID|538| |N|Talk to Loremaster Dibbs - Talk to Loremaster Dibbs - (50.6, 57.1)|
 T Hints of a New Plague? |QID|661| |N|Talk to Phin Odelic - Talk to Phin Odelic - (50.3, 59.0)|
 h Hillsbrad Foothills |N|Talk to Innkeeper Anderson - Talk to Innkeeper Anderson - (51.2, 58.9)|
@@ -51,8 +51,8 @@ A Baron's Demise |QID|523| |N|Talk to Magistrate Henry Maleb - Talk to Magistrat
 A Noble Deaths |QID|512| |N|Talk to Magistrate Henry Maleb - Talk to Magistrate Henry Maleb - (48.1, 59.1)|
 R Grind the Syndicate in Alterac Mountains while looking for a group for Scarlet Monastery |N|Kill Syndicate Thief - (58.3, 67.9)| |SK|
 N (70.0, 7.0)
-N Loot the Mythology of the Titans - This can spawn randomly on the ground or in bookshelves throughout the Library wing |QID|1050| |O|
-N Open Doan's Strongbox. Loot it for [The Scarlet Key] - Collect item 7146 (x1) |O|
+N Loot the Mythology of the Titans - This can spawn randomly on the ground or in bookshelves throughout the Library wing |QID|1050| |SK|
+N Open Doan's Strongbox. Loot it for [The Scarlet Key] - Collect item 7146 (x1) |SK|
 N Kill Houndmaster Loksey, Herod, High Inquisitor Whitemane and Scarlet Commander Mograine - Houndmaster Loksey is located in the Library - Herod is located in the Armory - High Inquisitor Whitemane and Scarlet Commander Mograine are located in the Cathedral |QID|1053|
 N Loot the Mythology of the Titans - This can spawn randomly on the ground or in bookshelves throughout the Library wing |QID|1050|
 H Hearthstone |SK|
@@ -62,13 +62,13 @@ T In the Name of the Light |QID|1053| |N|Talk to Raleigh the Devout - Talk to Ra
 A Baron's Demise |QID|523| |N|Talk to Magistrate Henry Maleb - Talk to Magistrate Henry Maleb - (48.1, 59.1)|
 A Preserving Knowledge |QID|540| |N|Talk to Loremaster Dibbs - Talk to Loremaster Dibbs - (50.6, 57.1)|
 A Ansirem's Key |QID|603| |N|Talk to Archmage Ansirem Runeweaver - Talk to Archmage Ansirem Runeweaver - (18.8, 78.5)|
-N (39.8, 62.2) |O|
-N Kill Crushridge Warmongers - Crushridge Warmongers call for help at 25% HP |QID|504| |O|
+N (39.8, 62.2) |SK|
+N Kill Crushridge Warmongers - Crushridge Warmongers call for help at 25% HP |QID|504| |SK|
 N Kill Grel'borg the Miser. Loot him for the Perenolde Tiara - Grel'borg the Miser patrols the Ruins of Alterac. He is a level 39 Elite and easy to kill so long as you don't agro additional mobs. His patrol route is marked on your map - (40.4, 47.0) |QID|543|
 N Enter the Town Hall - Open the Weathered Bookcase. Loot it for the Worn Leather Book - You may kill Muckrake or just CC him, loot and then run away - If you decide to fight him be careful as Muckrake has a [Disarm] - (38.4, 46.4) |QID|540|
 N Kill Crushridge Warmongers - Crushridge Warmongers call for help at 25% HP - (38.4, 57.8) |QID|504|
 N (39.7, 18.2) |SK|
-N Kill the Syndicate. Loot them for their Signet Rings - Syndicate Assassins and Syndicate Spies will be in [Stealth] - (62.4, 43.6) |QID|512| |O|
+N Kill the Syndicate. Loot them for their Signet Rings - Syndicate Assassins and Syndicate Spies will be in [Stealth] - (62.4, 43.6) |QID|512| |SK|
 N Open the Worn Wooden Chest. Loot it for the [Ensorcelled Parchment] - Don't start the quest from this item yet - Collect item 3706 (x1) - (39.2, 14.7) |SK|
 N Kill Nagaz. Loot him for his Head - (39.2, 14.3) |QID|537|
 N Open the Worn Wooden Chest. Loot it for the [Ensorcelled Parchment] - Don't start the quest from this item yet - Collect item 3706 (x1) - (39.2, 14.7)
@@ -97,7 +97,7 @@ N Run from Southshore and check Tarren Mill and then go into Arathi looking for 
 N Kill the Forsaken Courier. Loot her for her Sealed Folder - The Forsaken Courier patrols the road between Tarren Mill and Go'Shek Farm - If you haven't found her by the time you reached Go'Shek, grind the Orcs there for 5 minutes, then skip the step if she hasn't spawned in Jorell's house by then |QID|658| |SK|
 N Open the Stone of West Binding. Loot it for the Burning Key - Make sure the Forsaken Courier doesn't sneak past you as you do this! - (25.5, 30.1) |QID|651| |C|!Warrior|
 N Kill the Forsaken Courier. Loot her for her Sealed Folder - The Forsaken Courier patrols the road between Tarren Mill and Go'Shek Farm - If you haven't found her by the time you reached Go'Shek, grind the Orcs there for 5 minutes, then skip the step if she hasn't spawned in Jorell's house by then |QID|658|
-R Arathi>> Fly to Arathi Highlands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |O|
+R Arathi>> Fly to Arathi Highlands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |SK|
 A Hints of a New Plague? |QID|658| |N|Talk to Quae - Talk to Quae - (60.2, 53.8)| |O|
 T Hints of a New Plague? |QID|659| |N|Talk to Quae - Talk to Quae - (60.2, 53.8)| |O|
 N Kill the Forsaken Courier. Loot her for her Sealed Folder - The Forsaken Courier patrols the road between Tarren Mill and Go'Shek Farm |QID|658|
@@ -117,7 +117,7 @@ N Open the Stone of West Binding. Loot it for the Burning Key - (25.5, 30.1) |QI
 N Kill Burning Exile - Kill Burning Exiles. Loot them for their Burning Charms - Collect item 4479 (x8) - (67.5, 28.8) |C|Warrior|
 N (79.3, 66.8) |SK| |C|Warrior|
 N Click Bath'rah's Cauldron - (79.3, 66.8) |QID|1712| |C|Warrior|
-N Before Accepting The Summoning watch the video below on how to solo Cyclonian |O| |C|Warrior|
+N Before Accepting The Summoning watch the video below on how to solo Cyclonian |SK| |C|Warrior|
 T Cyclonian |QID|1712| |N|Talk to Bath'rah the Windwatcher - Talk to Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior|
 A The Summoning |QID|1713| |N|Talk to Bath'rah the Windwatcher - Talk to Bath'rah the Windwatcher - Accepting this quest will summon Cyclonian. He hits fairly hard, but can be soloed. Be sure to check the video for pointers on how to do so - (80.5, 66.9)| |C|Warrior|
 N Follow Bath'rah the Windwatcher to where he will summon Cyclonian - Kill Cyclonian. Loot him for his Whirlwind Heart - Cyclonian hits fairly hard, but can be soloed. Be sure to check the video for pointers on how to do so - (80.7, 62.1) |QID|1713| |C|Warrior|
@@ -141,10 +141,10 @@ A Drowned Sorrows |QID|664| |N|Talk to Captain Steelgut - Talk to Captain Steelg
 A Sunken Treasure |QID|665| |N|Talk to Professor Phizzlethorpe - Talk to Professor Phizzlethorpe - This will start an escort. If Professor Phizzlethorpe is not there, someone may already be doing it. Wait for him to return - (33.9, 80.5)|
 N Talk to Professor Phizzlethorpe - Escort Professor Phizzlethorpe into the small Cave - Kill the Vengeful Surges that attack once inside. Be careful as they cast [Frost Nova] - Try to tag both of the Surges before they hit the Professor. This will make them not interrupt his roleplay and make the quest complete a lot faster - Follow Professor Phizzlethorpe back to the camp afterwards - (35.7, 79.6) |QID|665|
 A Sunken Treasure |QID|666| |N|Talk to Doctor Draxlegauge - Talk to Doctor Draxlegauge - (33.9, 80.4)|
-N Cast Use your [Elixir of Water Breathing] if you have one - PAY CLOSE ATTENTION TO YOUR BREATH BAR IF YOU DO NOT HAVE ONE! |U|5996| |O| |C|!Warlock/!Druid|
-N Be on the lookout for the rare Prince Nazjak that can spawn in this area. - He can drop the [Tidal Charm] an extremely rare trinket that can be used to stun the target for 3 seconds |O|
-U Equip your [Goggles of Gem Hunting] so the Elven Gems show up on your minimap |QID|666| |N|Loot the Elven Gems on the sea floor| |U|5996| |O|
-N Kill +Daggerspine Sorceress - Kill Daggerspine Raiders and Daggerspine Sorceresses - Be aware the Daggerspine Raiders will cast [Net] on you |QID|664| |U|5996| |O|
+N Cast Use your [Elixir of Water Breathing] if you have one - PAY CLOSE ATTENTION TO YOUR BREATH BAR IF YOU DO NOT HAVE ONE! |U|5996| |SK| |C|!Warlock/!Druid|
+N Be on the lookout for the rare Prince Nazjak that can spawn in this area. - He can drop the [Tidal Charm] an extremely rare trinket that can be used to stun the target for 3 seconds |SK|
+U Equip your [Goggles of Gem Hunting] so the Elven Gems show up on your minimap |QID|666| |N|Loot the Elven Gems on the sea floor| |U|5996| |SK|
+N Kill +Daggerspine Sorceress - Kill Daggerspine Raiders and Daggerspine Sorceresses - Be aware the Daggerspine Raiders will cast [Net] on you |QID|664| |U|5996| |SK|
 N Loot Maiden's Folly Log on the 2nd floor of the ship. It is inside of the Cauldron - (23.4, 85.1) |QID|662| |U|5996|
 N Loot Maiden's Folly Charts on the 2nd floor of the ship. It is on the Pillar - (23.0, 84.5) |QID|662| |U|5996|
 N (20.5, 85.6) |SK|
@@ -153,7 +153,7 @@ N Loot the Spirit of Silverpine Charts on the bottom of the ship. It is on the s
 U Equip your [Goggles of Gem Hunting] so the Elven Gems show up on your minimap |QID|666| |N|Loot the Elven Gems on the sea floor| |U|5996| |SK|
 N Kill +Daggerspine Sorceress - Kill Daggerspine Raiders and Daggerspine Sorceresses - Be aware the Daggerspine Raiders will cast [Net] on you - (19.3, 84.1) |QID|664| |U|5996|
 U Equip your [Goggles of Gem Hunting] so the Elven Gems show up on your minimap |QID|666| |N|Loot the Elven Gems on the sea floor - (17.7, 88.8)| |U|5996|
-N Equip your normal [Helmet] |O|
+N Equip your normal [Helmet] |SK|
 T Deep Sea Salvage |QID|662| |N|Talk to First Mate Nilzlix - Talk to First Mate Nilzlix - (32.8, 81.5)|
 A Sunken Treasure |QID|668| |N|Talk to Doctor Draxlegauge - Talk to Captain Steelgut and Doctor Draxlegauge - (34.0, 80.8)|
 A Sunken Treasure |QID|669| |N|Talk to Shakes O'Breen - Talk to Shakes O'Breen - (32.3, 81.4)|
@@ -171,7 +171,7 @@ G Grind to level 40 |C|Warlock/Paladin| |M|speedrun|
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 H Hearthstone |O|
-R Southshore >> Fly to Southshore |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.7, 46.1)| |O| |M|speedrun|
+R Southshore >> Fly to Southshore |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.7, 46.1)| |SK| |M|speedrun|
 T Hints of a New Plague? |QID|661| |N|Talk to Phin Odelic - Talk to Phin Odelic - (50.3, 59.0)|
 A Stormpike's Deciphering |QID|554| |N|Talk to Loremaster Dibbs - Talk to Loremaster Dibbs - (50.6, 57.1)|
 A Return to Milton |QID|542| |N|Talk to Loremaster Dibbs - Talk to Loremaster Dibbs - (50.6, 57.1)|

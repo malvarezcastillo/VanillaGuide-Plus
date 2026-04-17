@@ -7,7 +7,7 @@ return [[
 
 N 41-41 Swamp of Sorrows |N|Converted from RestedXP guide|
 
-N (39.3, 6.5) |O|
+N (39.3, 6.5) |SK|
 N Be careful of the Darkshire Guards! Don't mindlessly follow the road - Follow the waypoint arrow for safety - (74.1, 56.5) |SK|
 T Nothing But The Truth |QID|1372| |N|Talk to Apothecary Faustin - Talk to Zraedus and Faustin - (87.8, 35.6)|
 N (88.5, 41.0) |SK|
@@ -30,11 +30,11 @@ t Train your class spells |N|Talk to Haromm - Talk to Greshka - (48.2, 57.9)| |C
 t Train your class spells |N|Talk to Haromm - Talk to Greshka - (48.2, 57.9)| |O| |C|Shaman|
 t Train your class spells |N|Talk to Malosh - Talk to Malosh - (44.9, 57.6)| |C|Warrior|
 t Train your class spells |N|Talk to Malosh - Talk to Malosh - (44.9, 57.6)| |O| |C|Warrior|
-N Kill Sawtooth Crocolisks and Sawtooth Snappers. Loot them for their Sawtooth Flanks |QID|698| |O|
+N Kill Sawtooth Crocolisks and Sawtooth Snappers. Loot them for their Sawtooth Flanks |QID|698| |SK|
 A Noboru the Cudgel |QID|1392| |N|Kill Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest - Noboru the Cudgel patrols the zone's top-center - Collect item 6196 (x1) - (56.1, 36.0)|
 T Noboru the Cudgel |QID|1392| |N|Talk to Magtoor - Talk to Magtoor - (26.0, 31.4)|
-N Kill Ongeku. Loot him for his Shard - Ongeku can be found all over the Fallow Sanctuary |QID|1373| |O|
-N Talk to Galen Goodward - Loot the blue Draenethyst Crystals on the ground |QID|1389| |O|
+N Kill Ongeku. Loot him for his Shard - Ongeku can be found all over the Fallow Sanctuary |QID|1373| |SK|
+N Talk to Galen Goodward - Loot the blue Draenethyst Crystals on the ground |QID|1389| |SK|
 N This next quest can be quite hard, be extra careful |SK|
 A Galen's Escape |QID|1393| |N|Talk to Galen Goodward - Talk to Galen to start his escort - Before starting, pre-clear mobs to the immediate southwest of Galen as best you can - (65.5, 18.2)|
 N Talk to Galen Goodward - Escort Galen Goodward safely out of the Fallow Sanctuary - (53.0, 29.6) |QID|1393|
@@ -43,7 +43,7 @@ N Kill Ongeku. Loot him for his Shard - Ongeku can be found all over the Fallow 
 N Finish looting the blue Draenethyst Crystals on the ground - (58.3, 25.5) |QID|1389|
 T Galen's Escape |QID|1393| |N|Click on Galen's Strongbox - (47.8, 39.8)|
 N Kill Sawtooth Crocolisks and Sawtooth Snappers. Loot them for their Sawtooth Flanks - (52.4, 37.1) |QID|698|
-N Loot the Atal'ai Artifacts scattered all around the Pool of Tears' shore, or at the bottom of the Pool of Tears itself - The artifacts have different models. Open your menu, click System, then Graphics, then adjust the Environmental Clutter slider (at the very bottom) to 0 |QID|1424| |O|
+N Loot the Atal'ai Artifacts scattered all around the Pool of Tears' shore, or at the bottom of the Pool of Tears itself - The artifacts have different models. Open your menu, click System, then Graphics, then adjust the Environmental Clutter slider (at the very bottom) to 0 |QID|1424| |SK|
 A Lack of Surplus |QID|699| |N|Talk to Tok'Kar - Talk to Tok'Kar - (81.4, 81.0)|
 T Lack of Surplus |QID|698| |N|Talk to Tok'Kar - Talk to Tok'Kar - (81.4, 81.0)|
 N Loot the Atal'ai Artifacts scattered all around the Pool of Tears' shore, or at the bottom of the Pool of Tears itself - The artifacts have different models. Open your menu, click System, then Graphics, then adjust the Environmental Clutter slider (at the very bottom) to 0 - (75.4, 60.4) |QID|1424|
@@ -51,7 +51,7 @@ T Pool of Tears |QID|1424| |N|Talk to Fel'zerul - Return to Fel'zerul in Stonard
 T Draenethyst Crystals |QID|1389| |N|Talk to Magtoor - Talk to Magtoor - (25.9, 31.5)|
 N Finish killing Adolescent Whelps and Dreaming Whelps. Loot them for their Dream Dust - (12.0, 60.3) |QID|1116|
 U Hearthstone |U|6948|
-F Booty Bay >> Fly to Booty Bay |N|Talk to Thysta - Talk to Thysta - (32.5, 29.3)| |O|
+F Booty Bay >> Fly to Booty Bay |N|Talk to Thysta - Talk to Thysta - (32.5, 29.3)| |SK|
 A Goblin Sponsorship |QID|1183| |N|Talk to Baron Revilgaz - Then talk to Baron Revilgaz - (27.1, 77.0)|
 T Sunken Treasure |QID|669| |N|Talk to Fleet Master Seahorn - Talk to Fleet Master Seahorn - (27.1, 77.0)|
 T Skullsplitter Tusks |QID|209| |N|Talk to Kebok - Talk to Kebok on the inn's top floor - (26.9, 77.2)|
@@ -70,7 +70,7 @@ N Talk to Viznik Goldgrubber - Talk to Viznik Goldgrubber - (26.6, 76.6)
 N (25.9, 73.1) |SK|
 R Take the boat to Ratchet |N|(25.8, 73.0)|
 T Stinky's Escape |QID|1270| |N|Talk to Mebok Mizzyrix - Talk to Mebok - (62.4, 37.6)|
-F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |O|
+F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |SK|
 h The Barrens |N|Talk to Innkeeper Byula - Talk to Innkeeper Byula - (45.6, 59.0)|
 R Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |C|!Mage|
 R Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |C|!Mage|

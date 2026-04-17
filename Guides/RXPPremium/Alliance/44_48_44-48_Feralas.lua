@@ -14,8 +14,8 @@ N It is always faster to swim across the water than waiting for the boat - (30.2
 A The Mark of Quality |QID|2821| |N|Talk to Pratt McGrubben - Talk to Pratt McGrubben - (30.6, 42.7)|
 N Talk to Antarius - Talk to Antarius - (31.5, 43.1) |SK| |C|Hunter|
 t Attack mobs with it to learn [Bite (Rank 6)] |N|Kill Longtooth Runner - Cast [Tame Beast] on a Longtooth Runner to tame it - (29.8, 49.2)| |C|Hunter|
-N Talk to Mardrack Greenwell - Talk to Mardrack Greenwell - Restock on Food/Water. There is a long grind section ahead - Buy 5 stacks of food/water - (31.0, 43.1) |O|
-N Talk to Faralorn - Talk to Faralorn - Buy 25 stacks of Ammo - (30.6, 43.4) |O| |C|Hunter|
+N Talk to Mardrack Greenwell - Talk to Mardrack Greenwell - Restock on Food/Water. There is a long grind section ahead - Buy 5 stacks of food/water - (31.0, 43.1) |SK|
+N Talk to Faralorn - Talk to Faralorn - Buy 25 stacks of Ammo - (30.6, 43.4) |SK| |C|Hunter|
 h Feralas |N|Talk to Innkeeper Shyria - Talk to Innkeeper Shyria - (31.0, 43.5)|
 N Talk to Antarius - Talk to Antarius - (31.5, 43.1) |C|Hunter|
 A The Ruins of Solarsal |QID|2866| |N|Talk to Shandris Feathermoon - Talk to Latronicus Moonspear and Shandris Feathermoon - (30.4, 46.2)|
@@ -42,8 +42,8 @@ A The Woodpaw Gnolls |QID|4131| |N|Talk to Ginro Hearthkindle - Talk to Ginro He
 A Delivering the Relic |QID|2871| |N|Talk to Latronicus Moonspear - Talk to Latronicus Moonspear - (30.4, 46.2)|
 T Delivering the Relic |QID|2871| |N|Talk to Vestia Moonspear - Talk to Vestia Moonspear - (30.1, 45.1)|
 N (45.1, 44.9) |SK|
-C Use [Yeh'kinya's Bramble] on their corpses to summon a Screecher Spirit |QID|3520| |N|Talk to Screecher Spirit - Kill Vale Screechers and Rogue Vale Screechers - Talk to the Screecher Spirit - (52.0, 48.9)| |U|10699| |O|
-N Kill Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers - (58.8, 59.0) |QID|1452| |O|
+C Use [Yeh'kinya's Bramble] on their corpses to summon a Screecher Spirit |QID|3520| |N|Talk to Screecher Spirit - Kill Vale Screechers and Rogue Vale Screechers - Talk to the Screecher Spirit - (52.0, 48.9)| |U|10699| |SK|
+N Kill Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers - (58.8, 59.0) |QID|1452| |SK|
 R You must explore the Dire Maul zone as a pre-requisite to unlock a quest later on. Get close to the Dire Maul zone border until your General Chat changes to Dire Maul |N|(55.4, 45.5)|
 N Kill Feral Scar Yetis, Enraged Feral Scars and Hulking Feral Scars. Loot them for their Thick Yeti Hides - (55.6, 56.4) |QID|2821|
 A Find OOX-22/FE! |QID|2766| |N|Collect item 8705 (x1)| |U|8705|
@@ -72,7 +72,7 @@ A A Hero's Welcome |QID|4266| |N|Talk to Ginro Hearthkindle - Talk to Ginro Hear
 A Rise of the Silithid |QID|4267| |N|Talk to Shandris Feathermoon - Talk to Shandris Feathermoon - (30.3, 46.2)|
 N Talk to Faralorn - Talk to Faralorn - Buy Ammo if needed - (30.6, 43.4) |C|Hunter|
 G At this point you should be close to having your mount money, if you're close to the 55g mark, grind nagas until you have enough to buy a mount, otherwise skip this step and fly to Teldrassil |N|(26.2, 67.5)| |SK| |C|!Warlock/!Paladin|
-N Grind Nagas until your Hearthstone cooldown is less than 10min, don't head out to Teldrassil without having your hearthstone ready to go back - (26.2, 67.5) |O|
+N Grind Nagas until your Hearthstone cooldown is less than 10min, don't head out to Teldrassil without having your hearthstone ready to go back - (26.2, 67.5) |SK|
 F Teldrassil >> Fly to Teldrassil |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.3)| |C|!Mage/!Druid|
 N Cast Cast Teleport: Moonglade |C|Druid|
 R Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - Skip this step if you trained earlier - (52.5, 40.6)| |C|Druid|
@@ -101,20 +101,20 @@ N If you still haven't bought your mount and you have 100g, take the boat to Wet
 N If you still haven't bought your mount and you have 55g, take the boat to Wetlands, fly to Stormwind, head to the Eastvale Logging Camp in Elwynn Forest and buy a mount - (84.0, 65.4) |SK| |C|!Warlock/!Paladin| |R|Human|
 N If you still haven't bought your mount and you have 55g, take the boat to Wetlands, fly to Ironforge, head to the Amberstill Ranch in Dun Morogh and buy a mount - (63.4, 50.6) |SK| |C|!Paladin| |R|Dwarf|
 N If you still haven't bought your mount and you have 55g, take the boat to Wetlands, fly to Ironforge, head to Kharanos in Dun Morogh and buy a mount - (49.2, 48.0) |SK| |C|!Warlock| |R|Gnome|
-R Make your way to Ironforge to accept the 2 Uldaman quests there, then head to Loch Modan |O|
+R Make your way to Ironforge to accept the 2 Uldaman quests there, then head to Loch Modan |SK|
 A The Lost Dwarves |QID|2398| |N|Talk to Prospector Stormpike - Talk to Prospector Stormpike - (74.6, 11.7)|
 A Reclaimed Treasures |QID|1360| |N|Talk to Krom Stoutarm - Talk to Krom Stoutarm - (74.2, 9.4)|
 F Loch Modan >> Fly to Loch Modan |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)|
 A Uldaman Reagent Run |QID|17| |N|Talk to Ghak Healtouch - Talk to Ghak Healtouch - (36.5, 48.4)|
 A Agmond's Fate |QID|704| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)|
-R Travel to Badlands |N|(47.0, 79.3)| |O|
+R Travel to Badlands |N|(47.0, 79.3)| |SK|
 A A Sign of Hope |QID|720| |N|Click the Crumpled Map on the ground - (53.0, 33.9)|
 A A Sign of Hope |QID|721| |N|Talk to Prospector Ryedol - Talk to Prospector Ryedol - (53.4, 43.4)|
 A Solution to Doom |QID|709| |N|Talk to Theldurin the Lost - Talk to Theldurin the Lost - (51.4, 76.9)|
 R Grind Ogres and Greater Rock Elementals while looking for a group for Uldaman |N|(4.0, 80.6)|
-R Travel to Uldaman |O|
-N Loot the Carved Stone Urns on the ground - This can be only be completed OUTSIDE of Uldaman |QID|704| |O|
-N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman |QID|17| |O|
+R Travel to Uldaman |SK|
+N Loot the Carved Stone Urns on the ground - This can be only be completed OUTSIDE of Uldaman |QID|704| |SK|
+N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman |QID|17| |SK|
 A Amulet of Secrets |QID|722| |N|Talk to Hammertoe Grez - Talk to Hammertoe Grez|
 N Kill Magregan Deepshadow. Loot him for Hammertoe's Amulet - This is completed OUTSIDE of Uldaman |QID|722|
 N Open the Ancient Chest. Loot it for the Tablet of Ryun'eh - This is completed OUTSIDE of Uldaman |QID|709|
@@ -122,7 +122,7 @@ N Loot Krom Stoutarm's Treasure on the ground - This is completed OUTSIDE of Uld
 A Prospect of Faith |QID|723| |N|Talk to Hammertoe Grez - Talk to Hammertoe Grez|
 N Loot the Carved Stone Urns and Magenta Fungus Caps on the ground - Prioritize the Carved Stone Urns. This can only be completed OUTSIDE of Uldaman. You can finish the Magenta Fungus Caps once inside |QID|17|
 N Loot the Carved Stone Urns on the ground - This can be only be completed OUTSIDE of Uldaman |QID|704|
-N Loot the Magenta Fungus Caps on the ground |QID|17| |O|
+N Loot the Magenta Fungus Caps on the ground |QID|17| |SK|
 A The Hidden Chamber |QID|2240| |N|Talk to Baelog - Talk to Baelog|
 A The Hidden Chamber |QID|2240| |N|Talk to Baelog - Talk to Baelog|
 N Kill Revelosh - Open Baelog's Chest. Loot it for the [Gni'kiv Medallion] - Kill Revelosh. Loot him for [The Shaft of Tsol] - Note other party members can loot these items, and then combine them to create the [Staff of Prehistoria]. Only one person in the group needs to do this - Collect item 7740 (x1) - Collect item 7741 (x1) |U|7741| |SK|
@@ -134,7 +134,7 @@ A The Platinum Discs |QID|2279| |N|Click The Discs of Norgannon|
 N Zone out of Uldaman together as a group to turn in quests in Badlands. The closest exit is the Uldaman backdoor
 T Solution to Doom |QID|709| |N|Talk to Theldurin the Lost - Talk to Theldurin the Lost - (51.4, 76.9)|
 A Prospect of Faith |QID|724| |N|Talk to Prospector Ryedol - Talk to Prospector Ryedol - (53.4, 43.4)|
-R Travel to Loch Modan |N|(49.5, 9.8)| |O|
+R Travel to Loch Modan |N|(49.5, 9.8)| |SK|
 T Agmond's Fate |QID|704| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)|
 T Uldaman Reagent Run |QID|17| |N|Talk to Ghak Healtouch - Talk to Ghak Healtouch - (36.5, 48.4)|
 F Ironforge >> Fly to Ironforge |N|Talk to Thorgrum Borrelson - Talk to Thorgrum Borrelson - (33.9, 51.0)|
@@ -151,7 +151,7 @@ H Hearthstone
 G Head back to the Naga cave and grind to level 47 |N|(26.2, 67.5)|
 G Head back to the Naga cave and grind to level 48 |N|(26.2, 67.5)|
 G Head back to the Naga cave and grind to level 48 + 50% |N|(26.2, 67.5)|
-H Hearthstone |O|
+H Hearthstone |SK|
 A The Sunken Temple |QID|3445| |N|Talk to Angelas Moonbreeze - Talk to Angelas Moonbreeze - (31.8, 45.6)|
 N Talk to Faralorn - Talk to Faralorn - Buy Ammo for the next segment - (30.6, 43.4) |C|Hunter|
 F Thalanaar>> Fly to Thalanaar |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.3)| |SK|

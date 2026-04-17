@@ -16,7 +16,7 @@ A Plagued Lands |QID|2118| |N|Talk to Tharnariun Treetender - Talk to Tharnariun
 A How Big a Threat? |QID|984| |N|Talk to Terenthis - Talk to Terenthis - (39.4, 43.5)|
 A Washed Ashore |QID|3524| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde - (36.6, 45.6)|
 f Auberdine >> Get the Auberdine flight path |N|(36.3, 45.6)|
-N Kill Crawlers along the coast - Crawler Leg (6) |QID|983| |O|
+N Kill Crawlers along the coast - Crawler Leg (6) |QID|983| |SK|
 N Loot the sea creature - Sea Creature Bones (1) - (36.4, 50.9) |QID|3524|
 N Find a Rabid Thistle Bear. Aggro one and use Tharnariun's Hope in your bags (purple orb) - Rabid Thistle Bear Captured (1) |QID|2118| |SK|
 N Head towards the vicinity furbolg camp - Find a corrupt furbolg camp (1) - (39.0, 53.7) |QID|984|
@@ -100,8 +100,8 @@ A Onu |QID|948| |N|Talk to Barithras Moonshade - Talk to Barithras Moonshade - (
 A WANTED: Murkdeep! |QID|4740| |N|Click on the wanted poster outside the inn - (37.2, 44.2)|
 T Fruit of the Sea |QID|1138| |N|Talk to Gubber Blump - Talk to Gubber Blump - (36.1, 44.9)|
 T Beached Sea Turtle |QID|4725| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde - (19.1, 20.6)|
-N Kill any Moonstalker Sire you find and Matriarchs if you're comfortable. Loot them for Pelts. They share spawns with Grizzled Thistle Bears. - Fine Moonstalker Pelt (5) |QID|986| |O|
-N Kill Grizzled Thistle Bears. Loot them for Scalps - Grizzled Scalp (4) - (38.6, 80.5) |QID|1003| |O|
+N Kill any Moonstalker Sire you find and Matriarchs if you're comfortable. Loot them for Pelts. They share spawns with Grizzled Thistle Bears. - Fine Moonstalker Pelt (5) |QID|986| |SK|
+N Kill Grizzled Thistle Bears. Loot them for Scalps - Grizzled Scalp (4) - (38.6, 80.5) |QID|1003| |SK|
 A The Master's Glaive |QID|944| |N|Talk to Onu - Talk to Onu - (43.5, 76.3)|
 N Buy level 15 water from Tiyani - (43.7, 76.6) |SK|
 A Beached Sea Creature |QID|4728| |N|Loot the remains - (36.0, 70.9)| |R|Human|
@@ -114,7 +114,7 @@ A Beached Sea Creature |QID|4733| |N|Loot it at its neck, be careful of the 2 mo
 T The Absent Minded Prospector |QID|729| |N|Talk to Prospector Remtravel - Talk to Prospector Remtravel - (35.7, 83.7)|
 A The Absent Minded Prospector |QID|731| |N|Talk to Prospector Remtravel - This quest is VERY hard. Do it with another player if you can. - Start the escort quest - Talk to Prospector Remtravel - (35.7, 83.7)|
 N Escort Prospector Remtravel - Let Remtravel aggro everything (as mobs need to hit him for them to aggro him), then blast the mob with fireballs - Remtravel is really squishy, so try to take aggro off of him from the other mobs - When troggs spawn, polymorph the one he isn't attacking, then nuke the other one when it has hit him. Polymorph the mage first that spawns near the end AFTER it shoots a fireball at the prospector - If you can't do this quest first-time, just skip it - it is VERY skill-intensive and also very luck-based. - Escort Prospector Remtravel (1) |QID|731|
-N Kill any Moonstalker Sire you find and Matriarchs if you're comfortable. Loot them for Pelts. They share spawns with Grizzled Thistle Bears. - Fine Moonstalker Pelt (5) |QID|986| |O|
+N Kill any Moonstalker Sire you find and Matriarchs if you're comfortable. Loot them for Pelts. They share spawns with Grizzled Thistle Bears. - Fine Moonstalker Pelt (5) |QID|986| |SK|
 N Kill Plainstriders. Make sure you have at least 1 light feather for later - Light Feather (1)
 N Kill Grizzled Thistle Bears. Loot them for Scalps - Grizzled Scalp (4) - (38.6, 80.5) |QID|1003| |SK|
 A The Powers Below |QID|968| |N|Keep an eye out for The Powers Below. It's a low droprate, free quest - Book: The Powers Below (1)| |SK|
@@ -152,7 +152,7 @@ N If you have 8s, Check for Bronze Tube from Neal Allen and buy it if it's there
 F Ironforge >> Fly to Ironforge |N|(9.5, 59.7)|
 N Perform a Logout skip by jumping on top of one of the Gryphon's heads, and logging out, then back in - (56.2, 46.8) |SK|
 R Take the tram to Stormwind City
-N Buy a Bronze Tube if you haven't - This is a limited supply item, skip this step if the npc doesn't have it - (55.2, 7.0) |O|
+N Buy a Bronze Tube if you haven't - This is a limited supply item, skip this step if the npc doesn't have it - (55.2, 7.0) |SK|
 R Travel to Elwynn Forest |N|(32.5, 50.2)| |R|Human|
 R Travel to Stormwind City |N|(26.3, 38.5)| |R|Gnome|
 f Stormwind City >> Get the Stormwind City flight path |N|Run into Stormwind and get the Flight Path - (57.6, 59.5)| |R|Gnome|

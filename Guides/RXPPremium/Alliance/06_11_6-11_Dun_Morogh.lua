@@ -7,7 +7,7 @@ return [[
 
 N 6-11 Dun Morogh |N|Converted from RestedXP guide|
 
-N Kill Large Crag Boar - Kill Crag Boars and Large Crag Boars. Loot them for their [Chunks of Boar Meat] and Crag Boar Ribs - Collect Chunk of Boar Meat (x4) - Collect Crag Boar Rib (x6) |O|
+N Kill Large Crag Boar - Kill Crag Boars and Large Crag Boars. Loot them for their [Chunks of Boar Meat] and Crag Boar Ribs - Collect Chunk of Boar Meat (x4) - Collect Crag Boar Rib (x6) |SK|
 N (46.7, 53.8) |SK|
 T Senir's Observations |QID|420| |N|Talk to Senir Whitebeard - Talk to Senir Whitebeard - (46.7, 53.8)|
 A Beer Basted Boar Ribs |QID|384| |N|Talk to Ragnar Thunderbrew - Talk to Ragnar Thunderbrew - (46.8, 52.4)|
@@ -19,7 +19,7 @@ A The Grizzled Den |QID|313| |N|Talk to Pilot Stonegear - Talk to Pilot Stonegea
 T Tools for Steelgrill |QID|400| |N|Talk to Beldin Steelgrill - Talk to Beldin Steelgrill - (50.4, 49.1)|
 A Ammo for Rumbleshot |QID|5541| |N|Talk to Loslor Rudge - Talk to Loslor Rudge - (50.1, 49.4)|
 N Kill Young Black Bears. Loot them for their Fur - Kill Crag Boars and Large Crag Boars. Loot them for their [Chunks of Boar Meat] and Crag Boar Ribs - Collect Thick Bear Fur (x2) - Collect Chunk of Boar Meat (x4) - Collect Crag Boar Rib (x6) - (52.0, 50.1) |QID|317| |C|!Paladin/!Warrior/!Rogue|
-N Kill Large Crag Boar - Kill Crag Boars and Large Crag Boars. Loot them for their Crag Boar Ribs - Collect Crag Boar Rib (x6) |O|
+N Kill Large Crag Boar - Kill Crag Boars and Large Crag Boars. Loot them for their Crag Boar Ribs - Collect Crag Boar Rib (x6) |SK|
 A Evershine |QID|318| |N|Talk to Pilot Bellowfiz - Talk to Pilot Bellowfiz - (49.4, 48.4)|
 G Grind to level 6
 t Train Arcane Shot |N|Talk to Grif Wildheart - Talk to Grif Wildheart - (45.8, 53.0)|
@@ -53,8 +53,8 @@ A Return to Marleth |QID|311| |N|Click the Unguarded Thunder Ale Barrel - (47.7,
 T Beer Basted Boar Ribs |QID|384| |N|Talk to Ragnar Thunderbrew - Talk to Ragnar Thunderbrew outside - (46.8, 52.4)|
 A Frostmane Hold |QID|287| |N|Talk to Senir Whitebeard - Talk to Senir Whitebeard - (46.7, 53.8)|
 t Train Concussive Shot |N|Talk to Grif Wildheart - Talk to Grif Wildheart - (45.8, 53.0)| |C|Hunter|
-N Kill Ice Claw Bears, Elder Crag Boars and Snow Leopards - Kill Ice Claw Bear (x6) - Kill Elder Crag Boar (x8) - Kill Snow Leopard (x8) |QID|319| |O|
-N (59.8, 49.6) |O|
+N Kill Ice Claw Bears, Elder Crag Boars and Snow Leopards - Kill Ice Claw Bear (x6) - Kill Elder Crag Boar (x8) - Kill Snow Leopard (x8) |QID|319| |SK|
+N (59.8, 49.6) |SK|
 N Kill Vagash - Kite Vagash down to Rudra |SK|
 A Protecting the Herd |QID|314| |N|Talk to Rudra Amberstill - Talk to Rudra Amberstill - (63.1, 49.9)|
 N Kill Vagash. Loot him for his Fang - Kite him to the guard south of the ranch. Make sure you do 51%+ damage to him - Watch the video below before you attempt to kill Vagash. It can be soloed on any class - Collect Fang of Vagash (1) |QID|314|
@@ -88,7 +88,7 @@ N Drop down to this location to explore Frostmane Hold. If there are mobs below,
 N Kill Frostmane Headhunters - Kill Frostmane Headhunter (x5) - (24.5, 50.8) |QID|287|
 N Kill Leper Gnomes. Loot them for their Gears and Cogs - Collect Gyromechanic Gear (x8) - Collect Restabilization Cog (x8) - (27.2, 43.0) |QID|412|
 G Grind until you are 1450xp away from level 10
-N (46.7, 53.7) |O| |M|hardcore|
+N (46.7, 53.7) |SK| |M|hardcore|
 D Die and respawn |SK| |M|speedrun|
 A The Reports |QID|291| |N|Talk to Senir Whitebeard - Talk to Senir Whitebeard - (46.7, 53.8)|
 T Operation Recombobulation |QID|412| |N|Talk to Razzle Sprysprocket - Talk to Razzle Sprysprocket - (46.0, 48.6)|

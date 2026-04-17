@@ -22,7 +22,7 @@ N Open your [Box of Spells] |U|9540| |O|
 N Open your [Box of Goodies] |U|9541| |O|
 A Thistleshrub Valley |QID|3362| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 A Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)|
-N Kill Rocs. Loot them for their Gizzards - Don't go out of your way to finish this |QID|1452| |O|
+N Kill Rocs. Loot them for their Gizzards - Don't go out of your way to finish this |QID|1452| |SK|
 C Use the [Untapped Dowsing Widget] at the Sandsorrow Watch pond. Avoid the Elite Sandfury Trolls en-route |QID|992| |N|Two level 47/48 Centipaar Tunnelers will spawn once you fill the [Untapped Dowsing Widget]. You may kill them or run away to reset them - (39.0, 29.2)| |U|8584|
 A Noxious Lair Investigation |QID|82| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)|
 N Kill Centipaar Sandreavers, Centipaar Swarmers, Centipaar Stingers, Centipaar Tunnelers, and Centipaar Wasps. Loot them for Centipaar Insect Parts - Be careful as all Centipaar cast [Thrash] (Charges 2 extra attacks every 10 seconds), Centipaar Sandreavers cast [Arcing Smash] (Deals an extra melee attack), Centipaar Swarmers cast [Silithid Swarm] (Summons a 1 health mob every 10 seconds that deals current-level attack damage, instantly dies to AoE), Centipaar Stingers cast [Venom Sting] (deals 11-12 damage every 5 seconds for 45 seconds), Centipaar Tunnelers cast [Pierce Armor] (Reduces armor by 50% for 20 seconds), and Centipaar Wasps cast [Poison] (deals 33-34 damage every 3 seconds for 30 seconds) - (35.7, 39.8) |QID|82|
@@ -41,7 +41,7 @@ A Witherbark Cages |QID|2988| |N|Talk to Gryphon Master Talonaxe - Talk to Gryph
 A Troll Necklace Bounty |QID|2880| |N|Talk to Fraggar Thundermantle - Talk to Fraggar Thundermantle - (14.8, 44.6)|
 N Loot the Wildkin Feathers on the ground - These are scattered on the ground throughout all of The Hinterlands |QID|3661| |SK|
 A Rhapsody's Tale |QID|1469| |N|Talk to Rhapsody Shindigger - Talk to Rhapsody Shindigger - (26.9, 48.6)|
-N Kill Witherbark Scalper - Kill Witherbark Trolls. Loot them for their Tribal Necklaces - Collect item 9259 (x5) |O|
+N Kill Witherbark Scalper - Kill Witherbark Trolls. Loot them for their Tribal Necklaces - Collect item 9259 (x5) |SK|
 N Click the Third Witherbark Cage - (32.0, 57.3) |QID|2988|
 N Click the First Witherbark Cage and Second Witherbark Cage - (23.3, 58.8) |QID|2988|
 N Kill Witherbark Scalper - Kill Witherbark Trolls. Loot them for their Tribal Necklaces - Collect item 9259 (x5) - (21.9, 56.0)
@@ -55,7 +55,7 @@ A Find OOX-09/HL! |QID|485| |N|If you are unlucky and have not found it yet, ski
 T Find OOX-09/HL! |QID|485| |N|Talk to Homing Robot OOX-09/HL - Talk to the Homing Robot OOX-09/HL - (49.4, 37.7)|
 A Rescue OOX-09/HL! |QID|836| |N|Talk to Homing Robot OOX-09/HL - Talk to the Homing Robot OOX-09/HL - (49.4, 37.7)|
 N Talk to Homing Robot OOX-22/FE - Escort the Homing Robot OOX-09/HL to safety - This quest can be hard. You have to fight waves of 3/4 mobs along the way. Skip this step if its too difficult - (72.5, 66.2) |QID|836|
-N Grind until your Hearthstone cooldown is <6min |O|
+N Grind until your Hearthstone cooldown is <6min |SK|
 N Loot the Pupellyverbos Ports on the ground |QID|580| |SK|
 C Use the [Super Snapper FX] on Gammerita |QID|2944| |N|This will cause Gammerita to agro you. Be ready to run away after using it - (82.0, 49.4)| |U|9328|
 N Loot the Pupellyverbos Ports on the ground - (81.7, 49.3) |QID|580|

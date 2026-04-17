@@ -24,7 +24,7 @@ A Pie for Billy |QID|86| |N|Talk to Billy Maclure - Talk to Billy Maclure - (43.
 N Kill Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust - The level 5 mobs may turn gray during this quest. Still finish it as you need to complete this quest to unlock the follow up's - Kobold Candle (8) - Gold Dust (10) |QID|47| |SK|
 N Enter and explore Fargodeep Mine - Scout Through the Fargodeep Mine - (38.7, 81.8) |QID|62|
 N Kill Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust - The level 5 mobs may turn gray during this quest. Still finish it as you need to complete this quest to unlock the follow up's - Kobold Candle (8) - Gold Dust (10) - (40.5, 82.3) |QID|47|
-D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 T Gold Dust Exchange |QID|47| |N|Talk to Remy "Two Times" - Talk to Remy "Two Times" - Do NOT vendor the [Bag of Marbles] reward. This is an incredibly valuable item all the way through to level 60 - (42.1, 67.3)| |M|hardcore|
 T Wanted: "Hogger" |QID|176| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)| |C|Warlock|
 A Further Concerns |QID|35| |N|Talk to Marshal Dughan - Talk to Marshal Dughan - (42.1, 65.9)|
@@ -35,17 +35,17 @@ T Gold Dust Exchange |QID|47| |N|Talk to Remy "Two Times" - Talk to Remy "Two Ti
 N (74.0, 72.2) |SK|
 T Further Concerns |QID|35| |N|Talk to Guard Thomas - Talk to Guard Thomas - (74.0, 72.2)|
 A Protect the Frontier |QID|52| |N|Talk to Guard Thomas - Talk to Guard Thomas - (74.0, 72.2)|
-N Kill Prowlers and Young Forest Bears - Prioritize killing any Young Forest Bears you see - Kill Prowler (x8) - Kill Young Forest Bear (x5) |QID|52| |O|
+N Kill Prowlers and Young Forest Bears - Prioritize killing any Young Forest Bears you see - Kill Prowler (x8) - Kill Young Forest Bear (x5) |QID|52| |SK|
 A Discover Rolf's Fate |QID|45| |N|Click A half-eaten body on the ground - (72.7, 60.3)|
 A A Bundle of Trouble |QID|5545| |N|Talk to Supervisor Raelen - Talk to Supervisor Raelen - (81.4, 66.1)|
-N Loot the Bundle of Wood on the ground. They are found beneath the trees - Bundle of Wood (8) |QID|5545| |O|
+N Loot the Bundle of Wood on the ground. They are found beneath the trees - Bundle of Wood (8) |QID|5545| |SK|
 A Report to Thomas |QID|71| |N|Click Rolf's corpse on the ground - Be careful as nearby Murlocs may agro once you click Rolf's corpse - Murloc Foragers will cast [Drink Minor Potion] which heals themselves for 61-68 - (79.8, 55.5)|
 N Kill Prowlers and Young Forest Bears - Kill Prowler (x8) - Kill Young Forest Bear (x5) - (76.7, 75.6) |QID|52|
 N Loot the Bundle of Wood on the ground. They are found beneath the trees - Bundle of Wood (8) - (76.8, 62.4) |QID|5545|
 T A Bundle of Trouble |QID|5545| |N|Talk to Supervisor Raelen - Talk to Supervisor Raelen - (81.4, 66.1)|
 A Red Linen Goods |QID|83| |N|Talk to Sara Timberlain - Talk to Sara Timberlain - (79.5, 68.8)|
 A Report to Gryan Stoutmantle |QID|109| |N|Talk to Guard Thomas - Talk to Guard Thomas - (74.0, 72.2)|
-A Furlbrow's Deed |QID|184| |N|Kill Defias Bandits. Loot them for the [Westfall Deed] - The [Westfall Deed] is a very rare drop. Ignore this step if you don't get it - Collect Westfall Deed (x1)| |U|1972| |O|
+A Furlbrow's Deed |QID|184| |N|Kill Defias Bandits. Loot them for the [Westfall Deed] - The [Westfall Deed] is a very rare drop. Ignore this step if you don't get it - Collect Westfall Deed (x1)| |U|1972| |SK|
 N Kill Surena Caledon. Loot her for her Choker - Kill Morgan the Collector. Loot him for The Collector's Ring - Focus on killing Surena Caledon very quickly - Cast [Fear] on Morgan the Collector continously - Surena's Choker (1) - The Collector's Ring (1) - (71.1, 80.7) |QID|147| |C|Warlock|
 N Kill Surena Caledon. Loot her for her Choker - Focus on killing Surena Caledon very quickly - Cast [Fear] on Morgan the Collector continously - Surena's Choker (1) - (71.1, 80.7) |QID|1688| |C|Warlock|
 N Kill Defias Bandits. Loot them for their Bandanas - Collect Red Linen Bandana (x6) |QID|83| |SK|
@@ -80,7 +80,7 @@ t Train your class spells |N|Talk to Priestess Josetta - Talk to Priestess Joset
 T Princess Must Die! |QID|88| |N|Talk to Ma Stonefield - Talk to Ma Stonefield - (34.7, 84.5)|
 T Pie for Billy |QID|86| |N|Talk to "Auntie" Bernice Stonefield - Talk to "Auntie" Bernice Stonefield - Skip the turn in for now if you don't have enough [Chunks of Boar Meat] - (34.5, 84.3)|
 N Kill Riverpaw Outrunner - Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for [Linen Cloth] - Ensure you have 10 [Linen Cloth] for your upcoming Paladin class quest - Linen Cloth (10) |C|Paladin| |R|Dwarf|
-R Travel to Westfall |N|(60.0, 19.4)| |O|
+R Travel to Westfall |N|(60.0, 19.4)| |SK|
 T Furlbrow's Deed |QID|184| |N|Talk to Farmer Furlbrow - Talk to Farmer Furlbrow - (60.0, 19.4)|
 A Westfall Stew |QID|36| |N|Talk to Verna Furlbrow - Talk to Farmer Furlbrow and Verna Furlbrow - (60.0, 19.4)|
 A The Killing Fields |QID|9| |N|Talk to Farmer Saldean - Talk to Farmer Saldean - (56.0, 31.2)|

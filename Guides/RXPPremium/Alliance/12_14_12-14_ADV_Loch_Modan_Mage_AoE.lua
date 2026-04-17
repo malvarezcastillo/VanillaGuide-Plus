@@ -12,7 +12,7 @@ R Travel to Loch Modan
 A In Defense of the King's Lands |QID|224| |N|Talk to Mountaineer Cobbleflint - Talk to Cobbleflint - (22.1, 73.1)|
 N (23.3, 75.7) |SK|
 A The Trogg Threat |QID|267| |N|Talk to Captain Rugelfuss - Talk to Rugelfuss - (23.2, 73.7)|
-N Kill +Forest Lurker - Kill Mountain Boars. Loot them for their Boar Intestines - Kill Elder Black Bears. Loot them for their Bear Meat - Kill Forest Lurkers. Loot them for their Spider Ichor - Remember to kite them to Mountaineers if needed - Be careful as Mountain Boars cast [Charge] (Self Instant: Increases movespeed for 3 seconds, dealing 40-100 melee damage on hit. Only castable at range) - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) |O|
+N Kill +Forest Lurker - Kill Mountain Boars. Loot them for their Boar Intestines - Kill Elder Black Bears. Loot them for their Bear Meat - Kill Forest Lurkers. Loot them for their Spider Ichor - Remember to kite them to Mountaineers if needed - Be careful as Mountain Boars cast [Charge] (Self Instant: Increases movespeed for 3 seconds, dealing 40-100 melee damage on hit. Only castable at range) - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) |SK|
 N Kill Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Trogg Stone Teeth - Be careful as Stonesplinter Scouts cast [Shoot] (Ranged Cast: Deals 14-20 damage) - This is a hyperspawn area. You should not need to move from here - Kill Stonesplinter Trogg (x10) - Kill Stonesplinter Scout (x10) - Collect Trogg Stone Tooth (x8) - (26.7, 56.9) |QID|267|
 T In Defense of the King's Lands |QID|224| |N|Talk to Mountaineer Cobbleflint - Talk to Cobbleflint - (22.1, 73.1)|
 N (23.3, 75.7) |SK|
@@ -23,8 +23,8 @@ N Kill +Forest Lurker - Kill Mountain Boars. Loot them for their Boar Intestines
 N (23.6, 17.9)
 N Talk to Gothor Brumn - Talk to Gothor - Vendor Trash - (24.1, 18.2)
 A Filthy Paws |QID|307| |N|Talk to Mountaineer Stormpike - Go Upstairs - Talk to Stormpike - (24.8, 18.4)|
-N Kill +Forest Lurker - Kill Mountain Boars. Loot them for their Boar Intestines - Kill Elder Black Bears. Loot them for their Bear Meat - Kill Forest Lurkers. Loot them for their Spider Ichor - Remember to kite them to Mountaineers if needed - Be careful as Mountain Boars cast [Charge] (Self Instant: Increases movespeed for 3 seconds, dealing 40-100 melee damage on hit. Only castable at range) - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) |O|
-N Kill Tunnel Rats. Loot them for their Tunnel Rat Ears - Collect Tunnel Rat Ear (x12) |QID|416| |O|
+N Kill +Forest Lurker - Kill Mountain Boars. Loot them for their Boar Intestines - Kill Elder Black Bears. Loot them for their Bear Meat - Kill Forest Lurkers. Loot them for their Spider Ichor - Remember to kite them to Mountaineers if needed - Be careful as Mountain Boars cast [Charge] (Self Instant: Increases movespeed for 3 seconds, dealing 40-100 melee damage on hit. Only castable at range) - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) |SK|
+N Kill Tunnel Rats. Loot them for their Tunnel Rat Ears - Collect Tunnel Rat Ear (x12) |QID|416| |SK|
 N (35.5, 18.9)
 N Loot the Miners' Gear on the ground. They share spawnpoints - Be careful as the Tunnel Rat Geomancers cast [Quick Flame Ward] (Self Cast: Gives 10-second fire immunity) and [Fire Blast] (Ranged Instant: Deals 20-30 Fire damage) - Collect Miners' Gear (x4) - (35.5, 19.9) |QID|307|
 N (35.5, 18.9)
@@ -34,13 +34,13 @@ N (23.6, 17.9)
 N Talk to Gothor Brumn - Talk to Gothor - Vendor Trash - (24.1, 18.2)
 T Filthy Paws |QID|307| |N|Talk to Mountaineer Stormpike - Go Upstairs - Talk to Stormpike - (24.8, 18.4)|
 N Kill +Forest Lurker - Kill Mountain Boars. Loot them for their Boar Intestines - Kill Elder Black Bears. Loot them for their Bear Meat - Kill Forest Lurkers. Loot them for their Spider Ichor - Remember to kite them to Mountaineers if needed - Be careful as Mountain Boars cast [Charge] (Self Instant: Increases movespeed for 3 seconds, dealing 40-100 melee damage on hit. Only castable at range) - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) - (31.0, 24.8)
-N Kill +Forest Lurker - Kill Mangy Mountain Boars and Mountain Boars. Loot them for their Boar Intestines - Kill Grizzled Black Bears and Elder Black Bears. Loot them for their Bear Meat - Kill Cliff Lurkers and Forest Lurkers. Loot them for their Spider Ichor - Remember to kite them to Mountaineers if needed - Be careful as Mountain Boars cast [Charge] (Self Instant: Increases movespeed for 3 seconds, dealing 40-100 melee damage on hit. Only castable at range) - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) |O|
+N Kill +Forest Lurker - Kill Mangy Mountain Boars and Mountain Boars. Loot them for their Boar Intestines - Kill Grizzled Black Bears and Elder Black Bears. Loot them for their Bear Meat - Kill Cliff Lurkers and Forest Lurkers. Loot them for their Spider Ichor - Remember to kite them to Mountaineers if needed - Be careful as Mountain Boars cast [Charge] (Self Instant: Increases movespeed for 3 seconds, dealing 40-100 melee damage on hit. Only castable at range) - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) |SK|
 A Ironband's Excavation |QID|436| |N|Talk to Jern Hornhelm - Talk to Brock and Jern - They can be inside or outside the building - (37.2, 47.1)|
 A Ironband's Excavation |QID|436| |N|Talk to Jern Hornhelm - Talk to Jern - He can be inside or outside the building - (37.2, 47.4)|
 G Grind to 8675+/11400xp |N|(31.0, 24.8)| |R|Human|
 G Grind to 6545+/11400xp |N|(31.0, 24.8)| |R|Gnome|
 N (46.1, 63.5) |SK| |R|Gnome|
-N Talk to Aldren - Buy the  [Wise Man's Belt] from him (if it's up) - (64.8, 66.0) |O| |R|Gnome|
+N Talk to Aldren - Buy the  [Wise Man's Belt] from him (if it's up) - (64.8, 66.0) |SK| |R|Gnome|
 T Ironband's Excavation |QID|436| |N|Talk to Magmar Fellhew - Talk to Ironband and Magmar - (65.9, 65.6)| |R|Gnome|
 A Excavation Progress Report |QID|298| |N|Talk to Prospector Ironband - Talk to Ironband - (65.9, 65.6)| |R|Gnome|
 N (66.1, 70.6) |SK| |R|Gnome|
@@ -61,7 +61,7 @@ N Talk to Yanni - Buy as many [Small Brown Pouches] as you need/can - Do NOT go 
 N Start spam casting [Conjure Water r2] to conjure as much water as possible before taking the flight |SK|
 F Ironforge >> Fly to Ironforge |N|Talk to Thorgrum Borrelson - Talk to Thorgrum - (33.9, 51.0)|
 T Report to Ironforge |QID|301| |N|Talk to Prospector Stormpike - Talk to Stormpike - (74.6, 11.7)| |R|Gnome|
-N (74.8, 8.7) |O|
+N (74.8, 8.7) |SK|
 N Talk to Gearcutter Cogspinner - Talk to Cogspinner - Buy a [Bronze Tube] from him if its up - (67.8, 42.5)
 A Deeprun Rat Roundup |QID|6661| |N|Talk to Monty - Go inside the Deeprun Tram - Talk to Monty - (76.4, 51.2)| |R|Gnome|
 N Talk to Deeprun Rat - Use the [Rat Catcher's Flute] on the Deeprun Rats in the Deeprun Tram - Rats Captured (x5) |QID|6661| |U|17117| |R|Gnome|
@@ -83,7 +83,7 @@ N (53.5, 64.6) |SK|
 N Talk to Roberto Pupellyverbos - Go inside the building - Talk to Roberto - Buy a [Cask of Merlot] from him - Cask of Merlot - (52.0, 68.0)
 N (52.1, 61.3) |SK|
 N Talk to Keldric Boucher - Talk to Keldric through the wall - Buy [Lesser Healing Potions] from him (if they're up) - (55.5, 65.3)
-N (55.3, 68.2) |O|
+N (55.3, 68.2) |SK|
 N Talk to Newton Burnside - Talk to Newton - [Chunk of Boar Meat] - [Bronze Tube] - [Murloc Eyes] - [Jennea's Flask] - [Cask of Merlot] - [Scrolls] - [Small Egg] - (57.0, 73.0)
 N Talk to Newton Burnside - [Chunk of Boar Meat] - [Bronze Tube] - [Jennea's Flask] - (57.0, 73.0)
 N Talk to Newton Burnside - [Chunk of Boar Meat] - [Murloc Eyes] - [Jennea's Flask] - (57.0, 73.0)

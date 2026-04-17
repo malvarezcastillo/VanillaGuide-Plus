@@ -16,7 +16,7 @@ N Kill the Winterfall Runners. Loot them for their Winterfall Crate - Their spaw
 A Enraged Wildkin |QID|4863| |N|Click the Damaged Crate on the ground - (59.0, 59.8)|
 A Enraged Wildkin |QID|4864| |N|Click on Jaron's Wagon - (61.4, 60.7)|
 N Loot Jaron's Supplies on the ground - (61.4, 60.7) |QID|4864|
-N Kill Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet |QID|4864| |O|
+N Kill Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet |QID|4864| |SK|
 T Find Ranshalla |QID|979| |N|Talk to Ranshalla - Talk to Ranshalla - Skip the follow up escort quest - (63.1, 59.5)| |C|!Hunter|
 N Kill some of the Owlkins before accepting the escort |SK| |C|Hunter|
 A Guardians of the Altar |QID|4901| |N|Talk to Ranshalla - Talk to Ranshalla - Guardians of the Altar will begin an escort quest. If you're in a party ensure everyone has turned in Find Ranshalla first - (63.1, 59.5)| |C|Hunter|
@@ -35,7 +35,7 @@ A High Chief Winterfall |QID|5121| |N|Talk to Donova Snowden - Talk to Donova Sn
 T Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)| |O|
 A Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)|
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
-F Azshara >> Fly to Azshara |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)| |O|
+F Azshara >> Fly to Azshara |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)| |SK|
 T Ancient Spirit |QID|4261| |N|Talk to Kayneth Stillwind - Talk to Kayneth Stillwind - (85.3, 44.7)|
 T A Final Blow |QID|5242| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)|
 T The Remains of Trey Lightforge |QID|5385| |N|Talk to Jessir Moonbow - Talk to Jessir Moonbow - (51.3, 82.0)|

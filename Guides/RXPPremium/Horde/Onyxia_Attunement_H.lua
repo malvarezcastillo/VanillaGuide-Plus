@@ -29,7 +29,7 @@ N Kill any type of Dragonkin. Loot them for their Black Dragonspawn Eyes - Only 
 R Travel to Western Plaguelands |SK|
 A Emberstrife |QID|6570| |N|Talk to Myranda the Hag - Talk to Myranda the Hag - (50.8, 77.8)|
 R Travel to Dustwallow Marsh |SK|
-N (54.4, 84.2) |O|
+N (54.4, 84.2) |SK|
 N Cast Be careful! Make sure you use the [Amulet of Draconic Subversion] BEFORE you approach Emberstrife or he might KILL you |U|16787| |SK| |M|hardcore|
 A The Test of Skulls, Chronalis |QID|6584| |N|Talk to Emberstrife - Talk to Emberstrife - (56.7, 87.6)| |U|16787|
 N Kill Scryer in Winterspring - Kill Somnus in Swamp of Sorrows - Kill Chronalis in Tanaris - Loot them for their Skulls - Their locations are marked on the map. It is recommended to do this with at least 5 players - The Skull of Scryer 1/1 - The Skull of Somnus 1/1 - The Skull of Chronalis 1/1 - (52.9, 55.8) |QID|6584| |SK|
@@ -42,14 +42,14 @@ R Travel to Tanaris |SK|
 N (61.5, 50.5) |SK|
 N Kill Chronalis. Loot him for his Skull - Be careful of his [Sand Breath] ability (AOE spray in front of him) - The Skull of Chronalis 1/1 - (64.8, 50.5) |QID|6584|
 R Travel to Dustwallow Marsh |SK|
-N (54.4, 84.2) |O|
+N (54.4, 84.2) |SK|
 N Cast Be careful! Make sure you use the [Amulet of Draconic Subversion] BEFORE you approach Emberstrife or he might KILL you |U|16787| |SK| |M|hardcore|
 A The Test of Skulls, Axtroz |QID|6585| |N|Talk to Emberstrife - Talk to Emberstrife - (56.7, 87.6)| |U|16787|
 R Travel to Wetlands |SK|
 N (75.4, 46.8) |SK|
 N Kill Axtroz. Loot him for his Skull - Be careful of his [Flame Breath] ability (AOE spray in front of him) - The Skull of Axtroz 1/1 - (83.5, 48.8) |QID|6585|
 R Travel to Dustwallow Marsh |SK|
-N (54.4, 84.2) |O|
+N (54.4, 84.2) |SK|
 N Cast Be careful! Make sure you use the [Amulet of Draconic Subversion] BEFORE you approach Emberstrife or he might KILL you |U|16787| |SK| |M|hardcore|
 A Ascension... |QID|6601| |N|Talk to Emberstrife - Talk to Emberstrife - (56.7, 87.6)| |U|16787|
 R Travel to Desolace |SK|

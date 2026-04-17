@@ -32,13 +32,13 @@ A Messenger to Stormwind |QID|121| |N|Talk to General Marcus Jonathan - Talk to 
 A Return to Verner |QID|119| |N|Talk to Smith Argus - Run to Goldshire - Talk to Smith Argus - (41.7, 65.5)|
 A The Defias Brotherhood |QID|65| |N|Talk to Gryan Stoutmantle - Run to Sentinel Hill - Talk to Gryan Stoutmantle - (56.3, 47.5)|
 H Hearthstone |SK|
-F Redridge >> Fly to Redridge |N|(56.5, 52.6)| |O|
+F Redridge >> Fly to Redridge |N|(56.5, 52.6)| |SK|
 A A Baying of Gnolls |QID|124| |N|Talk to Verner Osgood - Talk to Verner Osgood - (31.0, 47.3)|
 A Solomon's Law |QID|91| |N|Talk to Bailiff Conacher - Go into the Keep - Talk to Magistrate Solomon - Talk to Bailiff Conacher - (29.9, 44.5)|
 A The Defias Brotherhood |QID|132| |N|Talk to Wiley the Black - Go into the top floor of the Inn - Talk to Wiley the Black - (26.5, 45.4)|
 T Hilary's Necklace |QID|3741| |N|Talk to Hilary - Talk to Hilary - (29.2, 53.6)|
-N Grind the first 3 items for Redridge Goulash as you do other quests. Also get enough Chunks of Boar Meat to get you to 50 cooking - Try to focus heavily on the Goretusks, don't really worry about spider meat yet - Great Goretusk Snout (5) - Tough Condor Meat (5) - Crisp Spider Meat (5) |O|
-N Kill Dragon Whelps. Loot them for their scales - Underbelly Whelp Scale (6) |QID|122| |O|
+N Grind the first 3 items for Redridge Goulash as you do other quests. Also get enough Chunks of Boar Meat to get you to 50 cooking - Try to focus heavily on the Goretusks, don't really worry about spider meat yet - Great Goretusk Snout (5) - Tough Condor Meat (5) - Crisp Spider Meat (5) |SK|
+N Kill Dragon Whelps. Loot them for their scales - Underbelly Whelp Scale (6) |QID|122| |SK|
 N AoE the gnolls in the area. Refer to the AoE video if needed - Deadzone the Poachers during the AoE pull so you don't get shot - Redridge Mongrel (10) - Redridge Poacher (6) - (29.5, 84.2) |QID|246|
 N AoE the murlocs in the area. You'll have to single target the Tidecallers (lightning bolt + healing wave) - You can AoE the Shorestrikers (Charge) and Flesheaters (25 damage instant lifesteal on attack chance). Creatively make pulls - Save 8 Fins for later - Spotted Sunfish (10) - Murloc Fin (8) - (48.8, 69.5) |QID|127|
 N Get the Condor Meat and Whelp scales from around this area. If you're waiting on respawns, then go east to get some Axes then come back here - Tough Condor Meat (5) - Underbelly Whelp Scale (6) - (61.0, 77.5) |QID|122|

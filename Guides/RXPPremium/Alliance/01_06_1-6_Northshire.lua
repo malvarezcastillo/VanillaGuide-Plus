@@ -28,7 +28,7 @@ N Kill Kobold Vermins - Kill Kobold Vermin (x10) - (47.6, 36.7) |QID|7|
 G Grind to 720+/1400xp |N|Kill Timber Wolf - (45.7, 40.7)| |SK|
 N Talk to Eagan Peltskinner - Talk to Eagan Peltskinner - (48.9, 40.2)
 G Grind to 1060+/1400xp |N|Kill Timber Wolf - (45.7, 40.7)| |O|
-N Grind and sell trash until you have 1s 35c |O| |C|Paladin/Warrior|
+N Grind and sell trash until you have 1s 35c |SK| |C|Paladin/Warrior|
 N Talk to Brother Danil - Talk to Brother Danil - Vendor Trash - Buy 10 more [Refreshing Spring Water] from him - Collect Refreshing Spring Water (x10) - (47.5, 41.6) |C|Priest/Mage/Warlock|
 N Talk to Godric Rothgar - Talk to Godric Rothgar - Vendor Trash - (47.7, 41.4) |C|!Priest/!Mage/!Warlock/!Rogue|
 N Talk to Janos Hammerknuckle - Talk to Janos Hammerknuckle - Buy a [Dirk] from him if you can afford it - Dirk (1) - (47.2, 41.9) |C|Rogue|
@@ -60,9 +60,9 @@ t Train [Corruption] |QID|3105| |N|Talk to Drusilla La Salle - Talk to Drusilla 
 N Kill Defias Thugs. Loot them for their Red Burlap Bandanas - Collect Red Burlap Bandana (x12) - (52.5, 48.8) |QID|18|
 G Grind to level 4 |N|(52.5, 48.8)| |O| |C|Rogue|
 A Bounty on Garrick Padfoot |QID|6| |N|Talk to Deputy Willem - Talk to Deputy Willem - (48.2, 42.9)|
-U Equip the [Militia Warhammer] |U|5579| |O| |C|Paladin|
-U Equip the [Militia Dagger] |U|2224| |O| |C|Rogue|
-U Equip the [Militia Shortsword] |U|1161| |O| |C|Warrior|
+U Equip the [Militia Warhammer] |U|5579| |SK| |C|Paladin|
+U Equip the [Militia Dagger] |U|2224| |SK| |C|Rogue|
+U Equip the [Militia Shortsword] |U|1161| |SK| |C|Warrior|
 A Skirmish at Echo Ridge |QID|21| |N|Talk to Marshal McBride - Talk to Marshal McBride - (48.9, 41.6)|
 N (47.6, 32.1) |SK|
 N Kill Kobold Laborers inside Echo Ridge Mine - Kill Kobold Laborer (x12) - (47.8, 31.5) |QID|21|

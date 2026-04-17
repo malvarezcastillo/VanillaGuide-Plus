@@ -11,7 +11,7 @@ N Talk to Delgo Ragetotem - Talk to Delgo - Buy a [Merciless Axe] from him if it
 N Talk to Delgo Ragetotem - Talk to Delgo - Buy a [Merciless Axe] from him if it's up and you don't have it yet - (54.1, 57.2) |C|Shaman/Warrior|
 N Talk to Kard Ragetotem - Talk to Kard. Buy a [Main Gauche] from him for your off-hand - Alternatively you can check the Auction House if something better is available - Collect item 2526 (x1) - (53.0, 56.6) |C|Rogue|
 N Talk to Kard Ragetotem - Talk to Kard. Buy a [Main Gauche] from him for your off-hand - Collect item 2526 (x1) - (53.0, 56.6) |C|Rogue|
-N Equip the [Main Gauche] |U|2526| |O| |C|Rogue|
+N Equip the [Main Gauche] |U|2526| |SK| |C|Rogue|
 A The Sacred Flame |QID|1196| |N|Talk to Zangen Stonehoof - Talk to Zangen - (54.9, 51.6)|
 t Train your class spells |N|Talk to Kym Wildmane - Talk to Kym - (76.8, 31.8)| |C|Druid|
 t Train your class spells |N|Talk to Kym Wildmane - Talk to Kym - (76.8, 31.8)| |O| |C|Druid|
@@ -25,7 +25,7 @@ t Train your class spells |N|Talk to Ker Ragetotem - Talk to Ker - (57.6, 85.5)|
 t Train your class spells |N|Talk to Ker Ragetotem - Talk to Ker - (57.6, 85.5)| |O| |C|Warrior|
 A The Islander |QID|1718| |N|Talk to Torm Ragetotem - Talk to Torm - (57.3, 87.3)| |O| |C|Warrior|
 h Thunder Bluff |N|Talk to Innkeeper Pala - Talk to Innkeeper Pala - (45.8, 64.7)|
-N (28.1, 33.0) |O|
+N (28.1, 33.0) |SK|
 T The Flying Machine Airport |QID|1086| |N|Talk to Apothecary Zamah - Talk to Apothecary Zamah - (22.8, 20.9)|
 T Return to Thunder Bluff |QID|1067| |N|Talk to Apothecary Zamah - Talk to Apothecary Zamah - (22.8, 20.9)| |C|Rogue|
 t Train your class spells |N|Talk to Miles Welsh - Talk to Miles - (25.3, 15.2)| |O| |C|Priest|
@@ -69,9 +69,9 @@ N Talk to Starn - Talk to Starn - Buy a [Dense Shortbow] from him if it's up - (
 A Alien Egg |QID|4821| |N|Talk to Hagar Lightninghoof - Talk to Hagar - (44.7, 50.3)|
 A Wind Rider |QID|4767| |N|Talk to Elu - Talk to Elu - (44.9, 48.9)|
 f Freewind Post >> Get the Freewind Post flight path |N|Talk to Nyse - Talk to Nyse - (45.1, 49.1)|
-N Kill Galak Scouts, Galak Wranglers, and Galak Windchasers - Kill every Galak Scout that you see as they are more rare |QID|4841| |O|
-N (44.1, 37.2) |O|
-N (44.4, 36.3) |O|
+N Kill Galak Scouts, Galak Wranglers, and Galak Windchasers - Kill every Galak Scout that you see as they are more rare |QID|4841| |SK|
+N (44.1, 37.2) |SK|
+N (44.4, 36.3) |SK|
 N Open the Ancient Brazier. Loot it for the Cloven Hoof - Be careful! The brazier is defended by two level 30 Galak Flame Guards - (42.0, 31.5) |QID|1197|
 U Assassination Plot |QID|4881| |N|Kill the Galak Messenger. Loot him for the [Assassination Note]. Use it to start the quest - He patrols. He spawns at Splithoof Crag (the eastern Centaur camp) - Collect item 12564 (x1) - (38.5, 32.6)| |U|12564| |SK|
 N Kill Galak Scouts, Galak Wranglers, and Galak Windchasers - (43.1, 36.9) |QID|4841|
@@ -92,17 +92,17 @@ N Talk to Montarr - Talk to Montarr - (45.1, 50.8)
 N Talk to Montarr - Talk to Montarr - Buy one or more [Rune of Teleportation] from him - Collect item 17031 (x1) - (45.1, 50.8) |C|Mage|
 t Thousand Needles |N|Talk to Innkeeper Abeqwa - Talk to Innkeeper Abeqwa - (46.1, 51.5)| |O| |C|Mage|
 N (27.6, 49.9)
-N Be careful as Screeching Windcallers cast [Gust of Wind], a 4-second AoE stun within 10 yards of the Screeching Windcaller |O|
+N Be careful as Screeching Windcallers cast [Gust of Wind], a 4-second AoE stun within 10 yards of the Screeching Windcaller |SK|
 N Open the Harpy Foodstuffs on the ground in the back of the cave to summon Grenka - Be careful, multiple packs of Harpies will spawn one after another - (25.8, 54.8) |SK|
 N Kill Grenka Bloodscreech. Loot her for Grenka's Claw - This quest is VERY HARD. Group up or skip it if you can't solo it - (26.2, 55.9) |QID|1150|
 N Kill Steelsnap. Loot him for Steelsnap's Rib - Be careful, has two Hyenas defending him! |QID|1131| |SK|
-N (14.4, 32.4) |O|
-N Loot Highperch Wyvern Eggs on the ground |QID|4767| |O|
-N (13.2, 39.5) |O|
+N (14.4, 32.4) |SK|
+N Loot Highperch Wyvern Eggs on the ground |QID|4767| |SK|
+N (13.2, 39.5) |SK|
 A Homeward Bound |QID|4770| |N|Talk to Pao'ka Swiftmountain - Talk to Pao'ka to begin the escort - Be careful if Heartrazor is up! This is a level 32 rare elite - (17.9, 40.6)|
 N Escort Pao'ka - Three Highperch Wyverns will spawn once Pao'ka reaches the middle of Highperch. You only need to aggro the eastern one and the others will disappear - (11.1, 35.0) |QID|4770|
 N Loot Highperch Wyvern Eggs on the ground - (13.9, 39.1) |QID|4767|
-N Kill Steelsnap. Loot him for Steelsnap's Rib - Be careful, has two Hyenas defending him! |QID|1131| |O|
+N Kill Steelsnap. Loot him for Steelsnap's Rib - Be careful, has two Hyenas defending him! |QID|1131| |SK|
 N Talk to Laer Stepperunner - Talk to Laer - (21.1, 31.9)
 A Protect Kanati Greycloud |QID|4966| |N|Talk to Kanati Greycloud - Talk to Kanati - Be careful! Turning this in will summon three Galak Assassins that you have to protect Kanati from - (21.2, 32.0)| |O|
 N Kill the Galak Assassins to protect Kanati - (21.2, 32.0) |QID|4966| |O|
@@ -120,8 +120,8 @@ T Protect Kanati Greycloud |QID|4966| |N|Talk to Kanati - (21.2, 32.0)|
 T Hypercapacitor Gizmo |QID|5151| |N|Talk to Wizlo Bearingshiner - Talk to Wizlo - (21.4, 32.5)|
 N Loot the Incendia Agave Plants on the ground and underwater - Be careful as Scalding Elementals cast [Scald], instantly dealing 150 fire damage and stunning you for 4 seconds - (36.6, 38.8) |QID|5062|
 N Loot the Incendia Agave Plants on the ground and underwater - Be careful as Scalding Elementals cast [Scald], instantly dealing 150 fire damage and stunning you for 4 seconds - (36.6, 38.8) |QID|5062|
-U Hearthstone |U|6948| |O|
-N Cast Cast [Teleport: Thunder Bluff] |O| |C|Mage|
+U Hearthstone |U|6948| |SK|
+N Cast Cast [Teleport: Thunder Bluff] |SK| |C|Mage|
 t Train your class spells |N|Talk to Archmage Shymm - Talk to Shymm - (22.7, 14.5)| |O| |C|Mage|
 t Train your class spells |N|Talk to Archmage Shymm - Talk to Shymm - (22.7, 14.5)| |C|Mage|
 N Talk to Innkeeper Pala - Talk to Innkeeper Pala - (45.8, 64.7)
@@ -149,13 +149,13 @@ N Talk to Kuna Thunderhorn - Talk to Kuna - Buy a [Sturdy Recurve Bow] from her 
 N Talk to Kuna Thunderhorn - Talk to Kuna - Buy [Razor Arrows] from her - Collect item 3030 (x1800) - (47.0, 45.7) |C|Hunter|
 N Talk to Delgo Ragetotem - Talk to Delgo - Buy a [Merciless Axe] from him if it's up and you don't have it yet - Alternatively you can also buy a [Bullova] - (54.1, 57.2) |C|Shaman/Warrior|
 N Talk to Kard Ragetotem - Talk to Kard. Buy a [Broadsword] from him - Collect item 2520 (x1) - (53.0, 56.6) |C|Rogue|
-N Equip the [Broadsword] |U|2520| |O| |C|Rogue|
+N Equip the [Broadsword] |U|2520| |SK| |C|Rogue|
 N Talk to Kard Ragetotem - Talk to Kard. Buy a [Main Gauche] from him for your off-hand - Collect item 2526 (x1) - (53.0, 56.6) |C|Rogue|
-N Equip the [Main Gauche] |U|2526| |O| |C|Rogue|
+N Equip the [Main Gauche] |U|2526| |SK| |C|Rogue|
 R Camp Taurajo >>Fly to Camp Taurajo |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK|
 T A New Ore Sample |QID|1153| |N|Talk to Tatternack Steelforge - Talk to Tatternack - (45.1, 57.7)|
 R Hearthstone |C|Mage|
-R Freewind Post >>Fly to Freewind Post |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |O|
+R Freewind Post >>Fly to Freewind Post |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |SK|
 T Wind Rider |QID|4767| |N|Talk to Elu - Talk to Elu - (44.9, 48.9)|
 N Talk to Starn - Talk to Starn - Buy a [Dense Shortbow] from him if it's up - (44.9, 50.7) |C|Hunter|
 N Talk to Montarr - Talk to Montarr - (45.1, 50.8)
@@ -179,7 +179,7 @@ N Kill the Galak Assassins to protect Kanati - (21.2, 32.0) |QID|4966|
 T Protect Kanati Greycloud |QID|4966| |N|Talk to Kanati - (21.2, 32.0)|
 N Find and kill Rok'Alim the Pounder. Loot him for his Fragments - He patrols a large portion of the North/Western part of the zone - (24.3, 44.7) |QID|1151|
 R Enter Feralas |N|(89.2, 41.2)| |SK|
-N Be careful! Stay on the road to avoid high level mobs |O|
+N Be careful! Stay on the road to avoid high level mobs |SK|
 N Talk to Bronk - Talk to Bronk - Buy [Superior Healing Potions] from him if they're up - (76.1, 43.3)
 F freewind Post >> Fly to Freewind Post |N|Talk to Shyn - Talk to Shyn - (75.5, 44.4)|
 T Wanted - Arnak Grimtotem |QID|5147| |N|Talk to Cliffwatcher Longhorn - Talk to Longhorn - (45.7, 50.7)|
@@ -204,12 +204,12 @@ R Crossroads >> Fly to Crossroads |N|Talk to Bulkrek Ragefist - Talk to Bulkrek 
 N (75.4, 97.4) |SK|
 R Crossroads >> Fly to Crossroads |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)|
 A The Swarm Grows |QID|1145| |N|Talk to Korran - Talk to Korran - (51.1, 29.6)|
-F Ratchet >> Fly to Ratchet |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O| |C|!Warrior|
-F Ratchet >> Fly to Ratchet |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O| |C|Warrior|
-R Orgrimmar >> Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O| |C|Warrior|
+F Ratchet >> Fly to Ratchet |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK| |C|!Warrior|
+F Ratchet >> Fly to Ratchet |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK| |C|Warrior|
+R Orgrimmar >> Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK| |C|Warrior|
 A The Swarm Grows |QID|1146| |N|Talk to Belgrom Rockmaul - Talk to Belgrom - (75.0, 34.1)| |SK| |C|Warrior|
 A The Islander |QID|1718| |N|Talk to Sorek - Talk to Sorek - (80.4, 32.4)| |C|Warrior|
-R Ratchet >> Fly to Ratchet |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O| |C|Warrior|
+R Ratchet >> Fly to Ratchet |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK| |C|Warrior|
 A Parts for Kravel |QID|1112| |N|Talk to Wharfmaster Dizzywig - Talk to Dizzywig - (63.4, 38.5)|
 A Call of Water |QID|63| |N|Talk to Islen Waterseer - Talk to Islen - (65.8, 43.8)| |C|Shaman|
 T Water Sapta |QID|972| |N|Talk to Islen - Make sure you get the [Water Sapta - Collect item 6637 (x1) - (65.8, 43.8)| |C|Shaman|
@@ -279,8 +279,8 @@ N (66.1, 20.1) |SK|
 N (51.9, 64.7) |SK|
 T An Unholy Alliance |QID|6522| |N|Talk to Varimathras - Talk to Varimathras - (56.2, 92.2)|
 R Travel or fly to Silverpine Forest |C|Shaman|
-N (42.0, 40.6) |O| |C|Shaman|
-N (38.1, 44.4) |O| |C|Shaman|
+N (42.0, 40.6) |SK| |C|Shaman|
+N (38.1, 44.4) |SK| |C|Shaman|
 N (38.1, 44.4) |U|6637| |SK| |C|Shaman|
 N Kill the Corrupt Minor Manifestion of Water. Loot it for the Corrupt Manifestation's Bracers - (38.5, 44.5) |QID|63| |C|Shaman|
 A Call of Water |QID|100| |N|Click the Brazier of Everfount - (38.3, 44.6)| |C|Shaman|

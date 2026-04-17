@@ -38,21 +38,21 @@ t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 5
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne - (74.7, 52.8)| |C|Rogue|
 F Westfall >> Fly to Westfall |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)|
 F Westfall >> Fly to Westfall |N|Talk to Gyll - Talk to Gyll - (27.5, 77.8)|
-R Travel to Duskwood |N|(17.7, 29.1)| |O|
+R Travel to Duskwood |N|(17.7, 29.1)| |SK|
 A Morbent Fel |QID|55| |N|Talk to Sven Yorgen - Talk to Sven Yorgen - (7.8, 34.1)|
 N Kill Mor'Ladim. Loot him for his Skull - Mor'Ladim hits very hard but moves quite slow. Try to kite him around any large trees if required - (19.6, 37.3) |QID|228|
 N Clear your way to the 2nd floor of the house - Cast Equip [Morbent's Bane] in your off-hand - Use [Morbent's Bane] on Morbent Fel to weaken him - Remember to equip your weapon/off-hand slot after weakening him |U|7297| |SK|
 N Kill Morbent Fel - Kill Morbent Fel - This quest can be difficult. If you aren't confident doing it, you may skip this step - (16.9, 33.4) |QID|55| |U|7297|
 T Morbent Fel |QID|55| |N|Talk to Sven Yorgen - Talk to Sven Yorgen - (7.8, 34.1)|
 T A Daughter's Love |QID|231| |N|Click A Weathered Grave - (17.7, 29.1)|
-N (44.6, 87.6) |O|
-A Jungle Secrets |QID|215| |N|Kill Kurzen's Agent - Keep an eye out for the special Private Thorsen event. He will patrol down the road from the Rebel camp every 30 minutes - Private Thorsen will be attacked by 2 of Kurzen's Agents. If you don't see this event, ignore this step - Kill both of Kurzen's Agents and then accept Private Thorsen's quest which becomes available after saving him - (40.3, 8.4)| |O|
+N (44.6, 87.6) |SK|
+A Jungle Secrets |QID|215| |N|Kill Kurzen's Agent - Keep an eye out for the special Private Thorsen event. He will patrol down the road from the Rebel camp every 30 minutes - Private Thorsen will be attacked by 2 of Kurzen's Agents. If you don't see this event, ignore this step - Kill both of Kurzen's Agents and then accept Private Thorsen's quest which becomes available after saving him - (40.3, 8.4)| |SK|
 T Supplies to Private Thorsen |QID|198| |N|Talk to Private Thorsen - Talk to Private Thorsen at the Rebel Camp - If Private Thorsen isn't at the Rebel Camp he may be in progress for his special event. Skip this step. Look for him down the path if you havn't accepted his quest yet - (38.0, 3.4)|
 A Bad Medicine |QID|204| |N|Talk to Sergeant Yohwa - Talk to Sergeant Yohwa - (38.0, 3.3)|
 A Bookie Herod |QID|200| |N|Talk to Lieutenant Doren - Talk to Lieutenant Doren - (38.0, 3.0)|
 N Talk to Corporal Bluth - Talk to Corporal Bluth - Restock on  [Razor Arrows] if needed - (38.0, 3.0) |C|Hunter|
-N Kill Stone Maw Basilisks and Crystal Spine Basilisks. Loot them for their Shards - Stone Maw Basilisks and Crystal Spine Basilisks will cast [Crystal Gaze] which is a 6 second long stun. Simply move out of their melee range when they begin to cast to avoid it - (24.4, 17.2) |QID|605| |O|
-N Kill River Crocolisks. Loot them for their Skin - (32.6, 8.8) |QID|575| |O|
+N Kill Stone Maw Basilisks and Crystal Spine Basilisks. Loot them for their Shards - Stone Maw Basilisks and Crystal Spine Basilisks will cast [Crystal Gaze] which is a 6 second long stun. Simply move out of their melee range when they begin to cast to avoid it - (24.4, 17.2) |QID|605| |SK|
+N Kill River Crocolisks. Loot them for their Skin - (32.6, 8.8) |QID|575| |SK|
 T Welcome to the Jungle |QID|583| |N|Talk to Hemet Nesingwary - Talk to Barnil Stonepot and Hemet Nesingwary - (35.7, 10.5)|
 T Hemet Nesingwary |QID|5762| |N|Talk to Hemet Nesingwary - Talk to Hemet Nesingwary - (35.7, 10.8)|
 A Panther Mastery |QID|190| |N|Talk to Sir S. J. Erlgadin - Talk to Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)|
@@ -64,7 +64,7 @@ N Kill Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine 
 A The Hidden Key |QID|328| |N|Click on Bookie Herod's Records upstairs in the house - (43.7, 9.4)|
 N Kill Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies - Hold onto any [Green Hills of Stranglethorn - Pages] you find. Trade or sell duplicates - (44.9, 10.2) |QID|204|
 N Kill Stranglethorn Tigers - (46.8, 15.8) |QID|186|
-N Kill Venture Co. Geologists. Loot them for their Crystals |QID|213| |O|
+N Kill Venture Co. Geologists. Loot them for their Crystals |QID|213| |SK|
 N Kill Foreman Cozzle - Kill Foreman Cozzle atop the Oil Rig. Loot him for his Key - Collect item 5851 (x1) - (42.6, 18.4)
 N Open Cozzle's Footlocker. Loot it for the Fuel Regulator Blueprints - (43.3, 20.3) |QID|1182|
 N Kill Venture Co. Geologists. Loot them for their Crystals - (45.2, 22.6) |QID|213|
@@ -122,7 +122,7 @@ U An Old History Book |QID|337| |N|Talk to Milton Sheaf - Talk to Milton Sheaf -
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior|
 t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne - (74.7, 52.8)| |C|Rogue|
 T Gyrodrillmatic Excavationators |QID|2928| |N|Talk to Shoni the Shilent - Talk to Shoni the Shilent - (55.5, 12.5)|
-R Enter the Deeprun Tram. Take the Tram to Ironforge |N|Level your [First Aid] if needed while waiting for the Tram - (61.1, 11.6)| |O| |C|!Mage|
+R Enter the Deeprun Tram. Take the Tram to Ironforge |N|Level your [First Aid] if needed while waiting for the Tram - (61.1, 11.6)| |SK| |C|!Mage|
 R Teleport to Ironforge |N|(63.7, 8.4)| |SK| |C|Mage|
 A Reclaimers' Business in Desolace |QID|1453| |N|Talk to Roetten Stonehammer - Talk to Roetten Stonehammer - Roetten Stonehammer patrols the Hall of Explorers - (67.9, 17.5)| |C|Warlock|
 A Reclaimers' Business in Desolace |QID|1453| |N|Talk to Roetten Stonehammer - Talk to Roetten Stonehammer - Roetten Stonehammer patrols the Hall of Explorers - (67.9, 17.5)|

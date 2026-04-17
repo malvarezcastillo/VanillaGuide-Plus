@@ -14,41 +14,41 @@ N (47.2, 59.7) |SK|
 A Into the Field |QID|243| |N|Talk to Apothecary Zinge - Talk to Zinge - (50.1, 68.0)|
 T Bring the End |QID|3341| |N|Talk to Andrew Brownell - Talk to Andrew - (74.0, 33.3)|
 N Talk to Abigail Sawyer - Talk to Abigail - Buy a [Massive Longbow] from her if it's available - (54.7, 38.8) |C|Hunter|
-N Equip the [Massive Longbow] |U|11307| |O| |C|Hunter|
-N Equip the [Massive Longbow] when you are level 42 |O| |C|Hunter|
+N Equip the [Massive Longbow] |U|11307| |SK| |C|Hunter|
+N Equip the [Massive Longbow] when you are level 42 |SK| |C|Hunter|
 N Talk to Geoffrey Hartwell - Talk to Geoffrey. Buy a Buy a [Great Axe] from him if you're melee weaving. Otherwise, skip this step - Collect item 2531 (x1) - (58.7, 33.0) |C|Hunter|
-N Equip the [Great Axe] when you are level 39 |O| |C|Hunter|
-N Equip the [Great Axe] |U|2531| |O| |C|Hunter|
+N Equip the [Great Axe] when you are level 39 |SK| |C|Hunter|
+N Equip the [Great Axe] |U|2531| |SK| |C|Hunter|
 N Talk to Geoffrey Hartwell - Talk to Geoffrey. Buy a [Falchion] from him - Collect item 2528 (x1) - (58.7, 33.0) |C|Rogue|
 N Talk to Geoffrey Hartwell - Talk to Geoffrey. Buy a [Rondel] from him - Collect item 2534 (x1) - (58.7, 33.0) |C|Rogue|
-N Equip the [Falchion] when you are level 41 |U|2528| |O| |C|Rogue|
-N Equip the [Rondel] in your off-hand when you are level 39 |O| |C|Rogue|
+N Equip the [Falchion] when you are level 41 |U|2528| |SK| |C|Rogue|
+N Equip the [Rondel] in your off-hand when you are level 39 |SK| |C|Rogue|
 N Talk to Zane Bradford - Talk to Zane. Buy a [Blackbone Wand] from him - Collect item 5239 (x1) - (69.5, 26.9) |C|Priest|
-N Equip the [Blackbone Wand] when you are level 41 |U|5239| |O| |C|Priest|
-N Equip the [Blackbone Wand] |U|5239| |O| |C|Priest|
+N Equip the [Blackbone Wand] when you are level 41 |U|5239| |SK| |C|Priest|
+N Equip the [Blackbone Wand] |U|5239| |SK| |C|Priest|
 N Talk to Nathaniel Steenwick - Talk to NathanielBuy two stacks of [Gleaming Throwing Axe] from him - Collect item 15326 (x400) - (77.5, 49.6) |C|Warrior|
 N Talk to Auctioneer Stockton - Talk to Auctioneer Stockton in the Trade Quarter - If you have money leftover after buying [Nature Protection Potions], purchase the following items: - Collect item 4480 (x8) - Collect item 4479 (x8) - Collect item 4481 (x8) - Collect item 3357 (x8) |SK| |C|Warrior|
 N Talk to Auctioneer Stockton - Talk to Auctioneer Stockton in the Trade Quarter - Collect item 6052 (x2) - (71.4, 46.7) |C|Warrior|
 N Talk to Auctioneer Stockton - Talk to Auctioneer Stockton in the Trade Quarter - If you have money leftover, purchase the following items: - Collect item 3829 (x1) - Collect item 4389 (x1) - Collect item 929 (x1) - Collect item 3823 (x1) - Collect item 2868 (x1) - Collect item 4611 (x9) - Collect item 3404 (x4) - (71.4, 46.7)
 N Talk to Auctioneer Stockton - Talk to Auctioneer Stockton in the Trade Quarter - If you have money leftover, purchase the following items: - Collect item 3829 (x1) - Collect item 4389 (x1) - Collect item 4611 (x9) - Collect item 3404 (x4) - (71.4, 46.7)
 N Talk to Ronald Burch - Talk to Ronald. Buy [Soothing Spices] from him - Collect item 3713 (x1) - (62.3, 43.1)
-R Hammerfall >> Fly to Hammerfall |N|Talk to Michael Garrett - Talk to Michael - Fly to Tarren Mill instead if you bought 8 Cresting, Thundering and Burning charms on the AH and skip the next 3 steps - (63.3, 48.5)| |O| |C|Warrior|
-N Be careful of getting too close to Refuge Point (Alliance base) in the centre of the zone. Refuge Point Defenders can kill you - (45.8, 43.6) |O| |C|Warrior| |M|hardcore|
+R Hammerfall >> Fly to Hammerfall |N|Talk to Michael Garrett - Talk to Michael - Fly to Tarren Mill instead if you bought 8 Cresting, Thundering and Burning charms on the AH and skip the next 3 steps - (63.3, 48.5)| |SK| |C|Warrior|
+N Be careful of getting too close to Refuge Point (Alliance base) in the centre of the zone. Refuge Point Defenders can kill you - (45.8, 43.6) |SK| |C|Warrior| |M|hardcore|
 N Kill Cresting Exile - Kill Cresting Exiles. Loot them for their [Cresting Charms] - Collect item 4481 (x8) - (66.7, 29.7) |C|Warrior|
 N Kill Thundering Exile - Kill Thundering Exiles. Loot them for their [Thundering Charms] - Be careful! Thundering Exiles have high burst damage - Collect item 4480 (x8) - (52.1, 50.6) |C|Warrior|
 N Kill Burning Exile - Kill Burning Exiles. Loot them for their [Burning Charms] - Collect item 4479 (x8) - (25.5, 30.1) |C|Warrior|
-R Tarren Mill >> Fly to Tarren Mill |N|Talk to Michael Garrett - Talk to Michael - (63.3, 48.5)| |O|
+R Tarren Mill >> Fly to Tarren Mill |N|Talk to Michael Garrett - Talk to Michael - (63.3, 48.5)| |SK|
 A Dalaran Patrols |QID|545| |N|Talk to Magus Wordeen Voidglare - Talk to Bel'varil and Wordeen - (61.6, 20.9)| |C|!Warrior|
 A WANTED: Baron Vardus |QID|566| |N|Talk to Melisara - Click the WANTED: Baron Vardus poster next to Melisara - (62.6, 20.7)|
 T Soothing Turtle Bisque |QID|7321| |N|Talk to Christoph Jeffcoat - Talk to Christoph inside the inn - (62.3, 19.1)|
 A Gol'dir |QID|503| |N|Talk to Krusk - Talk to Krusk - (63.2, 20.6)|
-N It is VERY important to watch this video on how to cheese Cyclonian for the [Whirlwind Axe] |O| |C|Warrior|
+N It is VERY important to watch this video on how to cheese Cyclonian for the [Whirlwind Axe] |SK| |C|Warrior|
 T Essence of the Exile |QID|1714| |N|Talk to Bath'rah the Windwatcher - Talk to Bath'rah the Windwatcher - (80.5, 66.9)| |U|6052| |C|Warrior|
 T Essence of the Exile |QID|1714| |N|Talk to Bath'rah the Windwatcher - Talk to Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior|
 A The Summoning |QID|1713| |N|Talk to Bath'rah the Windwatcher - Talk to Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior|
 N Wait for Bath'rah's roleplay, then kill Cyclonian and loot him for his Heart - Equip your [Gleaming Throwing Axe] if you haven't - (80.6, 62.2) |QID|1713| |C|Warrior|
 T Whirlwind Weapon |QID|1792| |N|Talk to Bath'rah the Windwatcher - Talk to Bath'rah the Windwatcher and choose the [Whirlwind Axe] - (80.5, 66.9)| |C|Warrior|
-N Kill Baron Vardus and loot him for his Head - One of his spawnpoints is inside the inn in Strahnbrad. You will complete this quest later if he isn't there |QID|566| |O|
+N Kill Baron Vardus and loot him for his Head - One of his spawnpoints is inside the inn in Strahnbrad. You will complete this quest later if he isn't there |QID|566| |SK|
 N Kill Jailor Borhuin. Loot him for his Key - He has multiple spawn locations in Strahnbrad: - Inside the inn on the second floor - Inside the building opposite of the inn on the ground floor - Inside the town hall - (60.5, 43.9) |QID|503|
 A Blackmoore's Legacy |QID|506| |N|Talk to Gol'dir - Talk to Gol'dir on the second floor of the inn - (60.0, 43.8)|
 A Lord Aliden Perenolde |QID|507| |N|Talk to Krusk - Talk to Krusk - (63.2, 20.6)|
@@ -66,7 +66,7 @@ N Search for Baron Vardus in each camp and the Strahnbrad's inn. Kill him and lo
 T WANTED: Baron Vardus |QID|566| |N|Talk to High Executor Darthalia - Talk to High Executor Darthalia - (62.4, 20.3)|
 T Taretha's Gift |QID|508| |N|Talk to Krusk - Talk to Krusk - (63.2, 20.6)|
 T Bracers of Binding |QID|557| |N|Talk to Keeper Bel'varil - Talk to Wordeen and Bel'varil - (61.6, 20.9)|
-R Hammerfall >> Fly to Hammerfall |N|Talk to Zarise - Talk to Zarise - (60.1, 18.6)| |O|
+R Hammerfall >> Fly to Hammerfall |N|Talk to Zarise - Talk to Zarise - (60.1, 18.6)| |SK|
 T Trollbane |QID|638| |N|Talk to Zengu - Talk to Zengu - (73.8, 33.9)|
 A Call to Arms |QID|678| |N|Talk to Drum Fel - Talk to Drum Fel - (74.3, 33.8)|
 A Raising Spirits |QID|675| |N|Talk to Gor'mul - Talk to Gor'mul - (72.6, 33.9)|
@@ -115,7 +115,7 @@ N Kill Syndicate. Loot them for the Sigil of Strom - It has a very low drop rate
 N Kill Marez Cowl. Loot her for her Orb - She has two spawn locations in the eastern side of the keep - (29.4, 64.4) |QID|673|
 N Kill Syndicate. Loot them for the Sigil of Strom - It has a very low drop rate. Be careful of respawns. Be careful of Syndicate Prowlers, who can net and disarm - (25.7, 62.6) |QID|639|
 D Die and respawn |SK| |M|speedrun|
-N (73.5, 33.2) |O|
+N (73.5, 33.2) |SK|
 T Foul Magics |QID|673| |N|Talk to Tor'gan - Talk to Tor'gan - (74.7, 36.4)|
 T Call to Arms |QID|679| |N|Talk to Drum Fel - Talk to Drum Fel - (74.2, 33.9)|
 T The Real Threat |QID|680| |N|Talk to Korin Fel - Talk to Korin Fel - (74.0, 33.2)|
@@ -128,8 +128,8 @@ A Deep Sea Salvage |QID|662| |N|Talk to First Mate Nilzlix - Talk to Nilzlix - (
 A Sunken Treasure |QID|665| |N|Talk to Professor Phizzlethorpe - Talk to Steelgut and Phizzlethorpe - (34.0, 80.8)|
 N Wait for Phizzlethorpe's roleplay, then kill the two Vengeful Surges that spawn. - These mobs are level 40. Get them off of Phizzlethorpe as soon as you can - (35.7, 79.7) |QID|665|
 A Sunken Treasure |QID|666| |N|Talk to Doctor Draxlegauge - Talk to Doctor Draxlegauge - (33.8, 80.5)|
-N Kill Daggerspine Raiders and Sorceresses |QID|664| |O|
-C Equip your [Goggles of Gem Hunting] to see them on your minimap |QID|666| |N|Find Calcified Elven Gems. Loot them for Elven Gems| |U|4491| |O|
+N Kill Daggerspine Raiders and Sorceresses |QID|664| |SK|
+C Equip your [Goggles of Gem Hunting] to see them on your minimap |QID|666| |N|Find Calcified Elven Gems. Loot them for Elven Gems| |U|4491| |SK|
 N Loot the Book for Maiden's Folly Log - The log is on the ship's mid-level, towards its front - (23.4, 85.1) |QID|662|
 N Loot the Unfurled Parchment for Maiden's Folly Charts - The charts are on the ship's mid-level, towards its center - (23.0, 84.5) |QID|662|
 N Loot the Unfurled Parchment for Spirit of Silverpine Charts - The charts are on the ship's mid-level, towards its front, on a crate next to a cannon - (20.5, 85.6) |QID|662|

@@ -8,7 +8,7 @@ return [[
 N 35-37 Northern Stranglethorn |N|Converted from RestedXP guide|
 
 R Orgrimmar >>Fly to Orgrimmar |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |C|!Mage|
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 R Hearthstone |U|6948| |SK| |C|!Mage|
@@ -52,8 +52,8 @@ A Hunt for Yenniku |QID|581| |N|Talk to Nimboya - Talk to Nimboya - (32.2, 27.8)
 N Talk to Uthok - Talk to Uthok - Buy [Razor Arrows] from him - Collect item 3030 (x1800) - (31.6, 27.9) |C|Hunter|
 A Panther Mastery |QID|190| |N|Talk to Sir S. J. Erlgadin - Talk to Barnil, Hemet, Ajeck and S. J. Erlgadin - (35.7, 10.5)|
 A Panther Mastery |QID|190| |N|Talk to Sir S. J. Erlgadin - Talk to Barnil, Hemet, Ajeck and S. J. Erlgadin - (35.7, 10.5)|
-N Kill River Crocolisks along the river. Loot them for their Skin |QID|575| |O|
-N Kill Young Stranglethorn Tigers |QID|185| |O|
+N Kill River Crocolisks along the river. Loot them for their Skin |QID|575| |SK|
+N Kill Young Stranglethorn Tigers |QID|185| |SK|
 N Kill Young Panthers - (41.5, 13.2) |QID|190|
 N Kill Kurzen Medicine Man - Kill Kurzen Medicine Men. Loot them for their [Liferoot] and [Jungle Remedy] - [Jungle Remedy] can be used to dispell long lasting poison effects later in the guide - You can decide for yourself how much [Jungle Remedy] you would like to grind - Jungle Fighters and Medicine Men share spawns, so you'll have to kill both - Collect item 3357 (x8) - (44.0, 11.9) |C|Warrior|
 N Kill Kurzen Medicine Man - Kill Kurzen Medicine Men. Loot them for their [Liferoot] and [Jungle Remedy] - You could also buy [Liferoot] from the Auction House instead - [Jungle Remedy] can be used to dispell long lasting poison effects later in the guide - You can decide for yourself how much [Jungle Remedy] you would like to grind - Jungle Fighters and Medicine Men share spawns, so you'll have to kill both - Collect item 3357 (x8) - (44.0, 11.9) |C|Warrior|
@@ -61,7 +61,7 @@ N Kill Kurzen Medicine Man - Kill Kurzen Medicine Men. Loot them for [Fadeleaf] 
 N Kill River Crocolisks along the river. Loot them for their Skin |QID|575| |SK|
 N Kill Young Stranglethorn Tigers - (34.1, 11.3) |QID|185|
 A Panther Mastery |QID|191| |N|Talk to Sir S. J. Erlgadin - Talk to Ajeck and S. J. Erlgadin - (35.6, 10.6)|
-N Kill River Crocolisks along the river. Loot them for their Skin |QID|575| |O|
+N Kill River Crocolisks along the river. Loot them for their Skin |QID|575| |SK|
 N Kill Panthers and Stranglethorn Tigers - (31.0, 11.2) |QID|186|
 N Kill Stranglethorn Raptors - (28.1, 15.4) |QID|194|
 A Raptor Mastery |QID|195| |N|Talk to Hemet Nesingwary - Talk to S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)|
@@ -82,20 +82,20 @@ N Kill Bloodscalp Trolls. Loot them for their Ears, Heads, Necklaces and Tusks -
 N Kill Bloodscalp Trolls. Loot them for their Ears, Heads, and Tusks - [Shrunken Heads] only drop from Bloodscalp Headhunters - (20.4, 13.9) |QID|1712| |C|Warrior|
 N Kill Bloodscalp Trolls. Loot them for their Ears, Heads and Necklaces - [Shrunken Heads] only drop from Bloodscalp Headhunters - (20.4, 13.9) |QID|596|
 N Kill Bloodscalp Trolls. Loot them for their Ears and Heads - [Shrunken Head] only drop from Bloodscalp Headhunters - (20.4, 13.9) |QID|582|
-U Hearthstone |U|6948| |O| |C|Mage|
+U Hearthstone |U|6948| |SK| |C|Mage|
 T The Vile Reef |QID|629| |N|Talk to Kin'weelay - Talk to Nimboya and Kin'weelay - (32.2, 27.7)|
 T The Vile Reef |QID|629| |N|Talk to Kin'weelay - Talk to Nimboya and Kin'weelay - (32.2, 27.7)|
 t Train your class spells |N|Talk to Kragg - Talk to Kragg - (31.2, 28.7)| |C|Hunter|
-N Kill Shadowmaw Panthers and Stranglethorn Tigresses across the river - Only do this when waiting for Mosh'Ogg Ogre respawns - Shadowmaw Panthers are stealthed mobs. Search any vacant areas - (36.9, 34.9) |QID|570| |O|
+N Kill Shadowmaw Panthers and Stranglethorn Tigresses across the river - Only do this when waiting for Mosh'Ogg Ogre respawns - Shadowmaw Panthers are stealthed mobs. Search any vacant areas - (36.9, 34.9) |QID|570| |SK|
 N Kill Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors - There are not enough Mosh'Ogg Brutes so you will have to wait for respawns at least once - (36.5, 31.6) |QID|569|
-N Kill Venture Co. Geologists. Loot them for their Crystals |QID|213| |O|
+N Kill Venture Co. Geologists. Loot them for their Crystals |QID|213| |SK|
 N Climb to the oil rig's top level, then kill Foreman Cozzle. Loot him for his Key - Collect item 5851 (x1) - (42.7, 18.0)
 N (43.5, 20.3) |SK|
 N Loot Cozzle's Footlocker for the Fuel Regulator Blueprints - (43.3, 20.3) |QID|1182|
 N Return to the Mizjah Ruins and finish killing Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors - (36.5, 31.6) |QID|569|
 N Finish killing Venture Co. Geologists. Loot them for their Crystals - (43.3, 21.1) |QID|213|
 G Grind to level 36 50000+/71600 xp |N|(43.3, 21.1)|
-N Kill Stranglethorn Tigresses. Loot them for a Pristine Tigress Fang |QID|570| |O|
+N Kill Stranglethorn Tigresses. Loot them for a Pristine Tigress Fang |QID|570| |SK|
 N Cast Cast [Track Hidden] to find the Shadowmaw Panthers more easily |SK| |C|Hunter|
 N Kill Shadowmaw Panthers. Loot them for their Claws - These are stealthed mobs. Search any vacant areas - (48.8, 23.9) |QID|192|
 N Kill Stranglethorn Tigresses. Loot them for a Pristine Tigress Fang - (48.8, 23.9) |QID|570|
@@ -103,11 +103,11 @@ N Finish killing River Crocolisks along the river. Loot them for their Skin - (3
 A Raptor Mastery |QID|196| |N|Talk to Hemet Nesingwary - Talk to S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)|
 N Kill Sin'Dall. Loot her for her Paw - Sin'Dall is either atop the plateau, or patrolling its base - (32.2, 17.4) |QID|188|
 T Tiger Mastery |QID|188| |N|Talk to Ajeck Rouack - Talk to Ajeck - (35.6, 10.6)|
-U Hearthstone |U|6948| |O| |C|Mage|
+U Hearthstone |U|6948| |SK| |C|Mage|
 A Trollbane |QID|638| |N|Talk to Nimboya - Talk to Nimboya - (32.2, 27.7)|
 T The Defense of Grom'gol |QID|569| |N|Talk to Commander Aggro'gosh - Talk to Commander Aggro'gosh - (32.2, 28.9)|
 T Mok'thardin's Enchantment |QID|570| |N|Talk to Far Seer Mok'thardin - Talk to Far Seer Mok'thardin - (32.1, 29.2)|
-F Booty Bay >> Fly to Booty Bay |N|Talk to Thysta - Talk to Thysta - (32.5, 29.3)| |O|
+F Booty Bay >> Fly to Booty Bay |N|Talk to Thysta - Talk to Thysta - (32.5, 29.3)| |SK|
 A Goblin Sponsorship |QID|1183| |N|Talk to Baron Revilgaz - Talk to Baron Revilgaz - (27.2, 76.9)|
 A Dream Dust in the Swamp |QID|1116| |N|Talk to Krazek - Talk to Kebok and Krazek - (27.0, 77.1)|
 T Investigate the Camp |QID|201| |N|Talk to Krazek - Talk to Kebok and Krazek - (27.0, 77.1)|
@@ -119,11 +119,11 @@ A Some Assembly Required |QID|577| |N|Talk to Drizzlik - Talk to Drizzlik - (28.
 T Supply and Demand |QID|575| |N|Talk to Drizzlik - Talk to Drizzlik - (28.3, 77.6)| |O|
 N Talk to Glyx Brewright - Talk to Glyx - Buy [Greater Healing Potions] from him if they're up - (28.1, 78.1)
 N Talk to Sly Garret - Talk to Sly - Stock up on [Flash Powder] and [Poisons] - (28.4, 76.8) |C|Rogue|
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 N Cast Cast [Teleport: Orgrimmar] |C|Mage|
-R Hearthstone |U|6948| |O|
+R Hearthstone |U|6948| |SK|
 N Talk to Barkeep Morag - Talk to Barkeep Morag - (54.6, 67.7) |C|!Mage|
 N Talk to Karus - Talk to Karus - (49.6, 69.1)
 N Talk to Auctioneer Thathung - Talk to Auctioneer Thathung - Buy one [Moonsteel Broadsword] from the Auction House - This is for a free 3,450 XP turnin in Dustwallow Marsh later. Skip this step if you're unable to acquire one - Collect item 3853 (x1) - (55.6, 62.9)

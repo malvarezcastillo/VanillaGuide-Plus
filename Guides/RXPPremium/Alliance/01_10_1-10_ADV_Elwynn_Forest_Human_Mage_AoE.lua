@@ -35,12 +35,12 @@ N (49.7, 40.1) |SK|
 A Brotherhood of Thieves |QID|18| |N|Talk to Deputy Willem - Talk to Willem - (48.2, 42.9)|
 N Kill Defias Thugs. Loot them for Red Burlap Bandanas - Collect Red Burlap Bandana (x12) - (52.5, 48.8) |QID|18|
 A Milly Osworth |QID|3903| |N|Talk to Deputy Willem - Talk to Willem - (48.2, 42.9)|
-N Equip the [Militia Quarterstaff] |U|1159| |O|
+N Equip the [Militia Quarterstaff] |U|1159| |SK|
 N Talk to Brother Danil - Talk to Danil - Buy 10 [Refreshing Spring Water] from him - Vendor Trash - Collect Refreshing Spring Water (x10) - (47.5, 41.5)
 N (47.8, 31.6) |SK|
 N Kill Kobold Laborers - Kill Kobold Laborer (x12) - (48.0, 30.7) |QID|21|
 A Milly's Harvest |QID|3904| |N|Talk to Milly Osworth - Talk to Milly - (50.7, 39.4)|
-G Grind to 1175+/2800xp |N|Kill Defias Thug - (53.7, 47.3)| |O|
+G Grind to 1175+/2800xp |N|Kill Defias Thug - (53.7, 47.3)| |SK|
 N Loot the Buckets of Grapes on the ground - This has a 5 second cast time - Collect Milly's Harvest (x8) - (53.7, 47.3) |QID|3904| |SK|
 N Kill Garrick Padfoot. Loot him for Garrick's Head - Collect Garrick's Head (x1) - (57.5, 48.2) |QID|6|
 N Loot the Buckets of Grapes on the ground - This has a 5 second cast time - Collect Milly's Harvest (x8) - (53.7, 47.3) |QID|3904|
@@ -57,7 +57,7 @@ h Elwynn Forest |N|Talk to Farley| |SK|
 T Rest and Relaxation |QID|2158| |N|Talk to Innkeeper Farley - Talk to Farley - Vendor Trash. Buy [Ice Cold Milk] down to 2 silver - (43.8, 65.8)|
 t Train your class spells (Fireball R2, Fire Blast) |N|Talk to Zaldimar Wefhellt - Jump onto the Chandelier downstairs - Talk to Zaldimar through the wall - (43.2, 66.2)|
 A Gold Dust Exchange |QID|47| |N|Talk to Remy "Two Times" - Talk to Remy - (42.1, 67.3)|
-N Kill Stonetusk Boar - Kill Stonetusk Boars. Loot them for [Chunks of Boar Meat] - Collect Chunk of Boar Meat (x4) |O|
+N Kill Stonetusk Boar - Kill Stonetusk Boars. Loot them for [Chunks of Boar Meat] - Collect Chunk of Boar Meat (x4) |SK|
 A Princess Must Die! |QID|88| |N|Talk to Ma Stonefield - Talk to Bernice and Ma - (34.5, 84.3)|
 N Kill Kobold Tunnelers. Loot them for Gold Dust and Kobold Candles - Collect Gold Dust (x10) - Collect Kobold Candle (x8) |QID|60| |SK|
 A Pie for Billy |QID|86| |N|Talk to Billy Maclure - Talk to Billy - (43.1, 85.7)|
@@ -70,8 +70,8 @@ A Note to William |QID|107| |N|Talk to Gramma Stonefield - Talk to Bernice and t
 N Kill Kobold Tunnelers. Loot them for Gold Dust and Kobold Candles - Collect Gold Dust (x10) - Collect Kobold Candle (x8) |QID|60| |SK|
 A Goldtooth |QID|87| |N|Talk to Billy Maclure - Talk to Billy - (43.1, 85.7)|
 N Talk to Joshua Maclure - Talk to Joshua - Buy as much [Ice Cold Milk] as you can afford from him - Vendor Trash - (42.4, 89.4)
-N (39.0, 82.3) |O|
-N Kill Kobold Tunnelers and Kobold Miners. Loot them for Gold Dust and Kobold Candles - Collect Gold Dust (x10) - Collect Kobold Candle (x8) |QID|60| |O|
+N (39.0, 82.3) |SK|
+N Kill Kobold Tunnelers and Kobold Miners. Loot them for Gold Dust and Kobold Candles - Collect Gold Dust (x10) - Collect Kobold Candle (x8) |QID|60| |SK|
 N Enter one of the larger open spaces in Fargodeep Mine - Scout Through the Fargodeep Mine - (39.1, 80.9) |QID|62|
 N (40.0, 78.8) |SK|
 N Kill Goldtooth. Loot him for Bernice's Necklace - Collect Bernice's Necklace (x1) - (41.7, 78.0) |QID|87|
@@ -90,7 +90,7 @@ N (60.7, 50.8) |SK|
 A Protect the Frontier |QID|52| |N|Talk to Guard Thomas - Talk to Thomas - (74.0, 72.2)|
 N Kill all Young Forest Bears you see and Prowlers - Kill Young Forest Bear (x5) - Kill Prowler (x8) - (74.9, 67.2) |QID|52| |SK|
 A Discover Rolf's Fate |QID|45| |N|Click the half-eaten body on the ground - This has a 5 second cast time - (72.7, 60.3)|
-N Kill all Young Forest Bears you see and Prowlers - Kill Young Forest Bear (x5) - Kill Prowler (x8) - (78.8, 60.9) |QID|52| |O|
+N Kill all Young Forest Bears you see and Prowlers - Kill Young Forest Bear (x5) - Kill Prowler (x8) - (78.8, 60.9) |QID|52| |SK|
 A A Bundle of Trouble |QID|5545| |N|Talk to Supervisor Raelen - Talk to Raelen - (81.4, 66.1)|
 N Loot the Bundles Of Wood at the base of the trees - This has a 5 second cast time - Collect Bundle of Wood (x8) |QID|5545| |SK|
 N (79.8, 55.5)
@@ -150,7 +150,7 @@ N (49.1, 56.0) |SK|
 t Train your class spells (Frost Armor r2, Frost Nova, Polymorph, Conjure Water r1 & r2) |N|Talk to Dink - Talk to Dink - Total Cost: 15s - Remember you may want money for Healing Potions (3s each), Bronze Tube (8s each), and level 5 food (20c per 5) - (27.2, 8.6)|
 N Go inside the building - (27.2, 12.8) |SK|
 h Ironforge |N|Talk to Innkeeper Firebrew - Talk to Firebrew - (18.1, 51.5)|
-N (33.0, 63.1) |O|
+N (33.0, 63.1) |SK|
 N Talk to Bailey Stonemantle - Talk to Bailey - [Bronze Tube] - [Osric's Crate] - (35.9, 60.1)
 N (36.4, 57.9)
 R Exit Ironforge |N|(15.2, 85.7)|

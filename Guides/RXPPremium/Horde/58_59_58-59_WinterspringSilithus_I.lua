@@ -7,8 +7,8 @@ return [[
 
 N 58-59 Winterspring/Silithus I |N|Converted from RestedXP guide|
 
-N Fly or Hearth to Everlook |O|
-R Hearthstone |U|6948| |O|
+N Fly or Hearth to Everlook |SK|
+R Hearthstone |U|6948| |SK|
 A Chillwind Horns |QID|4809| |N|Talk to Felnok Steelspring - Talk to Felnok - (61.6, 38.6)|
 A Shy-Rotam |QID|5056| |N|Talk to Storm Shadowhoof - Talk to Storm - (61.9, 38.4)|
 A Are We There, Yeti? |QID|977| |N|Talk to Umi Rumplesnicker - Talk to Umi - (60.9, 37.7)|
@@ -23,8 +23,8 @@ U The Final Piece |QID|5123| |N|Kill Winterfall Shaman - Kill High Chief Winterf
 N Kill Winterfall Ursa, Winterfall Shamans and Winterfall Den Watchers - If there is too much competition, skip this step - (67.6, 34.1) |QID|8464|
 N Kill Ice Thistle Patriarchs and Ice Thistle Matriarchs. Loot them for their Pristine Yeti Horns - (66.5, 41.7) |QID|977|
 N Kill all Chillwind Chimaeras north of Everlook. Loot them for their Horns - (67.6, 48.2) |QID|4809|
-D Die and respawn |O| |C|!Shaman| |M|speedrun|
-U Hearthstone |U|6948| |O| |C|Shaman|
+D Die and respawn |SK| |C|!Shaman| |M|speedrun|
+U Hearthstone |U|6948| |SK| |C|Shaman|
 N Talk to Innkeeper Vizzie - Talk to Vizzie - (61.4, 38.8) |C|Shaman|
 T Chillwind Horns |QID|4809| |N|Talk to Felnok Steelspring - Talk to Felnok - (61.6, 38.6)|
 T Shy-Rotam |QID|5056| |N|Talk to Storm Shadowhoof - Talk to Storm - (61.9, 38.4)|
@@ -35,13 +35,13 @@ N Talk to Innkeeper Vizzie - Talk to Vizzie - (61.4, 38.8) |C|!Shaman|
 N (31.3, 45.2) |SK|
 A Words of the High Chief |QID|5128| |N|Talk to Donova Snowden - Talk to Donova - (31.3, 45.2)|
 T Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)|
-R Enter the tunnel, then take the north exit into Moonglade |N|(27.4, 33.6)| |O| |C|!Druid|
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+R Enter the tunnel, then take the north exit into Moonglade |N|(27.4, 33.6)| |SK| |C|!Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 A Wasteland |QID|1124| |N|Talk to Rabine Saturna - Talk to Rabine - (51.7, 45.0)|
 A A Reliquary of Purity |QID|5527| |N|Talk to Rabine Saturna - Talk to Rabine, then work through his dialogue - Skip this step if the Dire Maul dialogue is not available. It will be available if you have gone to Dire Maul's outdoor zone/discovered Dire Maul at any point - (51.7, 45.1)|
-R Felwood >>Fly to Felwood |N|Talk to Faustron - Talk to Faustron - (32.1, 66.6)| |O|
+R Felwood >>Fly to Felwood |N|Talk to Faustron - Talk to Faustron - (32.1, 66.6)| |SK|
 A Guarding Secrets |QID|4883| |N|Talk to Trull Failbane - Talk to Trull - (34.8, 52.8)|
 A Guarding Secrets |QID|4883| |N|Talk to Trull Failbane - Talk to Trull - (34.8, 52.8)|
 T Words of the High Chief |QID|5128| |N|Talk to Kelek Skykeeper - Talk to Kelek - (51.1, 81.8)|
@@ -50,9 +50,9 @@ A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (
 R Azshara >>Fly to Azshara |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |C|!Mage|
 U Hearthstone |U|6948| |SK| |C|!Mage|
 N (61.4, 38.8) |C|!Mage|
-R Azshara >>Fly to Azshara |N|Talk to Yugrek - Talk to Yugrek - (60.5, 36.3)| |O| |C|!Mage|
-N Cast Cast [Teleport: Orgrimmar] |O| |C|Mage|
-R Azshara >>Fly to Azshara |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O| |C|Mage|
+R Azshara >>Fly to Azshara |N|Talk to Yugrek - Talk to Yugrek - (60.5, 36.3)| |SK| |C|!Mage|
+N Cast Cast [Teleport: Orgrimmar] |SK| |C|Mage|
+R Azshara >>Fly to Azshara |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK| |C|Mage|
 T Andron's Payment to Jediga |QID|3564| |N|Talk to Jediga - Talk to Jediga - (22.5, 51.4)|
 R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Kroum - Talk to Kroum - (22.0, 49.7)| |C|!Mage|
 R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Yugrek - Talk to Yugrek - (60.5, 36.3)| |O| |C|!Mage|
@@ -73,15 +73,15 @@ t Train your class spells |N|Talk to Malakai Cross - Talk to Malakai - (24.6, 22
 t Train your class spells |N|Talk to Malakai Cross - Talk to Malakai - (24.6, 22.6)| |O| |C|Priest|
 t Train your class spells |N|Talk to Turak Runetotem - Talk to Turak - (76.5, 27.2)| |C|Druid|
 t Train your class spells |N|Talk to Tura - Talk to Turak - (76.5, 27.2)| |O| |C|Druid|
-R Tanaris >>Fly to Tanaris |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |O|
+R Tanaris >>Fly to Tanaris |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK|
 A Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 C Use the [Mechanical Yeti] on Sprinkle |QID|5163| |N|Talk to Sprinkle - (51.1, 26.9)| |U|12928|
 A Pawn Captures Queen |QID|4507| |N|Talk to Alchemist Pestlezugg - Talk to Pestlezugg - (50.9, 27.0)|
-N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O| |M|speedrun|
+N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |SK| |M|speedrun|
 N (69.0, 41.6) |SK| |M|speedrun|
 N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |SK| |M|speedrun|
 N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169| |M|speedrun|
-N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O| |M|hardcore|
+N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |SK| |M|hardcore|
 N (69.0, 41.6) |SK| |M|hardcore|
 N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |SK| |M|hardcore|
 N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169| |M|hardcore|
@@ -112,16 +112,16 @@ A Securing the Supply Lines |QID|8280| |N|Talk to Windcaller Proudhorn - Talk to
 A The Twilight Mystery |QID|8284| |N|Talk to Geologist Larksbane - Talk to Larksbane - (49.6, 37.3)|
 A Dearest Natalia |QID|8304| |N|Talk to Commander Mar'alith - Talk to Mar'alith - (49.2, 34.2)|
 A Secret Communication |QID|8318| |N|Talk to Bor Wildmane - Talk to Bor - (48.6, 37.8)|
-N Kill Dredge Strikers |QID|8280| |O|
-N Kill Stonelash Scorpids and Sand Skitterers. Loot them for their Stingers and Fangs |QID|8277| |O|
-A Brann Bronzebeard's Lost Letter |QID|8308| |N|Collect item 20461 (x1)| |U|20461| |O|
+N Kill Dredge Strikers |QID|8280| |SK|
+N Kill Stonelash Scorpids and Sand Skitterers. Loot them for their Stingers and Fangs |QID|8277| |SK|
+A Brann Bronzebeard's Lost Letter |QID|8308| |N|Collect item 20461 (x1)| |U|20461| |SK|
 N Kill Tortured Druids and Tortured Sentinels - They have a high chance to spawn a Hive'Ashi Drone after dying |QID|1125| |SK| |M|speedrun|
 N Kill Tortured Druids and Tortured Sentinels - Be careful! They have a high chance to spawn a Hive'Ashi Drone after dying - Make sure to only pull one at a time! |QID|1125| |SK| |M|hardcore|
 N Loot the Dusty Reliquary inside the lodge for the Reliquary of Purity - (63.2, 55.4) |QID|5527|
 N Kill Tortured Druids and Tortured Sentinels - They have a high chance to spawn a Hive'Ashi Drone after dying - (61.6, 48.6) |QID|1125| |M|speedrun|
 N Kill Tortured Druids and Tortured Sentinels - Be careful! They have a high chance to spawn a Hive'Ashi Drone after dying - Make sure to only pull one at a time! - (61.6, 48.6) |QID|1125| |M|hardcore|
 A Hive in the Tower |QID|1126| |N|Talk to Layo Starstrike - Talk to Layo - (81.9, 18.9)|
-A Brann Bronzebeard's Lost Letter |QID|8308| |N|Collect item 20461 (x1)| |U|20461| |O|
+A Brann Bronzebeard's Lost Letter |QID|8308| |N|Collect item 20461 (x1)| |U|20461| |SK|
 N Click on the Gooey Nest at the top of the tower - Kill the two Hive'Ashi Ambushers that spawn on the top floor. Loot them for a Encrusted Silithid Object - Be careful! Three Hive'Ashi Drones will spawn when you enter the bottom floor of the tower! - (60.2, 52.5) |QID|1126|
 A Umber, Archivist |QID|6844| |N|Talk to Layo Starstrike - Talk to Layo - (81.9, 18.9)|
 N Loot the blue Glowing Tablets on the ground for Twilight Tablet Fragments - (19.5, 21.1) |QID|8284|
@@ -131,8 +131,8 @@ N Kill Dredge Strikers - (63.2, 24.0) |QID|8280|
 A The Deserter |QID|8285| |N|Talk to Geologist Larksbane - Talk to Larksbane - (49.7, 37.3)|
 A Stepping Up Security |QID|8281| |N|Talk to Windcaller Proudhorn - Talk to Proudhorn - (51.1, 38.3)|
 A Noggle's Last Hope |QID|8278| |N|Talk to Beetix Ficklespragg - Talk to Beetix - (51.8, 38.5)|
-N Kill Dredge Crushers - Don't focus on this; you can finish it later - (39.3, 53.3) |QID|8281| |O|
-N Kill Stonelash Flayers and Stonelash Pincers. Loot them for their Stingers - Kill Rock Stalkers. Loot them for their Fangs - Don't focus on this; you can finish it later - (62.5, 64.0) |QID|8278| |O|
+N Kill Dredge Crushers - Don't focus on this; you can finish it later - (39.3, 53.3) |QID|8281| |SK|
+N Kill Stonelash Flayers and Stonelash Pincers. Loot them for their Stingers - Kill Rock Stalkers. Loot them for their Fangs - Don't focus on this; you can finish it later - (62.5, 64.0) |QID|8278| |SK|
 N Talk to Frankal Stonebridge - Talk to Rutgar and Frankal - (41.3, 88.5) |QID|8304|
 T Brann Bronzebeard's Lost Letter |QID|8308| |N|Talk to Rutgar Glyphshaper - Talk to Rutgar again - (41.3, 88.5)|
 A The Twilight Lexicon |QID|8279| |N|Talk to Hermit Ortell - Talk to Hermit - (67.2, 69.8)|
@@ -143,7 +143,7 @@ N Kill Stonelash Flayers and Rock Stalkers. Loot them for their Stingers and Fan
 T Stepping Up Security |QID|8281| |N|Talk to Windcaller Proudhorn - Talk to Proudhorn - (51.1, 38.3)|
 A Noggle's Lost Satchel |QID|8282| |N|Talk to Noggle Ficklespragg - Talk to Beetix and Noggle - (51.8, 38.5)|
 T Dearest Natalia |QID|8304| |N|Talk to Commander Mar'alith - Talk to Mar'alith - (49.2, 34.3)|
-N Kill Twilight Marauder - Kill Twilight Cultists. Loot them for their Encrypted Twilight Texts - Twilight Keepers, Overlords and Masters have very high burst potential - Collect item 20404 (x10) |O|
+N Kill Twilight Marauder - Kill Twilight Cultists. Loot them for their Encrypted Twilight Texts - Twilight Keepers, Overlords and Masters have very high burst potential - Collect item 20404 (x10) |SK|
 N Kill Twilight Keeper Havunth. Loot him for his Twilight Lexicon Chapter - He patrols the east side of the camp that's just southwest of Cenarion Hold - Be careful, he has very high burst - (40.9, 42.2) |QID|8279|
 N Kill Twilight Keeper Mayna. Loot her for her Twilight Lexicon Chapter - She patrols the camp far west of Cenarion Hold - Be careful, she has Psychic Scream (instant fear) - (26.3, 36.6) |QID|8279|
 N Kill Twilight Keeper Exeter. Loot him for his Twilight Lexicon Chapter - He's at the back of the camp very far to the southwest of Cenarion Hold/northwest of Ahn'Qiraj - Be careful, he has a stun and mortal strike - (16.1, 86.4) |QID|8279|
@@ -167,8 +167,8 @@ R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48
 T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
 R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |SK| |M|speedrun|
 T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
-R Tanaris >>Fly to Tanaris |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O|
-R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (45.2, 5.8)| |O|
+R Tanaris >>Fly to Tanaris |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |SK|
+R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (45.2, 5.8)| |SK|
 T Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 A Calm Before the Storm |QID|4509| |N|Talk to Alchemist Pestlezugg - Talk to Pestlezugg - (50.9, 27.0)|
 

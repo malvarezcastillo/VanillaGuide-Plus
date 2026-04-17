@@ -15,15 +15,15 @@ A WANTED: Overseer Maltorius |QID|7701| |N|Click the Wanted Board - (37.6, 26.5)
 A Divine Retribution |QID|3441| |N|Talk to Velarok Windblade - Talk to Velarok Windblade - (39.1, 39.0)|
 N Talk to Velarok Windblade - Talk to Velarok Windblade - (39.1, 39.0) |QID|3441|
 A The Flawless Flame |QID|3442| |N|Talk to Velarok Windblade - Talk to Velarok Windblade - (39.1, 39.0)|
-N Kill Heavy War Golems and Greater Lava Spiders - (33.2, 43.6) |QID|7724| |O|
-N Kill Dark Iron Steamsmiths. Loot them for the Smithing Tuyere - Kill Dark Iron Lookouts. Loot them for the Lookout's Spyglass - (39.1, 50.2) |QID|7728| |O|
+N Kill Heavy War Golems and Greater Lava Spiders - (33.2, 43.6) |QID|7724| |SK|
+N Kill Dark Iron Steamsmiths. Loot them for the Smithing Tuyere - Kill Dark Iron Lookouts. Loot them for the Lookout's Spyglass - (39.1, 50.2) |QID|7728| |SK|
 N Kill Inferno Elementals, Blazing Elementals and Magma Elementals. Loot them for their Heart of Flames - Kill Heavy War Golems and Magma Elementals. Loot them for their Golem Oils - Prioritize these two objectives - (43.8, 35.1) |QID|3442|
 A Forging the Shaft |QID|3443| |N|Talk to Velarok Windblade - Talk to Velarok Windblade - (39.1, 39.0)|
 N (47.5, 46.9) |SK|
 N Kill Incendosaurs - (46.7, 42.5) |QID|7727|
 N (48.4, 41.1)
-N Kill Overseer Maltorius. Loot him for his Head - This quest can be quite difficult. Look for additional group members if required - (40.8, 35.8) |QID|7701| |O|
-N Loot the Secret Plans: Fiery Flux on the bench - After looting, jump down below to the main floor OR the ledge to the right of the plans to evade any mobs you have aggro of - This quest can be quite difficult. Look for additional group members if required - (40.4, 35.7) |QID|7722| |O|
+N Kill Overseer Maltorius. Loot him for his Head - This quest can be quite difficult. Look for additional group members if required - (40.8, 35.8) |QID|7701| |SK|
+N Loot the Secret Plans: Fiery Flux on the bench - After looting, jump down below to the main floor OR the ledge to the right of the plans to evade any mobs you have aggro of - This quest can be quite difficult. Look for additional group members if required - (40.4, 35.7) |QID|7722| |SK|
 U The Key to Freedom |QID|4451| |N|Kill +Dark Iron Slaver - Kill Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] - Any Dark Iron Dwarf may drop Thorium Plated Daggers and the [Grimesilt Outhouse Key] - Use the [Grimesilt Outhouse Key] to start the quest - Collect item 11818 (x1) - (43.2, 35.1)| |U|11818|
 N Kill Overseer Maltorius. Loot him for his Head - This quest can be quite difficult. Look for additional group members if required - (40.8, 35.8) |QID|7701|
 N Loot the Secret Plans: Fiery Flux on the bench - After looting, jump down below to the main floor OR the ledge to the right of the plans to evade any mobs you have aggro of - This quest can be quite difficult. Look for additional group members if required - (40.4, 35.7) |QID|7722|
@@ -34,7 +34,7 @@ A The Torch of Retribution |QID|3454| |N|Talk to Velarok Windblade - Talk to Vel
 A The Torch of Retribution |QID|3454| |N|Talk to Velarok Windblade - Talk to Velarok Windblade - (39.1, 39.0)|
 T The Torch of Retribution |QID|3454| |N|Click on the Torch of Retribution - (39.1, 39.1)|
 A Set Them Ablaze! |QID|3463| |N|Talk to Squire Maltrake - Talk to Velarok Windblade and Squire Maltrake - (39.1, 39.0)|
-N Kill Dark Iron Steamsmiths. Loot them for the Smithing Tuyere - Kill Dark Iron Lookouts. Loot them for the Lookout's Spyglass - (39.1, 50.2) |QID|7728| |O|
+N Kill Dark Iron Steamsmiths. Loot them for the Smithing Tuyere - Kill Dark Iron Lookouts. Loot them for the Lookout's Spyglass - (39.1, 50.2) |QID|7728| |SK|
 N Kill Heavy War Golems - (33.2, 43.6) |QID|7723| |SK|
 N Kill Greater Lava Spiders - (32.0, 42.0) |QID|7724|
 N Kill Heavy War Golems - (50.6, 39.6) |QID|7723|
@@ -60,7 +60,7 @@ T STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|Talk to Taskmaste
 T JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|Talk to Taskmaster Scrange - Talk to Taskmaster Scrange - (39.0, 27.5)|
 T Set Them Ablaze! |QID|3463| |N|Talk to Squire Maltrake - Talk to Squire Maltrake - (39.2, 39.0)|
 T Trinkets... |QID|3481| |N|Click the Hoard of the Black Dragonflight on the ground - (38.8, 39.0)|
-U Open the [Hoard of the Black Dragonflight] |N|Ensure you keep the [Black Dragonflight Molt]. Do not destroy it. You will need it later| |U|10569| |O|
+U Open the [Hoard of the Black Dragonflight] |N|Ensure you keep the [Black Dragonflight Molt]. Do not destroy it. You will need it later| |U|10569| |SK|
 N Kill Dark Iron Steamsmiths. Loot them for the Smithing Tuyere - Kill Dark Iron Lookouts. Loot them for the Lookout's Spyglass - (39.1, 50.2) |QID|7728|
 T STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|Talk to Taskmaster Scrange - Talk to Taskmaster Scrange - (39.0, 27.5)|
 A The Horn of the Beast |QID|3181| |N|Kill Margol the Rager - Collect item 10000 (x1)| |U|10000| |SK|

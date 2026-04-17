@@ -22,7 +22,7 @@ A Jitters' Growling Gut |QID|5| |N|Talk to Jitters - Talk to Jitters - (18.2, 56
 N start AoEing needed quest mobs in groups of 3+ that you see. - Keep this tutorial open in another tab for the Duskwood AoE Section if needed: |SK|
 N Go to the shore. Start AoEing spiders en route to Sven's Camp |QID|93| |SK|
 A Wolves at Our Heels |QID|226| |N|Talk to Lars - Talk to Sven Yorgen - Talk to Lars - (7.8, 34.0)|
-N Go to the shore. Start AoEing spiders en route to Sven's Camp. Loot them for Gooey Spider Legs |QID|93| |O|
+N Go to the shore. Start AoEing spiders en route to Sven's Camp. Loot them for Gooey Spider Legs |QID|93| |SK|
 N AoE Wolves all along the coast - (54.7, 14.5) |QID|226| |SK|
 A Supplies from Darkshire |QID|148| |N|Talk to Abercrombie - Talk to Abercrombie - (28.1, 31.5)|
 T Wolves at Our Heels |QID|226| |N|Talk to Lars - Talk to Lars - (7.7, 33.2)|

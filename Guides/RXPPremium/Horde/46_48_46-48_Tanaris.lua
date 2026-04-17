@@ -7,9 +7,9 @@ return [[
 
 N 46-48 Tanaris |N|Converted from RestedXP guide|
 
-U Hearthstone |U|6948| |O|
-R Feralas >>Fly to Feralas |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O|
-R Feralas >>Fly to Feralas |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |O|
+U Hearthstone |U|6948| |SK|
+R Feralas >>Fly to Feralas |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK|
+R Feralas >>Fly to Feralas |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |SK|
 A The Sunken Temple |QID|3380| |N|Talk to Witch Doctor Uzer'i - Talk to Uzer'i - (74.5, 43.4)|
 R Tanaris >>Fly to Tanaris |N|Talk to Shyn - Talk to Shyn - (75.5, 44.4)|
 N (70.6, 62.7) |SK|
@@ -42,19 +42,19 @@ N Open your [Box of Goodies] |U|9541| |O|
 A Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Modiste - (66.6, 22.3)|
 T Screecher Spirits |QID|3520| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
 A Stoley's Shipment |QID|2873| |N|Talk to Stoley - Talk to Bilgewhizzle and Stoley - (67.1, 23.9)|
-N (68.8, 41.5) |O|
-N Kill +Southsea Swashbuckler - Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] - Open the [Pirate's Footlocker] until you find the [Ship Schedule] - Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed - Collect item 9250 (x1) |QID|8365| |U|9276| |O|
+N (68.8, 41.5) |SK|
+N Kill +Southsea Swashbuckler - Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] - Open the [Pirate's Footlocker] until you find the [Ship Schedule] - Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed - Collect item 9250 (x1) |QID|8365| |U|9276| |SK|
 N Loot the Stolen Cargo for Stoley's Shipment on the second floor of the western house |QID|2873| |SK|
 N Kill Andre Firebeard. Loot him for his Head - (73.4, 47.1) |QID|2875|
 N Loot the Stolen Cargo for Stoley's Shipment on the second floor of the western house - (72.2, 46.8) |QID|2873|
 N Kill +Southsea Swashbuckler - Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] - Open the [Pirate's Footlocker] until you find the [Ship Schedule] - Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed - Collect item 9250 (x1) - (71.1, 42.9) |QID|8365| |U|9276|
 G Grind to level 47 |N|Kill Southsea Swashbuckler - Kill Southsea Pirates - (70.9, 42.9)|
 T The Sunken Temple |QID|3380| |N|Talk to Marvon Rivetseeker - Talk to Marvon - (52.7, 45.9)| |O|
-N (68.3, 41.2) |O|
+N (68.3, 41.2) |SK|
 A Gahz'ridian |QID|3161| |N|Talk to Marvon Rivetseeker - Talk to Marvon - (52.7, 45.9)| |O|
 A Gahz'ridian |QID|3161| |N|Talk to Marvon Rivetseeker - Talk to Marvon - (52.7, 45.9)|
 N Kill Centipaar Silithids. Loot them for their Insect Parts - Be careful of Centipaar Swarmers. They can spawn many minions and social aggro from great distances - All Centipaar cast [Thrash] (Charges 2 extra attacks every 10 seconds) - (35.7, 39.8) |QID|82|
-N (41.0, 57.2) |O|
+N (41.0, 57.2) |SK|
 N Kill Dunemaul Brutes and Dunemaul Enforcers |QID|5863| |SK|
 N Kill Gor'marok in the cave - Be careful of his heavy damage output and Mortal Strike - (41.5, 57.8) |QID|5863|
 U Equip your [Gahz'ridian Detector] |QID|3161| |N|Loot the Piles of Sand for Gahz'ridian Ornaments - Gahz'ridian will appear on your minimap. Many can be found in and around the Eastmoon and Southmoon ruins| |U|9978| |SK|
@@ -62,7 +62,7 @@ N Kill Dunemaul Brutes and Dunemaul Enforcers - (39.9, 73.2) |QID|5863|
 A The Stone Watcher |QID|2954| |N|Click the Uldum Pedestal - Be careful! There are elite Dune Giants in the area. Follow the waypoint arrow to avoid agro - (39.7, 78.3)|
 N Talk to Stone Watcher of Norgannon - Talk to the Stone Watcher of Norgannon - (37.6, 81.4) |QID|2954|
 A Return to Thunder Bluff |QID|2967| |N|Click the Uldum Pedestal - (37.6, 81.4)|
-N (31.1, 64.9) |O|
+N (31.1, 64.9) |SK|
 N Kill Thistleshrub Dew Collectors. Loot them for a Laden Dew Gland - This has a low drop rate and its spawn is shared with other mob types, so kill everything to make them spawn faster |QID|2605| |SK|
 N Kill Gnarled Thistleshrubs and Thistleshrub Rootshaper - (29.5, 63.0) |QID|3362|
 N Kill Thistleshrub Dew Collectors. Loot them for a Laden Dew Gland - This has a low drop rate and its spawn is shared with other mob types, so kill everything to make them spawn faster - (29.5, 63.0) |QID|2605|
@@ -71,14 +71,14 @@ N Talk to Tooga - Guide Tooga toward Steamwheedle Port - You will fail the quest
 U Equip your [Gahz'ridian Detector] |QID|3161| |N|Loot the Piles of Sand for Gahz'ridian Ornaments - Gahz'ridian will appear on your minimap. Many can be found in and around the Eastmoon and Southmoon ruins - (39.9, 73.2)| |U|9978|
 N Talk to Tooga - Guide Tooga toward Steamwheedle Port - You will fail the quest if you get too far away from him - This quest has a 30 minute timer! - (66.6, 25.6) |QID|1560|
 T Tooga's Quest |QID|1560| |N|Talk to Torta - Talk to Torta - (66.6, 25.6)|
-N (67.1, 22.4) |O|
+N (67.1, 22.4) |SK|
 U Ship Schedules |QID|2876| |N|Use the [Ship Schedule] to start the quest - You may need to accept this after turning in to Security Chief Bilgewhizzle and Stoley| |U|9250| |SK|
 U Deliver to MacKinley |QID|2874| |N|Talk to Stoley - Talk to Bilgewhizzle and Stoley - (67.1, 23.9)| |U|9250|
 A Deliver to MacKinley |QID|2874| |N|Talk to Stoley - Talk to Bilgewhizzle and Stoley - (67.1, 23.9)| |O|
 T Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty - (66.6, 22.3)|
 A The Prophecy of Mosh'aru |QID|3527| |N|Talk to Yeh'kinya - Talk to Yeh'kinya again - (67.0, 22.4)|
 N Talk to Jabbey - Talk to Jabbey - Buy [Jagged Arrows] from him - Collect item 11285 (x2600) - (67.0, 22.0) |C|Hunter|
-U Hearthstone |U|6948| |O|
+U Hearthstone |U|6948| |SK|
 H Hearthstone |C|Shaman|
 N (52.6, 28.1)
 N Talk to Dirge Quikcleave - Talk to Dirge Quikcleave - (52.6, 28.1)
@@ -96,7 +96,7 @@ U Find OOX-17/TN! |QID|351| |U|8623|
 T Find OOX-17/TN! |QID|351| |N|Talk to Homing Robot OOX-17/TN - Talk to Homing Robot OOX-17/TN - (60.2, 64.7)| |O|
 A Rescue OOX-17/TN! |QID|648| |N|Talk to Homing Robot OOX-17/TN - Talk to Homing Robot OOX-17/TN again to start the escort quest - This quest can be difficult. Eat/drink to full and apply any self-buffs (scrolls, food, elixirs, etc.) - (60.2, 64.7)| |O|
 N Talk to Homing Robot OOX-17/TN - Escort Homing Robot OOX-17/TN to Steamwheedle Port - A pack of 3 level 46-47 Scorpions will spawn at the next mountain chain - A pack of 3 level 43-45 Wastewander mobs will spawn around Waterspring Field. Focus the Scofflaw. It EXECUTES when you're below 20% health - (67.1, 23.2) |QID|648| |O|
-U Hearthstone |U|6948| |O|
+U Hearthstone |U|6948| |SK|
 N Talk to Dirge Quikcleave - Talk to Dirge - (52.6, 28.1)
 A Insect Part Analysis |QID|110| |N|Talk to Senior Surveyor Fizzledowser - Talk to Fizzledowser - (50.2, 27.5)|
 A Insect Part Analysis |QID|113| |N|Talk to Alchemist Pestlezugg - Talk to Pestlezugg - (50.9, 27.0)|
@@ -104,9 +104,9 @@ A Rise of the Silithid |QID|32| |N|Talk to Senior Surveyor Fizzledowser - Talk t
 A Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - (51.4, 28.8)|
 A Divino-matic Rod |QID|2768| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.5)|
 A Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
-A Gahz'rilla |QID|2770| |N|Have somebody in your group share the following quest if somebody has the Mallet of Zul'Farrak| |O|
+A Gahz'rilla |QID|2770| |N|Have somebody in your group share the following quest if somebody has the Mallet of Zul'Farrak| |SK|
 N (38.9, 20.8)
-N Kill Trolls. Loot them for their Troll Temper |QID|3042| |O|
+N Kill Trolls. Loot them for their Troll Temper |QID|3042| |SK|
 N Kill Scarabs. Loot them for their Uncracked Scarab Shell |QID|2865| |SK|
 N Kill Theka the Martyr. Loot him for the First Mosh'aru Tablet |QID|3527|
 N Kill Scarabs. Loot them for their Uncracked Scarab Shell |QID|2865|
@@ -117,7 +117,7 @@ N Kill Hydromancer Velratha. Loot her for the Tiara of the Deep |QID|2846| |O|
 N Kill Hydromancer Velratha. Loot her for the Second Mosh'aru Tablet |QID|3527| |O|
 N Use the [Mallet of Zul'Farrak] on the Gong of Zul'Farrak to summon Gahz'rilla - Kill Gahz'rilla. Loot him for Gahz'rilla's Electrified Scale - If no one in your party has the [Mallet of Zul'Farrak] you will not be able to summon Gahz'rilla |QID|2770|
 N Kill Trolls. Loot them for their Troll Temper |QID|3042|
-U Hearthstone |U|6948| |O|
+U Hearthstone |U|6948| |SK|
 T Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Lighthammer - (51.4, 28.8)|
 T Divino-matic Rod |QID|2768| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.5)|
 T Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
@@ -127,8 +127,8 @@ T The Prophecy of Mosh'aru |QID|3527| |N|Talk to Yeh'kinya - Talk to Yeh'kinya -
 A The Ancient Egg |QID|4787| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
 R Travel to the Shimmering Flats |SK|
 T Gahz'rilla |QID|2770| |N|Talk to Wizzle Brassbolts - Talk to Wizzle Brassbolts - (78.1, 77.1)|
-R Brackenwall >> Fly to Dustwallow Marsh |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |O|
-R Brackenwall >> Fly to Dustwallow Marsh |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |O|
+R Brackenwall >> Fly to Dustwallow Marsh |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK|
+R Brackenwall >> Fly to Dustwallow Marsh |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK|
 A The Brood of Onyxia |QID|1170| |N|Talk to Draz'Zilb - Talk to Draz'Zilb - (37.1, 33.0)|
 A The Brood of Onyxia |QID|1171| |N|Talk to Overlord Mok'Morokk - Talk to Mok'Morokk - (36.3, 31.4)|
 A The Brood of Onyxia |QID|1172| |N|Talk to Draz'Zilb - Talk to Draz'Zilb - (37.1, 33.0)|
@@ -137,17 +137,17 @@ A Cortello's Riddle |QID|626| |N|Enter the cave, then click the Musty Scroll on 
 N Click Eggs of Onyxia to destroy them - (53.6, 72.5) |QID|1172|
 T Tiara of the Deep |QID|2846| |N|Talk to Tabetha - Talk to Tabetha - (46.0, 57.1)|
 G Grind to level 47+118800 |N|(48.5, 75.3)|
-N (36.1, 30.7) |O| |M|hardcore|
-D Die and respawn |O| |M|speedrun|
-N (36.1, 30.7) |O| |M|speedrun|
+N (36.1, 30.7) |SK| |M|hardcore|
+D Die and respawn |SK| |M|speedrun|
+N (36.1, 30.7) |SK| |M|speedrun|
 T The Brood of Onyxia |QID|1172| |N|Talk to Draz'Zilb - Talk to Draz'Zilb - (37.1, 33.1)|
 A Challenge Overlord Mok'Morokk |QID|1173| |N|Talk to Mok'Morokk - Accepting this quest turns Overlord Mok'Morokk hostile. He hits extremely hard and should be kited. Be prepared - (36.3, 31.5)|
 N Defeat Overlord Mok'Morokk by reducing his health to about 30% - He hits extremely hard and should be kited - (36.3, 31.5) |QID|1173|
 T Challenge Overlord Mok'Morokk |QID|1173| |N|Talk to Draz'Zilb - Talk to Draz'Zilb - (37.1, 33.0)|
-N Cast Cast [Teleport: Thunder Bluff] |O| |C|Mage|
-R Thunder Bluff>>Fly to Thunder Bluff |N|Talk to Shardi - Talk to Shardi - (35.6, 31.9)| |O| |C|!Mage|
-R Thunder Bluff>>Fly to Thunder Bluff |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |O| |C|!Mage|
-R Thunder Bluff>>Fly to Thunder Bluff |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |O| |C|!Mage|
+N Cast Cast [Teleport: Thunder Bluff] |SK| |C|Mage|
+R Thunder Bluff>>Fly to Thunder Bluff |N|Talk to Shardi - Talk to Shardi - (35.6, 31.9)| |SK| |C|!Mage|
+R Thunder Bluff>>Fly to Thunder Bluff |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK| |C|!Mage|
+R Thunder Bluff>>Fly to Thunder Bluff |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK| |C|!Mage|
 A A Future Task |QID|2968| |N|Talk to Nara Wildmane - Talk to Nara - (75.7, 31.6)|
 T A Future Task |QID|2968| |N|Talk to Sage Truthseeker - Talk to Sage - (34.4, 46.9)|
 R Train your class spells |N|Talk to Urek Thunderhorn - Talk to Urek - (59.1, 86.9)| |C|Hunter|
@@ -162,8 +162,8 @@ R Train your class spells |N|Talk to Turak Runetotem - Talk to Turak - (76.5, 27
 R Train your class spells |N|Talk to Turak Runetotem - Talk to Turak - (76.5, 27.2)| |O| |C|Druid|
 R Orgrimmar >>Fly to Orgrimmar |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |C|!Mage|
 R Orgrimmar >> Fly to Orgrimmar |N|Talk to Shardi - Talk to Shardi - (35.6, 31.9)| |C|!Mage|
-R Orgrimmar >> Fly to Orgrimmar |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |O| |C|!Mage|
-R Orgrimmar >> Fly to Orgrimmar |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |O| |C|!Mage|
+R Orgrimmar >> Fly to Orgrimmar |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK| |C|!Mage|
+R Orgrimmar >> Fly to Orgrimmar |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK| |C|!Mage|
 N Cast Cast [Teleport: Orgrimmar] |C|Mage|
 t Train your class spells |N|Talk to Pephredo - Talk to Pephredo - (38.4, 85.5)| |C|Mage|
 t Train your class spells |N|Talk to Pephredo - Talk to Pephredo - (38.4, 85.5)| |O| |C|Mage|

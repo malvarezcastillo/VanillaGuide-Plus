@@ -11,7 +11,7 @@ F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Sk
 T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
 F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |SK| |M|speedrun|
 T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
-F Tanaris >> Fly to Tanaris |N|Talk to Gryfe - Talk to Cloud Skydancer or Gryfe - (50.6, 34.4)| |O|
+F Tanaris >> Fly to Tanaris |N|Talk to Gryfe - Talk to Cloud Skydancer or Gryfe - (50.6, 34.4)| |SK|
 A Calm Before the Storm |QID|4508| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|
 T Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 H Hearthstone
@@ -41,15 +41,15 @@ T Guardians of the Altar |QID|4901| |N|Talk to Erelas Ambersky - Talk to Erelas 
 A Wildkin of Elune |QID|4902| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - (55.5, 92.0)| |C|Mage|
 R Take the purple portal into Darnassus |N|(55.9, 89.5)| |C|Mage|
 T Wildkin of Elune |QID|4902| |N|Talk to Arch Druid Fandral Staghelm - Talk to Arch Druid Fandral Staghelm - (34.8, 9.3)|
-N You will now fly around to accept quests for Blackrock Depths. - Blackrock Depths is a very convoluted dungeon. In order to complete all quests in the most efficient way, it is required to leave the dungeon midrun to turn in/accept follow up quests so it may all be completed in 1 run. - Try to ensure all party members have the same quests and prequests complete, along with 2-3 hours of playtime. |O|
+N You will now fly around to accept quests for Blackrock Depths. - Blackrock Depths is a very convoluted dungeon. In order to complete all quests in the most efficient way, it is required to leave the dungeon midrun to turn in/accept follow up quests so it may all be completed in 1 run. - Try to ensure all party members have the same quests and prequests complete, along with 2-3 hours of playtime. |SK|
 N Remember to take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it shortly - Collect item 10575 (x1)
-R Travel to Ironforge |O|
+R Travel to Ironforge |SK|
 h Ironforge |N|Talk to Innkeeper Firebrew - Talk to Innkeeper Firebrew - If you have a Mage in your group you will set your Hearth to Lakeshire instead - (18.1, 51.6)|
 A Kharan Mighthammer |QID|4341| |N|Talk to King Magni Bronzebeard - Talk to King Magni Bronzebeard - (39.1, 56.2)|
 T A Little Slime Goes a Long Way |QID|4513| |N|Talk to Laris Geardawdle - Talk to Laris Geardawdle - (75.8, 23.4)|
 A Hurley Blackbreath |QID|4126| |N|Talk to Ragnar Thunderbrew - Talk to Ragnar Thunderbrew - (46.8, 52.4)|
 h Dun Morogh |N|Fly to Lakeshire. Set your Hearthstone to Lakeshire ONLY if you have a Mage in your group for BRD, if not skip this step and leave your Hearth in Ironforge|
-F Burning Steppes >> Fly to Burning Steppes from your nearest Flight Master |O|
+F Burning Steppes >> Fly to Burning Steppes from your nearest Flight Master |SK|
 A The Good Stuff |QID|4286| |N|Talk to Oralius - Talk to Oralius - (84.6, 68.7)|
 A Marshal Windsor |QID|4241| |N|Talk to Marshal Maxwell - Talk to Marshal Maxwell - If you cannot accept this quest complete the Dragonkin Menace quest chain - (84.7, 69.0)|
 A Overmaster Pyron |QID|4262| |N|Talk to Jalinda Sprig - Talk to Jalinda Sprig - (85.4, 70.1)|
@@ -63,7 +63,7 @@ N Cast Click the Brazier of Embersight to gain the [Emberglow Vision] debuff |M|
 A Dark Iron Legacy |QID|3802| |N|Talk to Franclorn Forgewright - Talk to Franclorn Forgewright - You must have the [Emberglow Vision] debuff to see him| |M|hardcore|
 A Attunement to the Core |QID|7848| |N|Talk to Lothos Riftwaker - Talk to Lothos Riftwaker|
 N Kill Overmaster Pyron - Overmaster Pyron patrols outside of the BRD instance portal |QID|4262|
-N Kill Dwarves inside of BRD. Loot them for their Dark Iron Fanny Packs |QID|4286| |O|
+N Kill Dwarves inside of BRD. Loot them for their Dark Iron Fanny Packs |QID|4286| |SK|
 A Kharan's Tale |QID|4342| |N|Talk to Kharan Mighthammer - If your group does not have a Rogue you may need to kill High Interrogator Gerstahn for the Prison Cell Key to open the doors|
 A Kharan's Tale |QID|4342| |N|Talk to Kharan Mighthammer|
 N Talk to Kharan Mighthammer |QID|4342|
@@ -72,7 +72,7 @@ A Abandoned Hope |QID|4242| |N|Talk to Marshal Windsor - If your group does not 
 A Abandoned Hope |QID|4242| |N|Talk to Marshal Windsor|
 N Hearth to Ironforge if your Hearth was set there. If you have a Mage in group, kindly ask them for a portal to Ironforge |SK|
 A The Fate of the Kingdom |QID|4362| |N|Talk to King Magni Bronzebeard - Talk to King Magni Bronzebeard - (39.1, 56.2)|
-F Burning Steppes >> Fly to Burning Steppes |N|Hearth to Lakeshire if your Hearth is set there. Otherwise fly to Burning Steppes manually| |O|
+F Burning Steppes >> Fly to Burning Steppes |N|Hearth to Lakeshire if your Hearth is set there. Otherwise fly to Burning Steppes manually| |SK|
 T The Good Stuff |QID|4286| |N|Talk to Oralius - Talk to Oralius - (84.6, 68.7)|
 T Abandoned Hope |QID|4242| |N|Talk to Marshal Maxwell - Talk to Marshal Maxwell - The quest chain will stop here until you find [A Crumpled Up Note] at BRD - (84.7, 69.0)|
 A Incendius! |QID|4263| |N|Talk to Jalinda Sprig - Talk to Jalinda Sprig - (85.4, 70.1)|
@@ -96,11 +96,11 @@ N Loot the Core Fragment on the ground outside of the Molten Core instance porta
 N Kill Emperor Dagran Thaurissan - You must NOT kill Princess Moira Bronzebeard in order to complete and turn in this quest - Have a party member kite Princess Moira Bronzebeard while the rest of the group kills Emperor Dagran Thaurissan |QID|4362|
 A The Princess's Surprise |QID|4363| |N|Talk to Princess Moira Bronzebeard - Talk to Princess Moira Bronzebeard|
 A The Princess's Surprise |QID|4363| |N|Talk to Princess Moira Bronzebeard - Talk to Princess Moira Bronzebeard|
-N Hearth to Ironforge if your Hearth was set there. If you have a Mage in group, kindly ask them for a portal to Ironforge |O|
+N Hearth to Ironforge if your Hearth was set there. If you have a Mage in group, kindly ask them for a portal to Ironforge |SK|
 T The Princess's Surprise |QID|4363| |N|Talk to King Magni Bronzebeard - Talk to King Magni Bronzebeard - (39.1, 56.2)|
 N Travel to Kharanos |SK|
 T Hurley Blackbreath |QID|4126| |N|Talk to Ragnar Thunderbrew - Talk to Ragnar Thunderbrew - (46.8, 52.4)|
-F Burning Steppes >> Fly to Burning Steppes |N|Hearth to Lakeshire if your Hearth is set there. Otherwise fly to Burning Steppes manually| |O|
+F Burning Steppes >> Fly to Burning Steppes |N|Hearth to Lakeshire if your Hearth is set there. Otherwise fly to Burning Steppes manually| |SK|
 T The Good Stuff |QID|4286| |N|Talk to Oralius - Talk to Oralius - (84.6, 68.7)|
 A Stormwind Rendezvous |QID|6402| |N|Talk to Marshal Maxwell - Talk to Marshal Maxwell - (84.7, 69.0)|
 A Stormwind Rendezvous |QID|6402| |N|Talk to Marshal Maxwell - Talk to Marshal Maxwell - (84.7, 69.0)|
@@ -113,7 +113,7 @@ A The Great Masquerade |QID|6403| |N|Talk to Reginald Windsor - Talk to Squire R
 N Talk to Reginald Windsor - Escort Reginald Windsor into Stormwind Keep - Do not assist Reginald Windsor in combat while inside the Keep. If you do so there is a high chance you may die. Stay back at the arrow location and let the event finish on its own. It will take a few minutes - (76.0, 19.1) |QID|6403|
 A The Dragon's Eye |QID|6501| |N|Talk to Highlord Bolvar Fordragon - Talk to Highlord Bolvar Fordragon - (77.6, 18.9)|
 T Attunement to the Core |QID|7848| |N|Talk to Lothos Riftwaker - Talk to Lothos Riftwaker - You can either turn this in now or the next time you are in Blackrock Mountain|
-R Travel to Felwood |O|
+R Travel to Felwood |SK|
 R Felwood >> Fly to Felwood |N|Talk to Sindrayl - Talk to Sindrayl - (48.1, 67.3)|
 R Felwood >> Fly to Felwood |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)|
 N Kill Deadwood Avenger - (62.8, 10.6) |SK| |C|!Mage|

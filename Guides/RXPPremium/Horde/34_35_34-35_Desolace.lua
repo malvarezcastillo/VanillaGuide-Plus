@@ -59,7 +59,7 @@ N Talk to Smeed Scrabblescrew - Use the [Kodo Kombobulator] on Kodos, then escor
 T Kodo Roundup |QID|5561| |N|Talk to Smeed Scrabblescrew - Talk to Smeed - (60.8, 61.9)|
 T Centaur Bounty |QID|1366| |N|Talk to Felgur Twocuts - Talk to Felgur - (56.2, 59.6)|
 A Stealing Supplies |QID|1370| |N|Talk to Uthek the Wise - Talk to Uthek - (36.3, 79.2)|
-N (27.1, 75.7) |O|
+N (27.1, 75.7) |SK|
 A Hand of Iruxos |QID|5381| |N|Talk to Taiga Wisemane - Talk to Taiga - (25.8, 68.2)|
 t Desolace |N|Talk to Innkeeper Sikewa - Talk to Innkeeper Sikewa - (24.1, 68.2)| |O| |C|Mage|
 A Clam Bait |QID|6142| |N|Talk to Mai'Lahii - Talk to Mai'Lahii - (22.7, 72.1)|
@@ -69,17 +69,17 @@ T Fish in a Bucket TWICE to receive 2 [Bloodbelly Fish] |QID|5421| |N|Talk to Ji
 N Talk to Tukk - Talk to Tukk - Buy [Razor Arrows] from him - Collect item 3030 (x2600) - (24.9, 71.8) |C|Hunter|
 N (62.3, 39.0) |SK|
 T Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly - (62.3, 39.0)|
-C Kill Burning Blade members |QID|1435| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick)| |U|6436| |O|
+C Kill Burning Blade members |QID|1435| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick)| |U|6436| |SK|
 N Kill the Burning Blade Seer at the top of the tower. Loot it for the Sceptre - (55.2, 30.1) |QID|5741|
 N (55.3, 27.6) |SK|
 N Use the [Demon Pick] on the Hand of Iruxos Crystal - Kill the Demon Spirit after it spawns. Loot it for the Demon Box - (54.6, 27.5) |QID|5381|
 C Kill Burning Blade members |QID|1435| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick) - (56.8, 29.9)| |U|6436|
 A Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Return to Azore - (38.9, 27.1)|
 A Claim Rackmore's Treasure! |QID|6161| |N|Click Rackmore's Log, resting on a barrel - (36.1, 30.4)|
-N Kill Slitherblade Oracles. Loot them for an Oracle Crystal - Slitherblade Oracles share spawns with other Slitherblade Nagas; you may have to kill them |QID|1482| |O|
-N Kill Slitherblade Nagas. Loot them for the Golden Key |QID|6161| |O|
-N Kill Drysnap Pincers and Crawlers. Loot them for the Silver Key |QID|6161| |O|
-N Kill Slitherblade Naga, Myrmidons, and Sorceresses |QID|6143| |O|
+N Kill Slitherblade Oracles. Loot them for an Oracle Crystal - Slitherblade Oracles share spawns with other Slitherblade Nagas; you may have to kill them |QID|1482| |SK|
+N Kill Slitherblade Nagas. Loot them for the Golden Key |QID|6161| |SK|
+N Kill Drysnap Pincers and Crawlers. Loot them for the Silver Key |QID|6161| |SK|
+N Kill Slitherblade Naga, Myrmidons, and Sorceresses |QID|6143| |SK|
 C Loot the Giant Softshell Clams on the ocean floor. Open them for their Meat |QID|6142| |N|Enraged Reef Crawlers can also drop the Giant Softshell Clams - (33.0, 28.6)| |U|15874|
 N Kill Drysnap Pincers and Crawlers. Loot them for the Silver Key - (32.0, 30.6) |QID|6161|
 T Claim Rackmore's Treasure! |QID|6161| |N|Click Rackmore's Chest - (30.0, 8.8)|
@@ -100,7 +100,7 @@ N Loot the Sacks of Meat around Magram Village for their Meat - (73.7, 72.9) |QI
 A Ongeku |QID|1373| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
 T Stealing Supplies |QID|1370| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
 H Hearthstone |C|Mage|
-N (27.1, 75.7) |O|
+N (27.1, 75.7) |SK|
 N Talk to Aboda - Talk to Aboda - (24.9, 68.7) |SK| |C|Hunter|
 t Attack mobs with it to learn [Claw (Rank 5)] |N|Kill Scorpashi Lasher - Cast Cast [Tame Beast] on a Scorpashi Lasher to tame it - (42.5, 70.2)| |C|Hunter|
 N Talk to Aboda - Talk to Aboda - (24.9, 68.7) |C|Hunter|

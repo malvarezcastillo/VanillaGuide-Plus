@@ -32,7 +32,7 @@ R Un'Goro >> Fly to Un'Goro Crater |N|Talk to Bera Stonehammer - Talk to Bera St
 N (49.6, 47.6) |SK|
 C Use the [Skeleton Key Mold] at the pool of lava to create the Unfinished Skeleton Key |QID|5801| |N|Unfinished Skeleton Key (1) - (49.3, 47.0)| |U|14644|
 A Araj's Scarab |QID|5803| |N|Talk to Alchemist Arbington - Talk to Alchemist Arbington - (42.7, 83.8)|
-N (45.6, 69.3) |O|
+N (45.6, 69.3) |SK|
 C Use an [Attuned Dampener] on him if you have one |QID|5803| |N|Kill Araj the Summonor. Loot Araj's Phylactery on the ground for Araj's Scarab - Araj is a strong elite. It is recommended to kill him in a group of at least 3 players - Araj's Scarab (1x) - (45.6, 69.3)| |U|12650| |M|speedrun|
 N Kill Araj the Summonor. Loot Araj's Phylactery on the ground for Araj's Scarab - Araj is a strong elite. It is recommended to kill him in a group of at least 3 players - Araj's Scarab (1x) - (45.6, 69.3) |QID|5803| |M|speedrun|
 C Use an [Attuned Dampener] on him if you have one |QID|5803| |N|Kill Araj the Summonor. Loot Araj's Phylactery on the ground for Araj's Scarab - Araj is a strong elite and is surrunded by many mobs, clear them carefully. It is recommended to kill him in a group of at least 4 players - Araj's Scarab (1x) - (45.6, 69.3)| |U|12650| |M|hardcore|

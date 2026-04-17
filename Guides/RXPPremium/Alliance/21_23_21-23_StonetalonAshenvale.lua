@@ -13,13 +13,13 @@ N Kill Dal Bloodclaw. Loot him for his Skull - Dal Bloodclaw patrols Thistlefur 
 T Culling the Threat |QID|1054| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
 A The Ruins of Stardust |QID|1034| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)|
 N Loot the Stardust Covered Bushes for the Handful of Stardust - Their spawn locations are scattered throughout the island - (33.3, 67.8) |QID|1034|
-N (31.7, 64.2) |O|
+N (31.7, 64.2) |SK|
 N Jump over the tree root and hug the right to avoid aggroing mobs - (27.5, 60.8) |SK|
 N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to - Clear an exit path if needed so you can reset them along with the Succubus if needed. You may skip this if it's too difficult and do it in the later Ashenvale section - (25.3, 60.7) |QID|973| |M|speedrun|
 T Therylune's Escape |QID|945| |N|Talk to Therysil - Talk to Therysil - (22.6, 51.9)|
 T The Tower of Althalaxx |QID|973| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
 A The Ancient Statuette |QID|1007| |N|Talk to Talen - Talk to Talen - (14.8, 31.3)|
-N Kill Wrathtail Nagas. Loot them for their Heads - Don't go out of your way to complete this yet |QID|1008| |O|
+N Kill Wrathtail Nagas. Loot them for their Heads - Don't go out of your way to complete this yet |QID|1008| |SK|
 N Loot the Ancient Statuette on the ground - (14.2, 20.6) |QID|1007|
 A Ruuzel |QID|1009| |N|Talk to Talen - Talk to Talen - (14.8, 31.3)|
 N Kill Ruuzel. Loot her for the Ring of Zoram - Ruuzel patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed - If you have any [Bombs]/[Grenades] you can also use them to split pull Ruuzel - Lady Vespia is a rarespawn that can also drop the Ring of Zoram if you see her - (6.5, 13.4) |QID|1009| |O|
@@ -36,7 +36,7 @@ A An Aggressive Defense |QID|1025| |N|Talk to Raene Wolfrunner - Talk to Raene W
 T Raene's Cleansing |QID|1023| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)| |C|!Warlock|
 T The Zoram Strand |QID|1008| |N|Talk to Shindrell Swiftfire - Talk to Shindrell Swiftfire - (34.7, 48.8)| |C|!Warlock|
 A Pridewings of Stonetalon |QID|1134| |N|Talk to Shindrell Swiftfire - Talk to Shindrell Swiftfire - (34.7, 48.8)| |C|!Warlock|
-F Auberdine >> Fly to Darkshore |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)| |O| |C|!Warlock|
+F Auberdine >> Fly to Darkshore |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)| |SK| |C|!Warlock|
 N Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde - (36.6, 45.6) |C|!Warlock|
 T Fruit of the Sea |QID|1138| |N|Talk to Gubber Blump - Talk to Gubber Blump - (18.5, 19.9)| |C|!Warlock|
 T WANTED: Murkdeep! |QID|4740| |N|Talk to Sentinel Glynda Nal'Shea - Talk to Sentinel Glynda Nal'Shea - (37.7, 43.4)| |C|!Warlock|
@@ -66,14 +66,14 @@ N Talk to Haljan Oakheart - Talk to Haljan Oakheart - Buy a [Flint and Tinder] a
 A An Aggressive Defense |QID|1025| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)| |C|Warlock|
 T Raene's Cleansing |QID|1023| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)| |C|Warlock|
 T The Ruins of Stardust |QID|1034| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)| |C|Warlock|
-R Grind Saltspittle Murlocs while looking for a group for The Wailing Caverns. Their location is marked on your map |N|Kill Saltspittle Puddlejumper - (20.3, 42.3)| |O|
+R Grind Saltspittle Murlocs while looking for a group for The Wailing Caverns. Their location is marked on your map |N|Kill Saltspittle Puddlejumper - (20.3, 42.3)| |SK|
 N (69.7, 86.9)
 f Ratchet >> Get the Ratchet Flight Path |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)|
 A Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Crane Operator Bigglefuzz - (63.1, 37.6)|
 A What is Love? |QID|65602| |N|Talk to Takar the Seer - Talk to Takar the Seer - (49.3, 57.1)| |C|Warlock|
 N (47.0, 35.4) |SK|
 A Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru|
-N Kill all types of Deviate creatures. Loot them for their Deviate Hides - This can be completed INSIDE and OUTSIDE of Wailing Caverns |QID|1486| |O|
+N Kill all types of Deviate creatures. Loot them for their Deviate Hides - This can be completed INSIDE and OUTSIDE of Wailing Caverns |QID|1486| |SK|
 N Kill Mad Magglish. Loot him for the 99-Year-Old Port - Mad Magglish can spawn in a few locations - This quest is completed OUTSIDE of Wailing Caverns |QID|959|
 N Zone into The Wailing Caverns
 N Kill all types of Deviate creatures. Loot them for their Deviate Hides |QID|1486|
@@ -81,7 +81,7 @@ N Kill all types of Deviate creatures |QID|1487|
 N Kill all types of Deviate creatures. Loot them for their Deviate Hides |QID|1486| |SK|
 U The Glowing Shard |QID|6981| |N|Talk to Disciple of Naralex - Kill Mutanus the Devourer - Kill Lord Cobrahn, Lord Pythas, Lord Serpentis and Lady Anacondra then talk to the Disciple of Naralex at the start of the instance to start his escort - Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening - Kill Mutanus the Devourer. Loot him for the [Glowing Shard] - Use the [Glowing Shard] to start the quest - Collect item 10441 (x1)| |U|10441|
 N Kill all types of Deviate creatures. Loot them for their Deviate Hides - This can be completed INSIDE and OUTSIDE of Wailing Caverns |QID|1486|
-N (63.0, 37.2) |O|
+N (63.0, 37.2) |SK|
 N Talk to Sputtervalve - Talk to Sputtervalve - (63.0, 37.2) |QID|6981|
 T Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Crane Operator Bigglefuzz - (63.1, 37.6)|
 N (50.1, 35.2) |SK|
@@ -161,7 +161,7 @@ N Loot the Heartswood giant tree - (31.5, 31.5) |QID|1738| |C|Warlock|
 N Loot the Unlit Torch on the table - Collect item 190307 (x1) - (26.8, 22.4) |C|Warlock|
 N Create a campfire, then use the Unlit Torch on top of it - Collect item 190308 (x1) - (26.8, 22.4) |U|190307| |C|Warlock|
 N Use the Burning Torch on the cart outside next to where you looted the torch, then go upstairs and loot the statue - (26.6, 22.0) |QID|65602| |C|Warlock|
-D Die and respawn |N|Talk to Spirit Healer - (24.5, 39.1)| |O| |C|Warlock| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - (24.5, 39.1)| |SK| |C|Warlock| |M|speedrun|
 N (34.4, 48.0) |SK| |C|Warlock| |M|hardcore|
 T Culling the Threat |QID|1054| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
 F Darkshore>> Fly to Darkshore |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)|

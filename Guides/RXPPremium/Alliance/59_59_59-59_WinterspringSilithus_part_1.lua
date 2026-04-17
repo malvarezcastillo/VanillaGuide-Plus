@@ -9,7 +9,7 @@ N 59-59 Winterspring/Silithus part 1 |N|Converted from RestedXP guide|
 
 T The Blightcaller Cometh |QID|6186| |N|Talk to Highlord Bolvar Fordragon - Talk to Highlord Bolvar Fordragon - (78.2, 18.0)|
 T A Donation of Runecloth |QID|7795| |N|Talk to Clavicus Knavingham - Talk to Clavicus Knavingham up stairs - Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (44.3, 74.0)|
-R Teleport to Darnassus |O| |C|Mage|
+R Teleport to Darnassus |SK| |C|Mage|
 T Prayer to Elune |QID|3378| |N|Talk to Astarii Starseeker - Talk to Astarii Starseeker - (38.3, 81.0)| |C|Mage|
 R Take the purple portal to Rut'theran Village |N|(29.5, 41.4)| |SK| |C|Mage|
 R Winterspring >> Fly to Winterspring |N|Talk to Vesprystus - Talk to Vesprystus - (58.4, 94.0)| |C|Mage|
@@ -28,7 +28,7 @@ A Chillwind Horns |QID|4809| |N|Talk to Felnok Steelspring - Talk to Felnok Stee
 A Luck Be With You |QID|969| |N|Talk to Witch Doctor Mau'ari - Talk to Witch Doctor Mau'ari - (61.9, 38.3)| |C|Hunter|
 A Luck Be With You |QID|969| |N|Talk to Witch Doctor Mau'ari - Talk to Witch Doctor Mau'ari - (61.9, 38.3)|
 A Are We There, Yeti? |QID|3783| |N|Talk to Umi Rumplesnicker - Talk to Umi Rumplesnicker - (60.9, 37.6)|
-N Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns - Don't go out of your way to complete this yet |QID|4809| |O|
+N Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns - Don't go out of your way to complete this yet |QID|4809| |SK|
 N Kill Ice Thistle Yetis and Rogue Ice Thistles. Loot them for their Thick Yeti Fur - (66.3, 42.6) |QID|3783|
 A Are We There, Yeti? |QID|977| |N|Talk to Umi Rumplesnicker - Talk to Umi Rumplesnicker - (60.9, 37.6)|
 N Kill Winterfall Shamans, Winterfall Den Watchers and Winterfall Ursas - Abandon this quest if the village is too crowded - (66.8, 34.9) |QID|8464| |SK|
@@ -50,7 +50,7 @@ T Luck Be With You |QID|969| |N|Talk to Witch Doctor Mau'ari - Talk to Witch Doc
 N Talk to Izzy Coppergrab - Talk to Izzy Coppergrab - [Rabine's Letter] - [Silvery Claws] - [Irontree Heart] - [Remains of Trey Lightforge] (If you have it) - [Shadow Lord Fel'dan's Head] (If you have it) - (61.5, 37.0)
 A Words of the High Chief |QID|5128| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
 T Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)|
-R Travel to Moonglade via Timbermaw Hold |N|(35.8, 71.9)| |O| |C|!Druid|
+R Travel to Moonglade via Timbermaw Hold |N|(35.8, 71.9)| |SK| |C|!Druid|
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 T Seed of Life |QID|7066| |N|Talk to Keeper Remulos - Talk to the Keeper Remulos - (36.2, 41.8)| |C|!Druid|
@@ -73,7 +73,7 @@ F Azshara >> Fly to Azshara |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48
 T The Green Drake |QID|8232| |N|Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6)| |C|Hunter|
 T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - This will teleport you to the top of the mountain - (28.1, 50.1)| |SK| |C|Mage|
 T Destroy Morphaz |QID|8253| |N|Talk to Archmage Xylem - Talk to Archmage Xylem atop the Tower - (29.2, 40.2)| |C|Mage|
-T Return Trip |QID|3421| |N|Talk to Nyrill - Talk to Nyrill - This will teleport you back down - (26.5, 46.3)| |O| |C|Mage|
+T Return Trip |QID|3421| |N|Talk to Nyrill - Talk to Nyrill - This will teleport you back down - (26.5, 46.3)| |SK| |C|Mage|
 R Tanaris >> Fly to Tanaris |N|Talk to Jarrodenus - Talk to Jarrodenus - (11.9, 77.6)| |C|Hunter/Priest/Mage|
 F Tanaris >> Fly to Tanaris |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)| |C|!Mage/!Hunter/!Priest|
 F Tanaris >> Fly to Tanaris |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)|
@@ -81,11 +81,11 @@ F Tanaris >> Fly to Tanaris |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48
 A Pawn Captures Queen |QID|4507| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|
 C Use [Umi's Mechanical Yeti] on Sprinkle |QID|5163| |N|Talk to Sprinkle - (51.1, 26.9)| |U|12928|
 A Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
-N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O| |M|speedrun|
+N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |SK| |M|speedrun|
 N (69.0, 41.6) |SK| |M|speedrun|
 N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |SK| |M|speedrun|
 N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169| |M|speedrun|
-N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O| |M|hardcore|
+N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |SK| |M|hardcore|
 T The God Hakkar |QID|3528| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)| |O|
 N (69.0, 41.6) |SK| |M|hardcore|
 N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |SK| |M|hardcore|
@@ -108,7 +108,7 @@ N (49.9, 81.7) |SK|
 N Cast Use the [Gorishi Queen Lure] at the Gorishi Silithid Crystal inside of The Slithering Scar. You will have to defeat 3 waves of attacking Gorishi. If you kill the final mob of each wave while OUTSIDE of the main room, you will be able to drink/eat between waves |U|11833| |SK|
 N Defeat the 3 waves of Gorishi attackers. Use the outside room as a reset point to eat/drink between waves if needed - Kill the Gorishi Hive Queen. Loot her for her Brain - (43.5, 81.1) |QID|4507| |U|11833|
 N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses - (27.0, 44.8) |QID|4513| |U|11955|
-R Travel to Silithus |N|(28.7, 21.4)| |O|
+R Travel to Silithus |N|(28.7, 21.4)| |SK|
 A The Spirits of Southwind |QID|1125| |N|Talk to Layo Starstrike - Talk to Layo Starstrike - (81.9, 18.9)|
 A Desert Recipe |QID|8307| |N|Talk to Calandrath - Talk to Calandrath - (51.9, 39.2)|
 A Deadly Desert Venom |QID|8277| |N|Talk to Beetix Ficklespragg - Talk to Beetix Ficklespragg upstairs - (51.8, 38.6)|
@@ -119,8 +119,8 @@ A The Twilight Mystery |QID|8284| |N|Talk to Geologist Larksbane - Talk to Geolo
 A Secret Communication |QID|8318| |N|Talk to Bor Wildmane - Talk to Bor Wildmane - (48.6, 37.8)|
 A Sharing the Knowledge |QID|8313| |N|Click the Sandy Cookbook at the Twilight Base Camp - Approach the Twilight Base Camp from the south for easier access to the Sandy Cookbook - (37.9, 45.3)|
 A Kitchen Assistance |QID|8317| |N|Talk to Calandrath - Talk to Calandrath - (51.9, 39.2)|
-N Kill Dredge Striker - Kill Dredge Strikers. Loot them for their Sandworm Meat - You don't need to collect all Sandworm Meat now - Collect item 20424 (x10) |O|
-N Kill Dredge Strikers - Kill Sand Skitterers. Loot them for their Skitterer Fangs - Kill Stonelash Scorpids. Loot them for their Scorpid Stingers |QID|8277| |O|
+N Kill Dredge Striker - Kill Dredge Strikers. Loot them for their Sandworm Meat - You don't need to collect all Sandworm Meat now - Collect item 20424 (x10) |SK|
+N Kill Dredge Strikers - Kill Sand Skitterers. Loot them for their Skitterer Fangs - Kill Stonelash Scorpids. Loot them for their Scorpid Stingers |QID|8277| |SK|
 A Brann Bronzebeard's Lost Letter |QID|8308| |N|Kill +Tortured Sentinel - Kill Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill - Hive'Ashi Drones may drop [Brann Bronzebeard's Lost Letter] - Collect item 20461 (x1) - (63.7, 49.0)| |U|20461| |SK|
 N Enter the small lodge - Open the Dusty Reliquary on the ground. Loot it for the Reliquary of Purity - (63.2, 55.4) |QID|5527|
 A Brann Bronzebeard's Lost Letter |QID|8308| |N|Kill +Tortured Sentinel - Kill Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill - Hive'Ashi Drones may drop [Brann Bronzebeard's Lost Letter] - Collect item 20461 (x1) - (63.7, 49.0)| |U|20461|
@@ -134,9 +134,9 @@ A The Deserter |QID|8285| |N|Talk to Geologist Larksbane - Talk to Geologist Lar
 A Dearest Natalia |QID|8304| |N|Talk to Commander Mar'alith - Talk to Commander Mar'alith - (49.2, 34.2)|
 A Stepping Up Security |QID|8281| |N|Talk to Windcaller Proudhorn - Talk to Windcaller Proudhorn - (51.2, 38.3)|
 A Noggle's Last Hope |QID|8278| |N|Talk to Beetix Ficklespragg - Talk to Beetix Ficklespragg upstairs - (51.7, 38.5)|
-N Kill Stonelash Flayers and Stonelash Pincers. Loot them for their Stingers - Kill Rock Stalkers. Loot them for their Fangs |QID|8278| |O|
-N Kill Dredge Crushers. Loot them for their Sandworm Meat - Collect item 20424 (x10) |QID|8281| |O|
-N Kill Dredge Crushers |QID|8281| |O|
+N Kill Stonelash Flayers and Stonelash Pincers. Loot them for their Stingers - Kill Rock Stalkers. Loot them for their Fangs |QID|8278| |SK|
+N Kill Dredge Crushers. Loot them for their Sandworm Meat - Collect item 20424 (x10) |QID|8281| |SK|
+N Kill Dredge Crushers |QID|8281| |SK|
 U Brann Bronzebeard's Lost Letter |QID|8308| |N|Talk to Rutgar Glyphshaper - Talk to Rutgar Glyphshaper - (41.3, 88.5)| |U|20461|
 N Talk to Rutgar Glyphshaper - Talk to Rutgar Glyphshaper - (41.3, 88.5) |QID|8304|
 N Talk to Frankal Stonebridge - Talk to Frankal Stonebridge - (40.8, 88.9) |QID|8304|
@@ -150,14 +150,14 @@ T Kitchen Assistance |QID|8317| |N|Talk to Calandrath - Talk to Calandrath - (51
 A Noggle's Lost Satchel |QID|8282| |N|Talk to Noggle Ficklespragg - Talk to Beetix Ficklespragg and Noggle Ficklespragg upstairs - (51.7, 38.5)|
 T Dearest Natalia |QID|8304| |N|Talk to Commander Mar'alith - Talk to Commander Mar'alith - (49.2, 34.2)|
 T Wanted - Deathclasp, Terror of the Sands |QID|8283| |N|Talk to Vish Kozus - Talk to Vish Kozus atop the Tower - (50.8, 33.7)|
-N Kill Twilight Master - Kill any of the Twilight's Hammer. Loot them for their Encrypted Twilight Texts - Collect item 20404 (x20) |O|
+N Kill Twilight Master - Kill any of the Twilight's Hammer. Loot them for their Encrypted Twilight Texts - Collect item 20404 (x20) |SK|
 N Kill Twilight Keeper Havunth. Loot him for the Twilight Lexicon - Chapter 3 - (40.9, 42.2) |QID|8279|
 N Kill Twilight Keeper Mayna. Loot her for the Twilight Lexicon - Chapter 1 - (26.7, 36.1) |QID|8279|
 N Kill Twilight Keeper Exeter. Loot him for the Twilight Lexicon - Chapter 2 - (16.1, 86.5) |QID|8279|
 N Kill Twilight Master - Kill any of the Twilight's Hammer. Loot them for their Encrypted Twilight Texts - Collect item 20404 (x20) - (18.6, 82.2)
 N Loot Noggle's Satchel on the ground - Wait for Deathclasp to patrol up the hill before looting Noggle's Satchel - (44.6, 91.4) |QID|8282|
 T True Believers |QID|8323| |N|Talk to Hermit Ortell - Talk to Hermit Ortell - (67.2, 69.8)|
-N Perform a Logout skip on any of the torches next to Hermit Ortell to teleport to Cenarion Hold. If you are unable to do this just run there normally - (67.2, 69.2) |O|
+N Perform a Logout skip on any of the torches next to Hermit Ortell to teleport to Cenarion Hold. If you are unable to do this just run there normally - (67.2, 69.2) |SK|
 T Secret Communication |QID|8318| |N|Talk to Bor Wildmane - Talk to Bor Wildmane - (48.6, 37.8)|
 T A Terrible Purpose |QID|8287| |N|Talk to Commander Mar'alith - Talk to Commander Mar'alith - (49.2, 34.2)|
 T Noggle's Lost Satchel |QID|8282| |N|Talk to Noggle Ficklespragg - Talk to Noggle Ficklespragg upstairs - (51.6, 38.5)|
@@ -165,7 +165,7 @@ F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Sk
 T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
 F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |SK| |M|speedrun|
 T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
-F Tanaris >> Fly to Tanaris |N|Talk to Gryfe - Talk to Cloud Skydancer or Gryfe - (50.6, 34.4)| |O|
+F Tanaris >> Fly to Tanaris |N|Talk to Gryfe - Talk to Cloud Skydancer or Gryfe - (50.6, 34.4)| |SK|
 A Calm Before the Storm |QID|4508| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|
 T Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 

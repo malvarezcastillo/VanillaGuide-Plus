@@ -29,13 +29,13 @@ A Strange Alliance |QID|1382| |N|Talk to Captain Pentigast - Talk to Corporal Me
 A Vahlarriel's Search |QID|1437| |N|Talk to Vahlarriel Demonslayer - Talk to Vahlarriel Demonslayer - (66.4, 11.8)|
 N Kill Hatefury Satyrs. Loot them for their Claws and Horns - (73.0, 18.5) |QID|1458|
 A Reagents for Reclaimers Inc. |QID|1459| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
-N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |O|
+N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |SK|
 A Vahlarriel's Search |QID|1465| |N|Click the Malem Chest on the ground - (56.5, 17.8)|
 A Sceptre of Light |QID|5741| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (38.9, 27.2)|
 A The Karnitol Shipwreck |QID|1455| |N|Click Karnitol's Chest on the ground - (36.1, 30.5)|
 A Claim Rackmore's Treasure! |QID|6161| |N|Click Rackmore's Log on the small barrel - (36.1, 30.4)|
 N Kill Drysnap Pincers and Drysnap Crawlers. Loot them for Rackmore's Silver Key - (31.4, 28.2) |QID|6161| |U|5996|
-N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |O|
+N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |SK|
 A Kodo Roundup |QID|5561| |N|Talk to Smeed Scrabblescrew - Talk to Smeed Scrabblescrew - (60.9, 61.9)|
 N Kill Magram Centaurs. Loot them for their Ears - Continue killing Magram Centaurs until you've reached Friendly reputation standing with Gelkis Clan Centaur - (68.8, 71.2) |QID|1382|
 N Kill Undead Ravagers - (64.3, 82.0) |QID|261|
@@ -45,7 +45,7 @@ H Hearthstone |SK|
 A Down the Scarlet Path |QID|1052| |N|Talk to Brother Anton - Talk to Brother Anton - (66.5, 7.9)|
 A The Karnitol Shipwreck |QID|1456| |N|Talk to Kreldig Ungor - Talk to Kreldig Ungor - (66.2, 9.6)|
 A Vahlarriel's Search |QID|1438| |N|Talk to Vahlarriel Demonslayer - Talk to Vahlarriel Demonslayer - (66.4, 11.8)|
-N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |O|
+N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |SK|
 N Kill the Kolkar. Loot them for their Charms - (70.0, 41.6) |QID|1384|
 N Kill Magram Centaurs. Loot them for their Ears - (68.8, 71.2) |QID|1387|
 A Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly F'utzbuckle - (62.3, 39.0)|
@@ -61,15 +61,15 @@ A Return to Vahlarriel |QID|1440| |N|Talk to Dalinda Malem - Talk to Dalinda Mal
 N Talk to Dalinda Malem - Safely exit Thunder Axe Fortress with Dalinda Malem - (58.3, 30.9) |QID|1440|
 N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |SK|
 A Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (38.9, 27.2)|
-N (30.1, 10.4) |O|
-N Kill the Slitherblades. Loot them for Rackmore's Golden Key |QID|6161| |O|
-N Kill Slitherblade Tidehunters and Slitherblade Sea Witches. Loot them for Karnitol's Satchel |QID|1456| |O|
+N (30.1, 10.4) |SK|
+N Kill the Slitherblades. Loot them for Rackmore's Golden Key |QID|6161| |SK|
+N Kill Slitherblade Tidehunters and Slitherblade Sea Witches. Loot them for Karnitol's Satchel |QID|1456| |SK|
 N Click the Serpent Statue to summon Lord Kragaru - Kill Lord Kragaru. Loot him for the Book of the Ancients - (28.2, 6.7) |QID|6027|
 N Kill the Slitherblades. Loot them for Rackmore's Golden Key |QID|6161| |SK|
 N Kill Slitherblade Tidehunters and Slitherblade Sea Witches. Loot them for Karnitol's Satchel - You may also find Slitherblade Tidehunters and Slitherblade Sea Witches in the water - (28.1, 10.9) |QID|1456|
 N Kill the Slitherblades. Loot them for Rackmore's Golden Key - (28.1, 10.9) |QID|6161|
 T Claim Rackmore's Treasure! |QID|6161| |N|Click Rackmore's Chest on the ground - (30.0, 8.7)|
-N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |O|
+N Kill Scorpashi Snappers and Scorpashi Lashers. Loot them for their Venom - Kill Aged Kodos. Loot them for their Hides - You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |QID|1459| |SK|
 T Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Talk to Azore Aldamort - (38.9, 27.2)|
 A Stealing Supplies |QID|1370| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
 N Loot Kodo Bones around the graveyard - Looting them may cause Kodo Apparitions to spawn. Kodo Apparitions do not drop Kodo Bones |QID|5501| |SK|

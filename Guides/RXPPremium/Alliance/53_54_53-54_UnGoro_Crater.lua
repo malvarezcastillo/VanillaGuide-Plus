@@ -23,35 +23,35 @@ A Shizzle's Flyer |QID|4503| |N|Talk to Shizzle - Talk to Shizzle - If your ques
 N Loot Power Crystals on the ground - Complete this now if you havn't done so already. They are scattered on the ground throughout Un'Goro - Collect item 11186 (x7) - Collect item 11185 (x7) - Collect item 11184 (x7) - Collect item 11188 (x7) - (62.5, 64.1)
 T Crystals of Power |QID|4284| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
 A The Western Pylon |QID|4288| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)|
-N Kill Diemetradons and Young Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |O|
-N Kill Pterrordaxes and Fledgling Pterrordaxes. Loot them for their Webbed Pterrordax Scales |QID|4503| |O|
+N Kill Diemetradons and Young Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |SK|
+N Kill Pterrordaxes and Fledgling Pterrordaxes. Loot them for their Webbed Pterrordax Scales |QID|4503| |SK|
 N Click the Northern Crystal Pylon - (56.5, 12.5) |QID|4285|
 N Kill Un'Goro Gorillas, Un'Goro Stompers and Un'Goro Thunderer. Loot them for their Pelts - (63.7, 16.6) |QID|4289|
 N Kill lashers in northeastern Un'Goro - (67.8, 26.3) |QID|4141|
-N Kill Pterrordaxes and Fledgling Pterrordaxes. Loot them for their Webbed Pterrordax Scales |QID|4503| |O|
-N Kill Diemetradons and Young Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |O|
-N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses |QID|4513| |U|11955| |O|
+N Kill Pterrordaxes and Fledgling Pterrordaxes. Loot them for their Webbed Pterrordax Scales |QID|4503| |SK|
+N Kill Diemetradons and Young Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |SK|
+N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses |QID|4513| |U|11955| |SK|
 N Loot the Crate of Foodstuffs on the ground - (68.5, 36.5) |QID|3881|
 N Click the Eastern Crystal Pylon - (77.2, 50.0) |QID|4287|
 U Open [Torwa's Pouch] for the [Preserved Threshadon Meat] and [Preserved Pheromone Mixture] |N|Collect item 11569 (x1) - Collect item 11570 (x1)| |U|11568|
 N Use the [Preserved Threshadon Meat] on the stone-slab, then use the [Preserved Pheromone Mixture] on it to summon Lar'korwi - Kill Lar'korwi. Loot him for his Head - (79.9, 49.9) |QID|4292| |U|11570|
 T The Bait for Lar'korwi |QID|4292| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)|
-N Kill Diemetradons and Young Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |O|
+N Kill Diemetradons and Young Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |SK|
 N Kill Pterrordaxes. Loot them for their Webbed Pterrordax Scales - You don't need to collect all Webbed Pterrordax Scales right now - (56.3, 90.6) |QID|4503|
 N (49.9, 81.7)
-N Kill Gorishi Stingers and Gorishi Wasps. Loot them for their Gorishi Stings |QID|9052| |O| |C|Druid|
+N Kill Gorishi Stingers and Gorishi Wasps. Loot them for their Gorishi Stings |QID|9052| |SK| |C|Druid|
 N Kill the Gorishi. Loot them for their Gorishi Scent Gland |QID|4496| |SK|
 N Enter The Slithering Scar Hive - Use the [Unused Scraping Vial] in the centre of the circular room - (48.7, 85.3) |QID|3883|
 N Kill the Gorishi. Loot them for their Gorishi Scent Gland - (44.8, 75.6) |QID|4496|
 N Kill Gorishi Stingers and Gorishi Wasps. Loot them for their Gorishi Stings - (44.8, 75.6) |QID|9052| |C|Druid|
-N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |O|
-N Kill Frenzied Pterrordaxes. Loot them for their Webbed Pterrordax Scales |QID|4503| |O|
-N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses |QID|4513| |U|11955| |O|
+N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |SK|
+N Kill Frenzied Pterrordaxes. Loot them for their Webbed Pterrordax Scales |QID|4503| |SK|
+N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses |QID|4513| |U|11955| |SK|
 N Loot the Research Equipment on the ground - (38.5, 66.1) |QID|3881|
 A Finding the Source |QID|974| |N|Talk to Krakle - Talk to Krakle - (30.9, 50.4)|
 N Click the Western Crystal Pylon - (23.8, 59.2) |QID|4288|
-N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |O|
-N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses |QID|4513| |U|11955| |O|
+N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |SK|
+N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses |QID|4513| |U|11955| |SK|
 N Kill Frenzied Pterrordaxes. Loot them for their Webbed Pterrordax Scales - (20.6, 60.0) |QID|4503|
 N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |SK|
 N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses - (27.0, 44.8) |QID|4513| |U|11955| |O|
@@ -70,7 +70,7 @@ T Making Sense of It |QID|4321| |N|Talk to J.D. Collie - Talk to J.D. Collie - (
 T Shizzle's Flyer |QID|4503| |N|Talk to Shizzle - Talk to Shizzle - (44.2, 11.6)|
 A Chasing A-Me 01 |QID|4243| |N|Talk to Karna Remtravel - Talk to Karna Remtravel - (46.4, 13.4)|
 N Kill Tar Beasts, Tar Creepers, Tar Lurkers and Tar Lords. Loot them for their Super Sticky Tar - (46.2, 19.6) |QID|4504|
-N (63.7, 16.6) |O|
+N (63.7, 16.6) |SK|
 T Chasing A-Me 01 |QID|4243| |N|Talk to A-Me 01 - Talk to A-Me 01 - (67.7, 16.8)|
 T Chasing A-Me 01 |QID|4243| |N|Talk to A-Me 01 - Talk to A-Me 01 - Don't accept the follow up yet - (67.7, 16.8)|
 N Kill U'cha. Loot him for his Pelt - (68.5, 12.2) |QID|4301|
@@ -78,7 +78,7 @@ A Chasing A-Me 01 |QID|4245| |N|Talk to A-Me 01 - Talk to A-Me 01 - (67.7, 16.8)
 A Chasing A-Me 01 |QID|4245| |N|Talk to A-Me 01 - Talk to A-Me 01 - (67.7, 16.8)|
 N Talk to A-Me 01 - Escort A-Me 01 to Karna Remtravel at Marshal's Refuge - (46.4, 13.4) |QID|4245|
 T Chasing A-Me 01 |QID|4245| |N|Talk to Karna Remtravel - Talk to Karna Remtravel|
-N Open the Bloodpetal Sprouts on the ground. Loot them for Bloodcaps |QID|9052| |O| |C|Druid|
+N Open the Bloodpetal Sprouts on the ground. Loot them for Bloodcaps |QID|9052| |SK| |C|Druid|
 N Loot Un'Goro Soil on the ground - Collect item 11018 (x5) - (62.5, 64.1)
 N Loot Un'Goro Soil on the ground - Collect item 11018 (x25) - (62.5, 64.1)
 N Open the Bloodpetal Sprouts on the ground. Loot them for Bloodcaps - (62.5, 64.1) |QID|9052| |C|Druid|
@@ -96,11 +96,11 @@ A Cleansed Water Returns to Felwood |QID|5159| |N|Talk to Islen Waterseer - Talk
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 F Teldrassil>> Fly to Teldrassil |N|Talk to Silva Fil'naveth - Talk to Silva Fil'naveth - (44.1, 45.2)| |SK| |C|Druid|
-R Teleport to Darnassus |O| |C|Mage|
+R Teleport to Darnassus |SK| |C|Mage|
 F Teldrassil>> Fly to Teldrassil |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |C|!Mage/!Druid|
 R Take the purple portal into Darnassus. Don't turn in the Rut'theran Village quests yet |N|(55.9, 89.5)|
-A The New Frontier |QID|1047| |N|Talk to Herald Moonstalker - Herald Moonstalker patrols throughout Darnassus| |O|
-T A Donation of Runecloth |QID|7800| |N|Talk to Raedon Duskstriker - Talk to Raedon Duskstriker - Do the Darnassus cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (64.0, 23.0)| |O|
+A The New Frontier |QID|1047| |N|Talk to Herald Moonstalker - Herald Moonstalker patrols throughout Darnassus| |SK|
+T A Donation of Runecloth |QID|7800| |N|Talk to Raedon Duskstriker - Talk to Raedon Duskstriker - Do the Darnassus cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (64.0, 23.0)| |SK|
 C Use [Eridan's Vial] at the moonwell inside the Temple of the Moon |QID|4441| |N|(39.3, 84.7)| |U|11682|
 t Train your class spells |N|Talk to Jandria - Talk to Jandria - (37.9, 82.7)| |C|Priest|
 t Train your class spells |N|Talk to Arias'ta Bladesinger - Talk to Arias'ta Bladesinger - (58.7, 34.9)| |C|Warrior|

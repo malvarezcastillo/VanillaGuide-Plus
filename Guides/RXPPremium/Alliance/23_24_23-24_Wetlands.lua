@@ -17,14 +17,14 @@ T Young Crocolisk Skins |QID|484| |N|Talk to James Halloran - (8.5, 55.7)| |O|
 N Talk to Dewin Shimmerdawn - Talk to Dewin Shimmerdawn - Buy as many [Healing Potions] that are available - This is a limited supply item. Skip this step if Dewin Shimmerdawn doesn't have any - (8.0, 56.4)
 A Claws from the Deep |QID|279| |N|Talk to Karl Boran - Talk to Karl Boran - (8.4, 58.5)|
 A The Greenwarden |QID|463| |N|Talk to First Mate Fitzsimmons - Talk to First Mate Fitzsimmons - (10.9, 59.7)|
-h Wetlands |N|Talk to Innkeeper Helbrek - Talk to Innkeeper Helbrek - (10.7, 61.0)| |O|
+h Wetlands |N|Talk to Innkeeper Helbrek - Talk to Innkeeper Helbrek - (10.7, 61.0)| |SK|
 N Talk to Innkeeper Helbrek - Talk to Innkeeper Helbrek - Buy a [Flagon of Dwarven Honeymead] - (10.7, 61.0) |QID|288|
 N (10.4, 61.0) |SK|
 T The Absent Minded Prospector |QID|942| |N|Talk to Archaeologist Flagongut - Talk to Archaeologist Flagongut upstairs - (10.8, 60.4)|
 N Talk to Samor Festivus - Talk to Samor Festivus upstairs - Buy as many [Healing Potions] that are available - This is a limited supply item. Skip this step if Samor Festivus doesn't have any - (10.5, 60.2)
 T The Third Fleet |QID|288| |N|Talk to First Mate Fitzsimmons - Talk to First Mate Fitzsimmons - (10.9, 59.7)|
 N Talk to Neal Allen - Talk to Neal Allen - Buy a [Bronze Tube] - This is a limited supply item. Skip this step if Neal Allen doesn't have one - (10.4, 56.0)
-N Kill Young Wetlands Crocolisks. Loot them for their Young Crocolisk Skin |QID|484| |O|
+N Kill Young Wetlands Crocolisks. Loot them for their Young Crocolisk Skin |QID|484| |SK|
 N Kill Bluegill Murlocs - Kill Gobbler. Loot him for his Head - Gobbler patrols the Marshlands slightly - (18.1, 39.8) |QID|279|
 N Talk to Fradd Swiftgear - Talk to Fradd Swiftgear - Buy a [Bronze Tube] - This is a limited supply item. Skip this step if Fradd Swiftgear doesn't have one - (26.4, 25.8)
 A Daily Delivery |QID|469| |N|Talk to Einar Stonegrip - Talk to Einar Stonegrip - (49.9, 39.4)|

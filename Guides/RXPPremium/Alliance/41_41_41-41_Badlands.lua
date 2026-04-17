@@ -19,14 +19,14 @@ t Train your class spells |C|Warrior/Hunter|
 t Train [Growl (Rank 5)] |N|Talk to Belia Thundergranite - Talk to Belia Thundergranite - (70.9, 85.8)| |C|Hunter|
 N Talk to Bailey Stonemantle - Talk to Bailey Stonemantle - [Seaforium Booster] - [Kravel's Scheme] - [Sample Elven Gem] - (35.9, 60.2)
 N Talk to Bailey Stonemantle - Talk to Bailey Stonemantle - 9 [Blue Pearls] (If you have them) - [Buzzard Wings] (If you have any) - [Fizzle Brassbolts' Letter] - (35.9, 60.2)
-N Talk to Auctioneer Buckler - Talk to an Ironforge Auctioneer - Buy the following from the Auction House. This step is optional and will allow you to complete a few extra quests if you have the items - [Blue Pearl] - [Frost Oil] - [Gyrochronatom] (Don't buy this unless you have a [Frost Oil]) - [Patterned Bronze Bracers] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) - [Healing Potion] and [Lesser Invisibility Potion] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) - Collect item 4611 (x9) - Collect item 3829 (x1) - Collect item 4389 (x1) - Collect item 2868 (x1) - Collect item 929 (x1) - Collect item 3823 (x1) - (25.8, 75.5) |O|
+N Talk to Auctioneer Buckler - Talk to an Ironforge Auctioneer - Buy the following from the Auction House. This step is optional and will allow you to complete a few extra quests if you have the items - [Blue Pearl] - [Frost Oil] - [Gyrochronatom] (Don't buy this unless you have a [Frost Oil]) - [Patterned Bronze Bracers] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) - [Healing Potion] and [Lesser Invisibility Potion] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) - Collect item 4611 (x9) - Collect item 3829 (x1) - Collect item 4389 (x1) - Collect item 2868 (x1) - Collect item 929 (x1) - Collect item 3823 (x1) - (25.8, 75.5) |SK|
 R Loch Modan >> Fly to Loch Modan |N|Talk to Gryth Thurden - Talk to Gryth Thurden - If you have used the website unstuck to travel to Ironforge from Wetlands you will not have the Thelsamar flight path. In that case run through Dun Morogh to Loch Modan instead - (55.5, 47.7)|
 h Loch Modan |N|Talk to Innkeeper Hearthstove - Talk to Innkeeper Hearthstove - (35.5, 48.4)|
 A Badlands Reagent Run |QID|2500| |N|Talk to Ghak Healtouch - Talk to Ghak Healtouch - (36.5, 48.4)|
 N (65.9, 65.6) |SK|
 A Find Agmond |QID|738| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)|
-R Travel to Badlands |N|(47.0, 79.3)| |O|
-N Kill Buzzards. Loot them for their Gizzards and Wings - Kill Coyotes. Loot them for their Fangs - Collect item 3404 (x4) |QID|2500| |O|
+R Travel to Badlands |N|(47.0, 79.3)| |SK|
+N Kill Buzzards. Loot them for their Gizzards and Wings - Kill Coyotes. Loot them for their Fangs - Collect item 3404 (x4) |QID|2500| |SK|
 A Mirages |QID|718| |N|Talk to Sigrun Ironhew - Talk to Prospector Ryedol and Sigrun Ironhew - (53.4, 43.4)|
 N Kill Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick - (53.2, 30.6) |QID|719| |SK|
 A A Sign of Hope |QID|720| |N|Click the Crumpled Map on the ground - NOTE: If you quest log is full, skip this step. You will accept it in a moment - (53.0, 33.9)|
@@ -39,14 +39,14 @@ A A Sign of Hope |QID|720| |N|Click the Crumpled Map on the ground - (53.0, 33.9
 T A Sign of Hope |QID|720| |N|Talk to Prospector Ryedol - Talk to Prospector Ryedol - (53.4, 43.4)|
 A Indurium |QID|1108| |N|Talk to Martek the Exiled - Talk to Martek the Exiled - (42.2, 52.7)|
 T Pearl Diving |QID|705| |N|Talk to Rigglefuzz - Talk to Rigglefuzz - Save the [Flash Bomb] reward from this quest for killing King Bangalash in STV later - (42.4, 52.9)| |O|
-N Keep the [Flash Bomb] you got from this quest. It can be used to [Fear] all beasts in the target radius for 10 seconds. That fear doesn't break on damage |O|
+N Keep the [Flash Bomb] you got from this quest. It can be used to [Fear] all beasts in the target radius for 10 seconds. That fear doesn't break on damage |SK|
 A Barbecued Buzzard Wings |QID|703| |N|Talk to Rigglefuzz - Talk to Rigglefuzz - (42.4, 52.9)|
 T Barbecued Buzzard Wings |QID|703| |N|Talk to Rigglefuzz - Talk to Rigglefuzz - (42.4, 52.9)| |O|
 A Tremors of the Earth |QID|732| |N|Talk to Garek - Talk to Garek - (61.9, 54.3)|
 N Kill Scalding Whelps. Loot them for the Black Drake's Heart - You can choose to skip this quest if you wish, as it has a very low drop rate - (68.7, 52.7) |QID|706|
-N Kill Boss Tho'grun. Loot him for his Sign of the Earth - Boss Tho'grun patrols across all of Badlands |QID|732| |O|
+N Kill Boss Tho'grun. Loot him for his Sign of the Earth - Boss Tho'grun patrols across all of Badlands |QID|732| |SK|
 A Murdaloc |QID|739| |N|Click the Battered Dwarven Skeleton - (50.9, 62.4)|
-N Kill Stonevault Bonesnappers and Murdaloc. Loot them for their Indurium - (49.6, 66.7) |QID|1108| |O|
+N Kill Stonevault Bonesnappers and Murdaloc. Loot them for their Indurium - (49.6, 66.7) |QID|1108| |SK|
 A The Lost Fragments |QID|692| |N|Talk to Theldurin the Lost - Talk to Theldurin the Lost - (51.4, 76.9)|
 N Kill Enraged Rock Elementals. Loot them for their Scroll Fragments - (54.7, 83.9) |QID|692|
 T The Lost Fragments |QID|692| |N|Talk to Theldurin the Lost - Talk to Theldurin the Lost - (51.4, 76.9)|

@@ -7,7 +7,7 @@ return [[
 
 N 53-54 Felwood |N|Converted from RestedXP guide|
 
-R Travel to Felwood |O|
+R Travel to Felwood |SK|
 A Timbermaw Ally |QID|8460| |N|Talk to Grazle - Talk to Grazle - (51.0, 85.0)|
 A Forces of Jaedenar |QID|5155| |N|Talk to Greta Mosshoof - Talk to Greta - (51.2, 82.1)|
 A Verifying the Corruption |QID|5156| |N|Talk to Taronn Redfeather - Talk to Taronn - (50.9, 81.7)|
@@ -24,7 +24,7 @@ N Kill Overlord Ror. Loot him for his Claw - Clear the area to avoid complicatio
 N Kill Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners - (48.2, 94.3) |QID|8460|
 G Grind to level 53 130000+/167100 |N|Kill Deadwood Gardener - (48.2, 94.3)| |C|!Warrior/!Hunter/!Rogue/!Druid/!Shaman|
 A Speak to Nafien |QID|8462| |N|Talk to Grazle - Talk to Grazle - (51.0, 85.0)|
-N Kill Deadwood Gardener - Grinding reputation with Timbermaw Hold to Unfriendly can be a wise choice as this will make the Furbolgs in the northern tunnel not aggressive towards you - You can also do this later up north but they are higher level - (46.7, 88.0) |O| |M|speedrun|
+N Kill Deadwood Gardener - Grinding reputation with Timbermaw Hold to Unfriendly can be a wise choice as this will make the Furbolgs in the northern tunnel not aggressive towards you - You can also do this later up north but they are higher level - (46.7, 88.0) |SK| |M|speedrun|
 N Kill Deadwood Gardener - You'll need the reputation later to travel through Timbermaw Hold to the north - (48.5, 89.6) |M|hardcore|
 A Collection of the Corrupt Water |QID|5157| |N|Talk to Greta Mosshoof - Talk to Greta - (51.2, 82.2)|
 C Use your [Empty Canteen] in the green moonwell |QID|5157| |N|Be very careful of Jaedenar Adepts; they have blink, as well as a strong fireball and fire blast - (35.2, 59.8)| |U|12922|
@@ -55,7 +55,7 @@ A Falling to Corruption |QID|5084| |N|Talk to Donova Snowden - Talk to Donova - 
 A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (31.3, 45.2)| |M|hardcore|
 A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - You may safely complete this quest as part of the quest chain for [The Videre Elixir] - (31.3, 45.2)| |M|speedrun|
 A The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)| |M|speedrun|
-D Die and respawn |O| |M|speedrun|
+D Die and respawn |SK| |M|speedrun|
 T Felnok Steelspring |QID|4808| |N|Talk to Felnok Steelspring - Talk to Felnok - (61.6, 38.6)|
 N Talk to Izzy Coppergrab - Talk to Izzy Coppergrab - [Filled Vial Labeled #1] - [Filled Vial Labeled #2] - [Filled Vial Labeled #3] - [Filled Vial Labeled #4] - (61.5, 37.0)
 N Talk to Azzleby - Talk to Azzleby - (60.4, 37.9) |SK| |C|Hunter|

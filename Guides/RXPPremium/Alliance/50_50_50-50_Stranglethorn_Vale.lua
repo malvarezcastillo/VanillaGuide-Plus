@@ -28,7 +28,7 @@ N Kill King Mukla. Loot him for the Shackle Key - You can kite King Mukla around
 T Message in a Bottle |QID|630| |N|Talk to Princess Poobah - Talk to Princess Poobah - (38.5, 80.6)|
 N Kill Gorlash. Loot him for Smotts' Chest - Try to kite him if required to the Booty Bay enterance so guards assist you - (37.0, 69.7) |QID|8551|
 N Talk to Witch Doctor Unbagwa - Talk to Witch Doctor Unbagwa - Turn in your 10 [Gorilla Fangs] to summon Mokk the Savage - Kill Mokk the Savage. Loot him for the Heart of Mokk - You'll have to deal with 3 waves of attacking Gorillas. Focus killing Mokk the Savage then running away on the final wave - This can be difficult to solo. Find a group if required - Collect item 2799 (x10) - (35.3, 60.4) |QID|348|
-N (29.0, 73.0) |O|
+N (29.0, 73.0) |SK|
 A The Captain's Cutlass |QID|8553| |N|Talk to Captain Hecklebury Smotts - Talk to Captain Hecklebury Smotts - (26.7, 73.6)|
 T The Captain's Chest |QID|8551| |N|Talk to Captain Hecklebury Smotts - Talk to Captain Hecklebury Smotts - (26.7, 73.6)|
 A The Captain's Cutlass |QID|8553| |N|Talk to Captain Hecklebury Smotts - Talk to Captain Hecklebury Smotts - (26.7, 73.6)|

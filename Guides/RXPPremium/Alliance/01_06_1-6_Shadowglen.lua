@@ -30,7 +30,7 @@ H Hearthstone |SK| |C|!Hunter|
 A The Woodland Protector |QID|459| |N|Talk to Tarindrella - Talk to Tarindrella - (57.9, 45.1)| |C|!Hunter|
 T The Balance of Nature |QID|457| |N|Talk to Conservator Ilthalaine - Talk to Conservator Ilthalaine - (58.7, 44.3)| |C|!Hunter|
 A Iverron's Antidote |QID|3521| |N|Talk to Dirania Silvershine - Talk to Dirania Silvershine - (60.9, 42.0)|
-N Talk to Keina - Talk to Keina - Make sure that you have 1 silver leftover after leaving the vendor to be able to afford [Serpent Sting] - Buy 2 stacks of [Rough Arrows] - (59.3, 41.1) |O| |C|Hunter|
+N Talk to Keina - Talk to Keina - Make sure that you have 1 silver leftover after leaving the vendor to be able to afford [Serpent Sting] - Buy 2 stacks of [Rough Arrows] - (59.3, 41.1) |SK| |C|Hunter|
 N Talk to Dellylah - Talk to Dellylah - Vendor trash - Buy 20 [Refreshing Spring Water] - Collect Refreshing Spring Water (x20) - (59.6, 40.7) |C|Druid|
 A Webwood Venom |QID|916| |N|Talk to Gilshalan Windwalker - Talk to Gilshalan Windwalker - (57.8, 41.7)|
 G Grind to level 4 |C|Hunter|

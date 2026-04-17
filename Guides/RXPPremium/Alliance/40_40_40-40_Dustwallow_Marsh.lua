@@ -9,7 +9,7 @@ N 40-40 Dustwallow Marsh |N|Converted from RestedXP guide|
 
 N (7.3, 62.5) |SK|
 R Take the boat to Theramore |N|Level your [First Aid] while waiting - (5.1, 63.4)|
-F Ratchet >> Fly to Ratchet |N|Talk to Baldruc - Talk to Baldruc - (67.5, 51.3)| |O| |C|Warlock|
+F Ratchet >> Fly to Ratchet |N|Talk to Baldruc - Talk to Baldruc - (67.5, 51.3)| |SK| |C|Warlock|
 T Knowledge of the Orb of Orahil |QID|4965| |N|Talk to Menara Voidrender - Talk to Menara Voidrender - (62.5, 35.4)| |O| |C|Warlock|
 T Knowledge of the Orb of Orahil |QID|4968| |N|Talk to Menara Voidrender - Talk to Menara Voidrender - (62.5, 35.4)| |O| |C|Warlock|
 A Fragments of the Orb of Orahil |QID|1799| |N|Talk to Menara Voidrender - Talk to Menara Voidrender - (62.5, 35.4)| |O| |C|Warlock|
@@ -59,11 +59,11 @@ T The Missing Diplomat |QID|1267| |N|Talk to Lady Jaina Proudmoore - Talk to Lad
 A Stinky's Escape |QID|1222| |N|Talk to "Stinky" Ignatz - Talk to "Stinky" Ignatz - This will start an escort quest - (46.9, 17.5)| |C|Warlock|
 N Talk to "Stinky" Ignatz - Follow "Stinky" Ignatz through the Marshlands - (48.8, 24.5) |QID|1222| |C|Warlock|
 T Hungry |QID|1177| |N|Talk to Mudcrush Durtfeet - Talk to Mudcrush Durtfeet - (35.2, 38.3)|
-N (35.7, 54.0) |O|
+N (35.7, 54.0) |SK|
 N Attack Balos Jacken to 10% health to make him submit - (36.1, 54.3) |SK|
 A The Deserters |QID|1287| |N|Talk to Balos Jacken - Talk to Balos Jacken - (36.1, 54.3)|
 N Open the Gizmorium Shipping Crate. Loot it for the Seaforium Booster - (54.1, 56.5) |QID|1187|
-N (66.3, 45.5) |O|
+N (66.3, 45.5) |SK|
 T Stinky's Escape |QID|1222| |N|Talk to Morgan Stern - Talk to Morgan Stern - (66.3, 45.5)|
 T Mudrock Soup and Bugs |QID|1204| |N|Talk to Morgan Stern - Talk to Morgan Stern - (66.3, 45.5)|
 A ... and Bugs |QID|1258| |N|Talk to Morgan Stern - Talk to Morgan Stern - (66.3, 45.5)|

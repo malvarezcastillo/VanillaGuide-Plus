@@ -14,12 +14,12 @@ T The Azure Key |QID|8236| |N|Talk to Lord Jorach Ravenholdt - Talk to Lord Jora
 F Western Plaguelands >> Fly to Western Plaguelands |N|Talk to Darla Harris - Talk to Darla Harris - (49.3, 52.3)| |M|hardcore|
 N (39.5, 81.2) |SK| |M|speedrun|
 T The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Haggerdin - Talk to Lieutenant Haggerdin - (39.5, 81.2)| |M|speedrun|
-R Travel to Western Plaguelands |N|(42.7, 84.0)| |O| |M|speedrun|
+R Travel to Western Plaguelands |N|(42.7, 84.0)| |SK| |M|speedrun|
 A Clear the Way |QID|5092| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)|
 T The Everlook Report |QID|6028| |N|Talk to Argent Officer Pureheart - Talk to Argent Officer Pureheart - (43.0, 83.5)|
 T Forging the Mightstone |QID|8418| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)| |C|Paladin|
 T Argent Dawn Commission |QID|5401| |N|Talk to Argent Officer Pureheart - Talk to Argent Officer Pureheart - (43.0, 83.5)|
-N Cast Equip the [Argent Dawn Commission] to start collecting [Scourgestones] |U|12846| |O|
+N Cast Equip the [Argent Dawn Commission] to start collecting [Scourgestones] |U|12846| |SK|
 N Kill Skeletal Flayers and Slavering Ghouls - (48.9, 80.8) |QID|5092|
 T Clear the Way |QID|5092| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)|
 A All Along the Watchtowers |QID|5097| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)|
@@ -32,7 +32,7 @@ A The Eastern Plagues |QID|6185| |N|Talk to Flint Shadowmore - Talk to Flint Sha
 A Little Pamela |QID|5142| |N|Talk to Marlene Redpath - Talk to Marlene Redpath - Marlene Redpath may also be upstairs - (49.2, 78.6)|
 C Use the [Beacon Torch] next to the Tower entrance. You can do this without agroing the Elite Skeletal Warlord inside |QID|5097| |N|(46.7, 71.1)| |U|12815|
 A The Wildlife Suffers Too |QID|4984| |N|Talk to Mulgris Deepriver - Talk to Mulgris Deepriver - Freezing Ghouls cast [Flash Freeze]. This ability stuns for 5 seconds. Avoid agroing multiple at the same time - (53.7, 64.7)|
-N Kill Diseased Wolves - Diseased Wolves share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn - (49.2, 58.4) |QID|4984| |O|
+N Kill Diseased Wolves - Diseased Wolves share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn - (49.2, 58.4) |QID|4984| |SK|
 C Use the [Beacon Torch] next to the Tower entrance. You can do this without agroing the Elite Skeletal Warlord inside |QID|5097| |N|(44.2, 63.3)| |U|12815|
 T Mrs. Dalson Diary |QID|5058| |N|Enter the Dalson's Tears Barn - Click Mrs. Dalson's Diary on the ground - (47.8, 50.7)|
 N Kill the Wandering Skeleton. Loot it for the Dalson Outhouse Key - The Wandering Skeleton patrols around the Dalson's Tear Barn and House - Collect item 12738 (x1) - (47.9, 49.9)
@@ -44,7 +44,7 @@ A Return to Chillwind Camp |QID|5220| |N|Click on the Scourge Cauldron - (46.2, 
 N (38.0, 54.6) |SK|
 A Two Halves Become One |QID|5051| |N|Talk to Janice Felstone - Talk to Janice through the ground from the 1st floor - (38.4, 54.0)|
 N Kill the Jabbering Ghoul. Loot it for the [Good Luck Other-Half-Charm] - He patrols around the Field - Collect item 12722 (x1) - (38.2, 57.1)
-N Use the [Good Luck Other-Half-Charm] to create the Good Luck Charm - Collect item 12723 (x1) |U|12722| |O|
+N Use the [Good Luck Other-Half-Charm] to create the Good Luck Charm - Collect item 12723 (x1) |U|12722| |SK|
 N (38.0, 54.6) |SK|
 T Two Halves Become One |QID|5051| |N|Talk to Janice Felstone - Talk to Janice through the ground from the 1st floor - (38.4, 54.0)|
 N Kill Diseased Wolves - Diseased Wolves share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn - (49.2, 58.4) |QID|4984|
@@ -56,10 +56,10 @@ A Target: Writhing Haunt |QID|5222| |N|Talk to High Priestess MacDonnell - Talk 
 N Kill Cauldron Lord Razarch. Loot him for the Writhing Haunt Cauldron Key - Cauldron Lord Razarch may spawn as you approach the Cauldron - Freezing Ghouls cast [Flash Freeze]. This ability stuns for 5 seconds. Avoid agroing multiple at the same time - (53.0, 66.1) |QID|5222|
 A Return to Chillwind Camp |QID|5223| |N|Click on the Scourge Cauldron - (53.0, 65.7)|
 A The Wildlife Suffers Too |QID|4985| |N|Talk to Mulgris Deepriver - Talk to Mulgris Deepriver - Freezing Ghouls cast [Flash Freeze]. This ability stuns for 5 seconds. Avoid agroing multiple at the same time - (53.7, 64.7)|
-N Kill any Diseased Grizzlies you see en-route to Eastern Plaguelands - It is important you kill any you see along the way, but you don't have to complete it now |QID|4985| |O|
+N Kill any Diseased Grizzlies you see en-route to Eastern Plaguelands - It is important you kill any you see along the way, but you don't have to complete it now |QID|4985| |SK|
 R Travel to Eastern Plaguelands |N|(9.6, 66.2)| |SK|
 A Carrion Grubbage |QID|5544| |N|Talk to Tirion Fordring - Talk to Tirion Fordring - (7.5, 43.6)|
-N Kill Plaguebats - Kill Plaguehound Runts - Kill Carrion Grubs. Loot them for their Worm Meat |QID|5544| |O|
+N Kill Plaguebats - Kill Plaguehound Runts - Kill Carrion Grubs. Loot them for their Worm Meat |QID|5544| |SK|
 N Click the Mangled Human Remains on the ground. Loot it for the SI:7 Insignia (Fredo) - (27.3, 75.0) |QID|6185|
 N Click the Mangled Human Remains on the ground. Loot it for the SI:7 Insignia (Turyen) - (28.8, 74.9) |QID|6185|
 N Click the Mangled Human Remains on the ground. Loot it for the SI:7 Insignia (Rutger) - (28.8, 79.9) |QID|6185|
@@ -77,8 +77,8 @@ A Defenders of Darrowshire |QID|5211| |N|Talk to Carlin Redpath - Talk to Carlin
 T That's Asking A Lot |QID|6026| |N|Talk to Smokey LaRue - Talk to Smokey LaRue - (80.6, 58.0)|
 f Chapel >> Get the Light's Hope Chapel flight path |N|Talk to Khaelyn Steelwing - Talk to Khaelyn Steelwing - (81.6, 59.3)|
 A Zaeldarr the Outcast |QID|6021| |N|Talk to Caretaker Alen - Talk to Caretaker Alen - (79.4, 64.0)|
-N Talk to Darrowshire Spirit - Kill Diseased Flayers, Gibbering Ghouls and Cannibal Ghouls. Talk to the Darrowshire Spirits that spawn from their corpses - (60.6, 68.4) |QID|5211| |O|
-N Kill Frenzied Plaguehounds - (69.2, 50.6) |QID|5542| |O|
+N Talk to Darrowshire Spirit - Kill Diseased Flayers, Gibbering Ghouls and Cannibal Ghouls. Talk to the Darrowshire Spirits that spawn from their corpses - (60.6, 68.4) |QID|5211| |SK|
+N Kill Frenzied Plaguehounds - (69.2, 50.6) |QID|5542| |SK|
 T Troubled Spirits of Kel'Theril |QID|5245| |N|Talk to Aurora Skycaller - Talk to Aurora Skycaller - (53.5, 22.0)|
 N Open the Large Termite Mounds throughout Plaguewood. Loot them for the Plagueland Termites - (41.2, 25.2) |QID|5903|
 T The Restless Souls |QID|5281| |N|Talk to Egan - Talk to Egan - (14.4, 33.7)|
@@ -103,7 +103,7 @@ A A Plague Upon Thee |QID|5904| |N|Talk to Nathaniel Dumah - Talk to Nathaniel D
 A The Blightcaller Cometh |QID|6186| |N|Talk to Flint Shadowmore - Talk to Flint Shadowmore - (43.6, 84.5)|
 A A Strange Historian |QID|5153| |N|Talk to Marlene Redpath - Talk to Marlene Redpath - Marlene Redpath may also be upstairs - (49.2, 78.6)|
 N Click Joseph Redpath's Monument. Loot it for Joseph's Wedding Ring - (49.7, 76.8) |QID|5153|
-N Kill Skeletal Executioners and Skeletal Acolytes. Loot them for their Skeletal Fragments |QID|5537| |O|
+N Kill Skeletal Executioners and Skeletal Acolytes. Loot them for their Skeletal Fragments |QID|5537| |SK|
 A A Matter of Time |QID|4971| |N|Talk to Chromie - Talk to Chromie upstairs - (39.5, 66.8)|
 N (43.8, 69.2) |SK|
 N Enter the Ruins of Andorhal Town Hall - Open the Musty Tomes. Loot them for the Annals of Darrowshire - The correct Musty Tome will have its pages be a completely dark-shade, or have a brown stain. If it's only half white and half black, that is a trap - There can be times where all Musty Tomes are traps and you must open them to force a correct one to spawn - (43.5, 69.5) |QID|5154|
@@ -139,7 +139,7 @@ A Unfinished Business |QID|6023| |N|Talk to Kirsta Deepshadow - Talk to Kirsta D
 N Kill Huntsman Radley - (50.0, 30.4) |QID|6023|
 N Kill Cavalier Durgen - Cavalier Durgen will patrol up and down the Tower. Wait at the bottom for him to come to you instead of going inside - (54.5, 23.8) |QID|6023|
 A Unfinished Business |QID|6025| |N|Talk to Kirsta Deepshadow - Talk to Kirsta Deepshadow - (51.9, 28.1)|
-N (45.7, 18.8) |O|
+N (45.7, 18.8) |SK|
 N Ascend the Hearthglen Tower - You may either run straight to the top and jump down or clear your way up - Avoid High Protector Lorik who is a strong Elite that roams Hearthglen - This quest can be difficult. Skip it if you are not confident going into Hearthglen - (50.0, 30.4) |QID|6025|
 N Loot Davil's Libram on the table - Avoid High Protector Lorik who is a strong Elite that roams Hearthglen - This quest can be difficult. Skip it if you are not confident going into Hearthglen - (42.5, 19.0) |QID|5168|
 T Unfinished Business |QID|6025| |N|Talk to Kirsta Deepshadow - Talk to Kirsta Deepshadow - (51.9, 28.1)|
@@ -155,7 +155,7 @@ T Defenders of Darrowshire |QID|5211| |N|Talk to Carlin Redpath - Talk to Carlin
 T Heroes of Darrowshire |QID|5168| |N|Talk to Carlin Redpath - Talk to Carlin Redpath - (81.5, 59.8)|
 T Villains of Darrowshire |QID|5181| |N|Talk to Carlin Redpath - Talk to Carlin Redpath - (81.5, 59.8)|
 N If you bought [Dark Iron Scraps] / [Core of Elements] / [Crypt Fiend Parts] / [Bone Fragments] / [Savage Fronds] take them out of your mail. If you did not buy any, skip this step - (80.9, 58.5)
-N If you do not have the Reputation required to accept these quests, grind on nearby Undead until you are Friendly with the Argent Dawn - If you still have quests to turn in at Western Plaguelands fly there and turn them in, then grind any needed reputation still at Sorrow Hill in WPL. The location is marked on your map - (50.0, 76.9) |O|
+N If you do not have the Reputation required to accept these quests, grind on nearby Undead until you are Friendly with the Argent Dawn - If you still have quests to turn in at Western Plaguelands fly there and turn them in, then grind any needed reputation still at Sorrow Hill in WPL. The location is marked on your map - (50.0, 76.9) |SK|
 T Savage Flora |QID|9136| |N|Talk to Rayne - Talk to Rayne - (81.2, 59.0)| |O|
 T Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Talk to Huntsman Leopold - Talk to Huntsman Leopold - (81.5, 58.6)| |O|
 T Bonescythe Digs |QID|9126| |N|Talk to Rohan the Assassin - Talk to Rohan the Assassin - (81.4, 58.5)| |O|

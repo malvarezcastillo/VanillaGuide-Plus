@@ -7,8 +7,8 @@ return [[
 
 N 6-12 Mulgore |N|Converted from RestedXP guide|
 
-D Die and respawn |O| |M|speedrun|
-N (47.4, 60.7) |O| |M|hardcore|
+D Die and respawn |SK| |M|speedrun|
+N (47.4, 60.7) |SK| |M|hardcore|
 A Mazzranache |QID|766| |N|Talk to Maur Raincaller - Talk to Maur - (47.0, 57.1)| |M|speedrun|
 A Dwarven Digging |QID|746| |N|Talk to Baine Bloodhoof - Talk to Ruul and Baine - (47.4, 62.0)|
 h Mulgore |QID|1656| |N|Talk to Innkeeper Kauth - Talk to Innkeeper Kauth - (46.6, 61.1)|
@@ -19,13 +19,13 @@ N Talk to Mahnott. Buy a [Wooden Mallet] from him - Collect Wooden Mallet (1) - 
 N Talk to Kennah Hawkseye - Talk to Kennah - Vendor trash. Sell your weapon if it gives you enough money for a [Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet - (45.5, 58.5) |C|Hunter|
 N Talk to Kennah. Buy a [Ornate Blunderbuss] from him - Collect Ornate Blunderbuss (1) - (45.5, 58.5) |C|Hunter|
 N Talk to Kennah Hawkseye - Talk to Kennah - Buy [Light Shots] from him - Collect item 2516 (x1000) - (45.5, 58.5) |C|Hunter|
-N Equip the [Walking Stick] |U|2495| |O| |C|Shaman/Druid|
-N Equip the [Wooden Mallet] |U|2493| |O| |C|Warrior|
-N Equip the [Ornate Blunderbuss] |U|2509| |O| |C|Hunter|
+N Equip the [Walking Stick] |U|2495| |SK| |C|Shaman/Druid|
+N Equip the [Wooden Mallet] |U|2493| |SK| |C|Warrior|
+N Equip the [Ornate Blunderbuss] |U|2509| |SK| |C|Hunter|
 A Poison Water |QID|748| |N|Talk to Mull Thunderhorn - Talk to Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren|
 A Swoop Hunting |QID|761| |N|Talk to Harken Windtotem - Talk to Maur, Zarlman and Harken - (47.0, 57.1)| |R|!Tauren|
 N Get the items for Mazzranache as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |SK|
-N Kill Prairie Wolves and Adult Plainstriders. Loot them for their Paws and Talons - Prairie Wolf Paw (6) - Plainstrider Talon (4) |QID|748| |O| |R|Tauren|
+N Kill Prairie Wolves and Adult Plainstriders. Loot them for their Paws and Talons - Prairie Wolf Paw (6) - Plainstrider Talon (4) |QID|748| |SK| |R|Tauren|
 N Collect the Ambercorns. They can be found under the trees on the ground - Ambercorn (2) - (50.4, 66.5) |QID|771|
 N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |SK|
 N Kill Prairie Wolves and Adult Plainstriders. Loot them for their Paws and Talons - Prairie Wolf Paw (6) - Plainstrider Talon (4) - (50.8, 66.7) |QID|748| |R|Tauren|
@@ -33,7 +33,7 @@ A Winterhoof Cleansing |QID|754| |N|Talk to Mull Thunderhorn - Talk to Mull - (4
 N Collect the Well Stones around the Well - Well Stone (2) |QID|771| |SK| |R|Tauren|
 N Use the [Winterhoof Cleansing Totem] at the Well - Cleanse the Winterhoof Water Well (1) - (53.7, 66.3) |QID|754| |R|Tauren|
 N Collect the Well Stones around the Well - Well Stone (2) - (54.1, 66.4) |QID|771|
-N Get the items for Mazzranache as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |O|
+N Get the items for Mazzranache as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |SK|
 N Go back and forth between the two camps. Kill Palemane Tanners, Palemane Skinners and Palemane Poachers - Be careful of Snagglespear (Level 9 rare). He's too difficult to kill. - Palemane Tanner (10) - Palemane Skinner (8) - Palemane Poacher (5) - (53.5, 73.0) |QID|745|
 N Talk to Jhawna Oatwind - Talk to Jhwana - Vendor trash - (47.6, 61.5)
 T Sharing the Land |QID|745| |N|Talk to Baine Bloodhoof - Talk to Mull and Baine - (48.5, 60.4)| |R|Tauren|
@@ -45,22 +45,22 @@ N Talk to Mahnott Roughwound - Talk to Mahnott - Vendor trash. Sell your weapon 
 N Talk to Mahnott. Buy a [Wooden Mallet] from him - Collect Wooden Mallet (1) - (45.7, 58.6) |C|Warrior|
 N Talk to Kennah Hawkseye - Talk to Kennah - Vendor trash. Sell your weapon if it gives you enough money for a [Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet - (45.5, 58.5) |C|Hunter|
 N Talk to Kennah. Buy a [Ornate Blunderbuss] from him - Collect Ornate Blunderbuss (1) - (45.5, 58.5) |C|Hunter|
-N Equip the [Walking Stick] |U|2495| |O| |C|Shaman/Druid|
-N Equip the [Wooden Mallet] |U|2493| |O| |C|Warrior|
-N Equip the [Ornate Blunderbuss] |U|2509| |O| |C|Hunter|
+N Equip the [Walking Stick] |U|2495| |SK| |C|Shaman/Druid|
+N Equip the [Wooden Mallet] |U|2493| |SK| |C|Warrior|
+N Equip the [Ornate Blunderbuss] |U|2509| |SK| |C|Hunter|
 A Rite of Vision |QID|772| |N|Talk to Zarlman Two-Moons - Talk to Zarlman - Do not follow the wolf that spawns - (47.8, 57.5)|
 t Train your class spells |N|Talk to Yaw Sharpmane - Talk to Yaw - (47.8, 55.7)| |C|Hunter|
 t Train your class spells |N|Talk to Gennia Runetotem - Talk to Gennia - (48.5, 59.6)| |C|Druid|
 t Train your class spells |N|Talk to Krang Stonehoof - Talk to Krang - (49.5, 60.6)| |C|Warrior|
 t Train your class spells |N|Talk to Narm Skychaser - Talk to Narm - (48.4, 59.1)| |C|Shaman|
 A The Ravaged Caravan |QID|749| |N|Talk to Morin - He patrols along the eastern road - (55.1, 60.6)|
-N Get the items for Mazzranache as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |O|
-N Kill Stalkers and Cougars. Loot them for their Claws - Stalker Claws (6) - Cougar Claws (6) |QID|756| |O| |R|Tauren|
-N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |O|
+N Get the items for Mazzranache as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |SK|
+N Kill Stalkers and Cougars. Loot them for their Claws - Stalker Claws (6) - Cougar Claws (6) |QID|756| |SK| |R|Tauren|
+N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |SK|
 A The Ravaged Caravan |QID|751| |N|Click the Sealed Supply Crate - (53.7, 48.2)|
 N Kill Stalkers and Cougars. Loot them for their Claws - Stalker Claws (6) - Cougar Claws (6) - (58.1, 48.6) |QID|756| |R|Tauren|
-D Die and respawn |O| |M|speedrun|
-N (46.5, 55.5) |O| |M|hardcore|
+D Die and respawn |SK| |M|speedrun|
+N (46.5, 55.5) |SK| |M|hardcore|
 t Train your class spells |N|Talk to Yaw Sharpmane - Talk to Yaw - (47.8, 55.7)| |C|Hunter|
 T Mazzranache |QID|766| |N|Talk to Maur Raincaller - Talk to Maur - (47.0, 57.1)|
 N Talk to Mahnott Roughwound - Talk to Mahnott - Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet - (45.7, 58.6) |C|Shaman/Druid|
@@ -70,10 +70,10 @@ N Talk to Mahnott. Buy a [Wooden Mallet] from him - Collect Wooden Mallet (1) - 
 N Talk to Kennah Hawkseye - Talk to Kennah - Vendor trash. Sell your weapon if it gives you enough money for a [Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet - (45.5, 58.5) |C|Hunter|
 N Talk to Kennah. Buy a [Ornate Blunderbuss] from him - Collect Ornate Blunderbuss (1) - (45.5, 58.5) |C|Hunter|
 N Talk to Moorat Longstride - Talk to Loorat - Collect item 2516 (x1000) - (45.9, 57.7) |C|Hunter|
-N Equip the [Walking Stick] |U|2495| |O| |C|Shaman/Druid|
-N Equip the [Wooden Mallet] |U|2493| |O| |C|Warrior|
-N Equip the [Ornate Blunderbuss] |U|2509| |O| |C|Hunter|
-N Talk to Harant Ironbrace - Talk to Harant - Vendor trash and repair - (45.9, 58.7) |O|
+N Equip the [Walking Stick] |U|2495| |SK| |C|Shaman/Druid|
+N Equip the [Wooden Mallet] |U|2493| |SK| |C|Warrior|
+N Equip the [Ornate Blunderbuss] |U|2509| |SK| |C|Hunter|
+N Talk to Harant Ironbrace - Talk to Harant - Vendor trash and repair - (45.9, 58.7) |SK|
 T Swoop Hunting |QID|761| |N|Talk to Harken Windtotem - Talk to Harken - (48.7, 59.3)|
 A Thunderhorn Cleansing |QID|758| |N|Talk to Mull Thunderhorn - Talk to Mull - (48.5, 60.4)| |R|Tauren|
 t Train your class spells |N|Talk to Narm Skychaser - Talk to Narm - (48.4, 59.1)| |C|Shaman|
@@ -81,15 +81,15 @@ t Train your class spells |N|Talk to Gennia Runetotem - Talk to Gennia - (48.5, 
 t Train your class spells |N|Talk to Krang Stonehoof - Talk to Krang - (49.5, 60.6)| |C|Warrior|
 t Train your class spells |N|Talk to Yaw Sharpmane - Talk to Yaw - (47.8, 55.7)| |C|Hunter|
 N Talk to Innkeeper Kauth - Talk to Innkeeper Kauth - (46.6, 61.1)
-N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |O|
-N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |O|
+N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |SK|
+N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |SK|
 N Use the [Thunderhorn Cleansing Totem] at the Well - Cleanse the Thunderhorn Water Well (1) - (44.5, 45.4) |QID|758| |R|Tauren|
 C Smash the [Picks] at the Forge |QID|746| |N|Kill Bael'dun Diggers and Bael'dun Appraisers. Loot them for their Prospector's Picks - Be careful as Bael'dun Appraisers cast [Lesser Heal] (Ranged Cast: Heals themselves or a nearby mob below 50% health for about 75 health) - Broken Tools (5) - (31.3, 49.9)| |U|4702|
 N Kill Windfury Wind Witches and Windfury Harpies. Loot them for their Talons - Windfury Talon (8) - (31.7, 40.3) |QID|743|
 N (33.4, 36.5) |SK|
 A Rite of Wisdom |QID|773| |N|Talk to Seer Wiserunner - Talk to Wiserunner - (32.7, 36.1)|
-N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |O|
-U The Demon Scarred Cloak |QID|770| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]. Use it to start the quest - Be careful as Ghost Howl is difficult due to being level 12 - Collect Demon Scarred Cloak| |U|4854| |O|
+N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |SK|
+U The Demon Scarred Cloak |QID|770| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]. Use it to start the quest - Be careful as Ghost Howl is difficult due to being level 12 - Collect Demon Scarred Cloak| |U|4854| |SK|
 N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |SK|
 A A Sacred Burial |QID|833| |N|Talk to Lorekeeper Raintotem - Talk to Raintotem - (59.9, 25.6)|
 N Kill Bristleback Interlopers - Bristleback Interloper (8) |QID|833| |SK|
@@ -107,9 +107,9 @@ G Grind to 1280+/6500xp |N|(59.5, 23.4)| |O|
 G Grind to 2330+/6500xp |N|(59.5, 23.4)| |O|
 G Grind to 2300+/6500xp |N|(59.5, 23.4)| |O|
 G Grind to 3350+/6500xp |N|(59.5, 23.4)| |O|
-U Hearthstone |U|6948| |O| |C|!Druid|
-D Die and respawn |O| |C|Druid|
-N (47.3, 57.2) |O| |C|Druid| |M|hardcore|
+U Hearthstone |U|6948| |SK| |C|!Druid|
+D Die and respawn |SK| |C|Druid|
+N (47.3, 57.2) |SK| |C|Druid| |M|hardcore|
 N Talk to Innkeeper Kauth - Talk to Innkeeper Kauth - Vendor trash - (46.6, 61.1)
 T The Demon Scarred Cloak |QID|770| |N|Talk to Skorn Whitecloud - Talk to Skorn - (46.8, 60.2)|
 T Swoop Hunting |QID|761| |N|Talk to Harken Windtotem - Talk to Baine, Ruul, Mull and Harken - (47.5, 60.2)| |R|Tauren|
@@ -132,13 +132,13 @@ A Training the Beast |QID|6089| |N|Talk to Yaw Sharpmane - Talk to Yaw - (47.8, 
 N Talk to Jhawna Oatwind - Talk to Jhwana - (47.6, 61.5)
 A The Hunter's Way |QID|861| |N|Talk to Skorn Whitecloud - Talk to Skorn - (46.8, 60.2)|
 A Supervisor Fizsprocket |QID|765| |N|Talk to Morin - He patrols along the eastern road - (55.1, 60.6)|
-N Kill Flatland Prowlers. Loot them for their Claws - Flatland Prowler Claw (4) |QID|861| |O|
+N Kill Flatland Prowlers. Loot them for their Claws - Flatland Prowler Claw (4) |QID|861| |SK|
 N Kill Prairie Wolf Alpha - Cast Tame a Prairie Wolf Alpha - This will allow you to train [Claw Rank 2] |SK| |C|Hunter|
 N Kill Prairie Wolf Alphas in the area. Loot them for their Teeth - Prairie Alpha Tooth (8) - (66.3, 67.0) |QID|759| |R|Tauren|
-D Die and respawn |O| |R|Tauren| |M|speedrun|
-N (46.5, 55.5) |O| |R|Tauren| |M|hardcore|
+D Die and respawn |SK| |R|Tauren| |M|speedrun|
+N (46.5, 55.5) |SK| |R|Tauren| |M|hardcore|
 A Wildmane Cleansing |QID|760| |N|Talk to Mull Thunderhorn - Talk to Mull - (48.5, 60.4)| |R|Tauren|
-R Travel to The Barrens |N|(69.6, 60.4)| |O|
+R Travel to The Barrens |N|(69.6, 60.4)| |SK|
 f Camp Taurajo >> Get the Camp Taurajo flight path |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |C|!Druid|
 F Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |C|Druid|
 h Thunder Bluff |N|Talk to Innkeeper Pala - Talk to Innkeeper Pala - (45.8, 64.7)| |C|Druid|
@@ -151,7 +151,7 @@ A Great Bear Spirit |QID|5930| |N|Talk to Dendrite Starblaze - Talk to Dendrite 
 N Talk to Great Bear Spirit - Talk to the Great Bear Spirit - Seek out the Great Bear Spirit and learn what it has to share with you about the nature of the bear. (1) - (39.2, 27.5) |QID|5930| |C|Druid|
 N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 A Back to Thunder Bluff |QID|5932| |N|Talk to Dendrite Starblaze - Talk to Dendrite - (56.2, 30.6)| |C|Druid|
-U Hearthstone |U|6948| |O| |C|Druid|
+U Hearthstone |U|6948| |SK| |C|Druid|
 R Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Bunthen Plainswind - Talk to Bunthen - (44.3, 45.9)| |SK| |C|Druid|
 A Body and Heart |QID|6002| |N|Talk to Turak Runetotem - Talk to Turak - (76.7, 27.3)| |C|Druid|
 R Camp Taurajo >>Fly to Camp Taurajo |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK| |C|Druid|
@@ -165,27 +165,27 @@ A A Bundle of Hides |QID|6361| |N|Talk to Jahan Hawkwing - Talk to Jahan - (51.1
 N Collect Laden Mushrooms around The Forgotten Pools - Keep maximum distance from Kolkar as you loot the mushrooms. They are level 12-14 - The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it - Collect Fungal Spores (x4) |QID|848| |SK|
 N Dive underwater to the Bubble Fissure - Explore the waters of the Forgotten Pools - (45.1, 22.5) |QID|870|
 N Collect Laden Mushrooms around The Forgotten Pools - Keep maximum distance from Kolkar in the area. They are level 12-14 - The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it - Collect Fungal Spores (x4) - (45.2, 23.3) |QID|848|
-D Die and respawn |O| |M|speedrun|
+D Die and respawn |SK| |M|speedrun|
 A The Stagnant Oasis |QID|877| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)|
 A The Stagnant Oasis |QID|877| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |O|
 h The Barrens |N|Talk to Innkeeper Boorand Plainswind - Talk to Innkeeper Boorand - (52.0, 29.9)|
 A Apothecary Zamah |QID|853| |N|Talk to Apothecary Helbrim - Talk to Helbrim - Wait for the RP to finish - This starts a 45-minute timed quest - (51.4, 30.1)|
 A Apothecary Zamah |QID|853| |N|Talk to Apothecary Helbrim - Talk to Helbrim - This starts a 45-minute timed quest - (51.4, 30.1)| |O|
 A Ride to Thunder Bluff |QID|6362| |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)|
-R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O|
+R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK|
 N You are on a timed quest, don't go afk. It will get turned in around 5-10 minutes after pick-up |SK|
 A Tal the Wind Rider Master |QID|6363| |N|Talk to Ahanu - Talk to Ahanu - (45.6, 55.9)|
 A Sergra Darkthorn |QID|860| |N|Talk to Melor Stonehoof - Talk to Melor - (61.3, 80.9)| |C|Hunter|
 A Sergra Darkthorn |QID|860| |N|Talk to Melor Stonehoof - Talk to Melor - (61.3, 80.9)| |C|Hunter|
 T Training the Beast |QID|6089| |N|Talk to Holt Thunderhorn - Talk to Holt - (57.4, 89.4)| |C|Hunter|
 t Train your pet spells |N|Talk to Hesuwa Thunderhorn - Talk to Hesuwa - (54.1, 84.1)| |C|Hunter|
-N Drag [Beast Training] onto your Action Bars. Teach skills to your pet |O| |C|Hunter|
+N Drag [Beast Training] onto your Action Bars. Teach skills to your pet |SK| |C|Hunter|
 t Train Two-Handed Maces |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Druid|
 t Train Staves |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Warrior/Hunter|
 A Preparation for Ceremony |QID|744| |N|Talk to Eyahn Eagletalon - Talk to Eyahn - (37.8, 59.4)|
 N (28.1, 33.0) |SK|
 T Apothecary Zamah |QID|853| |N|Talk to Apothecary Zamah - Talk to Zamah - (22.8, 20.9)|
-N Equip the [Cauldron Stirrer] |U|5340| |O|
+N Equip the [Cauldron Stirrer] |U|5340| |SK|
 A Return to Jahan |QID|6364| |N|Talk to Tal - Talk to Tal - (47.0, 49.8)|
 A Rites of the Earthmother |QID|776| |N|Talk to Cairne Bloodhoof - Talk to Cairne - (60.0, 51.7)|
 N (71.6, 30.1) |SK| |C|Druid|
@@ -196,7 +196,7 @@ N Talk to Auctioneer Stampi - Talk to Auctioneer Stampi - Buy Twelve [Light Leat
 T Gathering Leather |QID|768| |N|Talk to Veren Tallstrider - Talk to Veren - (44.4, 44.7)|
 N Talk to Kaga Mistrunner - Talk to Kaga - Buy [Tough Jerky] from her to feed your pet - Tough Jerky (5) - (52.3, 47.8) |C|Hunter|
 U The Demon Scarred Cloak |QID|770| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]. Use it to start the quest - Skip this step if you're unable to find him - Collect Demon Scarred Cloak| |U|4854| |SK|
-N Kill Flatland Prowlers. Loot them for their Claws - Flatland Prowler Claw (4) |QID|861| |O|
+N Kill Flatland Prowlers. Loot them for their Claws - Flatland Prowler Claw (4) |QID|861| |SK|
 N Kill Windfury Sorceresses. Loot them for their Azure Feathers - Kill Windfury Matriarchs. Loot them for their Bronze Feathers - Azure Feather (6) - Bronze Feather (6) - (31.7, 28.2) |QID|744|
 C Use the [Wildmane Cleansing Totem] at the Well |QID|760| |N|Cleanse the Wildmane Well (1) - (42.5, 13.8)| |U|5416| |R|Tauren|
 N Kill Arra'Chea (Big black kodo). Kill and loot him for his Horn - He patrols clockwise around Northern Mulgore - Horn of Arra'chea (1) - (52.6, 12.2) |QID|776|
@@ -212,7 +212,7 @@ t Train your class spells |N|Talk to Narm Skychaser - Talk to Narm - (48.4, 59.1
 t Train your class spells |N|Talk to Gennia Runetotem - Talk to Gennia - (48.5, 59.6)| |C|Druid|
 t Train your class spells |N|Talk to Krang Stonehoof - Talk to Krang - (49.5, 60.6)| |C|Warrior|
 t Train your class spells |N|Talk to Yaw Sharpmane - Talk to Yaw - (47.8, 55.7)| |C|Hunter|
-N (61.5, 47.3) |O|
+N (61.5, 47.3) |SK|
 N Kill Venture Co. Workers and Venture Co. Supervisors - Venture Co. Worker (14) - Venture Co. Supervisor (6) |QID|764| |SK|
 N Kill Supervisor Fizsprocket. Loot him for his Clipboard - Run into the mine and hug the right/east side to reach him - Fizsprocket's Clipboard (1) - (65.0, 43.3) |QID|765|
 N Kill Venture Co. Workers and Venture Co. Supervisors - Venture Co. Worker (14) - Venture Co. Supervisor (6) - (61.4, 47.5) |QID|764|
@@ -223,7 +223,7 @@ t Train your class spells |N|Talk to Narm Skychaser - Talk to Narm - (48.4, 59.1
 t Train your class spells |N|Talk to Gennia Runetotem - Talk to Gennia - (48.5, 59.6)| |C|Druid|
 t Train your class spells |N|Talk to Krang Stonehoof - Talk to Krang - (49.5, 60.6)| |C|Warrior|
 t Train your class spells |N|Talk to Yaw Sharpmane - Talk to Yaw - (47.8, 55.7)| |C|Hunter|
-U Hearthstone |U|6948| |O|
+U Hearthstone |U|6948| |SK|
 F Crossroads >>Fly to The Crossroads |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)|
 T Return to Jahan |QID|6364| |N|Talk to Jahan Hawkwing - Talk to Jahan - (51.1, 29.0)|
 A Wharfmaster Dizzywig |QID|1492| |N|Talk to Apothecary Helbrim - Talk to Helbrim - (51.4, 30.1)|

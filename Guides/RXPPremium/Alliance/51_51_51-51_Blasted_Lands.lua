@@ -22,8 +22,8 @@ T Snickerfang Jowls |QID|2581| |N|Talk to Bloodmage Drazial - Talk to Ambassador
 T Snickerfang Jowls |QID|2581| |N|Talk to Bloodmage Drazial - Talk to Bloodmage Drazial - (50.5, 14.2)| |C|Druid/Paladin/Warrior|
 N Kill Ashmane Boar - Kill Vultures. Loot them for their Gizzards - Kill Basilisks. Loot them for their Brains - Kill Boars. Loot them for their Lungs - Kill Scorpids. Loot them for their Pincers - Kill Hyenas. Loot them for their Jowls - Basilisks share spawns with Boars, and Hyenas share spawns with Scorpids - (49.0, 18.2)
 T Snickerfang Jowls |QID|2581| |N|Talk to Bloodmage Drazial - Talk to Bloodmage Lynnore and Bloodmage Drazial - (50.6, 14.3)|
-T Everything Counts In Large Amounts |QID|3501| |N|Talk to Kum'isha the Collector - Talk to Kum'isha the Collector - Collect item 10593 (x1) - (51.8, 35.6)| |O|
-T To Serve Kum'isha |QID|2521| |N|Talk to Kum'isha the Collector - Talk to Kum'isha the Collector - Collect item 8244 (x1) - (51.8, 35.6)| |O|
+T Everything Counts In Large Amounts |QID|3501| |N|Talk to Kum'isha the Collector - Talk to Kum'isha the Collector - Collect item 10593 (x1) - (51.8, 35.6)| |SK|
+T To Serve Kum'isha |QID|2521| |N|Talk to Kum'isha the Collector - Talk to Kum'isha the Collector - Collect item 8244 (x1) - (51.8, 35.6)| |SK|
 R Redridge >> Fly to Redridge |N|Talk to Alexandra Constantine - Talk to Alexandra Constantine - (65.5, 24.3)|
 R Travel to Burning Steppes |N|(78.7, 81.1)| |SK|
 A Extinguish the Firegut |QID|3823| |N|Talk to Oralius - Talk to Oralius - (82.4, 63.6)|

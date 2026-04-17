@@ -14,7 +14,7 @@ A Khan Jehn |QID|1374| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.
 A Ghost-o-plasm Round Up |QID|6134| |N|Talk to Hornizz Brimbuzzle - Talk to Hornizz Brimbuzzle - (47.8, 61.8)|
 A The Corrupter |QID|1484| |N|Talk to Maurin Bonesplitter - Talk to Maurin Bonesplitter - (52.2, 53.5)|
 A The Corrupter |QID|1488| |N|Talk to Takata Steelblade - Talk to Takata Steelblade - (52.6, 54.3)|
-N Click Demon Portals, then kill the Demon Portal Guardians - Don't focus on this step; you can finish it later - (53.4, 79.5) |QID|5581| |O|
+N Click Demon Portals, then kill the Demon Portal Guardians - Don't focus on this step; you can finish it later - (53.4, 79.5) |QID|5581| |SK|
 N Kill Jugkar Grim'rod |QID|1488| |SK|
 N Kill Lord Azrethoc. He patrols a little on the eastern side of Mannoroc Coven - He uses [Mortal Strike] (-50% healing debuff) and has high melee damage - (55.9, 77.8) |QID|1488|
 N Kill Jugkar Grim'rod - (55.9, 77.8) |QID|1488|

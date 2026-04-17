@@ -53,8 +53,8 @@ T The Disruption Ends |QID|872| |N|Talk to Thork - Talk to Thork - (51.5, 30.8)|
 A Prowlers of the Barrens |QID|903| |N|Talk to Sergra Darkthorn - Talk to Sergra Darkthorn - (52.2, 31.0)|
 N Kill Plainstriders. Loot them for their Kidneys - Plainstrider Kidney (5) |QID|821| |SK|
 A Centaur Bracers |QID|855| |N|Talk to Regthar Deathgate - Talk to Regthar - (45.4, 28.4)|
-N Kill Kolkar Wranglers and Kolkar Stormers. Loot them for their Bracers - This quest does not have to be completed now - Centaur Bracers (15) |QID|855| |O|
-N Collect Laden Mushrooms around The Forgotten Pools - This quest does not have to be completed now - Collect Fungal Spores (x4) |QID|848| |O|
+N Kill Kolkar Wranglers and Kolkar Stormers. Loot them for their Bracers - This quest does not have to be completed now - Centaur Bracers (15) |QID|855| |SK|
+N Collect Laden Mushrooms around The Forgotten Pools - This quest does not have to be completed now - Collect Fungal Spores (x4) |QID|848| |SK|
 N Dive underwater to the Bubble Fissure - Explore the waters of the Forgotten Pools - (45.1, 22.5) |QID|870|
 N Kill Barak Kodobane. Loot him for his Head - Be careful as Barak Kodobane's melee hits deal a LOT of damage and he is protected by a Kolkar Wrangler. They can net you and shoot at you from ranged distance - Kodobane's Head (1) - (42.8, 23.5) |QID|850|
 T Centaur Bracers |QID|855| |N|Talk to Regthar Deathgate - Talk to Regthar - (45.4, 28.4)|
@@ -101,7 +101,7 @@ N Loot the crate - Telescopic Lens (1) - (63.6, 49.2) |QID|888|
 N Loot the crate - (62.6, 49.6)
 N Kill any raptors you see. Loot them for their Horns and Feathers. Be careful as they thrash - Intact Raptor Horn (5) |QID|865| |SK|
 N Loot the chest for Stolen Silver - Save any Sunscale feathers you get for later - Stolen Silver (1) - (57.4, 52.4) |QID|3281|
-N Collect Laden Mushrooms around The Stagnant Oasis - Collect Fungal Spores (x4) |QID|848| |O|
+N Collect Laden Mushrooms around The Stagnant Oasis - Collect Fungal Spores (x4) |QID|848| |SK|
 N Click the Bubble Fissure underwater - Test the Dried Seeds (1) - (55.6, 42.7) |QID|877|
 N Kill Centaurs. Loot them for their bracers - Centaur Bracers (15) |QID|855| |SK|
 N Grind any Centaur around the lake until they spawn Verog (you'll see a Yell in chat when he spawns) - Verog's Head (1) - (53.0, 41.8) |QID|851|

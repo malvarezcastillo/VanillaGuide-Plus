@@ -12,7 +12,7 @@ N Kill all types of mobs in Blackrock Spire until you loot an [Unadorned Seal of
 A Seal of Ascension |QID|4742| |N|Talk to Vaelan - Talk to Scarshield Infiltrator - As you enter Hordemar City at the start of the dungeon, he will be located on a platform to your left|
 N Talk to Overlord Wyrmthalak - Kill Highlord Omokk. Loot him for Gemstone of Spirestone - Kill War Master Voone. Loot him for Gemstone of Smolderthorn - Kill Overlord Wyrmthalak. Loot him for Gemstone of Bloodaxe - The Gemstones have a ~30% drop chance. You will most likely have to complete multiple LBRS runs - Gemstone of Spirestone 1/1 - Gemstone of Smolderthorn 1/1 - Gemstone of Bloodaxe 1/1 |QID|4742|
 A Seal of Ascension |QID|4743| |N|Talk to Vaelan - Talk to Scarshield Infiltrator - As you enter Hordemar City at the start of the dungeon, he will be located on a platform to your left|
-U Open [Vaelan's Gift] to loot [Unforged Seal of Ascension] and [Orb of Draconic Energy] |N|Unforged Seal of Ascension - Orb of Draconic Energy| |U|12339| |O|
+U Open [Vaelan's Gift] to loot [Unforged Seal of Ascension] and [Orb of Draconic Energy] |N|Unforged Seal of Ascension - Orb of Draconic Energy| |U|12339| |SK|
 R Travel to Dustwallow Marsh |SK|
 N You will need a group of at least 3 players to complete this next section - (54.4, 84.2) |M|speedrun|
 N You will need a group of at least 3 players to complete this next section, including a tank and healer for safety! - (54.4, 84.2) |M|hardcore|

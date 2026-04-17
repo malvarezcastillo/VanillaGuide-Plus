@@ -19,7 +19,7 @@ T Favored of Elune? |QID|3661| |N|Talk to Erelas Ambersky - Talk to Erelas Amber
 A Moontouched Wildkin |QID|978| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - Skip this step if you aren't above level 52. You'll do it later - (55.5, 92.0)| |C|!Mage|
 A Return to Troyas |QID|2943| |N|Talk to Daryn Lightwind - Talk to Daryn Lightwind upstairs - (55.1, 91.7)| |C|!Mage|
 R Take the purple portal into Darnassus |N|(55.9, 89.5)| |SK| |C|!Mage|
-R Teleport to Darnassus |O| |C|Mage|
+R Teleport to Darnassus |SK| |C|Mage|
 N Talk to Lairn - Talk to Idriana, Garryeth or Lairn - [Janice's Parcel] - [Standard Issue Flare Gun] - [Drawing Kit] - (39.7, 42.1)
 N Talk to Lairn - Talk to Idriana, Garryeth or Lairn - [Jer'kai's Signet Ring] - [Raschal's Report] - [Insect Analysis Report] - [Linken's Training Sword] - [Package of Empty Ooze Containers] - [Un'Goro Soil] (If you have 20) - (39.7, 42.1)
 t Train your class spells |N|Talk to Jocaste - Talk to Jocaste - (40.4, 8.5)| |C|Hunter|
@@ -57,7 +57,7 @@ A Cleansing Felwood |QID|4101| |N|Talk to Arathandris Silversky - Talk to Aratha
 A Timbermaw Ally |QID|8460| |N|Talk to Grazle - Talk to Grazle - (50.9, 85.0)|
 N Kill Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners - (48.5, 89.6) |QID|8460|
 A Speak to Nafien |QID|8462| |N|Talk to Grazle - Talk to Grazle - (50.9, 85.0)|
-N Kill Deadwood Gardener - Grinding reputation to Unfriendly can be a wise choice as this will make the Furbolgs in the northern tunnel not aggressive towards you. You can also do this later up north but they are higher level - (46.7, 88.0) |O|
+N Kill Deadwood Gardener - Grinding reputation to Unfriendly can be a wise choice as this will make the Furbolgs in the northern tunnel not aggressive towards you. You can also do this later up north but they are higher level - (46.7, 88.0) |SK|
 A Forces of Jaedenar |QID|5155| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)|
 A Verifying the Corruption |QID|5156| |N|Talk to Taronn Redfeather - Talk to Taronn Redfeather - (50.9, 81.6)|
 A The Corruption of the Jadefire |QID|4421| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)|
@@ -67,7 +67,7 @@ U Open the [Package of Empty Ooze Containers] |N|Collect item 11914 (x6) - Colle
 N Kill Cursed Ooze - Kill Cursed Oozes - Use the [Empty Cursed Ooze Jars] on their corpses - (40.8, 66.9) |QID|4512| |U|11914|
 A The Wrong Stuff |QID|8421| |N|Talk to Impsy - Talk to Impsy - (41.5, 45.0)| |C|Warlock|
 A The Wrong Stuff |QID|8421| |N|Talk to Impsy - Talk to Impsy - (41.5, 45.0)| |C|Warlock|
-N Kill Tainted Oozes. Loot them for their Bloodvenom Essences - (40.5, 59.1) |QID|8421| |O| |C|Warlock|
+N Kill Tainted Oozes. Loot them for their Bloodvenom Essences - (40.5, 59.1) |QID|8421| |SK| |C|Warlock|
 N Kill Tainted Oozes - Use the [Empty Tainted Ooze Jars] on their corpses - (40.5, 59.1) |QID|4512| |U|11948| |SK|
 N Kill Jaedenar Hounds, Jaedenar Guardians, Jaedenar Adepts and Jaedenar Cultists - (38.5, 59.1) |QID|5155|
 N Kill Tainted Oozes - Use the [Empty Tainted Ooze Jars] on their corpses - (40.5, 59.1) |QID|4512| |U|11948|
@@ -107,7 +107,7 @@ T Cleansing Felwood |QID|4101| |N|Talk to Arathandris Silversky - Talk to Aratha
 N Talk to Arathandris Silversky - Talk to Arathandris Silversky - Select the option: "I need a Cenarion beacon." - Collect item 11511 (x1) - (54.1, 86.8) |M|hardcore|
 H Hearthstone
 F Feathermoon>> Fly to Feathermoon |N|Talk to Caylais Moonfeather - Talk to Caylais Moonfeather - (36.3, 45.6)|
-N If you have completed Moontouched Wildkin, fly to Teldrassil now and turn it in, otherwise abaondon the quest. You will complete it later |O|
+N If you have completed Moontouched Wildkin, fly to Teldrassil now and turn it in, otherwise abaondon the quest. You will complete it later |SK|
 F Teldrassil >> Fly to Teldrassil |N|Talk to Caylais Moonfeather - Talk to Caylais Moonfeather - (36.3, 45.6)|
 T Moontouched Wildkin |QID|978| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - Do not accept the follow up - (55.5, 92.0)|
 R Desolace >> Fly to Desolace |N|Talk to Vesprystus - Talk to Vesprystus - (58.4, 94.0)|

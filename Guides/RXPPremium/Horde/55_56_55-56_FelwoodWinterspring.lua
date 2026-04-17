@@ -11,7 +11,7 @@ T Marvon's Workshop |QID|4147| |N|Talk to Liv Rizzlefix - Talk to Liv - (62.5, 3
 A Zapper Fuel |QID|4146| |N|Talk to Liv Rizzlefix - Talk to Liv - (62.5, 38.7)|
 T Seeking Spiritual Aid |QID|5158| |N|Talk to Islen Waterseer - Talk to Islen - (65.8, 43.8)|
 A Cleansed Water Returns to Felwood |QID|5159| |N|Talk to Islen Waterseer - Talk to Islen - Wait for the RP to finish - (65.8, 43.8)|
-A Jammal'an the Prophet |QID|1446| |N|Have somebody in your group share the following quest if possible| |O|
+A Jammal'an the Prophet |QID|1446| |N|Have somebody in your group share the following quest if possible| |SK|
 R Take the boat to Stranglethorn Vale |N|(63.7, 38.7)| |SK|
 R Stonard>> Fly to Stonard |N|Talk to Gringer - talk to Gringer - (26.9, 77.1)|
 A The Temple of Atal'Hakkar |QID|1445| |N|Talk to Fel'zerul - (47.9, 54.8)|
@@ -21,7 +21,7 @@ N Kill Atal'ai Trolls in the Sunken Temple. Loot them for their Fetish of Hakkar
 N (56.3, 76.3)
 N Kill Atal'ai Trolls in the Sunken Temple. Loot them for their Fetish of Hakkar |QID|1445| |SK|
 N Kill Deep Lurkers, Murk Worms and Saturated Oozes. Loot them for their Atal'ai Haze - Take a right down the stairs at the beginning of the instance to find these mobs |QID|4146| |SK|
-N Kill Atal'alarion. Loot him for the Putrid Vine - Atal'alarion is on the lower level of Sunken Temple and is summoned by clicking all Atal'ai Statues on the platforms |QID|9053| |O| |C|Druid|
+N Kill Atal'alarion. Loot him for the Putrid Vine - Atal'alarion is on the lower level of Sunken Temple and is summoned by clicking all Atal'ai Statues on the platforms |QID|9053| |SK| |C|Druid|
 T Into the Depths |QID|3446| |N|Click on the Altar of Hakkar - The Altar of Hakkar is located on the lower level of Sunken Temple| |SK|
 T Secret of the Circle |QID|3447| |N|Click on the Idol of Hakkar - Clicking all of the Atal'ai Statues on the platforms will activate the Idol of Hakkar - The Idol of Hakkar is located on the lower level of Sunken Temple|
 T Into the Depths |QID|3446| |N|Click on the Altar of Hakkar - The Altar of Hakkar is located on the lower level of Sunken Temple|
@@ -37,8 +37,8 @@ T The Temple of Atal'Hakkar |QID|1445| |N|Talk to Fel'zerul - (47.9, 54.8)|
 T Voodoo Feathers |QID|8425| |N|Talk to Fallen Hero of the Horde - Talk to the Fallen Hero of the Horde - It is strongly advised you choose the [Diamond Flask] as your reward. Although the other rewards are also very good, you will not ever replace the [Diamond Flask] - (34.3, 66.1)| |C|Warrior|
 U Hearthstone |U|6948| |C|!Mage|
 N Cast Cast [Teleport: Thunder Bluff] |C|Mage|
-R Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |O| |C|Mage|
-F Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |O|
+R Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK| |C|Mage|
+F Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |SK|
 T Zapper Fuel |QID|4146| |N|Talk to Larion - Talk to Larion - (45.5, 8.7)|
 F Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |SK| |C|Druid|
 T A Better Ingredient |QID|9053| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)| |C|Druid|
@@ -46,11 +46,11 @@ R Tanaris >>Fly to Tanaris |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |O| |C|M
 F Tanaris >>Fly to Tanaris |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |O|
 F Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (45.2, 5.8)| |SK|
 T The God Hakkar |QID|3528| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
-R Azshara >> Fly to Azshara |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |O| |C|Mage|
-F Azshara >> Fly to Azshara |N|Talk to Gryfe - Talk to Gryfe - (45.2, 5.8)| |O|
-R Azshara >> Fly to Azshara |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)| |O|
-F Azshara >> Fly to Azshara |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |O|
-R Azshara >> Fly to Azshara |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |O|
+R Azshara >> Fly to Azshara |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK| |C|Mage|
+F Azshara >> Fly to Azshara |N|Talk to Gryfe - Talk to Gryfe - (45.2, 5.8)| |SK|
+R Azshara >> Fly to Azshara |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)| |SK|
+F Azshara >> Fly to Azshara |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |SK|
+R Azshara >> Fly to Azshara |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |SK|
 T Magatha's Payment to Jediga |QID|3562| |N|Talk to Jediga - Talk to Jediga - (22.5, 51.4)|
 T Jes'rimon's Payment to Jediga |QID|3563| |N|Talk to Jediga - Talk to Jediga - (22.5, 51.4)|
 A Delivery to Andron Gant |QID|3542| |N|Talk to Jediga - Talk to Jediga - (22.5, 51.4)|
@@ -58,7 +58,7 @@ N Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6) |C|Hunter/Priest|
 T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - This will teleport you to the top of the mountain - (28.1, 50.1)| |SK| |C|Mage|
 T Destroy Morphaz |QID|8253| |N|Talk to Archmage Xylem - Talk to Archmage Xylem atop the Tower - (29.2, 40.2)| |C|Mage|
 T Return Trip |QID|3421| |N|Talk to Nyrill - Talk to Nyrill - This will teleport you back down - (26.5, 46.3)| |SK| |C|Mage|
-R Felwood >>Fly to Felwood |N|Talk to Kroum - Talk to Kroum - (22.0, 49.7)| |O|
+R Felwood >>Fly to Felwood |N|Talk to Kroum - Talk to Kroum - (22.0, 49.7)| |SK|
 A Corrupted Sabers |QID|4506| |N|Talk to Winna Hazzard - Talk to Winna - (34.3, 52.3)|
 A Wild Guardians |QID|4521| |N|Talk to Trull Failbane - Talk to Trull - (34.8, 52.8)|
 T Trolls of a Feather |QID|8422| |N|Talk to Impsy - Talk to Impsy - (41.5, 45.0)| |C|Warlock|
@@ -90,12 +90,12 @@ A Toxic Horrors |QID|5086| |N|Talk to Donova Snowden - Talk to Donova - (31.3, 4
 T The Videre Elixir |QID|3909| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
 A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)| |M|speedrun|
 A Meet at the Grave |QID|3912| |N|Talk to Donova Snowden - Talk to Donova Snowden - Blizzard has adjusted the quest chain for [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (31.3, 45.2)| |M|hardcore|
-N Kill Ragged Owlbeasts on your way to Everlook |QID|4521| |O|
+N Kill Ragged Owlbeasts on your way to Everlook |QID|4521| |SK|
 h Winterspring |N|Talk to Innkeeper Vizzie - Talk to Vizzie - (61.4, 38.8)|
 A Are We There, Yeti? |QID|3783| |N|Talk to Umi Rumplesnicker - Talk to Umi - (60.9, 37.6)|
 A Ursius of the Shardtooth |QID|5054| |N|Talk to Storm Shadowhoof - Talk to Storm - (61.9, 38.4)|
 N Kill Ragged Owlbeasts west of Everlook - (54.4, 37.3) |QID|4521|
-N Kill all types of Ice Thistle Yetis. Loot them for their Fur - Don't focus on this; you can finish it later |QID|3783| |O|
+N Kill all types of Ice Thistle Yetis. Loot them for their Fur - Don't focus on this; you can finish it later |QID|3783| |SK|
 N Kill Raging Owlbeasts - (60.7, 29.8) |QID|4521| |SK|
 N Kill Ursius. You can kite him back to Everlook if needed. Remember to deal 51%+ damage - Be careful, as this quest can be difficult - (63.4, 27.0) |QID|5054|
 N Kill Raging Owlbeasts - (60.6, 29.8) |QID|4521|
@@ -123,7 +123,7 @@ A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.
 R Un'Goro Crater >>Fly to Un'Goro Crater |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)| |M|speedrun|
 A A Gnome's Assistance |QID|3941| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
 A Linken's Memory |QID|3942| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |M|speedrun|
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 R Hearthstone |U|6948|
@@ -133,8 +133,8 @@ N Kill Moontouched Owlbeasts - Their moonfire hits fairly hard, and their rejuve
 N Head to the border of Darkwhisper Gorge - (60.1, 73.3) |QID|4842|
 N Loot the Frostmaul Shards around the outer perimeter of the canyon. Use your pet to bait the Frostmaul Giants away from the crystals. Run away after looting one - This is a hard quest to solo, skip this quest if you have to - (60.4, 65.3) |QID|969| |C|Hunter|
 N Kill Moontouched Owlbeasts - Their moonfire hits fairly hard, and their rejuvenation is strong - (65.0, 62.7) |QID|4741|
-D Die and respawn |O| |M|speedrun|
-U Hearthstone |U|6948| |O| |M|hardcore|
+D Die and respawn |SK| |M|speedrun|
+U Hearthstone |U|6948| |SK| |M|hardcore|
 T Luck Be With You |QID|969| |N|Talk to Witch Doctor Mau'ari - Talk to Witch Doctor Mau'ari - (61.9, 38.3)| |C|Hunter|
 T Brumeran of the Chillwind |QID|5055| |N|Talk to Storm Shadowhoof - Talk to Storm - (61.9, 38.4)|
 A Sister Pamela |QID|5601| |N|Talk to Jessica Redpath - Talk to Gregor Greystone and Jessica Redpath - (61.3, 39.0)|
@@ -148,14 +148,14 @@ A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind -
 A Silver Heart |QID|4084| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|hardcore|
 N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |SK| |M|speedrun|
 N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |SK| |M|hardcore|
-N (35.4, 58.4) |O|
+N (35.4, 58.4) |SK|
 N Kill Rakaiah deep inside Shadow Hold - (35.4, 58.7) |QID|5204|
 A The Remains of Trey Lightforge |QID|5385| |N|Talk to Remains of Trey Lightforge - Talk to Remains of Trey Lightforge - Mobs around the remains can bug by keeping you in combat, despite not attacking you - (38.5, 50.4)|
 N Kill Shadow Lord Fel'dan, Moora and Salia. Loot Shadow Lord Fel'dan for his Head - Linger outside of the room and use line of sight (LOS) to avoid Fel'dan's shadowbolts. When he starts casting, hide out of sight. As soon as his cast ends/fails, step into sight so he starts casting again/doesn't get too close to the LOS point - (38.9, 46.8) |QID|5242|
 N (38.7, 46.8) |SK|
 N (35.4, 58.7)
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|speedrun|
-N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |O| |M|hardcore|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |SK| |M|speedrun|
+N Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws |QID|4084| |SK| |M|hardcore|
 N Kill Toxic Horrors. Loot them for their Toxic Horror Droplets - (49.8, 27.3) |QID|5086|
 N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (49.6, 30.0) |QID|4084| |M|speedrun|
 N Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart - (49.6, 30.0) |QID|4084| |M|hardcore|

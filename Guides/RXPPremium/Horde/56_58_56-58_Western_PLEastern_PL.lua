@@ -7,7 +7,7 @@ return [[
 
 N 56-58 Western PL/Eastern PL |N|Converted from RestedXP guide|
 
-R Exit Undercity |N|(61.9, 64.8)| |O| |C|Mage|
+R Exit Undercity |N|(61.9, 64.8)| |SK| |C|Mage|
 A Scarlet Diversions |QID|5096| |N|Talk to High Executor Derrington - Travel to the Bulwark, then talk to Derrington - (83.2, 68.9)|
 N Click the Box of Incendiaries by the fire - Collect item 12814 (x1) - (26.6, 56.2)
 T Argent Dawn Commission |QID|5405| |N|Talk to Argent Officer Garush - Talk to Garush - (83.2, 68.5)|
@@ -49,7 +49,7 @@ T Counting Out Time |QID|4972| |N|Talk to Chromie - Talk to Chromie on the top f
 N Kill Cauldron Lord Razarch. Loot him for his Cauldron Key - Freezing Ghouls have a 5-second long, instant cast AoE stun - (53.1, 66.0) |QID|5233|
 A Return to the Bulwark |QID|5234| |N|Click the Scourge Cauldron roiling atop the dais - Freezing Ghouls have a 5-second long, instant cast AoE stun - (53.0, 65.7)|
 A The Wildlife Suffers Too |QID|4984| |N|Talk to Mulgris Deepriver - Talk to Mulgris inside the house - Freezing Ghouls have a 5-second long, instant cast AoE stun - (53.7, 64.7)|
-N Kill Diseased Wolves - Diseased Wolves share spawns with Carrion Lurkers. If necessary, kill them to reset the area |QID|4984| |O|
+N Kill Diseased Wolves - Diseased Wolves share spawns with Carrion Lurkers. If necessary, kill them to reset the area |QID|4984| |SK|
 A Unfinished Business |QID|6004| |N|Talk to Kirsta Deepshadow - Talk to Kirsta - (51.9, 28.1)|
 N Kill Scarlet Mages and Scarlet Knights - The Mages and Knights share respawns. If necessary, kill extra mobs to reset the area - (50.4, 41.1) |QID|6004| |SK|
 N Kill Scarlet Medics and Scarlet Hunters - Medics and Hunters can be found in the camps. If necessary, kill extra mobs to reset the area - (51.8, 44.1) |QID|6004|
@@ -64,8 +64,8 @@ N Kill Diseased Grizzlies - Diseased Grizzlies share spawns with Plague Lurkers.
 T The Wildlife Suffers Too |QID|4985| |N|Talk to Mulgris Deepriver - Talk to Mulgris - Don't accept the follow-up quest yet! - (53.7, 64.7)|
 N (7.6, 43.6) |SK|
 A Carrion Grubbage |QID|5544| |N|Talk to Tirion Fordring - Talk to Tirion - (7.6, 43.6)|
-N Kill Carrion Worms. Loot them for their Meat |QID|5544| |O|
-N Kill Plaguebats and Plaguehound Runts |QID|5542| |O|
+N Kill Carrion Worms. Loot them for their Meat |QID|5544| |SK|
+N Kill Plaguebats and Plaguehound Runts |QID|5542| |SK|
 A Un-Life's Little Annoyances |QID|6042| |N|Talk to Nathanos Blightcaller - Talk to Nathanos - (26.6, 74.7)|
 A Pamela's Doll |QID|5149| |N|Talk to Pamela Redpath - Talk to Pamela - (36.5, 90.8)|
 N Loot the 3 Doll Parts on the floor in ruined buildings - Clicking the doll pieces can spawn a few Ghosts of the Past which have ice armor and frost shock - Collect item 12886 (x1) - (38.1, 92.2)
@@ -100,7 +100,7 @@ N Kill Zaeldarr the Outcast inside the crypt. Loot him for his Head - (27.4, 84.
 A Hameya's Plea |QID|6024| |N|Click the big Torn Scroll on the ground inside the crypt - (27.3, 85.2)|
 A Of Lost Honor |QID|5845| |N|Talk to Tirion Fordring - Talk to Tirion - (7.6, 43.6)|
 A Of Lost Honor |QID|5845| |N|Talk to Tirion Fordring - Talk to Tirion - (7.6, 43.6)| |O|
-R Enter Western Plaguelands |O|
+R Enter Western Plaguelands |SK|
 A Glyphed Oaken Branch |QID|4987| |N|Talk to Mulgris Deepriver - Talk to Mulgris - (53.7, 64.7)|
 A A Strange Historian |QID|5153| |N|Talk to Marlene Redpath - Talk to Marlene inside the house - (49.1, 78.5)|
 N Loot Joseph Redpath's Monument for Joseph's Wedding Ring - (49.7, 76.8) |QID|5153|
@@ -110,8 +110,8 @@ A Brother Carlin |QID|5210| |N|Talk to Chromie - Talk to Chromie on the top floo
 T Skeletal Fragments |QID|964| |N|Talk to Apothecary Dithers - Talk to Dithers - (83.3, 69.2)|
 A Target: Gahrron's Withering |QID|5235| |N|Talk to Shadow Priestess Vandis - Talk to Vandis - (83.0, 71.9)|
 A A Plague Upon Thee |QID|5902| |N|Talk to Mickey Levine - Talk to Mickey - (83.3, 72.3)|
-R Travel to Undercity |N|(61.8, 65.1)| |O| |C|!Mage|
-N Cast Cast [Teleport: Undercity] |O| |C|Mage|
+R Travel to Undercity |N|(61.8, 65.1)| |SK| |C|!Mage|
+N Cast Cast [Teleport: Undercity] |SK| |C|Mage|
 t Train your class spells |N|Talk to Anastasia Hartwell - Talk to Anastasia - (85.2, 10.1)| |C|Mage|
 t Train your class spells |N|Talk to Anastasia Hartwell - Talk to Anastasia - (85.2, 10.1)| |O| |C|Mage|
 t Train your class spells |N|Talk to Richard Kerwin - Talk to Richard - (88.9, 15.9)| |C|Warlock|
@@ -126,7 +126,7 @@ t Train your class spells |N|Talk to Carolyn Ward - Talk to Carolyn - (83.9, 72.
 A The Jeremiah Blues |QID|5049| |N|Talk to Royal Overseer Bauhaus - Talk to Bauhaus - (69.8, 43.2)|
 A Good Luck Charm |QID|5050| |N|Talk to Jeremiah Payson - Talk to Jeremiah - (67.6, 44.1)|
 N Talk to William Montague - Talk to William - [Filled Vial Labeled #1] - [Filled Vial Labeled #2] - [Filled Vial Labeled #3] - [Filled Vial Labeled #4] - (66.0, 44.9)
-N Talk to Auctioneer Cain - Talk to Cain - Buy 240 of each type of cloth on the auction house - Collect item 2592 (x240) - Collect item 4306 (x240) - Collect item 4338 (x240) - Collect item 14047 (x240) - (67.7, 35.9) |O|
+N Talk to Auctioneer Cain - Talk to Cain - Buy 240 of each type of cloth on the auction house - Collect item 2592 (x240) - Collect item 4306 (x240) - Collect item 4338 (x240) - Collect item 14047 (x240) - (67.7, 35.9) |SK|
 N Go to the mailbox and retrieve the following: - Collect item 2592 (x60) - Collect item 4306 (x60) - Collect item 4338 (x60) - Collect item 14047 (x60) - (68.2, 38.3) |SK|
 T A Donation of Runecloth |QID|7818| |N|Talk to Ralston Farnsley - Talk to Ralston - Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later - Skip any of the donations which you do not have enough cloth for - (71.7, 29.2)|
 N (47.2, 59.7) |SK|
@@ -139,7 +139,7 @@ N Take out [Black Dragonflight Molt] from your bank if you completed the quest i
 N (52.0, 64.5) |SK|
 A The Champion of the Banshee Queen |QID|5961| |N|Talk to Lady Sylvanas Windrunner - Talk to Sylvanas - (58.1, 91.8)|
 N If you can't do this, just run out of Undercity normally - (55.2, 90.9)
-R Light's Hope Chapel>>Fly to Light's Hope Chapel |N|Talk to Michael Garrett - Talk to Michael - (63.3, 48.5)| |O|
+R Light's Hope Chapel>>Fly to Light's Hope Chapel |N|Talk to Michael Garrett - Talk to Michael - (63.3, 48.5)| |SK|
 T Zaeldarr the Outcast |QID|6021| |N|Talk to Caretaker Alen - Talk to Alen - (79.6, 63.9)|
 T Brother Carlin |QID|5210| |N|Talk to Carlin Redpath - Talk to Carlin - (81.5, 59.8)|
 T Brother Carlin |QID|5210| |N|Talk to Carlin Redpath - Talk to Carlin - (81.5, 59.8)|
@@ -160,7 +160,7 @@ N Kill Cauldron Lord Soulwrath. Loot him for his Cauldron Key - (62.8, 58.8) |QI
 A Return to the Bulwark |QID|5236| |N|Click the Scourge Cauldron roiling atop the dais - (62.5, 58.6)|
 A A Plague Upon Thee |QID|6390| |N|Enter the mill. Click the Northridge Lumber Mill Crate by the ramp, then click the Termite Barrel - (48.4, 32.0)|
 A Unfinished Business |QID|6025| |N|Talk to Kirsta Deepshadow - Leave Hearthglen, then talk to Kirsta - (51.9, 28.1)|
-N (45.7, 18.8) |O|
+N (45.7, 18.8) |SK|
 N Run up to the top of the tower. Be careful as Scarlet Paladins outside can heal - Be mindful that mobs have no Z axis range. They can hit you from the bottom of the tower if they're directly below you - Be careful of High Protector Lorik (level 61 elite), he patrols around - Be careful of the Scarlet Executioner that might patrol at the top of the tower - (47.9, 21.4) |QID|6025|
 T Unfinished Business |QID|6025| |N|Talk to Kirsta Deepshadow - Leave Hearthglen, then talk to Kirsta - (51.9, 28.1)|
 A Two Halves Become One |QID|5051| |N|Talk to Janice Felstone - Talk to Janice on the 2nd floor - You can talk to her from outside at the back of the building - (38.4, 54.0)|
@@ -170,14 +170,14 @@ T Return to the Bulwark |QID|5236| |N|Talk to Shadow Priestess Vandis - Talk to 
 T A Plague Upon Thee |QID|6390| |N|Talk to Mickey Levine - Talk to Mickey - (83.3, 72.3)|
 T Mission Accomplished! |QID|5238| |N|Talk to High Executor Derrington - Talk to Derrington - (83.2, 68.9)|
 N If you bought [Dark Iron Scraps] / [Core of Elements] / [Crypt Fiend Parts] / [Bone Fragments] / [Savage Fronds] take them out of your mail. If you did not buy any, skip this step - (80.9, 58.5)
-N If you do not have the Reputation required to accept these quests, grind on nearby Undead until you are Friendly with the Argent Dawn |O|
+N If you do not have the Reputation required to accept these quests, grind on nearby Undead until you are Friendly with the Argent Dawn |SK|
 T Savage Flora |QID|9136| |N|Talk to Rayne - Talk to Rayne - (81.2, 59.0)| |O|
 T Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Talk to Huntsman Leopold - Talk to Huntsman Leopold - (81.5, 58.6)| |O|
 T Bonescythe Digs |QID|9126| |N|Talk to Rohan the Assassin - Talk to Rohan the Assassin - (81.4, 58.5)| |O|
 T The Elemental Equation |QID|9128| |N|Talk to Archmage Angela Dosantos - Talk to Archmage Angela Dosantos - (81.5, 58.3)| |O|
 T Binding the Dreadnaught |QID|9131| |N|Talk to Korfax, Champion of the Light - Talk to Korfax - (81.8, 58.1)| |O|
 R Badlands >>Fly to Badlands |N|Talk to Georgia - Talk to Georgia - (80.2, 57.0)|
-N You will now begin to collect quests for Blackrock Depths. - Blackrock Depths is a very convoluted dungeon. In order to complete all quests in the most efficient way, it is required to leave the dungeon midrun to turn in/accept follow up quests so it may all be completed in 1 run. - Try to ensure all party members have the same quests and prequests complete, along with 2-3 hours of playtime. |O|
+N You will now begin to collect quests for Blackrock Depths. - Blackrock Depths is a very convoluted dungeon. In order to complete all quests in the most efficient way, it is required to leave the dungeon midrun to turn in/accept follow up quests so it may all be completed in 1 run. - Try to ensure all party members have the same quests and prequests complete, along with 2-3 hours of playtime. |SK|
 A KILL ON SIGHT: Dark Iron Dwarves |QID|4081| |N|Click the Wanted Poster - (3.8, 47.5)|
 A Disharmony of Flame |QID|3906| |N|Talk to Thunderheart - He may be patrolling around the mountain at Kargath. Find him or wait for him to return - (3.3, 48.3)|
 A Lost Thunderbrew Recipe |QID|4134| |N|Talk to Shadowmage Vivian Lagrave - Talk to Shadowmage Vivian Lagrave - (2.9, 47.8)|
@@ -206,7 +206,7 @@ T KILL ON SIGHT: Dark Iron Dwarves |QID|4081| |N|Talk to Warlord Goretooth - Tal
 A Commander Gor'shak |QID|3981| |N|Talk to Galamav the Marksman - Talk to Galamav the Marksman on top of the tower - (6.0, 47.7)|
 A KILL ON SIGHT: High Ranking Dark Iron Officials |QID|4082| |N|Click the Wanted Poster - (4.0, 46.8)|
 A The Rise of the Machines |QID|4063| |N|Talk to Lotwil Veriatus - Talk to Lotwil Veriatus - (25.9, 44.9)|
-N Kill Fire Elementals and Golems. Loot them for their Essence of the Elements - This quest does not need to be completed now |QID|7201| |O|
+N Kill Fire Elementals and Golems. Loot them for their Essence of the Elements - This quest does not need to be completed now |QID|7201| |SK|
 N Complete the Ring of Law boss event, then take the exit up the tunnel and immediately turn right, crossing up over the top of the Ring of Law, making your way to the Vault |SK|
 N Loot The Heart of the Mountain inside of the safe wall. It takes 15 seconds for it to respawn - There is a trick which allows you to loot it without having to open the safe. View the link below to see how it is done |QID|4123|
 N Talk to Fineous Darkvire - Kill Fineous Darkvire. Loot him for the Ironfel |QID|3802|
@@ -223,11 +223,11 @@ N Hearth to Everlook and fly to Orgrimmar. If you have a mage, kindly ask for a 
 A The Eastern Kingdoms |QID|4002| |N|Talk to Thrall - Talk to Thrall - (31.7, 37.8)|
 N Talk to Thrall - Talk to Thrall again - (31.7, 37.8) |QID|4002|
 A The Royal Rescue |QID|4003| |N|Talk to Thrall - Talk to Thrall - (31.7, 37.8)|
-N Hearth to Kargath if you put your hearthstone there. If you didn't, take the zeppelin to Stranglethorn and fly there instead |O|
+N Hearth to Kargath if you put your hearthstone there. If you didn't, take the zeppelin to Stranglethorn and fly there instead |SK|
 T Disharmony of Fire |QID|3907| |N|Talk to Thunderheart - He may be patrolling around the mountain at Kargath. Find him or wait for him to return - (3.3, 48.3)|
 T The Last Element |QID|7201| |N|Talk to Shadowmage Vivian Lagrave - Talk to Shadowmage Vivian Lagrave - (2.9, 47.8)|
 T KILL ON SIGHT: High Ranking Dark Iron Officials |QID|4082| |N|Talk to Warlord Goretooth - Talk to Warlord Goretooth - (5.8, 47.5)|
-N Kill Fire Elementals and Golems. Loot them for their Essence of the Elements |QID|7201| |O|
+N Kill Fire Elementals and Golems. Loot them for their Essence of the Elements |QID|7201| |SK|
 N Kill Golem Lord Argelmach. Loot him for his Head - Kill Golems. Loot them for their Elemental Cores |QID|4063|
 N Talk to Hurley Blackbreath - Enter the Bar and go into the small room on the left. Do NOT attack any of the neutral mobs while running through the Bar - Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbreath and his 3 Blackbreath Cronies to engage - Kill Hurley Blackbreath. Loot him for the Lost Thunderbrew Recipe |QID|4134| |SK|
 N Talk to Ribbly Screwspigot - Enter the Bar and go into the small room on the left. Do NOT attack any of the neutral mobs while running through the Bar - Kill Ribbly Screwspigot. Loot him for his Head - To engage Ribbly Screwspigot you have your tank talk to him, then bring him back along with his Cronies into the room with the kegs |QID|4136|
@@ -236,7 +236,7 @@ N Loot the Core Fragment on the ground outside of the Molten Core instance porta
 N Kill Emperor Dagran Thaurissan - You must NOT kill Princess Moira Bronzebeard in order to complete and turn in this quest - Have a party member kite Princess Moira Bronzebeard while the rest of the group kills Emperor Dagran Thaurissan |QID|4003|
 A The Princess Saved? |QID|4004| |N|Talk to Princess Moira Bronzebeard - Talk to Princess Moira Bronzebeard|
 A The Princess Saved? |QID|4004| |N|Talk to Princess Moira Bronzebeard - Talk to Princess Moira Bronzebeard|
-N Hearth or travel back to Kargath |O|
+N Hearth or travel back to Kargath |SK|
 T Lost Thunderbrew Recipe |QID|4134| |N|Talk to Shadowmage Vivian Lagrave - Talk to Shadowmage Vivian Lagrave - (2.9, 47.8)|
 T The Last Element |QID|7201| |N|Talk to Shadowmage Vivian Lagrave - Talk to Shadowmage Vivian Lagrave - (2.9, 47.8)|
 T The Rise of the Machines |QID|4063| |N|Talk to Lotwil Veriatus - Talk to Lotwil Veriatus - (25.9, 44.9)|

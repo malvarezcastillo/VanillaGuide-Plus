@@ -22,7 +22,7 @@ F Redridge>> Fly to Redridge Mountains |N|Talk to Dungar Longdrink - Talk to Dun
 A The True Masters |QID|4223| |N|Talk to Magistrate Solomon - Talk to Magistrate Solomon - (30.0, 44.5)|
 F Burning Steppes >> Fly to Burning Steppes |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |SK|
 A The True Masters |QID|4224| |N|Talk to Marshal Maxwell - Talk to Marshal Maxwell - (84.7, 69.0)|
-N (65.2, 24.0) |O|
+N (65.2, 24.0) |SK|
 N Talk to Ragged John - Talk to Ragged John - Ragged John's Story (1) - (65.0, 23.8) |QID|4224|
 A Marshal Windsor |QID|4241| |N|Talk to Marshal Maxwell - Talk to Marshal Maxwell - (84.7, 69.0)|
 N Make sure you have a group ready - (48.1, 62.4) |SK|

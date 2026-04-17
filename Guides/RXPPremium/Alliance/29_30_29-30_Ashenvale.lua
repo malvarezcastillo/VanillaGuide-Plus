@@ -51,7 +51,7 @@ N Kill Rotting Slimes. After Rotting Slimes die a Rusty Chest will spawn on thei
 N Loot the Bottle of Disease on the table - Be cautious as the Forsaken defending it can be in [Stealth] - (75.3, 72.0) |QID|1011|
 N Kill Rotting Slimes. After Rotting Slimes die a Rusty Chest will spawn on their corpse - Open the Rusty Chests. Loot it for the Iron Pommel - (72.6, 71.6) |QID|1027|
 T Forsaken Diseases |QID|1011| |N|Talk to Kayneth Stillwind - Talk to Kayneth Stillwind - (85.2, 44.7)|
-N Kill Satyrs. Loot them for their Horns |QID|1032| |O|
+N Kill Satyrs. Loot them for their Horns |QID|1032| |SK|
 N Click the Circle of Imprisonment in Satyrnaar - (81.6, 48.6) |QID|1140|
 N Click the Circle of Imprisonment in Night Run - Be cautious of Felmusk Shadowstalkers in [Stealth] - (78.8, 46.8) |QID|1140|
 N Kill Satyrs. Loot them for their Horns - (81.4, 49.9) |QID|1032|
@@ -65,7 +65,7 @@ N (53.3, 74.3)
 N Cast Use [Dartol's Rod of Transformation] to turn into a Furbolg |U|5462| |SK|
 A Raene's Cleansing |QID|1045| |N|Talk to Krolg - Talk to Krolg - (50.9, 75.1)| |U|5462|
 N Kill Bloodtooth Guards and Ran Bloodtooth. Loot him for his Skull - Collect item 5388 (x1) - (54.2, 74.1) |QID|1045|
-N (53.3, 74.3) |O|
+N (53.3, 74.3) |SK|
 N Cast Use [Dartol's Rod of Transformation] to turn into a Furbolg |U|5462| |SK|
 A Raene's Cleansing |QID|1046| |N|Talk to Krolg - Talk to Krolg - (50.8, 75.1)| |U|5462|
 N If you Turn in Raene's Cleansing you will gain 3,050XP, but you will permanently lose [Dartol's Rod of Transformation] - If you wish to keep it for RP purposes, abandon Raene's Cleansing, and [Dartol's Rod of Transformation] will remain in your bags - (36.6, 49.6) |SK|
@@ -73,7 +73,7 @@ T Raene's Cleansing |QID|1046| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfr
 T Satyr Slaying! |QID|1032| |N|Talk to Illiyana - Talk to Illiyana - (21.7, 53.3)|
 T The Tower of Althalaxx |QID|1140| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
 F Teldrassil>> Fly to Teldrassil |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)|
-R Take the purple portal into Darnassus |N|(55.9, 89.5)| |O|
+R Take the purple portal into Darnassus |N|(55.9, 89.5)| |SK|
 t Train Teleport: Darnassus |N|Talk to Elissa Dumas - Talk to Elissa Dumas - (40.6, 82.1)| |C|Mage|
 t Train your class spells |N|Talk to Jandria - Talk to Jandria - (37.9, 82.7)| |C|Priest|
 T Reception from Tyrande |QID|1081| |N|Talk to Tyrande Whisperwind - Talk to Tyrande Whisperwind - (39.7, 92.7)|

@@ -147,9 +147,9 @@ A Target: Dalson's Tears |QID|5231| |N|Talk to Shadow Priestess Vandis - Talk to
 N Kill Cauldron Lord Malvinous. Loot him for the key - (46.0, 52.3) |QID|5231|
 A Return to the Bulwark |QID|5232| |N|(46.2, 52.0)|
 T Mrs. Dalson's Diary |QID|5058| |N|Inside the barn on the ground - (47.8, 50.7)|
-N Keep an eye out for the Wandering Skeleton whilst you're AoEing. Kill him then loot him for the Outhouse Key - Collect item 12738 (x1) |O|
-T Locked Away |QID|5059| |N|Click the outhouse. This will spawn a mob. Kill it - Collect item 12739 (x1) - (48.2, 49.6)| |O|
-T Locked Away |QID|5060| |N|Click the cabinet at the top floor of the house - (47.4, 49.7)| |O|
+N Keep an eye out for the Wandering Skeleton whilst you're AoEing. Kill him then loot him for the Outhouse Key - Collect item 12738 (x1) |SK|
+T Locked Away |QID|5059| |N|Click the outhouse. This will spawn a mob. Kill it - Collect item 12739 (x1) - (48.2, 49.6)| |SK|
+T Locked Away |QID|5060| |N|Click the cabinet at the top floor of the house - (47.4, 49.7)| |SK|
 N Save Bone Fragments looted from skeletons for a quest later - Collect item 22526 (x30) |SK|
 G AoE Undead in the area to 53 & 100000+/167100xp |N|Remember to try and save 12 stacks of Runecloth. You'll need it for cloth turnins later - (46.5, 52.1)| |M|hardcore|
 G AoE Undead in the area to 55 & 100000+/180800xp |N|Remember to try and save 12 stacks of Runecloth. You'll need it for cloth turnins later - (46.5, 52.1)| |M|speedrun|
@@ -255,16 +255,16 @@ H Hearthstone |N|Buy food/water if needed|
 T Bonescythe Digs |QID|9126| |N|Talk to Rohan the Assassin - Talk to Rohan the Assassin|
 T Defenders of Darrowshire |QID|5211| |N|Talk to Carlin Redpath - Talk to Carlin Redpath - (81.5, 59.8)|
 R Teleport to Undercity
-N If you don't have 12 stacks of each cloth, buy them from the Auction House - (60.5, 41.8) |O| |M|speedrun|
+N If you don't have 12 stacks of each cloth, buy them from the Auction House - (60.5, 41.8) |SK| |M|speedrun|
 N Withdraw all your cloth from the bank. You need 12 stacks of Wool, Silk, Mageweave, and Runecloth - If you don't have inventory space, then leave half of the cloth in the bank and skip this step - Collect item 2592 (x240) - Collect item 4306 (x240) - Collect item 4338 (x240) - Collect item 14047 (x240) - (65.7, 44.1)
 T A Donation of Runecloth |QID|7818| |N|Talk to Ralston Farnsley - Make sure you have no addons on that will automatically turn in extra runecloth (for rep) or you will be told to buy it again later - Talk to Ralston Farnsley - (71.7, 29.2)|
 R Teleport to Orgrimmar
-N If you don't have 9 stacks of each cloth, buy it from the Auction House - (55.5, 64.7) |O| |M|speedrun|
+N If you don't have 9 stacks of each cloth, buy it from the Auction House - (55.5, 64.7) |SK| |M|speedrun|
 N Withdraw all your cloth from the bank. You need 9 stacks of Wool, Silk, Mageweave, and Runecloth - If you don't have inventory space, then leave half of the cloth in the bank and skip this step - Collect item 2592 (x180) - Collect item 4306 (x180) - Collect item 4338 (x180) - Collect item 14047 (x180) - (49.6, 69.1)
 T A Donation of Runecloth |QID|7824| |N|Talk to Rashona Straglash - Make sure you have no addons on that will automatically turn in extra runecloth (for rep) or you will be told to buy it again later - Talk to Rashona Straglash - (63.6, 51.2)|
 T A Donation of Runecloth |QID|7836| |N|Talk to Vehena - Make sure you have no addons on that will automatically turn in extra runecloth (for rep) or you will be told to buy it again later - Talk to Vehena - (37.7, 87.9)|
 F Thunder Bluff >> Fly to Thunder Bluff |N|(45.1, 63.9)|
-N If you don't have 3 stacks of each cloth, buy it from the Auction House - (40.4, 51.8) |O| |M|speedrun|
+N If you don't have 3 stacks of each cloth, buy it from the Auction House - (40.4, 51.8) |SK| |M|speedrun|
 N Withdraw all your cloth from the bank. You need 3 stacks of Wool, Silk, Mageweave, and Runecloth - If you don't have inventory space, then leave half of the cloth in the bank and skip this step - Collect item 2592 (x60) - Collect item 4306 (x60) - Collect item 4338 (x60) - Collect item 14047 (x60) - (47.3, 58.6)
 T Glyphed Oaken Branch |QID|4987| |N|Talk to Nara Wildmane - Talk to Nara Wildmane - (75.6, 31.7)|
 T A Donation of Runecloth |QID|7823| |N|Talk to Rumstag Proudstrider - Make sure you have no addons on that will automatically turn in extra runecloth (for rep) or you will be told to buy it again later - Talk to Rumstag Proudstrider - (43.0, 42.7)|

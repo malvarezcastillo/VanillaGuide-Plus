@@ -22,7 +22,7 @@ N (82.6, 98.6) |SK|
 A Blood Feeders |QID|6461| |N|Talk to Xen'Zilla - Talk to Xen'Zilla - (71.2, 95.0)|
 N Kill every Deepmoss Creeper you see - Kill Deepmoss Creeper (x10) - (68.6, 88.3) |QID|6461| |SK|
 A Arachnophobia |QID|6284| |N|Click the Wanted Poster - (59.1, 75.7)|
-N Kill Deepmoss Venomspitters and Deepmoss Creepers - Kill Deepmoss Venomspitter (x7) - Kill Deepmoss Creeper (x10) |QID|6461| |O|
+N Kill Deepmoss Venomspitters and Deepmoss Creepers - Kill Deepmoss Venomspitter (x7) - Kill Deepmoss Creeper (x10) |QID|6461| |SK|
 N Loot the Spider Eggs near the trees - Be careful! The Deepmoss Hatchlings have a chance of summoning a level 22 Deepmoss Matriarch - Collect Deepmoss Egg (x15) |QID|1069| |SK|
 N Kill Besseleth. Loot her for for her Fang - This quest is hard. Skip it needed - Collect Besseleth's Fang (x1) - (54.8, 72.0) |QID|6284|
 N Kill Deepmoss Creepers - Kill Deepmoss Creeper (x10) - (67.4, 87.0) |QID|6461|
@@ -34,17 +34,17 @@ T Arachnophobia |QID|6284| |N|Talk to Maggran Earthbinder - Talk to Maggran - (4
 f Sun Rock Retreat >> Get the Sun Rock Retreat flight path |N|Talk to Tharm - Talk to Tharm - (45.1, 59.9)|
 N (59.0, 62.6) |SK|
 A Super Reaper 6000 |QID|1093| |N|Talk to Ziz Fizziks - Talk to Ziz - (59.0, 62.6)|
-N Loot the Spider Eggs near the trees - Be careful! The Deepmoss Hatchlings have a chance of summoning a level 22 Deepmoss Matriarch - Collect Deepmoss Egg (x15) |QID|1069| |O|
+N Loot the Spider Eggs near the trees - Be careful! The Deepmoss Hatchlings have a chance of summoning a level 22 Deepmoss Matriarch - Collect Deepmoss Egg (x15) |QID|1069| |SK|
 N Kill Deepmoss Venomspitters - Kill Deepmoss Venomspitter (x7) - (59.2, 61.5) |QID|6461|
 N Talk to Veenix - Talk to Veenix. Buy a [Long Staff] from him - Collect Long Staff (1) - (58.2, 51.7) |C|Warrior/Warrior/Warrior| |R|Troll/Orc/Tauren|
-N Equip the [Long Staff] |U|928| |O| |C|Warrior/Warrior/Warrior| |R|Troll/Orc/Tauren|
+N Equip the [Long Staff] |U|928| |SK| |C|Warrior/Warrior/Warrior| |R|Troll/Orc/Tauren|
 N Talk to Veenix - Talk to Veenix - Buy an [Executioner's Sword] from him - If it's not up, buy a [Dacian Falx] instead - (58.2, 51.7) |C|Warrior| |R|Undead|
-N Equip the [Executioner's Sword] |U|4818| |O| |C|Warrior| |R|Undead|
-N Equip the [Dacian Falx] |U|922| |O| |C|Warrior| |R|Undead|
+N Equip the [Executioner's Sword] |U|4818| |SK| |C|Warrior| |R|Undead|
+N Equip the [Dacian Falx] |U|922| |SK| |C|Warrior| |R|Undead|
 N Talk to Veenix - Talk to Veenix. Buy a [Long Staff] from him - Collect Long Staff (1) - (58.2, 51.7) |C|Shaman|
-N Equip the [Long Staff] |U|928| |O| |C|Shaman|
+N Equip the [Long Staff] |U|928| |SK| |C|Shaman|
 N Talk to Veenix - Talk to Veenix. Buy a [Longsword] from him - Collect Longsword (1) - (58.2, 51.7) |C|Rogue|
-N Equip the [Longsword] |U|923| |O| |C|Rogue|
+N Equip the [Longsword] |U|923| |SK| |C|Rogue|
 N Kill Venture Co. Loggers - Kill Venture Co. Logger (x15) |QID|1062| |SK|
 N Kill Venture Co. Operators. Loot them for their Blueprints - Collect Super Reaper 6000 Blueprints (x1) - (62.8, 53.7) |QID|1093|
 N Kill Venture Co. Loggers - Kill Venture Co. Logger (x15) - (61.5, 55.1) |QID|1062|
@@ -52,14 +52,14 @@ N Loot the Spider Eggs near the trees - Be careful! The Deepmoss Hatchlings have
 N If you have over 15 Deepmoss Eggs, split the stack of any extras (shift click), then delete them |SK|
 A Further Instructions |QID|1094| |N|Talk to Ziz Fizziks - Talk to Ziz - (59.0, 62.6)|
 N Finish killing Deepmoss Creepers - Kill Deepmoss Creeper (x10) - (59.0, 73.0) |QID|6461|
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
-U Hearthstone |U|6948| |O|
+U Hearthstone |U|6948| |SK|
 F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK|
 A Ishamuhale |QID|882| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.9, 59.1)|
-N Kill Stormsnouts. Loot them for a Horn - Thunder Lizard Horn (1) |QID|821| |O|
+N Kill Stormsnouts. Loot them for a Horn - Thunder Lizard Horn (1) |QID|821| |SK|
 N Kill Bristleback Quillboars. Loot them for their Tusks. Save the [Blood Shards] you get - Kill Bristleback Water Seeker (x6) - Kill Bristleback Thornweaver (x12) - Kill Bristleback Geomancer (x12) - Collect Bristleback Quilboar Tusk (x60) |QID|899| |SK|
 U Lakota'Mani |QID|883| |N|Kill Lakota'mani. Loot him for the [Hoof of Lakota'mani] - Use the [Hoof of Lakota'mani] to start the quest - He has 4 spawnpoints (marked on the map) - Skip this step if you can't find him - Collect Hoof of Lakota'Mani - (45.1, 52.8)| |U|5099|
 N Kill Stormsnouts. Loot them for a Horn - Thunder Lizard Horn (1) |QID|821| |SK|
@@ -81,11 +81,11 @@ T Chen's Empty Keg |QID|821| |N|Talk to Brewmaster Drohn - Talk to Mebok and Dro
 T Chen's Empty Keg |QID|821| |N|Talk to Brewmaster Drohn - Talk to Mebok and Drohn - (62.4, 37.6)|
 U Equip item |N|Talk to Grazlix - Talk to Grazlix - Buy [Mighty Chain Pants] from him if it's up - (62.2, 38.4)| |U|4800| |C|Warrior|
 U Equip item |N|Talk to Vexspindle - Talk to Vexspindle - Buy [Wolf Bracers] from him if they're up - (62.2, 38.5)| |U|4794| |C|Rogue/Hunter/Warrior/Shaman/Druid|
-U Equip item |N|Equip the [Mighty Chain Pants]| |U|4800| |O| |C|Warrior|
-U Equip item |N|Equip the [Wolf Bracers]| |U|4794| |O| |C|Rogue/Hunter/Warrior/Shaman/Druid|
+U Equip item |N|Equip the [Mighty Chain Pants]| |U|4800| |SK| |C|Warrior|
+U Equip item |N|Equip the [Wolf Bracers]| |U|4794| |SK| |C|Rogue/Hunter/Warrior/Shaman/Druid|
 h The Barrens |N|Talk to Innkeeper Wiley - Talk to Innkeeper Wiley - (62.0, 39.4)|
 A Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Bigglefuzz - (63.1, 37.6)|
-F Crossroads >> Fly to The Crossroads |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |O|
+F Crossroads >> Fly to The Crossroads |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |SK|
 A Report to Kadrak |QID|6541| |N|Talk to Thork - Talk to Thork - (51.5, 30.9)| |C|Hunter|
 A Serena Bloodfeather |QID|876| |N|Talk to Darsok Swiftdagger - Talk to Darsok - He is at the top of the tower - (51.6, 30.9)|
 A Serena Bloodfeather |QID|876| |N|Talk to Darsok Swiftdagger - Talk to Darsok - He is at the top of the tower - (51.6, 30.9)|
@@ -100,7 +100,7 @@ N Talk to Kurgul - Talk to Kurgul and buy [Grimoire of Torment (Rank 2)] - Grimo
 A Blind Cazul |QID|1508| |N|Talk to Cazul - Talk to Cazul - (47.0, 46.5)| |C|Warlock|
 N Talk to Katis - Talk to Katis. Buy a [Burning Wand] from her - Collect Burning Wand (1) - (44.2, 48.5) |C|Warlock|
 A News of Dogran |QID|1509| |N|Talk to Zankaja - Talk to Zankaja - (37.0, 59.5)| |C|Warlock|
-R Orgrimmar >> Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak| |O|
+R Orgrimmar >> Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak| |SK|
 t Train your class spells |N|Talk to Kardris Dreamseeker - Talk to Kardris - (38.8, 36.4)| |C|Shaman|
 t Train your class spells |N|Talk to Kardris Dreamseeker - Talk to Kardris - (38.8, 36.4)| |O| |C|Shaman|
 t Train your class spells |N|Talk to Ormak Grimshot - Talk to Ormak - (66.0, 18.5)| |C|Hunter|
@@ -128,26 +128,26 @@ R Enter the Deadmines Instance portal. Zone in |N|(40.9, 82.0)|
 U Arrive in The Barrens |U|6948|
 N Talk to Innkeeper Wiley - Talk to Innkeeper Wiley - (62.0, 39.4) |O|
 N Talk to Innkeeper Boorand Plainswind - Talk to Innkeeper Boorand - (52.0, 29.9) |O|
-F Crossroads >> Fly to The Crossroads |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |O| |C|Warlock|
-R Crossroads >> Fly to The Crossroads |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O| |C|Warlock|
+F Crossroads >> Fly to The Crossroads |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |SK| |C|Warlock|
+R Crossroads >> Fly to The Crossroads |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK| |C|Warlock|
 A News of Dogran |QID|1510| |N|Talk to Gazrog - Talk to Gazrog - (51.9, 30.3)| |C|Warlock|
-R Ratchet >> Fly to Ratchet |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O| |C|Shaman|
+R Ratchet >> Fly to Ratchet |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK| |C|Shaman|
 A Call of Water |QID|1530| |N|Talk to Islen Waterseer - Talk to Islen - (65.8, 43.8)| |C|Shaman|
 F Crossroads >> Fly to Crossroads |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |SK| |C|!Warlock/!Shaman|
 F Crossroads >> Fly to Crossroads |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |SK| |C|Shaman|
 A Apothecary Zamah |QID|853| |N|Talk to Apothecary Helbrim - Talk to Helbrim - Helbrim Starts a 45-minute timed quest - (51.4, 30.1)|
 N You are on a timed quest, don't go afk. It will get turned in 20-30 minutes after pick-up |SK|
-F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |O| |C|!Warlock/!Shaman|
-F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |O| |C|Shaman|
-F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O|
-R Travel to Stonetalon Mountains |O| |C|Warlock|
+F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |SK| |C|!Warlock/!Shaman|
+F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |SK| |C|Shaman|
+F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK|
+R Travel to Stonetalon Mountains |SK| |C|Warlock|
 N (82.6, 98.6) |SK| |C|Warlock|
 A Ken'zigla's Draught |QID|1511| |N|Talk to Ken'zigla - Talk to Ken'zigla - (73.2, 95.1)| |C|Warlock|
 H Hearthstone |SK| |C|Warlock|
 A Dogran's Captivity |QID|1515| |N|Talk to Grunt Logmar - Talk to Logmar - (44.6, 59.3)| |C|Warlock|
 N Kill Bristleback Geomancer - Kill Bristleback Quillboars. Loot them for a [Blood Shard - Blood Shard (1) - (44.5, 59.3)
 T Blood Shards of Agamaggan |QID|5052| |N|Talk to Mangletooth - Talk to Mangletooth - (44.5, 59.3)|
-N Talk to Mangletooth - Talk to Mangletooth - Use your [Blood Shards] to get buffs. Save at least 4 of them for later - Make sure to turn off any autocomplete functions from addons such as Questie or Leatrix Plus for this! - (44.5, 59.3) |O|
+N Talk to Mangletooth - Talk to Mangletooth - Use your [Blood Shards] to get buffs. Save at least 4 of them for later - Make sure to turn off any autocomplete functions from addons such as Questie or Leatrix Plus for this! - (44.5, 59.3) |SK|
 T Lakota'mani |QID|883| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.9, 59.1)|
 A Enraged Thunder Lizards |QID|907| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.9, 59.1)|
 A Love's Gift |QID|1512| |N|Talk to Grunt Dogran - Talk to Dogran - (43.3, 47.9)| |C|Warlock|
@@ -155,8 +155,8 @@ U Owatanka |QID|884| |N|Kill Owatanka. Loot him for [Owatanka's Tailspike] - Use
 N Kill Thunder Lizards. Loot them for their Blood - Thunder Lizard Blood (3) - (44.3, 60.8) |QID|907|
 A Cry of the Thunderhawk |QID|913| |N|Talk to Jorn Skyseer - Talk to Jorn - (44.9, 59.1)|
 A Cry of the Thunderhawk |QID|913| |N|Talk to Jorn Skyseer - Talk to Jorn - (44.9, 59.1)|
-U Owatanka |QID|884| |N|Kill Owatanka. Loot him for [Owatanka's Tailspike] - Use the [Owatanka's Tailspike] to start the quest - He has 4 spawnpoints (marked on the map) - Collect Owatanka's Tailspike - (44.6, 62.7)| |U|5102| |O| |C|Shaman|
-N (43.4, 77.4) |O| |C|Shaman|
+U Owatanka |QID|884| |N|Kill Owatanka. Loot him for [Owatanka's Tailspike] - Use the [Owatanka's Tailspike] to start the quest - He has 4 spawnpoints (marked on the map) - Collect Owatanka's Tailspike - (44.6, 62.7)| |U|5102| |SK| |C|Shaman|
+N (43.4, 77.4) |SK| |C|Shaman|
 N Kill a Thunderhawk. Loot it for its Wings - Thunderhawk Wings (1) |QID|913| |SK| |C|Shaman|
 A Call of Water |QID|1535| |N|Talk to Brine - Talk to Brine - (43.4, 77.4)| |C|Shaman|
 C Fill your [Empty Brown Waterskin] in the watering hole below Brine's hut |QID|1535| |N|Filled Brown Waterskin (1) - (44.2, 76.8)| |U|7766| |C|Shaman|
@@ -168,8 +168,8 @@ A Mahren Skyseer |QID|874| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.
 A Mahren Skyseer |QID|874| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.9, 59.1)|
 N Talk to Mangletooth - Talk to Mangletooth - Skip this step if you have the Thunder Bluff flight path - (44.5, 59.3) |R|!Tauren|
 R Travel into Mulgore |N|(68.7, 60.3)| |SK| |R|!Tauren|
-R Take the lift into Thunder Bluff |N|If you have the Thunder Bluff flight path, fly there instead - (31.8, 65.9)| |O| |R|!Tauren|
-F Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |O| |R|Tauren|
+R Take the lift into Thunder Bluff |N|If you have the Thunder Bluff flight path, fly there instead - (31.8, 65.9)| |SK| |R|!Tauren|
+F Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |SK| |R|Tauren|
 t Train Staves |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Warrior/Warrior/Warrior| |R|Undead/Orc/Troll|
 t Train Staves |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Hunter/Hunter/Warrior/Warlock/Priest| |R|Troll/Orc/Undead|
 t Train Maces |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Rogue|
@@ -194,7 +194,7 @@ A Leaders of the Fang |QID|914| |N|Talk to Nara Wildmane - Talk to Nara - (75.7,
 T Nara Wildmane |QID|1490| |N|Talk to Nara Wildmane - Talk to Nara - (75.7, 31.6)|
 t Train your class spells |N|Talk to Turak Runetotem - Talk to Turak - (76.5, 27.2)| |C|Druid|
 A The Sacred Flame |QID|1195| |N|Talk to Zangen Stonehoof - Talk to Zangen - (55.0, 51.4)|
-N (61.3, 78.2) |O| |C|Hunter|
+N (61.3, 78.2) |SK| |C|Hunter|
 t Train your class spells |N|Talk to Urek Thunderhorn - Talk to Urek - (59.1, 86.9)| |O| |C|Hunter|
 t Train your class spells |N|Talk to Urek Thunderhorn - Talk to Urek - (59.1, 86.9)| |O| |C|Hunter|
 t Train [Track Hidden] |N|Talk to Urek Thunderhorn - Talk to Urek - (59.1, 86.9)| |O| |C|Hunter|
@@ -202,44 +202,44 @@ t Train your pet spells |N|Talk to Hesuwa Thunderhorn - Talk to Hesuwa - (54.1, 
 N (61.3, 78.2) |SK| |C|Warrior|
 A Speak with Ruga |QID|1823| |N|Talk to Torm Ragetotem - Talk to Torm - (57.3, 87.3)| |C|Warrior|
 N Talk to Kard Ragetotem - Talk to Kard. Buy a [Longsword] from him. - Collect Longsword (1) - (53.0, 56.6) |C|Rogue|
-N Equip the [Longsword] |U|923| |O| |C|Rogue|
+N Equip the [Longsword] |U|923| |SK| |C|Rogue|
 N If it's cheaper you can buy a green weapon from the auction house instead |SK| |C|Warrior/Shaman|
 N Talk to Etu Ragetotem - Talk to Etu. Buy a [Long Staff] from him - Collect Long Staff (1) - (53.2, 58.2) |C|Warrior|
-N Equip the [Long Staff] |U|928| |O| |C|Warrior|
+N Equip the [Long Staff] |U|928| |SK| |C|Warrior|
 N Talk to Etu Ragetotem - Talk to Etu. Buy a [Long Staff] from him - Collect Long Staff (1) - (53.2, 58.2) |C|Shaman|
-N Equip the [Long Staff] |U|928| |O| |C|Shaman|
+N Equip the [Long Staff] |U|928| |SK| |C|Shaman|
 N Talk to Kuna Thunderhorn - Talk to Kuna. Buy a [Heavy Recurve Bow] from her - Collect Heavy Recurve Bow (1) - (47.0, 45.7) |C|Hunter|
-N Equip the [Heavy Recurve Bow] |U|3027| |O| |C|Hunter|
+N Equip the [Heavy Recurve Bow] |U|3027| |SK| |C|Hunter|
 N Talk to Kuna Thunderhorn - Talk to Kuna - Buy [Sharp Arrows] from her - Collect item 2515 (x1600) - (47.0, 45.7) |C|Hunter|
 R Crossroads >>Fly to Crossroads |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK|
 N Grind Quilboars while assembling a Wailing Caverns group |SK|
 N (46.1, 36.9)
 N Follow the arrow closely to reach the hidden cave - (47.0, 35.2) |SK|
 A Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru - They are located above the the Wailing Caverns cave entrance - (51.9, 55.4)|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|hardcore|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |O| |M|hardcore|
-N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|speedrun|
-N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |O| |M|speedrun|
-N Kill all the Deviate Beasts you see. Loot them for their Hides - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Hides for everybody - Deviate Hide (20) |QID|1486| |O| |M|hardcore|
-N Kill all the Deviate Beasts you see. Loot them for their Hides - Deviate Hide (20) |QID|1486| |O| |M|speedrun|
-N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |O|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |SK| |M|hardcore|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |SK| |M|hardcore|
+N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |SK| |M|speedrun|
+N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |SK| |M|speedrun|
+N Kill all the Deviate Beasts you see. Loot them for their Hides - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Hides for everybody - Deviate Hide (20) |QID|1486| |SK| |M|hardcore|
+N Kill all the Deviate Beasts you see. Loot them for their Hides - Deviate Hide (20) |QID|1486| |SK| |M|speedrun|
+N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |SK|
 N Kill Mad Magglish. Loot him for the 99-Year-Old Port - He has a long respawn timer. Skip this step if you cannot find him - 99-Year-Old Port (1) - (52.0, 55.2) |QID|959|
 N (51.9, 54.8)
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|hardcore|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |O| |M|hardcore|
-N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|speedrun|
-N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |O| |M|speedrun|
-N Kill Ectoplasms. Loot them for their Essence - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Hides for everybody - Wailing Essence (6) |QID|1491| |O| |M|hardcore|
-N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |O| |M|speedrun|
-N Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs - Deviate Ravager (7) - Deviate Viper (7) - Deviate Shambler (7) - Deviate Dreadfang (7) - Deviate Hide (20) |QID|1486| |O|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |SK| |M|hardcore|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |SK| |M|hardcore|
+N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |SK| |M|speedrun|
+N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |SK| |M|speedrun|
+N Kill Ectoplasms. Loot them for their Essence - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Hides for everybody - Wailing Essence (6) |QID|1491| |SK| |M|hardcore|
+N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |SK| |M|speedrun|
+N Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs - Deviate Ravager (7) - Deviate Viper (7) - Deviate Shambler (7) - Deviate Dreadfang (7) - Deviate Hide (20) |QID|1486| |SK|
 N Kill Lord Cobrahn, Lady Anacondra, Lord Pythas and Lord Serpentis. Loot them for their Gems - Gem of Cobrahn (1) - Gem of Anacondra (1) - Gem of Pythas (1) - Gem of Serpentis (1) |QID|914|
 N Talk to Disciple of Naralex - Talk to the Disciple of Naralex at the entrance of Wailing Caverns. Escort him safely to Naralex |SK|
 U The Glowing Shard |QID|6981| |N|Kill Mutanus the Devourer - Once you have reached Naralex you will get attack by two waves of enemies and finally by Mutanus the Devourer - Kill him and loot him for the [Glowing Shard] and use it to start the quest - Collect Glowing Shard (x1)| |U|10441|
-N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |O|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|hardcore|
-N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |O| |M|hardcore|
-N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|speedrun|
-N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |O| |M|speedrun|
+N Kill Ectoplasms. Loot them for their Essence - Wailing Essence (6) |QID|1491| |SK|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |SK| |M|hardcore|
+N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |SK| |M|hardcore|
+N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |SK| |M|speedrun|
+N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |SK| |M|speedrun|
 N Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs. . Loot them for their Hides - Deviate Ravager (7) - Deviate Viper (7) - Deviate Shambler (7) - Deviate Dreadfang (7) - Deviate Hide (20) |QID|1486| |O|
 N Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs - Deviate Ravager (7) - Deviate Viper (7) - Deviate Shambler (7) - Deviate Dreadfang (7) |QID|1487|
 N Kill Deviate Raptors. Loot them for their Hides - Deviate Hide (20) |QID|1486|
@@ -248,7 +248,7 @@ N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players
 N Loot the Serpentbloom on the ground - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody - Serpentbloom (10) |QID|962| |O| |M|hardcore|
 N Loot the Serpentbloom on the ground - Cast [Find Herbs] to see them on your minimap - Serpentbloom (10) |QID|962| |O| |M|speedrun|
 N Loot the Serpentbloom on the ground - Serpentbloom (10) |QID|962| |O| |M|speedrun|
-U Hearthstone |U|6948| |O|
+U Hearthstone |U|6948| |SK|
 T Smart Drinks |QID|1491| |N|Talk to Mebok Mizzyrix - Talk to Mebok - (62.4, 37.6)|
 T Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Bigglefuzz - (63.1, 37.6)|
 N Talk to Sputtervalve - Talk to Sputtervalve - Speak with someone in Ratchet about the Glowing Shard - (63.0, 37.2) |QID|6981|
@@ -259,17 +259,17 @@ A In Nightmares |QID|3369| |N|Talk to Falla Sagewind - Talk to Falla - (48.2, 32
 T Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru - They are located above the the Wailing Caverns cave entrance - (51.9, 55.4)|
 T Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Ebru - He is located above the the Wailing Caverns cave entrance - (51.9, 55.4)|
 T Deviate Hides |QID|1486| |N|Talk to Nalpak - Talk to Nalpak - He is located above the the Wailing Caverns cave entrance - (51.9, 55.4)|
-R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O|
+R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK|
 N (44.5, 59.2) |SK|
 F Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)|
 T Leaders of the Fang |QID|914| |N|Talk to Nara Wildmane - Talk to Nara - (75.7, 31.6)|
 T In Nightmares |QID|3369| |N|Talk to Arch Druid Hamuul Runetotem - Talk to Hamuul - (78.6, 28.6)|
 N (28.5, 28.9) |SK|
 T Serpentbloom |QID|962| |N|Talk to Apothecary Zamah - Talk to Apothecary Zamah - (23.0, 21.0)|
-F Crossroads >>Fly to The Crossroads |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |O|
+F Crossroads >>Fly to The Crossroads |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK|
 T Hezrul Bloodmark |QID|852| |N|Talk to Regthar Deathgate - Talk to Regthar - (45.4, 28.4)|
 T Centaur Bracers |QID|855| |N|Talk to Regthar Deathgate - Talk to Regthar - (45.4, 28.4)|
-N This next quest is very hard & grouping up is recommended. You can kite Warlord Krom'zar around using the building where the quest giver is located |O|
+N This next quest is very hard & grouping up is recommended. You can kite Warlord Krom'zar around using the building where the quest giver is located |SK|
 A Counterattack! |QID|4021| |N|Talk to Regthar Deathgate - Talk to Regthar - (45.4, 28.4)|
 N Kill Warlord Krom'zar once he appears. Loot the Banner that he drops on the ground - Be careful! He is a strong elite and is guarded by at least two Kolkar mobs - It can take up to 3 minutes until he spawns - Piece of Krom'zar's Banner (1) - (44.5, 28.1) |QID|4021|
 T Counterattack! |QID|4021| |N|Talk to Regthar Deathgate - Talk to Regthar - (45.4, 28.4)|
@@ -282,23 +282,23 @@ N Follow Torek - Let Torek and his Splintertree Raiders tank the Silverwing Warr
 T Torek's Assault |QID|6544| |N|Talk to Ertog Ragetusk - Talk to Ertog - (73.0, 62.5)| |C|Hunter|
 T The Ashenvale Hunt |QID|6383| |N|Talk to Senani Thunderheart - Talk to Senani - (73.8, 61.5)| |C|Hunter|
 f Splintertree Post >> Get the Splintertree Post flight path |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |C|Hunter|
-R Crossroads >> Fly to Crossroads |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |O| |C|Hunter|
+R Crossroads >> Fly to Crossroads |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |SK| |C|Hunter|
 D Die and respawn |SK| |C|!Hunter| |M|speedrun|
 A Letter to Jin'Zil |QID|1060| |N|Talk to Darsok Swiftdagger - Talk to Darsok - (51.6, 30.9)|
 A Letter to Jin'Zil |QID|1060| |N|Talk to Darsok Swiftdagger - Talk to Darsok - (51.6, 30.9)| |O|
 A Egg Hunt |QID|868| |N|Talk to Korran - Talk to Korran - (51.1, 29.6)|
-N This next quest is very hard & grouping up is recommended. You can kite Warlord Krom'zar around using the building where the quest giver is located |O|
+N This next quest is very hard & grouping up is recommended. You can kite Warlord Krom'zar around using the building where the quest giver is located |SK|
 A Counterattack! |QID|4021| |N|Talk to Regthar Deathgate - Talk to Regthar - (45.4, 28.4)|
 N Kill Warlord Krom'zar once he appears. Loot the Banner that he drops on the ground - Be careful! He is a strong elite and is guarded by at least two Kolkar mobs - It can take up to 3 minutes until he spawns - Piece of Krom'zar's Banner (1) - (44.5, 28.1) |QID|4021|
 T Counterattack! |QID|4021| |N|Talk to Regthar Deathgate - Talk to Regthar - (45.4, 28.4)|
-R Travel to Stonetalon Mountains |O|
+R Travel to Stonetalon Mountains |SK|
 A The Elder Crone |QID|1063| |N|Talk to Seereth Stonebreak - Talk to Seereth - (35.3, 27.9)|
 N (82.6, 98.6) |SK|
 T Letter to Jin'Zil |QID|1060| |N|Talk to Witch Doctor Jin'Zil - Talk to Jin'Zil - (74.5, 97.9)|
 A Ken'zigla's Draught |QID|1511| |N|Talk to Ken'zigla - Talk to Ken'zigla - (73.2, 95.1)| |C|Warlock|
 T Blood Feeders |QID|6461| |N|Talk to Xen'Zilla - Talk to Xen'Zilla - (71.2, 95.0)|
 N (74.7, 98.1)
-N (54.2, 27.0) |O|
+N (54.2, 27.0) |SK|
 U Hearthstone |U|6948|
 N (69.9, 30.9) |SK|
 A Forsaken Aid |QID|1064| |N|Talk to Magatha Grimtotem - Talk to Magatha - Wait for the RP to finish - (69.9, 30.9)|
@@ -315,12 +315,12 @@ A The Shattered Salute |QID|2460| |N|Talk to Shenthul - Talk to Shenthul - (43.0
 N Talk to Shenthul - After Shenthul does his salute, type /Salute while targeting him - Shattered Salute Performed (1) - (43.0, 53.7) |QID|2460| |C|Rogue|
 A Deep Cover |QID|2458| |N|Talk to Shenthul - Talk to Shenthul - (43.0, 53.7)| |C|Rogue|
 N Talk to Rekkul - Talk to Rekkul. Buy  [Flash Powder] from him - Collect Dust of Decay (40) - Collect Empty Vial (40) - Collect Flash Powder (20) - (42.1, 49.5) |C|Rogue|
-N (26.2, 61.6) |O| |C|Rogue|
-N (57.6, 7.5) |O| |C|Rogue|
+N (26.2, 61.6) |SK| |C|Rogue|
+N (57.6, 7.5) |SK| |C|Rogue|
 N Talk to Taskmaster Fizzule - Target Taskmaster Fizzule, then use your [Flare Gun] TWICE and type /Salute - Be careful! Do NOT approach him until he becomes friendly or he will attack you! - (55.7, 5.9) |U|8051| |SK| |C|Rogue|
 A Mission: Possible But Not Probable |QID|2478| |N|Talk to Taskmaster Fizzule - Talk to Taskmaster Fizzule - (55.4, 5.6)| |C|Rogue|
 N Use [Pick Pocket] on Foreman Silixiz for his Tower Key - Silixiz's Tower Key (1) - (54.8, 6.0) |QID|2478| |C|Rogue|
-N Each mob here will take increased damage to certain abilities - Use [Ambush] on the Mutated Venture Co. Drones - Use [Rupture] on the Venture Co. Patrollers - Use [Eviscerate] on the Venture Co. Lookouts once (1 combo point) |O| |C|Rogue|
+N Each mob here will take increased damage to certain abilities - Use [Ambush] on the Mutated Venture Co. Drones - Use [Rupture] on the Venture Co. Patrollers - Use [Eviscerate] on the Venture Co. Lookouts once (1 combo point) |SK| |C|Rogue|
 N Run into the Rogue Tower and kill Drones, Patrollers and Lookouts - Mutated Venture Co. Drone (2) - Venture Co. Patroller (2) - Venture Co. Lookout (2) - (54.7, 5.7) |QID|2478| |C|Rogue|
 N At the top of the tower you'll find Gallywix. Loot him for his Head - Use [Ambush] to reduce his HP to half. Use [Gouge] to restore energy and use [Evasion] - Remember to use a Potion and [Thistle Tea] if needed - Gallywix's Head (1) - (54.8, 5.6) |QID|2478| |C|Rogue|
 N Use your lock picking to open Gallywix's Lockbox & loot the Mixture - Cache of Zanzil's Altered Mixture (1) - (54.8, 5.6) |QID|2478| |C|Rogue|

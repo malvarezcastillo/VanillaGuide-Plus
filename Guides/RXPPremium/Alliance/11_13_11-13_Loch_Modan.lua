@@ -24,14 +24,14 @@ F Loch Modan >> Fly to Loch Modan |N|Talk to Gryth Thurden - Talk to Gryth Thurd
 T Return to Brock |QID|6392| |N|Talk to Brock Stoneseeker - Talk to Brock Stoneseeker - (37.2, 47.9)|
 N Talk to Vrok Blunderblast - Talk to Vrok Blunderblast - Buy a [Hunter's Boomstick] if you can afford it - Collect item 2511 (x1) - (35.8, 43.5) |C|Hunter|
 N Equip the [Hunter's Boomstick] |U|2511| |SK| |C|Hunter|
-N Kill +Forest Lurker - Kill Elder Black Bears. Loot them for their Bear Meat - Kill Mountain Boars. Loot them for their Boar Intestines - Kill Forest Lurkers. Loot them for their Ichor - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) |O|
+N Kill +Forest Lurker - Kill Elder Black Bears. Loot them for their Bear Meat - Kill Mountain Boars. Loot them for their Boar Intestines - Kill Forest Lurkers. Loot them for their Ichor - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) |SK|
 N (23.9, 17.9) |SK|
 A Filthy Paws |QID|307| |N|Talk to Mountaineer Stormpike - Talk to Mountaineer Stormpike inside the bunker - (24.8, 18.4)|
 A Filthy Paws |QID|307| |N|Talk to Mountaineer Stormpike - Talk to Mountaineer Stormpike inside the bunker - (24.8, 18.4)| |R|Human|
 A Filthy Paws |QID|307| |N|Talk to Mountaineer Stormpike - Talk to Mountaineer Stormpike inside the bunker - (24.8, 18.4)| |R|Human|
 N (35.5, 19.0) |SK|
 N Open the Miners' League Crates. Loot them for the Miners' Gear - The Miners' League Crates can be found all throughout the Mine - You will be able to do this quest at a higher level if you wish to skip it for now - Miners' Gear (4) - (35.9, 22.6) |QID|307|
-N Kill +Forest Lurker - Kill Elder Black Bears. Loot them for their Bear Meat - Kill Mountain Boars. Loot them for their Boar Intestines - Kill Forest Lurkers. Loot them for their Ichor - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) |O|
+N Kill +Forest Lurker - Kill Elder Black Bears. Loot them for their Bear Meat - Kill Mountain Boars. Loot them for their Boar Intestines - Kill Forest Lurkers. Loot them for their Ichor - Collect Boar Intestines (x3) - Collect Bear Meat (x3) - Collect Spider Ichor (x3) |SK|
 T Filthy Paws |QID|307| |N|Talk to Mountaineer Stormpike - Talk to Mountaineer Stormpike - (24.8, 18.4)|
 N Kill Tunnel Rats. Loot them for their Ears - Tunnel Rats can spawn throughout Loch Modan. Check your World Map for their locations - Collect Tunnel Rat Ear (x12) - (25.1, 30.2) |QID|416|
 N Kill +Forest Lurker - Kill Elder Black Bears. Loot them for their Bear Meat - Kill Mountain Boars. Loot them for their Boar Intestines - Kill Forest Lurkers. Loot them for their Ichor - Bear Meat (3) - Boar Intestines (3) - Spider Ichor (3) - (26.9, 10.7)
@@ -79,12 +79,12 @@ N Talk to Samor Festivus - Talk to Samor Festivus upstairs - Buy as many [Healin
 f Wetlands>> Get the Wetlands flight path |N|Talk to Shellei Brondir - Talk to Shellei - (9.5, 59.7)| |M|hardcore|
 N Talk to Dewin Shimmerdawn - Talk to Dewin Shimmerdawn - Buy as many [Healing Potions] that are available - This is a limited supply item. Skip this step if Dewin Shimmerdawn doesn't have any - (8.0, 56.4)
 N (7.1, 58.0) |SK|
-N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |O|
-N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |O|
-N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |O|
-N You need 50 [Cooking] for a quest in Duskwood later - [Cook] the following items: - [Cook] the [Chunks of Boar Meat] into [Roasted Boar Meat] - [Cook] the [Stringy Wolf Meat] into [Charred Wolf Meat] |O|
-N You need 50 [Cooking] for a quest in Duskwood later - [Cook] the [Stringy Wolf Meat] into [Charred Wolf Meat] |O|
-N You need 50 [Cooking] for a quest in Duskwood later - [Cook] the [Chunks of Boar Meat] into [Roasted Boar Meat] |O|
+N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |SK|
+N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |SK|
+N On the Boat if it just arrived or on the dock if the boat just left: - Cast Create a [Basic Campfire] (under the General Tab of your Spellbook) |SK|
+N You need 50 [Cooking] for a quest in Duskwood later - [Cook] the following items: - [Cook] the [Chunks of Boar Meat] into [Roasted Boar Meat] - [Cook] the [Stringy Wolf Meat] into [Charred Wolf Meat] |SK|
+N You need 50 [Cooking] for a quest in Duskwood later - [Cook] the [Stringy Wolf Meat] into [Charred Wolf Meat] |SK|
+N You need 50 [Cooking] for a quest in Duskwood later - [Cook] the [Chunks of Boar Meat] into [Roasted Boar Meat] |SK|
 R Take the boat to Darkshore |N|Level your [First Aid] while waiting for the boat to Darkshore if needed - (4.4, 56.8)|
 
 ]]

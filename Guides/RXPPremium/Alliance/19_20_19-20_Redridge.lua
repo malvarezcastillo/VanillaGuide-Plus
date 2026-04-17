@@ -7,7 +7,7 @@ return [[
 
 N 19-20 Redridge |N|Converted from RestedXP guide|
 
-N Talk to Billibub Cogspinner - Talk to Billibub Cogspinner - Buy a [Bronze Tube] - This is a limited supply item. Skip this step if Billibub Cogspinner doesn't have one - (55.2, 7.0) |O|
+N Talk to Billibub Cogspinner - Talk to Billibub Cogspinner - Buy a [Bronze Tube] - This is a limited supply item. Skip this step if Billibub Cogspinner doesn't have one - (55.2, 7.0) |SK|
 A Underground Assault |QID|2040| |N|Talk to Shoni the Shilent - Talk to Shoni the Shilent - (55.5, 12.5)|
 T Stormpike's Order |QID|1338| |N|Talk to Furen Longbeard - Talk to Furen Longbeard - (58.1, 16.5)| |R|!NightElf|
 A Collecting Memories |QID|168| |N|Talk to Wilder Thistlenettle - Talk to Wilder Thistlenettle - (65.4, 21.2)|
@@ -30,12 +30,12 @@ N Talk to Marda Weller - Talk to Marda Weller - Buy a [Kris] or something better
 N Talk to Marda Weller - Talk to Marda Weller - Buy a [Kris] - Equip it once you're level 19 - Kris - (57.4, 56.8) |C|Rogue|
 N Equip the [Kris] |U|2209| |SK| |C|Rogue|
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - This will save you time as you won't need to run around looking for mobs to kill. Skip this step if you wish to not buy any - [Great Goretusk Snout] - [Tough Condor Meat] - [Crisp Spider Meat] - Great Goretusk Snout (5) - Tough Condor Meat (5) - Crisp Spider Meat (5) - (53.6, 59.8)
-f Stormwind >> Get the Stormwind City Flight Path |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |O| |C|!Warlock| |R|!Human|
+f Stormwind >> Get the Stormwind City Flight Path |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |SK| |C|!Warlock| |R|!Human|
 R Exit Stormwind |N|(73.2, 92.1)| |R|NightElf|
 R Westfall >> Fly to Westfall |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |SK| |R|!NightElf|
 A The Defias Brotherhood |QID|65| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)| |R|!NightElf|
 F Redridge >> Fly to Redridge Mountains |N|Talk to Dungar Longdrink - Talk to Thor or Dungar Longdrink - (56.5, 52.6)| |R|!NightElf|
-R Travel to Westfall |N|(60.0, 19.4)| |O| |R|!Human|
+R Travel to Westfall |N|(60.0, 19.4)| |SK| |R|!Human|
 f Sentinel Hill >> Get the Sentinel Hill flight path |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |R|!Human|
 F Redridge >> Fly to Redridge |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |C|Warlock| |R|Gnome|
 A The Defias Brotherhood |QID|65| |N|Talk to Gryan Stoutmantle - Talk to Gryan Stoutmantle - (56.3, 47.5)| |R|!Human|
@@ -65,11 +65,11 @@ A The Defias Brotherhood |QID|166| |N|Talk to Gryan Stoutmantle - Talk to Gryan 
 A Red Silk Bandanas |QID|214| |N|Talk to Scout Riell - Talk to Scout Riell atop the Tower - (56.7, 47.4)|
 N Grind gnolls while assembling a Deadmines group - (60.4, 72.2)
 N (42.5, 71.7)
-N Kill the Defias. Loot them for their Bandanas - You may complete this after you enter the Dungeon - Red Silk Bandana (10) |QID|214| |O|
+N Kill the Defias. Loot them for their Bandanas - You may complete this after you enter the Dungeon - Red Silk Bandana (10) |QID|214| |SK|
 N Kill Skeletal Miners, Undead Dynamiters and Undead Excavators. Loot them for their Cards - This is completed OUTSIDE of the Dungeon - Miners' Union Card (4) |QID|168| |SK|
 N Kill Foreman Thistlenettle. Loot him for his Badge - This is completed OUTSIDE of the Dungeon - Thistlenettle's Badge (1) |QID|167|
 N Kill Skeletal Miners, Undead Dynamiters and Undead Excavators. Loot them for their Cards - This is completed OUTSIDE of the Dungeon - Miners' Union Card (4) |QID|168|
-N Kill the Defias inside The Deadmines. Loot them for their Bandanas - Red Silk Bandana (10) |QID|214| |O|
+N Kill the Defias inside The Deadmines. Loot them for their Bandanas - Red Silk Bandana (10) |QID|214| |SK|
 N Kill Sneed. Loot him for the Gnoam Sprecklesprocket - Gnoam Sprecklesprocket (1) |QID|2040|
 U The Unsent Letter |QID|373| |N|Kill Edwin VanCleef. Loot him for his Head and [An Unsent Letter] - Use [An Unsent Letter] to start the quest - An Unsent Letter (1) - Head of VanCleef (1)| |U|2874|
 N (56.3, 47.5) |SK|
@@ -108,7 +108,7 @@ A Return to Verner |QID|119| |N|Talk to Smith Argus - Talk to Smith Argus - (41.
 A Return to Verner |QID|119| |N|Talk to Smith Argus - Talk to Smith Argus - (41.7, 65.5)|
 A A Watchful Eye |QID|94| |N|Talk to Theocritus - Talk to Theocritus at the top - (65.2, 69.7)|
 N Talk to Dawn Brightstar - Talk to Dawn Brightstar - (64.9, 69.2)
-R Travel to Redridge Mountains |N|(6.7, 72.4)| |O|
+R Travel to Redridge Mountains |N|(6.7, 72.4)| |SK|
 A Encroaching Gnolls |QID|244| |N|Talk to Guard Parker - Talk to Guard Parker - (15.3, 71.5)|
 T Encroaching Gnolls |QID|244| |N|Talk to Deputy Feldon - Talk to Deputy Feldon - (30.7, 60.0)|
 A Blackrock Menace |QID|20| |N|Talk to Marshal Marris - Talk to Marshal Marris - (33.5, 49.0)|
@@ -157,7 +157,7 @@ T Hilary's Necklace |QID|3741| |N|Talk to Hilary - Talk to Hilary - (29.2, 53.6)
 T Assessing the Threat |QID|246| |N|Talk to Deputy Feldon - Talk to Deputy Feldon - (30.7, 60.0)|
 G Grind until you are level 20 |N|(49.0, 70.0)|
 F Westfall >> Fly to Westfall |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |C|Rogue| |M|speedrun|
-F Stormwind >> Fly to Stormwind City |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |O|
+F Stormwind >> Fly to Stormwind City |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |SK|
 N Talk to Marda Weller - Talk to Marda Weller - Buy a [Longsword] and equip it at 21 - Buy something from the Auction House if there's something cheaper/better - Longsword (1) - (57.4, 56.8) |C|Rogue|
 N Talk to Marda Weller - Talk to Marda Weller - Buy a [Longsword] and equip it at 21 - Longsword (1) - (57.4, 56.8) |C|Rogue|
 N Equip the [Longsword] |U|923| |SK| |C|Rogue|
@@ -185,16 +185,16 @@ R Travel to Westfall |N|Fly there if you already have the Westfall Flight Path -
 f Westfall >> Get the Westfall flight path |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |C|Rogue| |R|NightElf|
 F Westfall >> Fly to Westfall |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |C|Rogue| |R|!NightElf|
 N Kill Venom Web Spider - Kill Pygmy Venom Web Spiders and Venom Web Spiders. Loot them for a Small Venom Sac and their Gooey Spider Legs - You need a Small Venom Sac to make an [Anti-Venom] later to remove the [Touch of Zanzil] debuff later - Save the Gooey Spider Legs for later - If you have a Paladin or Druid friend you can skip this step and ask them to remove it for you - Small Venom Sac (1) - Gooey Spider Legs (6) - (15.9, 72.1) |C|Rogue| |R|!Dwarf|
-N ==PAY ATTENTION TO THE UPCOMING SECTION== - Press Escape, then go into -> Options -> Controls - Check "Enable Interact Key" and bind the "Interact with Target" option to a key - Additionally, it's recommended you enable Enemy Nameplates (Default Key: V) as it allows you to see enemies behind some of the corners inside the tower |O| |C|Rogue|
+N ==PAY ATTENTION TO THE UPCOMING SECTION== - Press Escape, then go into -> Options -> Controls - Check "Enable Interact Key" and bind the "Interact with Target" option to a key - Additionally, it's recommended you enable Enemy Nameplates (Default Key: V) as it allows you to see enemies behind some of the corners inside the tower |SK| |C|Rogue|
 A Klaven's Tower |QID|2359| |N|Talk to Agent Kearnen - Talk to Agent Kearnen - You MUST do this quest your [Poisons] - (68.5, 70.1)| |C|Rogue|
 N [Pick Pocket] the Malformed Defias Drone. Loot it for the Defias Tower Key - You must be in [Stealth] to use [Pick Pocket] - The Malformed Defias Drone spawns at the entrance to the tower, then patrols around the outside of it - Be careful as he deals a LOT of damage. If your [Stealth] breaks, quickly use [Sprint] and run away - Collect Defias Tower Key (x1) - (71.5, 73.5) |QID|2359| |C|Rogue|
-N Equip the [Curvewood Dagger] for this quest if you don't already have a [Dagger] equipped |U|15396| |O| |C|Rogue|
+N Equip the [Curvewood Dagger] for this quest if you don't already have a [Dagger] equipped |U|15396| |SK| |C|Rogue|
 N Travel up to 2nd top floor of the tower. Whilst in [Stealth] and the Defias Tower Sentries aren't next to you, Jump onto the chair, then onto the lamp, then onto the bookshelf on top of the waypoint location - Manually [Unstealth], then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal - NOTE: Your [Stealth] will temporarily stop working after looting Klaven Mortwake's Journal - Be prepared to run if you don't kill the Defias Tower Sentries on the 2nd floor. They will most likely aggro you permanently (but not attack you) when you are on top of the bookshelf as it is an evade spot - If you have a [Dagger] in your bags or equipped, you can cast [Ambush] on the Defias Tower Patrollers and Defias Tower Sentries inside to kill them instantly. Be prepared to run after you kill the first Defias Tower Sentry and remember you can be hit from above. This is slower, but a LOT safer - Be careful as the Malformed Defias Drone and Defias Drones can be at the entrance of the tower if you have to run out of it - Collect Klaven Mortwake's Journal (x1) - (70.4, 74.0) |QID|2359| |C|Rogue|
 N Collect item 6452 (x1) |SK| |C|Rogue| |R|!Dwarf|
 N Cast Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |U|6452| |O| |C|Rogue| |R|!Dwarf|
 N Cast Cast [Stoneform] to remove the [Touch of Zanzil] debuff |SK| |C|Rogue| |R|Dwarf|
-F Stormwind >> Fly to Stormwind |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |O| |C|Rogue|
-N (42.9, 33.9) |O| |C|Rogue| |R|!Dwarf|
+F Stormwind >> Fly to Stormwind |N|Talk to Thor - Talk to Thor - (56.5, 52.6)| |SK| |C|Rogue|
+N (42.9, 33.9) |SK| |C|Rogue| |R|!Dwarf|
 N Talk to Shaina Fuller - If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead - (43.1, 26.2) |C|Rogue| |R|!Dwarf|
 t Train [Anti-Venom] |N|Talk to Shaina Fuller - If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead - (43.1, 26.2)| |C|Rogue| |R|!Dwarf|
 N Collect item 6452 (x1) |SK| |C|Rogue| |R|!Dwarf|
@@ -206,7 +206,7 @@ N (41.8, 65.6) |SK|
 A Return to Verner |QID|119| |N|Talk to Smith Argus - Talk to Smith Argus - (41.7, 65.5)|
 N (65.2, 69.8) |SK|
 A A Watchful Eye |QID|94| |N|Talk to Theocritus - Talk to Theocritus at the top - (65.2, 69.7)|
-F Redridge >> Fly to Redridge |N|If you're in Goldshire it will be faster to Fly from Stormwind - If you're at the Tower of Azora simply run to Redridge - (66.3, 62.3)| |O|
+F Redridge >> Fly to Redridge |N|If you're in Goldshire it will be faster to Fly from Stormwind - If you're at the Tower of Azora simply run to Redridge - (66.3, 62.3)| |SK|
 A A Baying of Gnolls |QID|124| |N|Talk to Verner Osgood - Talk to Verner Osgood - (31.0, 47.3)|
 A Underbelly Scales |QID|122| |N|Talk to Verner Osgood - Talk to Verner Osgood - (31.0, 47.3)|
 T Messenger to Stormwind |QID|121| |N|Talk to Magistrate Solomon - Talk to Magistrate Soloman - (29.3, 45.3)|

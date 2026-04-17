@@ -26,10 +26,10 @@ N Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on
 N Kill Silithid Invaders, Silithid Invaders and Silithid Invaders - Be careful! They cry for help when attacked, you could accidently agro multiple nearby mobs |QID|1147| |SK|
 U Parts of the Swarm |QID|1148| |N|Loot the Silithid mobs for a [Cracked Silithid Carapace]. Use it to start the quest - Collect item 5877 (x1) - (67.3, 85.3)| |U|5877|
 N Kill Silithid Invaders, Silithid Searchers and Silithid Hive Drones. Loot them for their Hearts, Talons and Carapaces - Be careful! They cry for help when attacked, you could accidently agro multiple nearby mobs - (67.3, 85.3) |QID|1148|
-N Be careful! Salt Flats Vultures can execute. Stay above 20% health! |O|
+N Be careful! Salt Flats Vultures can execute. Stay above 20% health! |SK|
 T The Swarm Grows |QID|1147| |N|Talk to Moktar Krin - Return to Moktar - (67.6, 64.0)| |SK|
 N Run circles around The Shimmering Flats until all objectives are complete - Kill Salt Flats Scavengers and Salt Flats Vultures. Loot them for their Bones - Kill Sparkleshell Tortoises, Sparkleshell Borers and Sparkleshell Snappers. Loot them for their Shells - Kill Scorpid Reavers and Scorpid Terrors. Loot them for their Venom - Kill Saltstone Basilisks, Saltstone Crystalhides and Saltstone Gazers - Open the Rocket Car Rubble. Loot it for the Rocket Car Parts - (87.5, 65.6) |QID|1110|
-N Save your [Turtle Meat] for a free quest turn-in later |O|
+N Save your [Turtle Meat] for a free quest turn-in later |SK|
 T The Swarm Grows |QID|1147| |N|Talk to Moktar Krin - Return to Moktar - (67.6, 64.0)|
 A Hemet Nesingwary |QID|5762| |N|Talk to Kravel Koalbeard - Return to Kravel - (77.8, 77.3)|
 A Martek the Exiled |QID|1106| |N|Talk to Fizzle Brassbolts - Talk to Fizzle and Wizzle - (78.1, 77.1)|
@@ -39,14 +39,14 @@ T A Bump in the Road |QID|1175| |N|Talk to Trackmaster Zherin - Talk to Zherin -
 N (75.4, 97.4)
 R Freewind Post >> Fly to Freewind Post |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK|
 A Family Tree |QID|5361| |N|Talk to Cliffwatcher Longhorn - Talk to Cliffwatcher Longhorn - (45.7, 50.7)|
-R Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Nyse - Talk to Nyse - (45.1, 49.1)| |O|
-R Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |O|
+R Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Nyse - Talk to Nyse - (45.1, 49.1)| |SK|
+R Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK|
 h The Barrens |N|Talk to Innkeeper Byula - Talk to Innkeeper Byula - (45.6, 59.0)|
 F Crossroads >> Fly to The Crossroads |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |SK|
 R Crossroads >> Fly to The Crossroads |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK|
 A Parts of the Swarm |QID|1184| |N|Talk to Korran - Talk to Korran - (51.1, 29.6)|
 h The Barrens |N|Talk to Innkeeper Boorand Plainswind - Talk to Innkeeper Boorand - (52.0, 29.9)|
-F Ratchet >> Fly to Ratchet |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O|
+F Ratchet >> Fly to Ratchet |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK|
 N Talk to Zikkel - Talk to Zikkel - (62.7, 37.4)
 A Goblin Sponsorship |QID|1180| |N|Talk to Gazlowe - Talk to Gazlowe - (62.7, 36.2)|
 T Call of Water |QID|96| |N|Talk to Islen Waterseer - Talk to Islen - (65.8, 43.8)| |C|Shaman|
@@ -65,9 +65,9 @@ N Talk to Glyx Brewright - Talk to Glyx - Buy [Greater Healing Potions] from him
 U Hearthstone |U|6948| |SK| |C|!Mage|
 R Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.2)| |C|!Mage|
 N Cast Cast [Teleport: Thunder Bluff] |C|Mage|
-U Hearthstone |U|6948| |O| |C|!Mage|
-R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O| |C|!Mage|
-N Cast Cast [Teleport: Thunder Bluff] |O| |C|Mage|
+U Hearthstone |U|6948| |SK| |C|!Mage|
+R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |SK| |C|!Mage|
+N Cast Cast [Teleport: Thunder Bluff] |SK| |C|Mage|
 T A Vengeful Fate |QID|1102| |N|Talk to Auld Stonespire - Talk to Auld - (36.0, 59.9)|
 
 ]]

@@ -9,15 +9,15 @@ N 20-21 Darkshore/Ashenvale |N|Converted from RestedXP guide|
 
 N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Go to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
-H Hearthstone |O|
+H Hearthstone |SK|
 A WANTED: Murkdeep! |QID|4740| |N|Click the Wanted Poster - (37.2, 44.2)|
 A Onu |QID|948| |N|Talk to Barithras Moonshade - Talk to Barithras Moonshade|
 A The Absent Minded Prospector |QID|729| |N|Talk to Archaeologist Hollee - Talk to Archaeologist Hollee - (37.4, 41.8)|
 T The Corruption Abroad |QID|3765| |N|Talk to Gershala Nightwhisper - Talk to Gershala Nightwhisper|
 T The Corruption Abroad |QID|3765| |N|Talk to Gershala Nightwhisper - Talk to Gershala Nightwhisper|
 A A Lost Master |QID|993| |N|Talk to Terenthis - Talk to Terenthis|
-U Equip the [Enchanted Moonstalker Cloak] If it's better than your current Cloak |N|If you equip the [Enchanted Moonstalker Cloak], make sure you save your current cloak for later as the [Enchanted Moonstalker Cloak] is lost upon a later turn in| |U|5387| |O|
-N Kill Grizzled Thistle Bears. Loot them for their Scalps - Be careful as they cast [Ravage] an instant attack dealing 20-40 damage and knocking you down for 2s - (40.2, 81.3) |QID|1003| |O|
+U Equip the [Enchanted Moonstalker Cloak] If it's better than your current Cloak |N|If you equip the [Enchanted Moonstalker Cloak], make sure you save your current cloak for later as the [Enchanted Moonstalker Cloak] is lost upon a later turn in| |U|5387| |SK|
+N Kill Grizzled Thistle Bears. Loot them for their Scalps - Be careful as they cast [Ravage] an instant attack dealing 20-40 damage and knocking you down for 2s - (40.2, 81.3) |QID|1003| |SK|
 T Mathystra Relics |QID|951| |N|Talk to Onu - Talk to Onu|
 T Onu |QID|948| |N|Talk to Onu - Talk to Onu| |O|
 A Escape Through Stealth |QID|995| |N|Talk to Volcor - Talk to Volcor - (45.0, 85.3)|
@@ -25,18 +25,18 @@ A Escape Through Stealth |QID|995| |N|Talk to Volcor - Talk to Volcor - (45.0, 8
 N Wait out the RP - Help Volcor escape the cave (1) - (44.4, 84.7) |QID|995|
 A The Master's Glaive |QID|944| |N|Talk to Onu - Talk to Onu|
 N (38.5, 86.0)
-N Kill Twilight Thug - Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below] - Book: The Powers Below (1) |O|
+N Kill Twilight Thug - Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below] - Book: The Powers Below (1) |SK|
 N Discover The Master's Glaive - Enter the Master's Glaive (1) - (38.5, 86.0) |QID|944| |O|
 N Cast Use the [Phial of Scrying] and place it on the ground |U|5251| |SK|
 U The Twilight Camp |QID|949| |N|Click the Scrying Bowl on the ground - (38.5, 86.0)| |U|5251|
 A Return to Onu |QID|950| |N|Click the Twilight Tome on the northern pedestal|
 A Therylune's Escape |QID|945| |N|Talk to Therylune - Talk to Therylune. This will start an escort - Skip this step if she is not there|
 N Escort Therylune out of The Masters Glaive - Escort Therylune away from the Master's Glaive (1) - (40.5, 87.1) |QID|945|
-N Kill Grizzled Thistle Bears. Loot them for their Scalps - Be careful as they cast [Ravage] an instant attack dealing 20-40 damage and knocking you down for 2s - (40.2, 81.3) |QID|1003| |O|
+N Kill Grizzled Thistle Bears. Loot them for their Scalps - Be careful as they cast [Ravage] an instant attack dealing 20-40 damage and knocking you down for 2s - (40.2, 81.3) |QID|1003| |SK|
 T The Absent Minded Prospector |QID|729| |N|Talk to Prospector Remtravel - Talk to Prospector Remtravel - You may have to wait for him to respawn or for others to finish the escort| |SK|
 A The Absent Minded Prospector |QID|731| |N|Talk to Prospector Remtravel - Talk to Prospector Remtravel. This will start an escort - This quest is VERY difficult. Skip this step if you're unable to find a group or solo it - (35.7, 83.7)|
 N Escort Prospector Remtravel through the Excavation - This quest is VERY difficult. Skip this step if you're unable to find a group or solo it |QID|731|
-N Kill Encrusted Tide Crawlers and Reef Crawlers. Loot them for their Fine Crab Chunks - Fine Crab Chunks (6) |QID|1138| |O|
+N Kill Encrusted Tide Crawlers and Reef Crawlers. Loot them for their Fine Crab Chunks - Fine Crab Chunks (6) |QID|1138| |SK|
 N Kill Encrusted Tide Crawlers and Reef Crawlers. Loot them for their Fine Crab Chunks - Fine Crab Chunks (6) |QID|1138| |SK|
 A Beached Sea Creature |QID|4730| |N|Click the Beached Sea Creature|
 N Kill Encrusted Tide Crawlers. Loot them for their Fine Crab Chunks - Fine Crab Chunks (6) |QID|1138| |SK|
@@ -55,12 +55,12 @@ T Mathystra Relics |QID|951| |N|Talk to Onu - Talk to Onu|
 T Return to Onu |QID|950| |N|Talk to Onu - Talk to Onu|
 A The Sleeper Has Awakened |QID|5321| |N|Talk to Kerlonian Evershade - Talk to Kerlonian Evershade to start the escort - Skip this step if he is not there. It can take up to 25 minutes for him to respawn - This is a timed quest, you have to escort him all the way to ashenvale in 20 minutes|
 N Open Kerlonian's Chest. Loot it for the [Horn of Awakening] - Horn of Awakening (1) - (44.4, 76.3) |QID|5321|
-U Use the [Horn of Awakening] whenever Kerlonian falls asleep while standing next to him to wake him up |N|Kerlonian will follow you and ocasionally help in combat. Make sure you don't lose him as he will stop moving when he falls asleep. You have 25 minutes to reach Ashenvale and complete this quest - Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road - (27.3, 35.6)| |U|13536| |O|
+U Use the [Horn of Awakening] whenever Kerlonian falls asleep while standing next to him to wake him up |N|Kerlonian will follow you and ocasionally help in combat. Make sure you don't lose him as he will stop moving when he falls asleep. You have 25 minutes to reach Ashenvale and complete this quest - Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road - (27.3, 35.6)| |U|13536| |SK|
 N (45.0, 85.3) |SK|
 A Escape Through Stealth |QID|995| |N|Talk to Volcor - Talk to Volcor - (45.0, 85.3)|
 N Wait out the RP - (44.4, 84.7) |QID|995|
-R Travel south to Ashenvale |N|(25.8, 14.6)| |O|
-R Travel south to Ashenvale |N|(29.7, 13.6)| |O|
+R Travel south to Ashenvale |N|(25.8, 14.6)| |SK|
+R Travel south to Ashenvale |N|(29.7, 13.6)| |SK|
 C Use the [Horn of Awakening] whenever Kerlonian falls asleep next to him |QID|5321| |N|Escort Kerlonian to Maestra's Post in Ashenvale - Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road - (27.3, 35.6)| |U|13536|
 T The Sleeper Has Awakened |QID|5321| |N|Talk to Liladris Moonriver - Talk to Liadris Moonriver - (27.3, 35.6)|
 T The Tower of Althalaxx |QID|967| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)| |C|!Warlock|

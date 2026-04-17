@@ -14,7 +14,7 @@ A Vile Familiars |QID|1485| |N|Talk to Ruzan - Talk to Ruzan - (42.6, 69.0)| |C|
 N Talk to Duokna - Talk to Duokna - Vendor Trash - (42.6, 67.3) |C|Warrior/Shaman|
 A Cutting Teeth |QID|788| |N|Talk to Gornek - Talk to Gornek - (42.1, 68.3)|
 N (42.3, 68.5) |C|Warrior/Shaman|
-N (41.5, 68.4) |O| |C|Warlock| |M|speedrun|
+N (41.5, 68.4) |SK| |C|Warlock| |M|speedrun|
 N (41.5, 68.4) |SK| |C|Warlock| |M|speedrun|
 N (41.5, 68.4) |SK| |C|Warlock| |M|hardcore|
 N Talk to Hraug - Talk to Hraug - Vendor Trash - (40.6, 68.4) |C|Warlock| |M|speedrun|
@@ -25,24 +25,24 @@ N Talk to Duokna - Talk to Duokna - Buy [Refreshing Spring Water] from her - Ref
 N Kill Mottled Boars en route to the Burning Blade Coven - Try to get to level 2 before getting there - Mottled Boar (10) - (43.6, 67.3) |QID|788| |SK| |C|Warlock|
 N (45.3, 56.4) |C|Warlock|
 N Kill Vile Familiars. Loot them for Vile Familiar Heads - Vile Familiar Head (6) - (43.9, 58.4) |QID|1485| |C|Warlock|
-N Kill Mottled Boars - Mottled Boar (10) |QID|788| |O|
+N Kill Mottled Boars - Mottled Boar (10) |QID|788| |SK|
 A Sarkoth |QID|790| |N|Talk to Hana'zua - Talk to Hana'zua - (40.6, 62.6)|
 N Kill Sarkoth. Loot him for Sarkoth's Mangled Claw - Sarkoth's Mangled Claw (1) - (40.6, 66.8) |QID|790|
 A Sarkoth |QID|804| |N|Talk to Hana'zua - Talk to Hana'zua - (40.6, 62.6)|
 N Kill Mottled Boars - Mottled Boar (10) - (41.3, 65.0) |QID|788|
 N Kill Mottled Boar - (41.3, 65.0) |C|Warlock/Warrior/Shaman/Hunter|
 G Grind to 685+/1400xp |N|Kill Mottled Boar - (41.3, 65.0)| |C|Warlock|
-N Kill Mottled Boar - Grind Mottled Boars. Loot them until you have 1 silver worth of vendor items |O| |C|Warlock|
-N Kill Mottled Boar |O| |C|Warlock/Warrior/Shaman/Hunter|
+N Kill Mottled Boar - Grind Mottled Boars. Loot them until you have 1 silver worth of vendor items |SK| |C|Warlock|
+N Kill Mottled Boar |SK| |C|Warlock/Warrior/Shaman/Hunter|
 N Talk to Duokna - Talk to Duokna - Vendor Trash - (42.6, 67.3) |C|Rogue|
 A Vile Familiars |QID|1499| |N|Talk to Ruzan - Talk to Ruzan - (42.6, 69.0)| |C|Warlock|
-N Cast Cast [Summon Imp] |O| |C|Warlock|
+N Cast Cast [Summon Imp] |SK| |C|Warlock|
 A Burning Blade Medallion |QID|794| |N|Talk to Zureetha Fargaze - Talk to Zureetha - (42.9, 69.2)| |C|Warlock|
 A Sting of the Scorpid |QID|789| |N|Talk to Gornek - Talk to Gornek - (42.1, 68.3)|
-N (41.5, 68.4) |O| |C|Rogue|
+N (41.5, 68.4) |SK| |C|Rogue|
 t Train [Backstab] |N|Talk to Rwag - Talk to Rwag - (41.3, 68.0)| |C|Rogue|
 N Talk to Rwag - Talk to Rwag - (41.3, 68.0) |C|Rogue|
-N (41.5, 68.4) |O| |C|Warlock|
+N (41.5, 68.4) |SK| |C|Warlock|
 N (41.5, 68.4) |SK| |C|Warlock|
 N Talk to Hraug - Talk to Hraug - Vendor Trash - (40.6, 68.4) |C|Warlock|
 t Train [Corruption] |QID|3090| |N|Talk to Nartok - Talk to Nartok - (40.6, 68.5)| |C|Warlock|
@@ -62,9 +62,9 @@ N Talk to Frang - Talk to Frang - (42.9, 69.4) |C|Warrior|
 N Talk to Frang - Talk to Frang - (42.9, 69.4) |C|Warrior|
 N Talk to Kzan Thornslash - Talk to Kzan - Collect Short Staff (1) - (40.5, 68.0) |C|Shaman|
 A Lazy Peons |QID|5441| |N|Talk to Foreman Thazz'ril - Talk to Thazz'ril - (44.6, 68.7)|
-N Loot the Cactus Apples near the Cacti - Cactus Apple (10) |QID|4402| |O|
-N Talk to Lazy Peon - Use the [Foreman's Blackjack] on sleeping Lazy Peons - Peons Awoken (5) - (45.0, 69.1) |QID|5441| |U|16114| |O|
-N Kill Scorpid Workers. Loot them for Scorpid Worker Tails - Scorpid Worker Tail (10) |QID|789| |O| |C|!Warlock|
+N Loot the Cactus Apples near the Cacti - Cactus Apple (10) |QID|4402| |SK|
+N Talk to Lazy Peon - Use the [Foreman's Blackjack] on sleeping Lazy Peons - Peons Awoken (5) - (45.0, 69.1) |QID|5441| |U|16114| |SK|
+N Kill Scorpid Workers. Loot them for Scorpid Worker Tails - Scorpid Worker Tail (10) |QID|789| |SK| |C|!Warlock|
 N Kill Vile Familiars - Vile Familiar (12) - (43.9, 58.4) |QID|792| |C|!Warlock|
 N Kill Scorpid Workers. Loot them for Scorpid Worker Tails - Scorpid Worker Tail (10) - (43.3, 58.3) |QID|789|
 N Talk to Lazy Peon - Use the [Foreman's Blackjack] on sleeping Lazy Peons - Peons Awoken (5) - (45.0, 69.1) |QID|5441| |U|16114|
@@ -89,9 +89,9 @@ G Grind to 1720+/2100xp |N|Kill Vile Familiar| |SK|
 N Loot the Cactus Apples near the Cacti - Cactus Apple (10) - (44.7, 64.9) |QID|4402|
 G Grind to 1720+/2100xp |N|Kill Vile Familiar - (43.9, 58.4)| |O| |C|!Warrior/!Rogue/!Shaman|
 G Grind to level 5 |N|Kill Vile Familiar - (43.9, 58.4)| |O| |C|!Warrior/!Rogue/!Shaman|
-N (45.4, 56.3) |O|
-N (45.4, 55.4) |O|
-N Kill Felstalkers. Loot them for Felstalker Hooves - Felstalker Hoof (2) |QID|1516| |O| |C|Shaman|
+N (45.4, 56.3) |SK|
+N (45.4, 55.4) |SK|
+N Kill Felstalkers. Loot them for Felstalker Hooves - Felstalker Hoof (2) |QID|1516| |SK| |C|Shaman|
 N Loot Thazz'ril's Pick against the wall - Thazz'ril's Pick (1) - (43.7, 53.8) |QID|6394|
 N Kill Yarrog Baneshadow. Loot him for the Burning Blade Medallion - Burning Blade Medallion (1) - (42.7, 53.0) |QID|794|
 N Kill Felstalkers. Loot them for Felstalker Hooves - Felstalker Hoof (2) - (42.7, 53.0) |QID|1516| |C|Shaman|
@@ -119,15 +119,15 @@ t Train [Arcane Shot] |N|Talk to Jen'shan - Talk to Jen'shan - (42.8, 69.3)| |C|
 t Train [Arcane Shot] |N|Talk to Jen'shan - Talk to Jen'shan - (42.8, 69.3)| |C|Hunter|
 t Train [Thunder Clap] |N|Talk to Frang - Talk to Frang - (42.9, 69.4)| |C|Warrior|
 t Train [Parry] |N|Talk to Frang - Talk to Frang - (42.9, 69.4)| |C|Warrior|
-N (42.1, 68.4) |O| |C|Rogue|
+N (42.1, 68.4) |SK| |C|Rogue|
 t Train [Gouge] |N|Talk to Rwag - Talk to Rwag - (41.3, 68.0)| |C|Rogue|
 t Train [Sinister Strike] |N|Talk to Rwag - Talk to Rwag - (41.3, 68.0)| |C|Rogue|
-N (42.1, 68.4) |O| |C|Warlock|
+N (42.1, 68.4) |SK| |C|Warlock|
 N Talk to Hraug - Talk to Hraug - Buy the [Grimoire of Blood Pact] from him - Grimoire of Blood Pact - Vendor Trash - (40.6, 68.4) |C|Warlock|
 t Train [Life Tap] |N|Talk to Nartok - Talk to Nartok - (40.6, 68.5)| |C|Warlock|
 t Train [Shadow Bolt] |N|Talk to Nartok - Talk to Nartok - (40.6, 68.5)| |C|Warlock|
-U Use the [Grimoire of Blood Pact] |U|16321| |O| |C|Warlock|
-N (43.4, 69.6) |O| |C|Shaman|
+U Use the [Grimoire of Blood Pact] |U|16321| |SK| |C|Warlock|
+N (43.4, 69.6) |SK| |C|Shaman|
 N Cast Use the [Earth Sapta] |U|6635| |SK| |C|Shaman|
 A Call of Earth |QID|1518| |N|Talk to Minor Manifestation of Earth - Talk to the Manifestation - (44.0, 76.2)| |C|Shaman|
 T Call of Earth |QID|1518| |N|Talk to Canaga Earthcaller - Talk to Canaga - (42.4, 69.2)| |C|Shaman|

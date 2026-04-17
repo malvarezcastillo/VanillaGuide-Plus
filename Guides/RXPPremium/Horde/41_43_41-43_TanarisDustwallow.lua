@@ -19,8 +19,8 @@ A Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Tal
 N Talk to Laziphus - Talk to Laziphus - (52.3, 28.0) |SK| |C|Hunter|
 R Attack mobs with it to learn [Claw (Rank 6)] |N|Kill Scorpid Hunter - Cast [Tame Beast] on a Scorpid Hunter to tame it - (54.1, 32.2)| |C|Hunter|
 N Talk to Laziphus - Talk to Laziphus - (52.3, 28.0) |C|Hunter|
-N Kill Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - Collect item 8483 (x10) - (59.4, 24.8) |QID|1690| |O|
-N Kill Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - Collect item 8483 (x5) - (59.4, 24.8) |QID|1690| |O|
+N Kill Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - Collect item 8483 (x10) - (59.4, 24.8) |QID|1690| |SK|
+N Kill Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - Collect item 8483 (x5) - (59.4, 24.8) |QID|1690| |SK|
 A Screecher Spirits |QID|3520| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
 N Talk to Jabbey - Talk to Jabbey - Buy [Jagged Arrows] from him - Collect item 11285 (x2600) - (67.0, 22.0) |C|Hunter|
 T Stoley's Debt |QID|2872| |N|Talk to Stoley - Talk to Stoley - (67.1, 24.0)|
@@ -44,20 +44,20 @@ T Zamek's Distraction |QID|1191| |N|Talk to Zamek - Talk with Zamek to create a 
 A Rizzle's Schematics |QID|1194| |N|Click on Rizzle's Unguarded Plans inside the metal hut - (77.2, 77.4)|
 A Back to Booty Bay |QID|1118| |N|Talk to Kravel Koalbeard - Talk to Kravel - (77.8, 77.3)|
 T Rizzle's Schematics |QID|1194| |N|Talk to Pozzik - Talk to Pozzik - (80.2, 75.9)|
-U Hearthstone |U|6948| |O|
+U Hearthstone |U|6948| |SK|
 N (75.4, 97.4) |SK|
-R Brackenwall >> Fly to Dustwallow Marsh |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |O|
+R Brackenwall >> Fly to Dustwallow Marsh |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |SK|
 A Overlord Mok'Morokk's Concern |QID|1166| |N|Talk to Overlord Mok'Morokk - Talk to Overlord Mok'Morokk - (36.3, 31.4)|
 A Identifying the Brood |QID|1169| |N|Talk to Draz'Zilb - Talk to Draz'Zilb - (37.1, 33.0)|
 A Army of the Black Dragon |QID|1168| |N|Talk to Tharg - Talk to Tharg - (37.3, 31.4)|
-N Find & kill Deadmire. Loot him for his Tooth - He's a White Crocolisk who patrols in the water mires in the area |QID|1205| |O|
+N Find & kill Deadmire. Loot him for his Tooth - He's a White Crocolisk who patrols in the water mires in the area |QID|1205| |SK|
 N Loot the Crate on the ground near the crashed Zeppelin for the Seaforium Booster - (54.1, 56.5) |QID|1187|
 N Kill Muckshell Makruras on the beach. Loot them for the Pendant - (56.5, 61.1) |QID|1261|
-N Kill Firemane Scouts and Firemane Ash Tails |QID|1168| |O|
-N Kill Searing Whelps and Searing Hatchlings. Loot them for their Tongues and Hearts |QID|1169| |O|
+N Kill Firemane Scouts and Firemane Ash Tails |QID|1168| |SK|
+N Kill Searing Whelps and Searing Hatchlings. Loot them for their Tongues and Hearts |QID|1169| |SK|
 N Loot the Barrel on the ground for Mok'Morokk's Snuff - (44.5, 66.0) |QID|1166|
 N Loot the Vase on the ground for Mok'Morokk's Grog - (38.7, 65.6) |QID|1166|
-N (38.3, 66.2) |O|
+N (38.3, 66.2) |SK|
 N Kill Firemane Scalebanes - They can only be found inside the cave |QID|1168| |SK|
 N Loot the Chest in the back of the cave for Mok'Morokk's Strongbox - (36.6, 69.5) |QID|1166|
 N Kill Firemane Scalebanes - They can only be found inside the cave - (37.4, 68.5) |QID|1168|
@@ -73,8 +73,8 @@ T Overlord Mok'Morokk's Concern |QID|1166| |N|Talk to Overlord Mok'Morokk - Talk
 T Army of the Black Dragon |QID|1168| |N|Talk to Tharg - Talk to Tharg - (37.3, 31.4)|
 A Report to Zor |QID|1262| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.6)|
 A Report to Zor |QID|1262| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.6)|
-R Hearthstone |U|6948| |O|
-R Gadgetzan >> Fly to Gadgetzan |N|Talk to Shardi - Talk to Shardi - (35.6, 31.9)| |O|
+R Hearthstone |U|6948| |SK|
+R Gadgetzan >> Fly to Gadgetzan |N|Talk to Shardi - Talk to Shardi - (35.6, 31.9)| |SK|
 A WANTED: Caliph Scorpidsting |QID|2781| |N|Click on the Wanted Poster - (51.8, 27.0)|
 A Tanaris Field Sampling |QID|654| |U|8524|
 N Kill +Scorpid Hunter - Kill Basilisks, Hyenas and Scorpids. Loot them for their their Samples - Use the Samples to test them - Do not delete any untested samples - This quest has a 2-hour timer. If it runs out you'll have to obtain a new Model 4711-FTZ Power Source from Chief Engineer Bilgewhizzle |QID|654| |U|9442| |SK| |M|speedrun|
@@ -114,9 +114,9 @@ R Badlands >> Fly to Badlands |N|Talk to Michael Garrett - Talk to Michael - (63
 A Uldaman Reagent Run |QID|2202| |N|Talk to Jarkal Mossmeld - Talk to Jarkal Mossmeld - (2.4, 46.0)|
 A Solution to Doom |QID|709| |N|Talk to Theldurin the Lost - Talk to Theldurin the Lost - (51.4, 76.9)|
 R Travel to Uldaman |N|(54.5, 57.8)|
-N If you loot the [Shattered Necklace], save it in your inventory - Do not accept the quest yet as it can cause questlog issues - Collect item 7666 (x1) |O|
-N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman. - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O| |M|hardcore|
-N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman. - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |O| |M|speedrun|
+N If you loot the [Shattered Necklace], save it in your inventory - Do not accept the quest yet as it can cause questlog issues - Collect item 7666 (x1) |SK|
+N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman. - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |SK| |M|hardcore|
+N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman. - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |SK| |M|speedrun|
 N Open the Ancient Chest. Loot it for the Tablet of Ryun'eh - This is completed OUTSIDE of the instance portal - (54.0, 57.9) |QID|709|
 N Loot the Garret Family Chest in the southern corner of the South Common Hall for the Garrett Family Treasure - The South Common Hall is southwest of the Uldaman instance portal - (53.8, 57.9) |QID|2342|
 N Loot the Magenta Fungus Caps on the ground - This can be completed INSIDE and OUTSIDE of Uldaman - It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |QID|2202| |SK| |M|hardcore|

@@ -23,35 +23,35 @@ N AoE Shadowforge Darkweavers, Shadowforge Tunnelers, Shadowforge Chanters, and 
 A A Sign of Hope |QID|720| |N|Remember to check for the Solid Chest behind the tent - Click the Crumpled Map on the ground - (53.0, 34.0)|
 N Open the Excavation Supply Crate on the ground. Loot it for the Supply Crate - This has a 5 second cast time - It has multiple spawnpoints within the camp - AoE the nearby Dustbelcher Warriors and Dustbelcher Mystics that are around the Excavation Supply Crate so you don't aggro any when opening it - Be careful as Dustbelcher Mystics cast [Lightning Bolt] and [Earth Shock] (instantly deals damage and interrupts) - (66.2, 21.9) |QID|718|
 T A Sign of Hope |QID|720| |N|Talk to Prospector Ryedol - Talk to Sigrun and Ryedol - (53.8, 43.3)|
-N AoE Buzzards. Loot them for their Buzzard Gizzards and Buzzard Wings - AoE Feral Crag Coyotes and Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Buzzards cast [Infected Wound] (Increases physical damage taken by 8, stackable if batched), and Feral Crag Coyotes cast [Thrash] (Charges 2 extra attacks every 10 seconds) - Collect item 3404 (x4) |QID|2500| |O|
+N AoE Buzzards. Loot them for their Buzzard Gizzards and Buzzard Wings - AoE Feral Crag Coyotes and Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Buzzards cast [Infected Wound] (Increases physical damage taken by 8, stackable if batched), and Feral Crag Coyotes cast [Thrash] (Charges 2 extra attacks every 10 seconds) - Collect item 3404 (x4) |QID|2500| |SK|
 A Tremors of the Earth |QID|732| |N|Talk to Garek - Talk to Garek - (61.9, 54.3)|
-N Split pull Boss Tho'grun from his guards. Kill him. Loot him for the Sign of the Earth - Boss Tho'grun patrols counter-clockwise around the Middle/Western portions of Badlands |QID|732| |O|
+N Split pull Boss Tho'grun from his guards. Kill him. Loot him for the Sign of the Earth - Boss Tho'grun patrols counter-clockwise around the Middle/Western portions of Badlands |QID|732| |SK|
 N AoE Dustbelcher Brutes and Dustbelcher Ogres. Loot them for Scrap Metal - (62.6, 69.5) |QID|733| |SK|
 A Murdaloc |QID|739| |N|Click the Battered Dwarven Skeleton on the ground - This has a 5 second cast time - (50.9, 62.4)|
 N AoE Stonevault Bonesnappers, Stonevault Shamans, and Murdaloc - Be careful as Stonevault Bonesnappers cast [Pummel] (interrupts for 5 seconds) and Stonevault Shamans cast [Healing Ward] (Summons a ward that heals nearby Troggs) - (50.1, 64.6) |QID|739|
-N AoE Dustbelcher Brutes and Dustbelcher Ogres. Loot them for Scrap Metal - (29.6, 57.3) |QID|733| |O|
+N AoE Dustbelcher Brutes and Dustbelcher Ogres. Loot them for Scrap Metal - (29.6, 57.3) |QID|733| |SK|
 N AoE Giant Buzzards. Loot them for their Buzzard Gizzards and Buzzard Wings - AoE Elder Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Giant Buzzards cast [Infected Wound] (Increases physical damage taken by 9, stackable if batched) - Collect item 3404 (x4) - (14.9, 61.1) |QID|2500| |SK|
 A Study of the Elements: Rock |QID|710| |N|Talk to Lotwil Veriatus - Talk to Lotwil - (25.9, 44.9)|
 N AoE Lesser Rock Elementals. Loot them for Small Rock Shards - DON'T kill the normal Rock Elementals as you need them later - (23.0, 46.7) |QID|710| |SK|
-N AoE Giant Buzzards. Loot them for their Buzzard Gizzards and Buzzard Wings - AoE Elder Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Giant Buzzards cast [Infected Wound] (Increases physical damage taken by 9, stackable if batched) - Collect item 3404 (x4) - (14.9, 61.1) |QID|2500| |O|
+N AoE Giant Buzzards. Loot them for their Buzzard Gizzards and Buzzard Wings - AoE Elder Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Giant Buzzards cast [Infected Wound] (Increases physical damage taken by 9, stackable if batched) - Collect item 3404 (x4) - (14.9, 61.1) |QID|2500| |SK|
 A Study of the Elements: Rock |QID|711| |N|Talk to Lotwil Veriatus - Talk to Lotwil - (25.9, 44.9)|
 N (17.9, 41.1) |SK|
 N AoE Rock Elementals. Loot them for Large Stone Slabs - (15.4, 32.5) |QID|711|
 A Study of the Elements: Rock |QID|712| |N|Talk to Lotwil Veriatus - Talk to Lotwil - (25.9, 44.9)|
-N Split pull Boss Tho'grun from his guards. Kill him. Loot him for the Sign of the Earth - Boss Tho'grun patrols counter-clockwise around the Middle/Western portions of Badlands |QID|732| |O|
+N Split pull Boss Tho'grun from his guards. Kill him. Loot him for the Sign of the Earth - Boss Tho'grun patrols counter-clockwise around the Middle/Western portions of Badlands |QID|732| |SK|
 N AoE Giant Buzzards. Loot them for their Buzzard Gizzards and Buzzard Wings - AoE Elder Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Giant Buzzards cast [Infected Wound] (Increases physical damage taken by 9, stackable if batched) - Collect item 3404 (x4) - (14.9, 61.1) |QID|2500| |SK|
 N (7.1, 73.3)
 N AoE Greater Rock Elementals. Loot them for Bracers of Rock Binding - (7.1, 73.3) |QID|712|
 N Split pull Boss Tho'grun from his guards. Kill him. Loot him for the Sign of the Earth - Boss Tho'grun patrols counter-clockwise around the Middle/Western portions of Badlands |QID|732| |SK|
 N AoE Dustbelcher Wyrmhunters, Dustbelcher Maulers, and Dustbelcher Shamans. Loot them for Scrap Metal - Be careful as Dustbelcher Wyrmhunters cast [Thrown] and [Net], Dustbelcher Maulers cast [Thrash], and Dustbelcher Shamans cast [Lightning Bolt] and [Healing Wave] - (13.8, 75.3) |QID|733|
-N Split pull Boss Tho'grun from his guards. Kill him. Loot him for the Sign of the Earth - Boss Tho'grun patrols counter-clockwise around the Middle/Western portions of Badlands - (17.5, 77.3) |QID|732| |O|
+N Split pull Boss Tho'grun from his guards. Kill him. Loot him for the Sign of the Earth - Boss Tho'grun patrols counter-clockwise around the Middle/Western portions of Badlands - (17.5, 77.3) |QID|732| |SK|
 N AoE Giant Buzzards. Loot them for their Buzzard Gizzards and Buzzard Wings - AoE Elder Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Giant Buzzards cast [Infected Wound] (Increases physical damage taken by 9, stackable if batched) - Collect item 3404 (x4) - (14.9, 61.1) |QID|2500|
 T Study of the Elements: Rock |QID|712| |N|Talk to Lotwil Veriatus - Talk to Lotwil - (25.9, 44.9)|
-N AoE Elder Crag Coyotes. Loot them for their Crag Coyote Fangs |QID|2500| |O|
-N AoE Dustbelcher Brutes and Dustbelcher Ogres. Loot them for Scrap Metal - (29.6, 57.3) |QID|733| |O|
+N AoE Elder Crag Coyotes. Loot them for their Crag Coyote Fangs |QID|2500| |SK|
+N AoE Dustbelcher Brutes and Dustbelcher Ogres. Loot them for Scrap Metal - (29.6, 57.3) |QID|733| |SK|
 N Talk to Jazzrik - Talk to Jazzrik - Vendor Trash. Repair - (42.5, 52.5) |SK|
 T Barbecued Buzzard Wings |QID|703| |N|Talk to Rigglefuzz - Talk to Rigglefuzz - (42.4, 52.9)|
-N AoE Feral Crag Coyotes and Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Feral Crag Coyotes cast [Thrash] (Charges 2 extra attacks every 10 seconds) |QID|2500| |O|
+N AoE Feral Crag Coyotes and Crag Coyotes. Loot them for their Crag Coyote Fangs - Be careful as Feral Crag Coyotes cast [Thrash] (Charges 2 extra attacks every 10 seconds) |QID|2500| |SK|
 N AoE Dustbelcher Brutes and Dustbelcher Ogres. Loot them for Scrap Metal |QID|733| |SK|
 N Split pull Boss Tho'grun from his guards. Kill him. Loot him for the Sign of the Earth - Boss Tho'grun patrols counter-clockwise around the Middle/Western portions of Badlands - (45.4, 51.7) |QID|732|
 N AoE Dustbelcher Brutes and Dustbelcher Ogres. Loot them for Scrap Metal - (62.6, 69.5) |QID|733|

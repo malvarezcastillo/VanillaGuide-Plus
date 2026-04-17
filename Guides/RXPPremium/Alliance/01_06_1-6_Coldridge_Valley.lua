@@ -14,20 +14,20 @@ N Kill and loot Ragged Young Wolves until you have 10 copper or more of vendor t
 N Talk to Grundel Harkin - Talk to Grundel Harkin inside - Vendor Trash |C|Warrior/Warlock|
 t Train [Battle Shout] |N|Talk to Thran Khorman - Talk to Thran Khorman inside| |C|Warrior|
 A Beginnings |QID|1599| |N|Talk to Alamar Grimm - Talk to Alamar Grimm inside - (28.6, 66.1)| |C|Warlock|
-H Hearthstone |O| |C|Warrior/Warlock|
+H Hearthstone |SK| |C|Warrior/Warlock|
 N Kill Ragged Young Wolves. Loot them for their Tough Wolf Meat - Collect Tough Wolf Meat (x8) |QID|179|
 G Grind to level 2 |N|Kill Ragged Young Wolf| |O|
 N Talk to Adlin Pridedrift - Talk to Adlin Pridedrift - Vendor Trash - Buy 15 [Refreshing Spring Water] from him - Grind extra Ragged Young Wolves if you don't have enough money - Collect Refreshing Spring Water (x15) - (30.1, 71.6) |C|Priest/Mage/Warlock|
-N Talk to Adlin Pridedrift - Talk to Adlin Pridedrift - (30.1, 71.6) |O| |C|!Priest/!Mage/!Warlock|
+N Talk to Adlin Pridedrift - Talk to Adlin Pridedrift - (30.1, 71.6) |SK| |C|!Priest/!Mage/!Warlock|
 A Coldridge Valley Mail Delivery |QID|233| |N|Talk to Sten Stoutarm - Talk to Sten Stoutarm - (29.9, 71.2)|
 A A New Threat |QID|170| |N|Talk to Balir Frosthammer - Talk to Balir Frosthammer - (29.7, 71.3)|
 N Kill Rockjaw Troggs, Burly Rockjaw Troggs, Ragged Young Wolves, and Ragged Timber Wolves en route - Try to avoid Frostmane Troll Whelps - Kill Rockjaw Trogg (x6) - Kill Burly Rockjaw Trogg (x6) |QID|170| |SK| |C|Warlock|
-N (26.9, 79.8) |O| |C|Warlock|
+N (26.9, 79.8) |SK| |C|Warlock|
 N Kill Frostmane Novices inside. Loot them for their Feather Charms - Collect Feather Charm (x3) |QID|1599| |C|Warlock|
-H Hearthstone |O| |C|Warlock| |M|hardcore|
-D Die and respawn |N|Talk to Spirit Healer| |O| |C|Warlock| |M|speedrun|
+H Hearthstone |SK| |C|Warlock| |M|hardcore|
+D Die and respawn |N|Talk to Spirit Healer| |SK| |C|Warlock| |M|speedrun|
 N Talk to Alamar Grimm - Talk to Alamar Grimm upstairs - (28.6, 66.1) |C|Warlock|
-N Kill Rockjaw Troggs and Burly Rockjaw Troggs - Kill Rockjaw Trogg (x6) - Kill Burly Rockjaw Trogg (x6) |QID|170| |O|
+N Kill Rockjaw Troggs and Burly Rockjaw Troggs - Kill Rockjaw Trogg (x6) - Kill Burly Rockjaw Trogg (x6) |QID|170| |SK|
 A Coldridge Valley Mail Delivery |QID|234| |N|Talk to Talin Keeneye - Talk to Talin Keeneye - (22.6, 71.4)|
 N Kill Small Crag Boars - Kill Small Crag Boar (x12) |QID|183|
 T The Boar Hunter |QID|183| |N|Talk to Talin Keeneye - Talk to Talin Keeneye - (22.6, 71.4)|

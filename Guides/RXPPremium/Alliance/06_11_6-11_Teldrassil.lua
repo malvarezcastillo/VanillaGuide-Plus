@@ -35,8 +35,8 @@ N Kill Nightsabers. Loot them for their Fangs - Kill Strigid Owls. Loot them for
 N Kill Webwood Venomfang - Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - You need these for a later quest - Collect Small Spider Leg (x7) |SK|
 t Train [Herbalism] |N|Talk to Malorne Bladeleaf - Talk to Malorne Bladeleaf - [Herbalism] is required to gather 5 [Earthroot] for an important class quest soon. You can unlearn it afterwards - If you would rather purchase 5 [Earthroot] from the Auction House later, skip this step - (57.7, 60.6)| |C|Druid|
 t Train [Herbalism] |N|Talk to Malorne Bladeleaf - Talk to Malorne Bladeleaf - [Herbalism] is required to gather 5 [Earthroot] for an important class quest soon. You can unlearn it afterwards - (57.7, 60.6)| |C|Druid|
-N Earthroot (5) |O| |C|Druid|
-N Collect 5 [Earthroot] via [Herbalism] and rarely Battered Chests for a future class quest - Earthroot (5) |O| |C|Druid|
+N Earthroot (5) |SK| |C|Druid|
+N Collect 5 [Earthroot] via [Herbalism] and rarely Battered Chests for a future class quest - Earthroot (5) |SK| |C|Druid|
 N Talk to Sentinel Shaya - Target Sentinel Shaya - Cast [Lesser Heal (Rank 2)] and [Power Word: Fortitude] on Sentinel Shaya - Heal and fortify Sentinel Shaya - (57.2, 63.5) |QID|5621| |C|Priest|
 A Timberling Sprouts |QID|919| |N|Talk to Denalan - Talk to Denalan - (60.9, 68.5)|
 N Kill Timberlings. Loot them for their Seeds - Loot the Timberling Sprouts on the ground - Collect Timberling Seed (x8) - Collect Timberling Sprout (x12) - (61.6, 68.9) |QID|919|
@@ -74,7 +74,7 @@ t Train your class spells |N|Talk to Kal - Talk to Kal - (55.9, 61.6)| |C|Druid|
 N Kill Webwood Venomfang - Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - You need these for a later quest - Collect Small Spider Leg (x7) |SK|
 N Loot the 3 felcones from the locations marked on your map. - Skip this step if any of them is not there and you're unable to complete the objective - Fel Cone 3/3 - (854.4, 9952.5) |QID|489|
 T Seek Redemption! |QID|489| |N|Talk to Zenn Foulhoof - Talk to Zenn Foulhoof - (60.4, 56.4)|
-N Loot the Fel Cones on the ground - They are usually located next to tree trunks - Collect Fel Cone (x3) |QID|489| |O|
+N Loot the Fel Cones on the ground - They are usually located next to tree trunks - Collect Fel Cone (x3) |QID|489| |SK|
 N Kill Gnarlpine Mystics - If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn - Kill Gnarlpine Mystic (x7) |QID|2459| |SK|
 C Use the [Gnarlpine Necklace] to loot Tallonkai's Jewel |QID|2459| |N|Kill Ferocitas the Dream Eater. Loot him for the [Gnarlpine Necklace]. Be careful as he can [Thrash] hitting you up to three times at once - Collect Tallonkai's Jewel (x1) - (69.4, 53.4)| |U|8049|
 N Kill Gnarlpine Mystics - If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn - Kill Gnarlpine Mystic (x7) - (68.4, 52.1) |QID|2459|
@@ -118,12 +118,12 @@ N Kill Gnarlpine Ambushers - Kill Gnarlpine Ambusher (x6) - (46.6, 53.0) |QID|48
 N (38.3, 34.4) |SK|
 A The Enchanted Glade |QID|937| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - (38.3, 34.4)|
 C Use the [Amethyst Phial] at The Oracle Glade moonwell |QID|7383| |N|Collect Filled Amethyst Phial (x1) - (38.4, 34.0)| |U|18152|
-N Kill Bloodfeather Harpies. Loot them for their Belts - Bloodfeather Matriarchs cast [Healing Wave] and [Lightning Bolt] which does a lot of damage. Try to burst them fast - Collect Bloodfeather Belt (x6) |QID|937| |O|
+N Kill Bloodfeather Harpies. Loot them for their Belts - Bloodfeather Matriarchs cast [Healing Wave] and [Lightning Bolt] which does a lot of damage. Try to burst them fast - Collect Bloodfeather Belt (x6) |QID|937| |SK|
 A The Shimmering Frond |QID|931| |N|Click the Strange Fronded Plant - (34.6, 28.8)|
-A Mist |QID|938| |N|Talk to Mist - Talk to Mist - This will start an escort quest - (31.5, 31.6)| |O| |C|Hunter|
+A Mist |QID|938| |N|Talk to Mist - Talk to Mist - This will start an escort quest - (31.5, 31.6)| |SK| |C|Hunter|
 G Grind until you are 2670 xp off level 10 (3830/6500) |N|Once you reach this xp breakpoint, skip the harpy/escort quest and go straight to Darnassus. You will have another opportunity to finish those quests later| |SK| |C|Hunter|
-T Mist |QID|938| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - Keep in mind this is a timed quest, you need to turn it in within 10 minutes of accepting - (38.3, 34.4)| |O| |C|Hunter|
-A Teldrassil |QID|940| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - (38.3, 34.4)| |O| |C|Hunter|
+T Mist |QID|938| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - Keep in mind this is a timed quest, you need to turn it in within 10 minutes of accepting - (38.3, 34.4)| |SK| |C|Hunter|
+A Teldrassil |QID|940| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - (38.3, 34.4)| |SK| |C|Hunter|
 A Mist |QID|938| |N|Talk to Mist - Talk to Mist - This will start an escort quest - (31.5, 31.6)| |C|!Hunter|
 T Mist |QID|938| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - Keep in mind Mist is a timed quest, you need to turn it in within 10 minutes of accepting - (38.3, 34.4)| |C|!Hunter|
 G Grind to level 10 |C|Druid|
@@ -150,9 +150,9 @@ H Hearthstone
 N Talk to Jeena Featherbow - Talk to Jeena Featherbow - Buy 4 stacks of [Sharp Arrows]. Equip them as soon as you reach level 10 - (55.9, 59.2) |C|Hunter|
 T Recipe of the Kaldorei |QID|4161| |N|Talk to Zarrin - Talk to Zarrin - (57.1, 61.3)|
 T The Road to Darnassus |QID|487| |N|Talk to Moon Priestess Amara - Find Moon Priestess Amara, she patrols the road west of Dolanaar - Talk to Moon Priestess Amara - (51.9, 56.4)|
-t Train your level 10 spells |QID|6063| |N|Talk to Dazalar - Talk to Dazalar - (56.7, 59.5)| |O| |C|Hunter|
-C Use the [Taming Rod] on a Webwood Lurker |QID|6063| |N|Tame a Webwood Lurker - (59.9, 58.8)| |U|15921| |O| |C|Hunter|
-A Taming the Beast |QID|6101| |N|Talk to Dazalar - Talk to Dazalar - (56.7, 59.5)| |O| |C|Hunter|
+t Train your level 10 spells |QID|6063| |N|Talk to Dazalar - Talk to Dazalar - (56.7, 59.5)| |SK| |C|Hunter|
+C Use the [Taming Rod] on a Webwood Lurker |QID|6063| |N|Tame a Webwood Lurker - (59.9, 58.8)| |U|15921| |SK| |C|Hunter|
+A Taming the Beast |QID|6101| |N|Talk to Dazalar - Talk to Dazalar - (56.7, 59.5)| |SK| |C|Hunter|
 A Crown of the Earth |QID|935| |N|Talk to Corithras Moonrage - Talk to Corithras Moonrage - (56.1, 61.7)|
 T The Glowing Fruit |QID|930| |N|Talk to Denalan - Talk to Denalan - (60.9, 68.5)|
 T The Moss-twined Heart |QID|927| |N|Talk to Denalan - Talk to Denalan - (60.9, 68.5)|
@@ -191,7 +191,7 @@ N Kill Bloodfeather Harpies. Loot them for their Belts - Bloodfeather Matriarchs
 A Mist |QID|938| |N|Talk to Mist - Talk to Mist - This will start an escort quest - Skip this quest if the NPC is not there - (31.5, 31.6)|
 T Mist |QID|938| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - Keep in mind this is a timed quest, you need to turn it in within 10 minutes of accepting - (38.3, 34.4)|
 A Teldrassil |QID|940| |N|Talk to Sentinel Arynia Cloudsbreak - Talk to Sentinel Arynia Cloudsbreak - (38.3, 34.4)|
-D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 R Travel to Darnassus |N|(82.0, 36.7)| |SK| |M|hardcore|
 A Nessa Shadowsong |QID|6344| |N|Talk to Mydrannul - Talk to Mydrannul - (70.7, 45.4)|
 R Travel to Darnassus |N|(82.0, 36.7)| |O| |M|speedrun|
@@ -214,7 +214,7 @@ t Train [Herbalism] |N|Talk to Firodren Mooncaller - Talk to Firodren Mooncaller
 N Talk to Auctioneer Golothas - Talk to a Darnassus Auctioneer - Buy the following items for instant turn ins at Darkshore later: - [Darkshore Grouper] - [Strider Meat] - Strider Meat (5) - Darkshore Grouper (6) - (56.2, 54.0)
 N Talk to Jaeana - Look for Jaeana, she patrols around the Tradesmen's Terrace - Buy a stack of [Tough Jerky] from her. - You will need it to feed your owl, they only eat meat and there's no meat vendor in Darkshore - Collect item 117 (x15) - (64.2, 63.0) |C|Hunter|
 N Talk to Ilyenia Moonfire - Talk to Ilyenia Moonfire - (57.6, 46.7) |C|Hunter/Warrior/Priest/Rogue|
-N Equip the [Walking Stick] |U|2495| |O| |C|Hunter|
+N Equip the [Walking Stick] |U|2495| |SK| |C|Hunter|
 N Talk to Ariyell Skyshadow - Talk to Ariyell Skyshadow - Buy and equip a [Laminated Recurve Bow] - Collect item 2507 (x1) - (58.8, 44.5) |C|Hunter/Rogue|
 N Talk to Ariyell Skyshadow - Talk to Ariyell Skyshadow - Buy [Sharp Arrows] - (58.8, 44.5) |C|Hunter|
 N Equip the [Laminated Recurve Bow] |U|2507| |SK| |C|Hunter|
@@ -224,7 +224,7 @@ N Talk to Ariyell Skyshadow - Talk to Ariyell Skyshadow - Buy and equip a [Cutla
 N Equip the [Cutlass] |U|851| |SK| |C|Warrior|
 N Equip the [Quarter Staff] |U|854| |SK| |C|Warrior|
 N Talk to Turian - Talk to Rellian Greenspyre on the second floor - Buy a [Balanced Throwing Dagger] - Balanced Throwing Dagger - (62.7, 65.6) |C|Rogue|
-R Travel through the purple portal to Rut'theran Village |N|(28.5, 39.9)| |O|
+R Travel through the purple portal to Rut'theran Village |N|(28.5, 39.9)| |SK|
 A The Bounty of Teldrassil |QID|6341| |N|Talk to Nessa Shadowsong - Talk to Nessa Shadowsong - (56.2, 92.4)|
 T Return to Nessa |QID|6343| |N|Talk to Nessa Shadowsong - Talk to Nessa Shadowsong - (56.2, 92.4)| |O|
 A Flight to Auberdine |QID|6342| |N|Talk to Vesprystus - Talk to Vesprystus - (58.4, 94.0)|

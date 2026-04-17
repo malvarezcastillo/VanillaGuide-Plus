@@ -8,7 +8,7 @@ return [[
 N 51-52 WPL |N|Converted from RestedXP guide|
 
 R Head to Ironforge |SK|
-A A Call to Arms: The Plaguelands! |QID|5090| |N|Talk to Courier Hammerfall - Courier Hammerfall patrols through all of Ironforge| |O|
+A A Call to Arms: The Plaguelands! |QID|5090| |N|Talk to Courier Hammerfall - Courier Hammerfall patrols through all of Ironforge| |SK|
 A A Little Slime Goes a Long Way |QID|4512| |N|Talk to Laris Geardawdle - Talk to Laris Geardawdle - (75.8, 23.4)|
 A At Last! |QID|3201| |N|Talk to Curator Thorius - Talk to Curator Thorius - Curator Thorius patrols through the Hall of Explorers - (71.8, 16.1)|
 T Suntara Stones |QID|3368| |N|Talk to Curator Thorius - Talk to Curator Thorius - Curator Thorius patrols through the Hall of Explorers - (71.8, 16.1)|
@@ -34,17 +34,17 @@ N You can also throw away the [Standard Issue Flare Gun] since it's no longer ne
 A A Call to Arms: The Plaguelands! |QID|5090| |N|Talk to Courier Hammerfall - Courier Hammerfall patrols through all of Ironforge - (33.4, 20.0)|
 F Loch Modan >> Fly to Loch Modan |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.8)| |SK|
 T At Last! |QID|3201| |N|Talk to Mountaineer Pebblebitty - Talk to Mountaineer Pebblebitty - (18.2, 84.0)|
-R Southshore>> Fly to Southshore |N|Talk to Thorgrum Borrelson - Talk to Thorgrum - (33.9, 51.0)| |O| |C|Rogue|
-R Southshore>> Fly to Southshore |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.8)| |O| |C|Rogue|
+R Southshore>> Fly to Southshore |N|Talk to Thorgrum Borrelson - Talk to Thorgrum - (33.9, 51.0)| |SK| |C|Rogue|
+R Southshore>> Fly to Southshore |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.8)| |SK| |C|Rogue|
 N (75.6, 22.1) |C|Rogue|
 A Sealed Azure Bag |QID|8234| |N|Talk to Lord Jorach Ravenholdt - Talk to Lord Jorach Ravenholdt upstairs - (86.0, 78.9)| |C|Rogue|
-R Travel to The Hinterlands |N|(83.4, 32.3)| |O| |C|Rogue|
+R Travel to The Hinterlands |N|(83.4, 32.3)| |SK| |C|Rogue|
 R Hinterlands>> Fly to The Hinterlands |N|Talk to Thorgrum Borrelson - Talk to Thorgrum - (33.9, 51.0)|
 R Hinterlands>> Fly to The Hinterlands |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.8)|
 T The Altar of Zul |QID|2989| |N|Talk to Gryphon Master Talonaxe - Talk to Gryphon Master Talonaxe - (9.8, 44.5)|
 T Skulk Rock Clean-up |QID|2877| |N|Talk to Fraggar Thundermantle - Talk to Fraggar Thundermantle - (14.8, 44.6)|
 N Loot the Violet Tragan underwater - (40.6, 59.6) |QID|2641|
-F Western Plaguelands>> Fly to Western Plaguelands |N|Talk to Guthrum Thunderfist - Talk to Guthrum Thunderfist - (11.1, 46.2)| |O|
+F Western Plaguelands>> Fly to Western Plaguelands |N|Talk to Guthrum Thunderfist - Talk to Guthrum Thunderfist - (11.1, 46.2)| |SK|
 A Clear the Way |QID|5092| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)| |O|
 A Clear the Way |QID|5092| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)| |O|
 A Clear the Way |QID|5092| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)| |O|
@@ -55,7 +55,7 @@ A Dispelling Evil |QID|8414| |N|Talk to Commander Ashlam Valorfist - Talk to Com
 A Dispelling Evil |QID|8414| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)| |C|Paladin|
 T Argent Dawn Commission |QID|5401| |N|Talk to Argent Officer Pureheart - Talk to Argent Officer Pureheart - (43.0, 83.5)|
 N Cast Equip the [Argent Dawn Commission] to start collecting [Scourgestones] |U|12846| |SK|
-N Kill any of the Scourge. Loot them for their Minion's Scourgestones |QID|8414| |O| |C|Paladin|
+N Kill any of the Scourge. Loot them for their Minion's Scourgestones |QID|8414| |SK| |C|Paladin|
 N Kill Skeletal Flayers and Slavering Ghouls - (48.9, 80.8) |QID|5092|
 A Inert Scourgestones |QID|8416| |N|Talk to High Priest Thel'danis - Talk to High Priest Thel'danis - (52.0, 82.8)| |O| |C|Paladin|
 A Inert Scourgestones |QID|8416| |N|Talk to High Priest Thel'danis - Talk to High Priest Thel'danis - (52.0, 82.8)| |O| |C|Paladin|

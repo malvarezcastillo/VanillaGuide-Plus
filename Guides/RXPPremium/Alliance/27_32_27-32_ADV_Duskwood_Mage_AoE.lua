@@ -10,16 +10,16 @@ N 27-32 ADV Duskwood Mage AoE |N|Converted from RestedXP guide|
 N (57.1, 61.5) |SK|
 R Duskwood >> Fly to Darkshire |N|Talk to Dungar Longdrink - Talk to Dungar - (66.3, 62.1)| |SK|
 A Return the Comb |QID|154| |N|Talk to Blind Mary - Talk to Mary - (81.8, 59.4)|
-U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |O|
+U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |SK|
 N AoE the Insane Ghoul. Loot it for Mary's Looking Glass - (80.4, 71.1) |QID|177| |SK|
 N AoE Skeletal Warriors and Skeletal Mages - Be careful as the Skeletal Mages cast [Frostbolt]. Cast [Frost Ward] and [Counterspell] to AoE them - (79.2, 71.0) |QID|56|
 A Look To The Stars |QID|181| |N|Talk to Viktori Prism'Antras - Talk to Viktori - (79.8, 48.0)|
 A Deliver the Thread |QID|157| |N|Talk to Madame Eva - Talk to Eva inside - (75.8, 45.3)|
 A The Night Watch |QID|57| |N|Talk to Commander Althea Ebonlocke - Talk to Althea - (73.6, 46.9)|
-U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |O|
+U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |SK|
 N (72.4, 45.9) |SK|
 N Kill Nightbane Shadow Weavers - Be careful as they cast [Shadow Bolt] - (63.5, 40.7) |QID|173|
-N Kill Young Black Ravager - AoE Black Ravager Mastiffs and Young Black Ravagers. Loot them for their Lean Wolf Flanks - Collect item 1015 (x10) - (60.6, 59.0) |O|
+N Kill Young Black Ravager - AoE Black Ravager Mastiffs and Young Black Ravagers. Loot them for their Lean Wolf Flanks - Collect item 1015 (x10) - (60.6, 59.0) |SK|
 U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |SK|
 A Sven's Camp |QID|230| |N|Click the Mound of loose dirt - This has a 5 second cast time - Be careful of Defias Night Blades as they cast [Slowing Poison] (Reduces movespeed by 35% for 25 seconds) and [Backstab] (deals double damage from behind) - (49.9, 77.7)|
 N AoE Black Widow Hatchlings. Loot them for their Vials of Spider Venom, Pristine Spider Silk, and Gooey Spider Legs - Be careful as Black Widow Hatchlings cast [Infected Bite] (deals 13 damage every 10 seconds and increases physical damage taken by 5 for 3 minutes) and [Poison] (deals 13-14 damage every 3 seconds for 30 seconds) - Collect item 2251 (x6) - (36.2, 57.2) |QID|1940|
@@ -30,21 +30,21 @@ N AoE Skeletal Fiends and Skeletal Horrors. Loot them for their Skeleton Fingers
 A Jitters' Growling Gut |QID|5| |N|Talk to Jitters - Talk to Jitters - (18.1, 56.5)|
 N (42.1, 67.0) |SK|
 A The Legend of Stalvan |QID|68| |N|Click the Old Footlocker on the ground - This will spawn a Forlon Spirit. Get ready to run back outside - (41.5, 66.7)|
-H Hearthstone |N|Jump on top of the chariot outside to evade the Forlon Spirit - (41.5, 66.7)| |O|
+H Hearthstone |N|Jump on top of the chariot outside to evade the Forlon Spirit - (41.5, 66.7)| |SK|
 N Talk to Innkeeper Trelayne - Talk to Trelayne - Buy some [Sweet Nectar] from her if needed - Collect item 1708 (x60) - (73.9, 44.4)
 T Seasoned Wolf Kabobs |QID|90| |N|Talk to Chef Grual - Talk to Grual in the room behind Trelayne - (73.8, 43.2)|
 A Return to Jitters |QID|240| |N|Talk to Chef Grual - Talk to Grual in the room behind Trelayne - (73.8, 43.2)|
-A Gather Rot Blossoms |QID|156| |N|Talk to Tavernkeep Smitts - Talk to Smitts| |O|
+A Gather Rot Blossoms |QID|156| |N|Talk to Tavernkeep Smitts - Talk to Smitts| |SK|
 N Talk to Alyssa Eva - Talk to Alyssa inside - Buy four [Runes of Teleportation] from her - Collect item 17031 (x4) - (76.2, 45.3) |SK|
 A The Shadowy Search Continues |QID|265| |N|Talk to Madame Eva - Talk to Eva inside - (75.8, 45.3)|
 A Worgen in the Woods |QID|221| |N|Talk to Calor - Talk to Calor - (75.8, 47.6)|
 A Inquire at the Inn |QID|266| |N|Talk to Clerk Daltry - Talk to Althea and Daltry - (73.6, 46.9)|
 A Inquire at the Inn |QID|266| |N|Talk to Clerk Daltry - Talk to Daltry - (72.5, 46.9)|
 A Gather Rot Blossoms |QID|156| |N|Talk to Tavernkeep Smitts - Talk to Smitts - (74.1, 44.7)|
-N Kill Young Black Ravager - AoE Black Ravager Mastiffs and Young Black Ravagers. Loot them for their Lean Wolf Flanks - Collect item 1015 (x10) - (60.6, 59.0) |O|
+N Kill Young Black Ravager - AoE Black Ravager Mastiffs and Young Black Ravagers. Loot them for their Lean Wolf Flanks - Collect item 1015 (x10) - (60.6, 59.0) |SK|
 N AoE Black Widow Hatchlings. Loot them for their Vials of Spider Venom, Pristine Spider Silk, and Gooey Spider Legs - Be careful as Black Widow Hatchlings cast [Infected Bite] (deals 13 damage every 10 seconds and increases physical damage taken by 5 for 3 minutes) and [Poison] (deals 13-14 damage every 3 seconds for 30 seconds) - (36.2, 57.2) |QID|1940|
 A Return to Sven |QID|268| |N|Talk to Jitters - Talk to Jitters - (18.1, 56.5)|
-U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |O|
+U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |SK|
 N AoE Skeletal Fiends and Skeletal Horrors. Loot them for their Skeleton Fingers and Rot Blossoms - Be careful as Skeletal Fiends cast [Fiend Fury] A(Increases damage dealt by 45) - (15.1, 44.6) |QID|156| |SK|
 A Proving Your Worth |QID|323| |N|Talk to Sven Yorgen - Talk to Sven - (7.8, 34.1)|
 N AoE Skeletal Raiders - Be careful as they cast [Slowing Poison] (Reduces movespeed by 35% for 25 seconds) - (15.3, 38.6) |QID|323| |SK|
@@ -69,7 +69,7 @@ N Equip the [Astral Knot Blouse] |U|9516| |SK|
 A The Legend of Stalvan |QID|74| |N|Talk to Caretaker Folsom - Talk to Folsom. Click the Sealed Crate - This will spawn a Forlon Spirit. Get ready to run away from it - (29.5, 61.9)|
 N Talk to Adair Gilroy - Enter the building - Talk to Adair - Buy non-intellect [Scrolls] from him (if they're up) - (41.6, 65.5)
 N (37.8, 58.5) |SK|
-N Go into the Stormwind Cathedral - (42.9, 34.3) |O|
+N Go into the Stormwind Cathedral - (42.9, 34.3) |SK|
 A The Missing Diplomat |QID|1274| |N|Talk to Thomas - Talk to Thomas| |SK|
 A The Doomed Fleet |QID|270| |N|Talk to Bishop Farthing - Talk to Farthing - (39.1, 27.9)|
 A The Missing Diplomat |QID|1274| |N|Talk to Thomas - Talk to Thomas - (39.0, 26.1)|
@@ -82,9 +82,9 @@ N (69.2, 29.0) |SK|
 A The Missing Diplomat |QID|1242| |N|Talk to Jorgen - Talk to Jorgen - (73.2, 78.4)|
 N (69.2, 83.1) |SK|
 A The Missing Diplomat |QID|1243| |N|Talk to Elling Trias - Talk to Elling - Jump up from the doorway whilst spamming your "Interact with Target" keybind - (59.9, 64.2)|
-N (57.1, 61.5) |O|
-R Darkshire >> Fly to Darkshire |N|Talk to Dungar Longdrink - Talk to Dungar - (66.3, 62.1)| |O|
-H Hearthstone |N|If you see this, you're currently slow - you should have around 20 minutes left on your hearthstone (assuming no competition)| |O|
+N (57.1, 61.5) |SK|
+R Darkshire >> Fly to Darkshire |N|Talk to Dungar Longdrink - Talk to Dungar - (66.3, 62.1)| |SK|
+H Hearthstone |N|If you see this, you're currently slow - you should have around 20 minutes left on your hearthstone (assuming no competition)| |SK|
 N Buy 3 8 slot bags from Mabel Solaj if needed - (74.1, 44.8) |SK|
 A The Missing Diplomat |QID|1244| |N|Talk to Watcher Backus - Talk to Backus - Backus patrols the path north of Darkshire - (74.8, 44.1)|
 N Remember to use [Blink] on cooldown |SK|
@@ -99,7 +99,7 @@ A Morgan Ladimore |QID|227| |N|Talk to Sirra Von'Indi - Talk to Sirra inside - (
 A Mor'Ladim |QID|228| |N|Talk to Commander Althea Ebonlocke - Talk to Althea - (73.6, 46.9)|
 A Mor'Ladim |QID|228| |N|Talk to Commander Althea Ebonlocke - Talk to Althea - (73.6, 46.9)|
 A The Legend of Stalvan |QID|98| |N|Talk to Commander Althea Ebonlocke - Talk to Althea - (73.6, 46.9)|
-U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |O|
+U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |SK|
 N (72.7, 48.6) |SK|
 N AoE Nightbane Dark Runners - Be careful as they have [Increased Movespeed] and cast [Exploit Weakness] (deals double damage from behind) - (63.8, 51.3) |QID|221|
 N Kill Young Black Ravager - AoE Black Ravager Mastiffs and Young Black Ravagers. Loot them for their Lean Wolf Flanks - Collect item 1015 (x10) - (60.6, 59.0)
@@ -108,7 +108,7 @@ A The Weathered Grave |QID|225| |N|Click A Weathered Grave - (17.7, 29.1)| |SK|
 U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |SK|
 N AoE Plague Spreaders, Bone Chewers, and Rotted Ones. Loot them for their Ghoul Fangs and Ghoul Ribs - Be careful as Rotted Ones have Flesh Eating Worms spawn after killing them (1 health, dies to AoE damage) - Avoid the Carrion Recluse as it casts [Paralyzing Poison] (Stuns you for 8 seconds) - (25.5, 33.9) |QID|133|
 A Ogre Thieves |QID|134| |N|Talk to Abercrombie - Talk to Abercrombie - (28.1, 31.5)|
-U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |O|
+U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |SK|
 N Open the Defias Strongbox. Loot it for the Defias Docket - This has a 5 second cast time - Be careful of Defias Night Blades as they cast [Slowing Poison] (Reduces movespeed by 35% for 25 seconds) and [Backstab] (deals double damage from behind), and Defias Enchanters who cast [Fireball] (dealing about 90 damage). Remember to cast [Fire Ward] - If there are 1 or less Defias Enchanters, AoE them - If there are 2 or more Defias Enchanters, Gather them all and [Frost Nova] them outside the building. [Blink] away after looting the Defias Docket - (23.9, 72.1) |QID|1244|
 N Loot Abercrombie's Crate on the ground - (33.4, 76.4) |QID|134|
 N AoE Zzarc'Vul. Loot him for the Ogre's Monocle - You can AoE the Splinter Fist Warriors and Splinter Fist Firemongers - You must single target kill Splinter Fist Enslavers as they cast [Net] and [Thrown] - (34.9, 78.0) |QID|181|
@@ -129,20 +129,20 @@ A Translation to Ello |QID|252| |N|Talk to Sirra Von'Indi - Talk to Sirra - (72.
 A Bride of the Embalmer |QID|253| |N|Talk to Lord Ello Ebonlocke - Talk to Ello - (71.9, 46.4)|
 A Mor'Ladim |QID|228| |N|Talk to Commander Althea Ebonlocke - Talk to Althea - (73.6, 46.9)|
 A Mor'Ladim |QID|228| |N|Talk to Commander Althea Ebonlocke - Talk to Althea - (73.6, 46.9)|
-U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |O|
+U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |SK|
 N (72.7, 48.6) |SK|
 N AoE Nightbane Dark Runners - Be careful as they have [Increased Movespeed] and cast [Exploit Weakness] (deals double damage from behind) - (63.8, 51.3) |QID|221|
 A Worgen in the Woods |QID|222| |N|Talk to Calor - Talk to Calor - (75.8, 47.6)|
 U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |SK|
 N AoE Nightbane Vile Fangs, Nightbane Tainted Ones, and Nightbane Dark Runners - Be careful of Nightbane Vile Fangs as they cast [Infected Wound] (Increases physical damage taken by 6, stackable if batched), Nightbane Tainted Ones cast [Tainted Howl] (stackable buff giving a chance to inflict [Poison] on melee attack, dealing 16.5 damage every 3 seconds for 30 seconds) Nightbane Dark Runners as they have [Increased Movespeed] and cast [Exploit Weakness] (deals double damage from behind) - (73.7, 71.2) |QID|222|
 T Worgen in the Woods |QID|223| |N|Talk to Jonathan Carevin - Talk to Calor and then Jonathan inside - (75.8, 47.6)|
-U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |O|
+U An Old History Book |QID|337| |N|Loot [An Old History Book] from any Undead/Humanoid in Duskwood - Use [An Old History Book] to start the quest - Collect item 2794 (x1)| |U|2794| |SK|
 N Equip the [Consecrated Wand] |U|5244| |SK|
 G AoE Nightbane Vile Fangs, Nightbane Tainted Ones, and Nightbane Dark Runners to Level 30 |N|Kill Nightbane Dark Runner - Be careful of Nightbane Vile Fangs as they cast [Infected Wound] (Increases physical damage taken by 6, stackable if batched), Nightbane Tainted Ones cast [Tainted Howl] (stackable buff giving a chance to inflict [Poison] on melee attack, dealing 16.5 damage every 3 seconds for 30 seconds) Nightbane Dark Runners as they have [Increased Movespeed] and cast [Exploit Weakness] (deals double damage from behind) - (73.7, 71.2)|
 R AoE Nightbane Vile Fangs, Nightbane Tainted Ones, and Nightbane Dark Runners until your [Hearthstone] is off cooldown |N|Kill Nightbane Dark Runner - Be careful of Nightbane Vile Fangs as they cast [Infected Wound] (Increases physical damage taken by 6, stackable if batched), Nightbane Tainted Ones cast [Tainted Howl] (stackable buff giving a chance to inflict [Poison] on melee attack, dealing 16.5 damage every 3 seconds for 30 seconds) Nightbane Dark Runners as they have [Increased Movespeed] and cast [Exploit Weakness] (deals double damage from behind) - (73.7, 71.2)|
 N Cast Cast [Teleport: Stormwind] |SK|
 t Train your class spells (Arcane Explosion r3, Conjure water r4, Fire Blast r4, Slow Fall, Ice Armor r1, Polymorph r2, Fireball r6) |N|Talk to Jennea Cannon - Talk to Jennea - (38.6, 79.3)|
-N (55.3, 68.2) |O|
+N (55.3, 68.2) |SK|
 N Talk to Newton Burnside - Talk to Newton - NOTE: You need 12 stacks of each cloth ([Wool Cloth], [Silk Cloth], [Mageweave Cloth], and [Runecloth]) to do the cloth turnins later. You'll get these naturally as you level - [Wool Cloth] - (57.0, 73.0)
 N Talk to Newton Burnside - [Light Feather] - [Dwarven Tinder] - (57.0, 73.0)
 R Hearthstone |SK|

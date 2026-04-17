@@ -11,20 +11,20 @@ A Pridewings of Stonetalon |QID|1134| |N|Talk to Shindrell Swiftfire - Talk to S
 T The Zoram Strand |QID|1008| |N|Talk to Shindrell Swiftfire - Talk to Shindrell Swiftfire - (34.7, 48.8)|
 N Talk to Maluressian - Talk to Maluressian - (36.5, 50.4) |C|Hunter|
 N Talk to Haljan Oakheart - Talk to Haljan Oakheart - Restock on Ammo, make sure you have at least 10-15 stacks as the next section is a grindy and there won't be any ammo vendor to restock - (34.8, 50.8) |C|Hunter|
-N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |O|
+N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |SK|
 t Cast [Tame Beast] on a Ghostpaw Runner. Attack mobs with it to learn [Bite (Rank 3)] |N|Kill Ghostpaw Runner - TIP: You can pre place a [Freezing Trap] in front of you before you pull the mob to tame to take less damage - Ashenvale Bears spawn closer to the Talondeep Path, Ghostpaw Runners share spawns with Wildthorn Stalkers which spawn south and west of Astranaar - If you can't find any wolves try to use [Eagle Eye] to look for one - (39.7, 69.3)| |C|Hunter|
 N Talk to Maluressian - Talk to Maluressian - (36.5, 50.4) |C|Hunter|
 T Raene's Cleansing |QID|1023| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
 h Ashenvale |N|Talk to Innkeeper Kimlya - Talk to Innkeeper Kimlya - (37.0, 49.2)| |C|Hunter| |R|Dwarf|
 T The Ruins of Stardust |QID|1034| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)|
-N Use [Beast Training] to teach your pet [Bite (Rank 3)] and/or [Claw (Rank 3)] - Playing with only [Bite] is the easiest as your pet will not spend all its focus and be able to [Growl] more consistently at a small damage loss (recomended for beginner/casual players) - Playing with only [Claw] plays the same as having both damage spells but provides less damage and burst threat so is not reommended unless your pet can't train [Bite] - Playing with both [Bite] and [Claw] is the optimal damage setup but is harder to play with since your pet might cast [Claw] instead of [Growl] at times. (recommended if you like to min/max, you should manually cast [Growl] with this setup) - Keep in mind not all pets can train both [Bite] and [Claw] and you might have limited options due to your pet choice |O| |C|Hunter|
-R Grind Saltspittle Murlocs while looking for a group for The Wailing Caverns. Their location is marked on your map |N|Kill Saltspittle Puddlejumper - (20.3, 42.3)| |O|
+N Use [Beast Training] to teach your pet [Bite (Rank 3)] and/or [Claw (Rank 3)] - Playing with only [Bite] is the easiest as your pet will not spend all its focus and be able to [Growl] more consistently at a small damage loss (recomended for beginner/casual players) - Playing with only [Claw] plays the same as having both damage spells but provides less damage and burst threat so is not reommended unless your pet can't train [Bite] - Playing with both [Bite] and [Claw] is the optimal damage setup but is harder to play with since your pet might cast [Claw] instead of [Growl] at times. (recommended if you like to min/max, you should manually cast [Growl] with this setup) - Keep in mind not all pets can train both [Bite] and [Claw] and you might have limited options due to your pet choice |SK| |C|Hunter|
+R Grind Saltspittle Murlocs while looking for a group for The Wailing Caverns. Their location is marked on your map |N|Kill Saltspittle Puddlejumper - (20.3, 42.3)| |SK|
 N (69.7, 86.9)
 f Ratchet >> Get the Ratchet Flight Path |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)|
 A Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Crane Operator Bigglefuzz - (63.1, 37.6)|
 N (47.0, 35.4) |SK|
 A Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru|
-N Kill all types of Deviate creatures. Loot them for their Deviate Hides - This can be completed INSIDE and OUTSIDE of Wailing Caverns |QID|1486| |O|
+N Kill all types of Deviate creatures. Loot them for their Deviate Hides - This can be completed INSIDE and OUTSIDE of Wailing Caverns |QID|1486| |SK|
 N Kill Mad Magglish. Loot him for the 99-Year-Old Port - Mad Magglish can spawn in a few locations - This quest is completed OUTSIDE of Wailing Caverns |QID|959|
 N Zone into The Wailing Caverns
 N Kill all types of Deviate creatures. Loot them for their Deviate Hides |QID|1486|
@@ -32,7 +32,7 @@ N Kill all types of Deviate creatures |QID|1487|
 N Kill all types of Deviate creatures. Loot them for their Deviate Hides |QID|1486| |SK|
 U The Glowing Shard |QID|6981| |N|Talk to Disciple of Naralex - Kill Mutanus the Devourer - Kill Lord Cobrahn, Lord Pythas, Lord Serpentis and Lady Anacondra then talk to the Disciple of Naralex at the start of the instance to start his escort - Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening - Kill Mutanus the Devourer. Loot him for the [Glowing Shard] - Use the [Glowing Shard] to start the quest - Collect item 10441 (x1)| |U|10441|
 N Kill all types of Deviate creatures. Loot them for their Deviate Hides - This can be completed INSIDE and OUTSIDE of Wailing Caverns |QID|1486|
-N (63.0, 37.2) |O|
+N (63.0, 37.2) |SK|
 N Talk to Sputtervalve - Talk to Sputtervalve - (63.0, 37.2) |QID|6981|
 T Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Crane Operator Bigglefuzz - (63.1, 37.6)|
 N (50.1, 35.2) |SK|
@@ -42,8 +42,8 @@ T Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru|
 T Deviate Hides |QID|1486| |N|Talk to Nalpak - Talk to Nalpak and Ebru|
 H Hearthstone
 N Talk to Haljan Oakheart - Talk to Haljan Oakheart - Restock on Ammo, make sure you have at least 10-15 stacks as the next section is a grindy and there won't be any ammo vendor to restock - (34.8, 50.8) |C|Hunter|
-N Use [Beast Training] to teach your pet [Bite (Rank 3)] and/or [Claw (Rank 3)] - Playing with only [Bite] is the easiest as your pet will not spend all its focus and be able to [Growl] more consistently at a small damage loss (recomended for beginner/casual players) - Playing with only [Claw] plays the same as having both damage spells but provides less damage and burst threat so is not reommended unless your pet can't train [Bite] - Playing with both [Bite] and [Claw] is the optimal damage setup but is harder to play with since your pet might cast [Claw] instead of [Growl] at times. (recommended if you like to min/max, you should manually cast [Growl] with this setup) - Keep in mind not all pets can train both [Bite] and [Claw] and you might have limited options due to your pet choice |O| |C|Hunter|
-N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |O|
+N Use [Beast Training] to teach your pet [Bite (Rank 3)] and/or [Claw (Rank 3)] - Playing with only [Bite] is the easiest as your pet will not spend all its focus and be able to [Growl] more consistently at a small damage loss (recomended for beginner/casual players) - Playing with only [Claw] plays the same as having both damage spells but provides less damage and burst threat so is not reommended unless your pet can't train [Bite] - Playing with both [Bite] and [Claw] is the optimal damage setup but is harder to play with since your pet might cast [Claw] instead of [Growl] at times. (recommended if you like to min/max, you should manually cast [Growl] with this setup) - Keep in mind not all pets can train both [Bite] and [Claw] and you might have limited options due to your pet choice |SK| |C|Hunter|
+N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |SK|
 R Travel to Stonetalon Mountains |N|(42.5, 71.7)|
 N Kill Young Pridewings. Loot them for their Pridewing Venom Sacs |QID|1134| |SK|
 A Super Reaper 6000 |QID|1093| |N|Talk to Ziz Fizziks - Talk to Ziz Fizziks - (59.0, 62.6)|
@@ -90,7 +90,7 @@ T The Tower of Althalaxx |QID|973| |N|Talk to Delgren the Purifier - Talk to Del
 D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 T Culling the Threat |QID|1054| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
 T Fallen Sky Lake |QID|1035| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)|
-N Talk to Haljan Oakheart - Talk to Haljan Oakheart - Buy [Flint and Tinder] and [Simple Wood] - Only do this if you have meat to cook while on the boat to Wetlands soon. There is a quest in Duskwood which requires your [Cooking] to be 50 - Collect item 4471 (x1) - Collect item 4470 (x1) - (34.8, 50.9) |O|
+N Talk to Haljan Oakheart - Talk to Haljan Oakheart - Buy [Flint and Tinder] and [Simple Wood] - Only do this if you have meat to cook while on the boat to Wetlands soon. There is a quest in Duskwood which requires your [Cooking] to be 50 - Collect item 4471 (x1) - Collect item 4470 (x1) - (34.8, 50.9) |SK|
 F Darkshore>> Fly to Darkshore |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)|
 R Take the boat to Menethil Harbor |N|Level your [First Aid] and [Cooking] while waiting for the Menethil Harbor boat - (32.4, 43.7)|
 

@@ -46,9 +46,9 @@ A In Search of The Excavation Team |QID|305| |N|Talk to Tarrel Rockweaver - Talk
 A The Search Continues |QID|284| |N|Click the Damaged Crate on the ground - (13.5, 41.4)|
 A Search More Hovels |QID|285| |N|Click the Sealed Barrel on the ground - (13.6, 38.2)|
 A Return the Statuette |QID|286| |N|Click the Half-buried Barrel on the ground - (13.9, 34.8)|
-N Kill Giant Wetlands Crocolisks. Loot them for their Skin - Do this en route to other quests - (22.2, 20.4) |QID|471| |O|
+N Kill Giant Wetlands Crocolisks. Loot them for their Skin - Do this en route to other quests - (22.2, 20.4) |QID|471| |SK|
 N Kill Cursed Sailors, Cursed Marines and First Mate Snellig. Loot him for his Snuffbox - (14.0, 29.8) |QID|289|
-N Kill the Mosshides. Loot them for their Crude Flints - (30.8, 31.0) |QID|277| |O|
+N Kill the Mosshides. Loot them for their Crude Flints - (30.8, 31.0) |QID|277| |SK|
 N Kill Crimson Oozes, Monstrous Oozes and Black Oozes. Loot them for Sida's Bag - (44.2, 25.6) |QID|470|
 N Kill the Mosshides on the way to the Orc camp. Loot them for their Crude Flints - You don't have to complete this objective now but try to make at least some progress - (30.8, 31.0) |QID|277| |SK|
 N (43.0, 41.6)
@@ -79,7 +79,7 @@ T In Search of The Excavation Team |QID|306| |N|Talk to Tarrel Rockweaver - Talk
 N Kill Mottled Raptors and Mottled Screechers. Loot them for the Stone of Relu |QID|943| |SK|
 N Kill Mottled Raptors and Mottled Screechers - (22.4, 50.0) |QID|294| |C|!Hunter|
 A Ormer's Revenge |QID|295| |N|Talk to Ormer Ironbraid - Talk to Ormer Ironbraid - (37.2, 43.9)| |C|!Hunter|
-N Open the Ancient Relics and Loose Soil. Loot them for the Fragments - The Fragments have random spawn locations in the Excavation Site - (34.3, 51.8) |QID|299| |O| |C|!Hunter|
+N Open the Ancient Relics and Loose Soil. Loot them for the Fragments - The Fragments have random spawn locations in the Excavation Site - (34.3, 51.8) |QID|299| |SK| |C|!Hunter|
 N Kill Mottled Scytheclaws and Mottled Razormaws - (35.0, 44.1) |QID|295| |C|!Hunter|
 A Ormer's Revenge |QID|296| |N|Talk to Ormer Ironbraid - Talk to Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter|
 T Uncovering the Past |QID|299| |N|Talk to Prospector Whelgar - Talk to Prospector Whelgar - (38.8, 52.4)| |C|!Hunter|
@@ -92,7 +92,7 @@ N Run up the rudder of the ship - Kill Captain Halyndor. Loot him for the Strong
 A The Eye of Paleth |QID|292| |N|Enter through the large hole on the side of the ship - Click Intrepid's Locked Strongbox on the ground - (14.3, 23.6)|
 N Kill Fen Creepers - Fen Creepers are in [Stealth] along the river streams |QID|275| |SK|
 N Kill Giant Wetlands Crocolisks. Loot them for their Skin - (18.0, 27.0) |QID|471|
-N Kill all Fen Creepers you can find as you head towards the Dragonmaw Orc encampment - Fen Creepers are in [Stealth] along the river streams - You don't have to complete this objective now but you should encounter around 8-10 of them while heading east if no one killed them beforehand - (27.6, 37.2) |QID|275| |O|
+N Kill all Fen Creepers you can find as you head towards the Dragonmaw Orc encampment - Fen Creepers are in [Stealth] along the river streams - You don't have to complete this objective now but you should encounter around 8-10 of them while heading east if no one killed them beforehand - (27.6, 37.2) |QID|275| |SK|
 T Nek'rosh's Gambit |QID|465| |N|Click the Dragonmaw Catapult - (47.5, 47.0)|
 A Defeat Nek'rosh |QID|474| |N|Click the Dragonmaw Catapult - (47.5, 47.0)|
 N Kill Chieftain Nek'rosh. Loot him for his Head - Chieftain Nek'rosh is snareable - (53.2, 56.0) |QID|474| |C|Hunter/Warlock/Mage|
@@ -111,7 +111,7 @@ A The Thandol Span |QID|633| |N|Talk to Rhag Garmason - Talk to Rhag Garmason - 
 A MacKreel's Moonshine |QID|647| |N|Talk to Foggy MacKreel - Talk to Foggy MacKreel - Jump down onto the invisible chain first, then onto the broken beam on the bridge. All classes are able to do this jump. If you are unable to do it, skip this step - (43.2, 92.6)|
 N Keep in mind that MacKreel's Moonshine is a timed quest. You only have 15 minutes to deliver it so do not take breaks during this segment! |SK|
 A Sully Balloo's Letter |QID|637| |N|Dive down underwater - Open the Waterlogged Letter. Loot it for the [Waterlogged Envelope] - Use the [Waterlogged Envelope] to start the quest - Collect item 4433 (x1) - (44.3, 92.9)| |U|4433|
-N (52.5, 90.4) |O|
+N (52.5, 90.4) |SK|
 N Click the Cache of Explosives - (48.8, 88.1) |QID|633|
 A Plea To The Alliance |QID|634| |N|Talk to Rhag Garmason - Talk to Rhag Garmason - (49.9, 18.2)|
 N (45.8, 47.5) |SK|
@@ -120,8 +120,8 @@ F Southshore >> Fly to Southshore |N|Talk to Cedrik Prose - Talk to Cedrik Prose
 T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Talk to Brewmeister Bilger in the basement - If you fail this timed quest, abandon it and skip this step - (50.7, 58.8)|
 f Arathi >> Get the Arathi Highlands Flight Path |N|Talk to Cedrik Prose - Talk to Cedrik Prose - (45.7, 46.1)|
 N Buy all 3 first aid books inside Stromgarde if you are leveling first aid - (27.0, 58.8) |SK|
-N Be careful not to run into the Forsaken Courier who can be patrolling the road from Go'shek Farm to Tarren Mill |O|
-N Be careful while entering Southshore! Every now and then level 37-38 [Stealthed] Shadowy Assassins ambush the town! - If you manage to kill one you will be able to loot an item that starts a quest: [Assassin's Contract]. The event is rare and the mobs are hard to kill at this level so do not go out of your way to try to get it - Collect item 3668 (x1) |O|
+N Be careful not to run into the Forsaken Courier who can be patrolling the road from Go'shek Farm to Tarren Mill |SK|
+N Be careful while entering Southshore! Every now and then level 37-38 [Stealthed] Shadowy Assassins ambush the town! - If you manage to kill one you will be able to loot an item that starts a quest: [Assassin's Contract]. The event is rare and the mobs are hard to kill at this level so do not go out of your way to try to get it - Collect item 3668 (x1) |SK|
 T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - If you die, the quest will fail - Talk to Brewmeister Bilger - (19.7, 29.0)| |M|speedrun|
 T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Travel to the basement in the Southshore Inn. If you fail the timed quest, abandon it and skip this step - Talk to Brewmeister Bilger - (19.7, 29.0)| |M|hardcore|
 N Talk to Wesley - Talk to Wesley - (50.4, 58.8) |C|Hunter|

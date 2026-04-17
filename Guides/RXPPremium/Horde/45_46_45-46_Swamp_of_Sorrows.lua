@@ -25,7 +25,7 @@ N Kill Marsh Murlocs, Marsh Inkspewers and Marsh Flesheaters - (85.4, 82.8) |QID
 A Threat From the Sea |QID|1427| |N|Talk to Katar - Talk to Katar - (83.7, 80.5)|
 T Threat From the Sea |QID|1427| |N|Talk to Tok'Kar - Talk to Tok'Kar - (81.4, 80.8)|
 A Continued Threat |QID|1428| |N|Talk to Katar - Talk to Katar - (83.8, 80.4)|
-N (66.0, 79.6) |O|
+N (66.0, 79.6) |SK|
 N Kill Marsh Murlocs, Marsh Inkspewers and Marsh Flesheaters - These spawn at a higher rate in Stagalbog Cave west of the camp |QID|1428| |SK|
 N Kill Swamp Talker. Loot him for the Warchief's Orders - Save your cooldowns for Swamp Talker. His adds die in 1 hit but deal significant damage if left alive. - (66.1, 77.7) |QID|2623|
 N Kill Marsh Murlocs, Marsh Inkspewers and Marsh Flesheaters - These spawn at a higher rate in Stagalbog Cave west of the camp - (62.5, 87.7) |QID|1428|

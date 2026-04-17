@@ -292,19 +292,18 @@ def parse_step(step_lines, step_filter, current_zone):
             step_mode = 'speedrun'
             break
 
-    # Detect sticky / completewith directives.
-    # #sticky OR #completewith next → sticky preview (shown above the next real step).
-    # #completewith <other> → treated as optional (legacy behavior).
+    # Detect sticky / optional directives.
+    # In RXP convention, any #completewith directive (including label-based ones like
+    # `#completewith Sarkoth`) makes the step sticky preview content — shown alongside
+    # the target step until it completes. Only `#optional` alone means truly skippable.
     step_sticky = False
     step_optional = False
     for raw in step_lines:
         s = raw.strip()
         if s == '#sticky':
             step_sticky = True
-        elif s == '#completewith next':
-            step_sticky = True
         elif s.startswith('#completewith'):
-            step_optional = True
+            step_sticky = True
         elif s == '#optional':
             step_optional = True
 

@@ -29,7 +29,7 @@ A The Thandol Span |QID|631| |N|Talk to Rhag Garmason - Talk to Longbraid and Rh
 A The Thandol Span |QID|632| |N|Go through the doorway at the bridge - Click Ebenezer Rustlocke's Corpse on the bottom floor - Run away from the Dark Iron Saboteurs - Be careful as they may hit you from below as you run back up - (51.4, 8.1)|
 A The Thandol Span |QID|633| |N|Talk to Rhag Garmason - Talk to Rhag - (49.9, 18.2)|
 N Travel toward the other side of the bridge - (50.9, 11.7)
-N Cast Cast [Slow Fall] before you run off the bridge |O|
+N Cast Cast [Slow Fall] before you run off the bridge |SK|
 N (42.9, 91.5) |SK|
 A MacKreel's Moonshine |QID|647| |N|Talk to Foggy MacKreel - Run down toward the metal pipe below - Talk to MacKreel inside - If you missed the jump, skip this step - This quest starts a 15 minute timer. Do not go AFK/Log out in this time or you will fail the quest - (43.3, 92.3)|
 U Sully Balloo's Letter |QID|637| |N|Click the Waterlogged Letter underwater. Loot it for the [Waterlogged Envelope] - This has a 5 second cast time - Use the [Waterlogged Envelope] to start the quest - Collect item 4433 (x1) - (44.3, 92.9)| |U|4433|
@@ -40,8 +40,8 @@ A Plea To The Alliance |QID|634| |N|Talk to Rhag Garmason - Talk to Rhag - (49.9
 N Talk to Drovnar Strongbrew - Talk to Drovnar - Buy [Greater Healing Potions] and [Mana Potions] from him (if they're up) - (46.4, 47.0) |SK|
 T Malin's Request |QID|690| |N|Talk to Skuerto - Travel to Refuge Pointe - Talk to Nials and Skuerto - (45.8, 47.6)|
 f Refuge Pointe >> Get the Refuge Pointe flight path |N|Talk to Cedrik Prose - Talk to Cedrik - (45.8, 46.1)|
-N (43.4, 50.1) |O|
-U Assassin's Contract |QID|522| |N|Kill a Shadowy Assassin if the event is up. Loot it for the [Assassin's Contract] - Use the [Assassin's Contract] to start the quest - Collect item 3668 (x1)| |U|3668| |O|
+N (43.4, 50.1) |SK|
+U Assassin's Contract |QID|522| |N|Kill a Shadowy Assassin if the event is up. Loot it for the [Assassin's Contract] - Use the [Assassin's Contract] to start the quest - Collect item 3668 (x1)| |U|3668| |SK|
 T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Talk to Bilger in the basement of the Inn - (51.6, 58.7)|
 A Crushridge Bounty |QID|500| |N|Talk to Marshal Redpath - Talk to Phin and Redpath outside - (50.4, 59.0)|
 T Assassin's Contract |QID|522| |N|Talk to Magistrate Henry Maleb - Talk to Henry inside - (48.1, 59.1)|
@@ -61,8 +61,8 @@ N (55.3, 68.2) |SK|
 N Talk to Newton Burnside - Talk to Newton - NOTE: You need 12 stacks of each cloth ([Wool Cloth], [Silk Cloth], [Mageweave Cloth], and [Runecloth]) to do the cloth turnins later. You'll get these naturally as you level - [Wool Cloth] - [Light Feather] - (57.0, 73.0)
 R Westfall >> Fly to Westfall |N|Talk to Dungar Longdrink - Talk to Dungar - (66.3, 62.1)| |SK|
 A Morbent Fel |QID|55| |N|Talk to Sven Yorgen - Talk to Sven - (7.8, 34.1)|
-N (17.6, 33.4) |O|
-N Equip [Morbent's Bane] |U|7297| |O|
+N (17.6, 33.4) |SK|
+N Equip [Morbent's Bane] |U|7297| |SK|
 N Cast Use [Morbent's Bane] on Morbent Fel AFTER he's been successfully split-pulled |U|7297| |SK|
 N Kill Morbent Fel - AoE the Undead on the bottom floor and first room of the top floor of the house - Split pull Morbent Fel by casting [Blizzard] and refreshing his leash as you run away out of the house - Do NOT use [Counterspell] on him as his melee attacks deal a LOT more damage than his [Touch of Death] spell - Kite him back toward Sven - (16.9, 33.4) |QID|55|
 T Morbent Fel |QID|55| |N|Talk to Sven Yorgen - Talk to Sven - (7.8, 34.1)|
@@ -88,24 +88,24 @@ N (46.1, 31.8) |SK|
 N Loot the Alterac Granite against the walls inside the cave - There are only 2-3 up at a time. You may have to backtrack for respawns - AoE Ferocious Yetis and Cave Yetis - (43.8, 31.4) |QID|689|
 N (45.1, 30.6) |SK|
 N (39.2, 80.4)
-N AoE Hulking Mountain Lions and Mountain Lions - (31.9, 80.2) |QID|564| |O|
+N AoE Hulking Mountain Lions and Mountain Lions - (31.9, 80.2) |QID|564| |SK|
 N AoE Syndicate Footpads and Syndicate Thieves - Single target kill the Syndicate Wizard if it's up to create space - Be careful as they both cast [Backstab] (deals double damage from behind) and the Syndicate Thieves cast [Poison] (18 damage every 3 seconds for 30 seconds) - (47.9, 82.5) |QID|505| |SK|
 A Encrypted Letter |QID|511| |N|Click the Syndicate Documents on the table - (58.3, 67.9)|
-N AoE Crushridge Brutes and Crushridge Ogres. Loot them for their Dirty Knucklebones and Recovered Tomes - Be careful as the Crushridge Brutes can be level 36 - Skip this step if there are enough nearby Syndicate Footpads and Syndicate Thieves to complete that quest - (47.2, 63.5) |QID|540| |O|
+N AoE Crushridge Brutes and Crushridge Ogres. Loot them for their Dirty Knucklebones and Recovered Tomes - Be careful as the Crushridge Brutes can be level 36 - Skip this step if there are enough nearby Syndicate Footpads and Syndicate Thieves to complete that quest - (47.2, 63.5) |QID|540| |SK|
 N AoE Crushridge Brutes and Crushridge Ogres. Loot them for their Dirty Knucklebones - Be careful as the Crushridge Brutes can be level 36 - Skip this step if there are enough nearby Syndicate Footpads and Syndicate Thieves to complete that quest - (47.2, 63.5) |QID|500| |SK|
 N AoE Syndicate Footpads and Syndicate Thieves - Single target kill the Syndicate Wizard if it's up to create space - Be careful as they both cast [Backstab] (deals double damage from behind) and the Syndicate Thieves cast [Poison] (18 damage every 3 seconds for 30 seconds) - (53.7, 65.5) |QID|505|
 N AoE Crushridge Brutes and Crushridge Ogres. Loot them for their Dirty Knucklebones - Be careful as the Crushridge Brutes can be level 36 - (47.2, 63.5) |QID|500|
 N AoE Hulking Mountain Lions and Mountain Lions - Avoid Narillasanz if she's around - (63.6, 50.6) |QID|564|
 F Southshore >> Fly to Southshore |N|Talk to Bibilfaz Featherwhistle - Talk to Bibilfaz - (42.9, 85.1)|
-U Assassin's Contract |QID|522| |N|Kill a Shadowy Assassin if the event is up. Loot it for the [Assassin's Contract] - Use the [Assassin's Contract] to start the quest - Collect item 3668 (x1)| |U|3668| |O|
+U Assassin's Contract |QID|522| |N|Kill a Shadowy Assassin if the event is up. Loot it for the [Assassin's Contract] - Use the [Assassin's Contract] to start the quest - Collect item 3668 (x1)| |U|3668| |SK|
 T Costly Menace |QID|564| |N|Talk to Darren Malvew - Talk to Darren - (52.4, 56.0)|
 N Talk to Robert Aebischer - Talk to Robert - Vendor Trash. Repair - (52.4, 56.0)
 A Letter to Stormpike |QID|514| |N|Talk to Loremaster Dibbs - Talk to Dibbs - (50.6, 57.1)|
 T Crushridge Bounty |QID|500| |N|Talk to Marshal Redpath - Talk to Redpath - (49.5, 58.7)|
 T Assassin's Contract |QID|522| |N|Talk to Magistrate Henry Maleb - Talk to Henry inside - (48.1, 59.1)|
 T Foreboding Plans |QID|510| |N|Talk to Magistrate Henry Maleb - Talk to Henry inside - (48.1, 59.1)|
-N Cast Cast [Teleport: Ironforge] |O|
-N (33.4, 63.6) |O|
+N Cast Cast [Teleport: Ironforge] |SK|
+N (33.4, 63.6) |SK|
 N Talk to Bailey Stonemantle - Talk to Bailey - NOTE: You need 12 stacks of each cloth ([Wool Cloth], [Silk Cloth], [Mageweave Cloth], and [Runecloth]) to do the cloth turnins later. You'll get these naturally as you level - [Light Feather] - [Wool Cloth] - [Dirty Knucklebones] - [Recovered Tome] - (35.9, 60.1)
 N Talk to Bailey Stonemantle - Talk to Bailey - NOTE: You need 12 stacks of each cloth ([Wool Cloth], [Silk Cloth], [Mageweave Cloth], and [Runecloth]) to do the cloth turnins later. You'll get these naturally as you level - [Light Feather] - [Wool Cloth] - [Dirty Knucklebones] - (35.9, 60.1)
 N Talk to Bailey Stonemantle - Talk to Bailey - NOTE: You need 12 stacks of each cloth ([Wool Cloth], [Silk Cloth], [Mageweave Cloth], and [Runecloth]) to do the cloth turnins later. You'll get these naturally as you level - [Light Feather] - [Wool Cloth] - [Recovered Tome] - (35.9, 60.1)
