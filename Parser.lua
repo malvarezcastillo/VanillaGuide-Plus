@@ -83,6 +83,45 @@ end
 
 
 local myclass, myrace = UnitClass("player"), UnitRace("player")
+
+-- Normalize a race/class token for comparison. RXP sources write "NightElf" (no space)
+-- because its parser splits on whitespace, but WoW's UnitRace returns "Night Elf".
+-- Strip spaces on both sides so comparisons match either form.
+local function NormalizeToken(s)
+	if not s or s == "" then return s end
+	return (string.gsub(s, "%s+", ""))
+end
+local myclassNorm = NormalizeToken(myclass)
+local myraceNorm = NormalizeToken(myrace)
+
+-- Match a filter string like "Warrior/Paladin", "Orc, Troll, Tauren", or "!Warrior" against
+-- the player's class/race. Supports `/` and `,` separators; tokens may contain spaces
+-- (e.g. "Night Elf"). Both filter tokens and the player value are space-stripped before
+-- comparison so "NightElf" and "Night Elf" match each other.
+-- Positive-only: include if any positive token matches. Negation-only: include if no
+-- negation token matches. Mixed: negations exclude, positives include (negation wins).
+local function MatchesFilter(filter, playerValueNorm)
+	if not filter or filter == "" then return true end
+	if not playerValueNorm then return true end
+	local anyPositive, positiveMatch = false, false
+	for rawtoken in string.gfind(filter, "[^/,]+") do
+		local tok = string.gsub(rawtoken, "^%s+", "")
+		tok = string.gsub(tok, "%s+$", "")
+		if tok ~= "" then
+			if string.sub(tok, 1, 1) == "!" then
+				local excluded = NormalizeToken(string.sub(tok, 2))
+				if excluded ~= "" and excluded == playerValueNorm then return false end
+			else
+				anyPositive = true
+				if NormalizeToken(tok) == playerValueNorm then positiveMatch = true end
+			end
+		end
+	end
+	if anyPositive then return positiveMatch end
+	return true
+end
+TurtleGuide.MatchesClassRaceFilter = MatchesFilter
+
 local function StepParse(guide)
 	local accepts, turnins, completes = {}, {}, {}
 	local uniqueid = 1
@@ -93,7 +132,7 @@ local function StepParse(guide)
 	for _, text in pairs(guidet) do
 		local _, _, class = string.find(text, "|C|([^|]+)|")
 		local _, _, race = string.find(text, "|R|([^|]+)|")
-		if text ~= "" and (not class or string.find(class, myclass)) and (not race or string.find(race, myrace)) then
+		if text ~= "" and MatchesFilter(class, myclassNorm) and MatchesFilter(race, myraceNorm) then
 			local _, _, action, quest, tag = string.find(text, "^(%a) ([^|]*)(.*)")
 			if action and actiontypes[action] then
 				quest = TurtleGuide.trim(quest)
@@ -123,8 +162,16 @@ function TurtleGuide:LoadGuide(name, complete)
 
 	self:Debug(string.format("Loading guide: %s", name))
 	self.guidechanged = true
-	-- Extract zone name from guide name, stripping any path prefix (e.g., "Optimized/")
-	local _, _, zonename = string.find(name, "([^/]+) %(.*%)$")
+	-- Extract zone name from guide name, stripping any path prefix (e.g., "Optimized/").
+	-- Handles: "Optimized/Darkshore (12-14)", "RXP/6-11 Elwynn Forest",
+	-- "RXP Premium/51-52 Searing Gorge/Burning Steppes", "Part 1: Bracers".
+	local basename = name
+	local _, _, afterSlash = string.find(name, "/(.+)$")
+	if afterSlash then basename = afterSlash end
+	local _, _, zonename = string.find(basename, "(.-) %(.*%)$")
+	if not zonename then
+		_, _, zonename = string.find(basename, "%d+%-%d+%s+(.+)$")
+	end
 	self.zonename = zonename
 	local guideContent = self.guides[self.db.char.currentguide]()
 	if type(guideContent) == "table" and guideContent.steps then

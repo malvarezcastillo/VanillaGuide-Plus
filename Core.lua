@@ -1099,6 +1099,9 @@ function TurtleGuide:GetGuideCategory(guideName)
 	if string.find(guideName, "^RXP/") then
 		return "rxp"
 	end
+	if string.find(guideName, "^RXP Premium/") then
+		return "rxppremium"
+	end
 	-- Check if any turtle zone name appears in guide name
 	for zone in pairs(TURTLE_ZONES) do
 		if string.find(guideName, zone) then

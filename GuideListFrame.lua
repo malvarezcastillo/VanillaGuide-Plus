@@ -202,6 +202,7 @@ function TurtleGuide:UpdateGuideListPanel()
 
 	local turtleGuides = {}
 	local zoneGuides = {}
+	local premiumGuides = {}
 
 	for _, name in ipairs(self.guidelist) do
 		if not self:IsRoutePackGuide(name) then
@@ -218,6 +219,8 @@ function TurtleGuide:UpdateGuideListPanel()
 				local cat = self:GetGuideCategory(name)
 				if cat == "turtle" then
 					table.insert(turtleGuides, name)
+				elseif cat == "rxppremium" then
+					table.insert(premiumGuides, name)
 				else
 					table.insert(zoneGuides, name)
 				end
@@ -227,6 +230,7 @@ function TurtleGuide:UpdateGuideListPanel()
 
 	table.sort(turtleGuides)
 	table.sort(zoneGuides)
+	table.sort(premiumGuides)
 
 	if table.getn(turtleGuides) > 0 then
 		table.insert(displayList, {header = true, text = "--- TurtleWoW Zones ---"})
@@ -238,6 +242,13 @@ function TurtleGuide:UpdateGuideListPanel()
 	if table.getn(zoneGuides) > 0 then
 		table.insert(displayList, {header = true, text = "--- Zone Guides ---"})
 		for _, name in ipairs(zoneGuides) do
+			table.insert(displayList, {guide = name})
+		end
+	end
+
+	if table.getn(premiumGuides) > 0 then
+		table.insert(displayList, {header = true, text = "--- RXP Premium ---"})
+		for _, name in ipairs(premiumGuides) do
 			table.insert(displayList, {guide = name})
 		end
 	end
