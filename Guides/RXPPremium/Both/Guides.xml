@@ -1,0 +1,13 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+  <!-- RXP Premium Converted Guides - Both -->
+  <Script file="Blackrock_Depths_Key.lua"/>
+  <Script file="Blackwing_Lair_Attunement.lua"/>
+  <Script file="Demon_Fall_Canyon_Attunement.lua"/>
+  <Script file="Dire_Maul_Key.lua"/>
+  <Script file="Molten_Core_Attunement.lua"/>
+  <Script file="Part_1_Bracers.lua"/>
+  <Script file="Part_2_Belt_Gloves.lua"/>
+  <Script file="Part_3_Pants_Shoulders_Boots.lua"/>
+  <Script file="Part_4_Helm_Chest.lua"/>
+  <Script file="Upper_Blackrock_Spire_Key.lua"/>
+</Ui>

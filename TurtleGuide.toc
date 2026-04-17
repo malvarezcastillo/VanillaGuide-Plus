@@ -58,3 +58,8 @@ Guides\Both\Guides.xml
 # RestedXP Converted Guides (Survival routes)
 Guides\RXP\Alliance\Guides.xml
 Guides\RXP\Horde\Guides.xml
+
+# RXP Premium Converted Guides (Classic-era portions of RXP Premium)
+Guides\RXPPremium\Alliance\Guides.xml
+Guides\RXPPremium\Horde\Guides.xml
+Guides\RXPPremium\Both\Guides.xml
