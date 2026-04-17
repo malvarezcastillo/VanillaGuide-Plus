@@ -1,6 +1,7 @@
 local ICONSIZE, CHECKSIZE, GAP = 16, 16, 8
 local NAVBTNSIZE = 14
 local FIXEDWIDTH = ICONSIZE + CHECKSIZE + GAP * 4 - 4 + NAVBTNSIZE * 2 + 6  -- +prev/next buttons
+local MINWIDTH = 320  -- floor width so sticky rows have room to wrap readably
 
 local TurtleGuide = TurtleGuide
 local ww = WidgetWarlock
@@ -273,8 +274,8 @@ function TurtleGuide:SetStatusText(i)
 	check:SetChecked(false)
 	check:SetButtonState("NORMAL")
 	if self.db.char.currentguide == "No Guide" then check:Disable() else check:Enable() end
-	if i == 1 then f:SetWidth(FIXEDWIDTH + text:GetWidth()) end
-	newsize = FIXEDWIDTH + text:GetWidth()
+	newsize = math.max(MINWIDTH, FIXEDWIDTH + text:GetWidth())
+	if i == 1 then f:SetWidth(newsize) end
 
 	if self.UpdateFubarPlugin then self.UpdateFubarPlugin(quest, self.icons[action], note) end
 end
