@@ -11,7 +11,7 @@ R Orgrimmar >>Fly to Orgrimmar |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |C|!
 N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
-R Hearthstone |U|6948| |O| |C|!Mage|
+R Hearthstone |U|6948| |SK| |C|!Mage|
 R Orgrimmar >> Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |C|!Mage|
 N Cast Cast [Teleport: Orgrimmar] |C|Mage|
 t Train your class spells |N|Talk to Pephredo - Talk to Pephredo - (38.4, 85.5)| |C|Mage|
@@ -41,7 +41,7 @@ t Train your class spells |N|Talk to Ormak Grimshot - Talk to Ormak - (66.0, 18.
 t Train your pet spells |N|Talk to Xao'tsu - Talk to Xao'tsu - (66.3, 14.8)| |C|Hunter|
 N Talk to Auctioneer Thathung - Talk to Auctioneer Thathung - Buy three [Catseye Elixir] from the Auction House - Collect item 10592 (x3) - (55.6, 62.9) |C|!Hunter|
 R Orgrimmar |N|Talk to Innkeeper Gryshka - Talk to Innkeeper Gryshka - (54.1, 68.4)|
-R Leave Orgrimmar |O|
+R Leave Orgrimmar |SK|
 R Take the Zeppelin to Stranglethorn Vale |N|(50.8, 13.8)|
 t Stranglethorn Vale |N|Talk to Innkeeper Thulbek - Talk to Innkeeper Thulbek - (31.5, 29.8)| |C|Mage|
 A Mok'thardin's Enchantment |QID|570| |N|Talk to Far Seer Mok'thardin - Talk to Far Seer Mok'thardin - (32.1, 29.2)|
@@ -58,7 +58,7 @@ N Kill Young Panthers - (41.5, 13.2) |QID|190|
 N Kill Kurzen Medicine Man - Kill Kurzen Medicine Men. Loot them for their [Liferoot] and [Jungle Remedy] - [Jungle Remedy] can be used to dispell long lasting poison effects later in the guide - You can decide for yourself how much [Jungle Remedy] you would like to grind - Jungle Fighters and Medicine Men share spawns, so you'll have to kill both - Collect item 3357 (x8) - (44.0, 11.9) |C|Warrior|
 N Kill Kurzen Medicine Man - Kill Kurzen Medicine Men. Loot them for their [Liferoot] and [Jungle Remedy] - You could also buy [Liferoot] from the Auction House instead - [Jungle Remedy] can be used to dispell long lasting poison effects later in the guide - You can decide for yourself how much [Jungle Remedy] you would like to grind - Jungle Fighters and Medicine Men share spawns, so you'll have to kill both - Collect item 3357 (x8) - (44.0, 11.9) |C|Warrior|
 N Kill Kurzen Medicine Man - Kill Kurzen Medicine Men. Loot them for [Fadeleaf] and [Jungle Remedy] - [Fadeleaf] is needed to make [Blinding Powder] for your [Blind] ability - [Jungle Remedy] can be used to dispell long lasting poison effects later in the guide - You can decide for yourself how much of these items you would like to grind - Jungle Fighters and Medicine Men share spawns, so you'll have to kill both - Collect item 3818 (x5) - Collect item 2633 (x10) - (44.0, 11.9) |C|Rogue|
-N Kill River Crocolisks along the river. Loot them for their Skin |QID|575| |O|
+N Kill River Crocolisks along the river. Loot them for their Skin |QID|575| |SK|
 N Kill Young Stranglethorn Tigers - (34.1, 11.3) |QID|185|
 A Panther Mastery |QID|191| |N|Talk to Sir S. J. Erlgadin - Talk to Ajeck and S. J. Erlgadin - (35.6, 10.6)|
 N Kill River Crocolisks along the river. Loot them for their Skin |QID|575| |O|
@@ -66,7 +66,7 @@ N Kill Panthers and Stranglethorn Tigers - (31.0, 11.2) |QID|186|
 N Kill Stranglethorn Raptors - (28.1, 15.4) |QID|194|
 A Raptor Mastery |QID|195| |N|Talk to Hemet Nesingwary - Talk to S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)|
 N Kill River Crocolisks along the river. Loot them for their Skin - (39.8, 14.4) |QID|575|
-N Kill Elder Stranglethorn Tigers |QID|187| |O|
+N Kill Elder Stranglethorn Tigers |QID|187| |SK|
 N Kill Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces - Kill Bloodscalp Shamans. Loot them for a Bloodscalp Totem - (33.9, 15.6) |QID|9436|
 N Kill Elder Stranglethorn Tigers - (32.1, 15.8) |QID|187|
 N Kill Lashtail Raptors - (31.9, 20.9) |QID|195|
@@ -90,13 +90,13 @@ N Kill Shadowmaw Panthers and Stranglethorn Tigresses across the river - Only do
 N Kill Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors - There are not enough Mosh'Ogg Brutes so you will have to wait for respawns at least once - (36.5, 31.6) |QID|569|
 N Kill Venture Co. Geologists. Loot them for their Crystals |QID|213| |O|
 N Climb to the oil rig's top level, then kill Foreman Cozzle. Loot him for his Key - Collect item 5851 (x1) - (42.7, 18.0)
-N (43.5, 20.3) |O|
+N (43.5, 20.3) |SK|
 N Loot Cozzle's Footlocker for the Fuel Regulator Blueprints - (43.3, 20.3) |QID|1182|
 N Return to the Mizjah Ruins and finish killing Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors - (36.5, 31.6) |QID|569|
 N Finish killing Venture Co. Geologists. Loot them for their Crystals - (43.3, 21.1) |QID|213|
 G Grind to level 36 50000+/71600 xp |N|(43.3, 21.1)|
 N Kill Stranglethorn Tigresses. Loot them for a Pristine Tigress Fang |QID|570| |O|
-N Cast Cast [Track Hidden] to find the Shadowmaw Panthers more easily |O| |C|Hunter|
+N Cast Cast [Track Hidden] to find the Shadowmaw Panthers more easily |SK| |C|Hunter|
 N Kill Shadowmaw Panthers. Loot them for their Claws - These are stealthed mobs. Search any vacant areas - (48.8, 23.9) |QID|192|
 N Kill Stranglethorn Tigresses. Loot them for a Pristine Tigress Fang - (48.8, 23.9) |QID|570|
 N Finish killing River Crocolisks along the river. Loot them for their Skin - (39.8, 14.4) |QID|575|
@@ -123,7 +123,7 @@ N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 N Cast Cast [Teleport: Orgrimmar] |C|Mage|
-R Hearthstone |U|6948|
+R Hearthstone |U|6948| |O|
 N Talk to Barkeep Morag - Talk to Barkeep Morag - (54.6, 67.7) |C|!Mage|
 N Talk to Karus - Talk to Karus - (49.6, 69.1)
 N Talk to Auctioneer Thathung - Talk to Auctioneer Thathung - Buy one [Moonsteel Broadsword] from the Auction House - This is for a free 3,450 XP turnin in Dustwallow Marsh later. Skip this step if you're unable to acquire one - Collect item 3853 (x1) - (55.6, 62.9)

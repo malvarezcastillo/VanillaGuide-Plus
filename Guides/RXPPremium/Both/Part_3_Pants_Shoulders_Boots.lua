@@ -9,14 +9,14 @@ N Part 3: Pants, Shoulders & Boots |N|Converted from RestedXP guide|
 
 N You must complete Part 2: Belt & Gloves before starting this part of the guide |O|
 N Collect the following items: - [Dark Iron Bars] are created by miners - [Enchanted Leather] and [Large Brilliant Shards] are created by enchanters - [Mooncloth] is created by tailors - [Cured Rugged Hides] are created by leatherworkers - [Dark Runes] are random drops in Scholomance - Buy them from the Auction House if possible - Dark Iron Bar (x3) - Enchanted Leather (x20) - Large Brilliant Shard (x8) - Mooncloth (x3) - Cured Rugged Hide (x4) - Dark Rune (x4)
-R Travel to Ironforge |O|
+R Travel to Ironforge |SK|
 A In Search of Anthion |QID|8929| |N|Talk to Deliana - Talk to Deliana - (43.5, 52.7)|
-R Travel to Orgrimmar |O|
+R Travel to Orgrimmar |SK|
 A In Search of Anthion |QID|8930| |N|Talk to Mokvar - Talk to Mokvar - (35.0, 38.3)|
 N Start looking for a solid 5-man group capable of clearing the undead side of Stratholme within 45 minutes |O|
-R Travel to Eastern Plaguelands |O|
+R Travel to Eastern Plaguelands |SK|
 A Dead Man's Plea |QID|8945| |N|Talk to Anthion Harmon - Talk to Anthion - (55.1, 17.5)| |U|22115|
-N Make sure you have a group ready |O|
+N Make sure you have a group ready |SK|
 N Talk to Ysida Harmon - Kill Baron Rivendare within 45 minutes to save Ysida Harmon - The timer starts as you get the [The Baron's Ultimatum] debuff upon entering the undead side - Ysida Freed (x1) |QID|8945|
 A Proof of Life |QID|8946| |N|Talk to Ysida Harmon - Talk to Ysida Harmon|
 A Anthion's Strange Request |QID|8947| |N|Talk to Anthion Harmon - Talk to Anthion outside Stratholme - (55.1, 17.5)| |U|22115|
@@ -36,13 +36,13 @@ N Collect the following items: - [Large Brilliant Shards] are created by enchant
 N Alternatively ask another player to open the doors for you - (43.4, 66.5) |O|
 N (43.4, 66.5) |O|
 A The Challenge |QID|9015| |N|Talk to Falrin Treeshaper - Talk to Falrin Treeshaper in the Dire Maul library|
-N Make sure you have a group ready - (48.1, 62.4) |O|
+N Make sure you have a group ready - (48.1, 62.4) |SK|
 C Enter the Ring of Law arena and use the [Banner of Provocation] |QID|9015| |N|This will summon Theldren. Kill him and loot him for the Top Piece of Lord Valthalak's Amulet - This fight is hard. Theldren will spawn with multiple level 60 elite adds. Make sure your group has enough crowd control for them - Theldren's Team Defeated - Top Piece of Lord Valthalak's Amulet (x1)| |U|21986|
-R Travel to Eastern Plaguelands |O|
+R Travel to Eastern Plaguelands |SK|
 T The Challenge |QID|9015| |N|Talk to Anthion Harmon - Talk to Anthion - (55.1, 17.5)| |U|22115|
-R Travel to Ironforge |O|
+R Travel to Ironforge |SK|
 A Bodley's Unfortunate Fate |QID|8960| |N|Talk to Deliana - Talk to Deliana - (43.5, 52.7)|
-R Travel to Orgrimmar |O|
+R Travel to Orgrimmar |SK|
 A Bodley's Unfortunate Fate |QID|8960| |N|Talk to Mokvar - Talk to Mokvar - (35.0, 38.3)|
 
 ]]

@@ -12,13 +12,13 @@ A Duke Nicholas Zverenhoff |QID|6030| |N|Talk to Gregor Greystone - Talk to Greg
 A Luck Be With You |QID|969| |N|Talk to Witch Doctor Mau'ari - Talk to Witch Doctor Mau'ari - (61.9, 38.3)| |C|Hunter|
 A Luck Be With You |QID|969| |N|Talk to Witch Doctor Mau'ari - Talk to Witch Doctor Mau'ari - (61.9, 38.3)|
 N Talk to Izzy Coppergrab - Talk to Izzy Coppergrab - [Everlook Report] - [Studies in Spirit Speaking] - [Cenarion Beacon] - [Silvery Claws] - [Irontree Heart] - [Rabine's Letter] - [Remains of Trey Lightforge] (If you have it) - [Shadow Lord Fel'dan's Head] (If you have it) - [Jaron's Pick] - All 4 [Relic Fragments] - (61.5, 37.0)
-N Kill the Winterfall Runners. Loot them for their Winterfall Crate - Their spawn point is on the west side of Winterspring near the Timbermaw tunnel. Their patrol route is marked on your map - If you don't find them now you will do it later |QID|5087| |O|
+N Kill the Winterfall Runners. Loot them for their Winterfall Crate - Their spawn point is on the west side of Winterspring near the Timbermaw tunnel. Their patrol route is marked on your map - If you don't find them now you will do it later |QID|5087| |SK|
 A Enraged Wildkin |QID|4863| |N|Click the Damaged Crate on the ground - (59.0, 59.8)|
 A Enraged Wildkin |QID|4864| |N|Click on Jaron's Wagon - (61.4, 60.7)|
 N Loot Jaron's Supplies on the ground - (61.4, 60.7) |QID|4864|
-N Kill Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet |QID|4864|
+N Kill Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet |QID|4864| |O|
 T Find Ranshalla |QID|979| |N|Talk to Ranshalla - Talk to Ranshalla - Skip the follow up escort quest - (63.1, 59.5)| |C|!Hunter|
-N Kill some of the Owlkins before accepting the escort |O| |C|Hunter|
+N Kill some of the Owlkins before accepting the escort |SK| |C|Hunter|
 A Guardians of the Altar |QID|4901| |N|Talk to Ranshalla - Talk to Ranshalla - Guardians of the Altar will begin an escort quest. If you're in a party ensure everyone has turned in Find Ranshalla first - (63.1, 59.5)| |C|Hunter|
 N Talk to Ranshalla - Escort Ranshalla through Owl Wing Thicket - Click the Fire of Elune torches inside the caves when Ranshalla begins channelling her spell on them, and then the Altar of Elune at the end - (64.6, 61.1) |QID|4901| |C|Hunter|
 N Kill Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet - (63.9, 59.4) |QID|4864|
@@ -26,23 +26,23 @@ N Loot the Frostmaul Shards on the ground scattered around Frostwhisper Gorge - 
 N Explore Darkwhisper Gorge. You can do this without agroing any of the nearby Elites - (59.9, 74.0) |QID|4842|
 R Hearthstone |M|hardcore|
 R Hearthstone |M|speedrun|
-D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 T Luck Be With You |QID|969| |N|Talk to Witch Doctor Mau'ari - Talk to Witch Doctor Mau'ari - (61.9, 38.3)|
-N (52.1, 30.4) |O|
+N (52.1, 30.4) |SK|
 T Enraged Wildkin |QID|4864| |N|Talk to Jaron Stoneshaper - Talk to Jaron Stoneshaper - (52.1, 30.4)|
 N Kill the Winterfall Runners. Loot them for their Winterfall Crate - Their spawn point is on the west side of Winterspring near the Timbermaw tunnel. Their patrol route is marked on your map |QID|5087|
 A High Chief Winterfall |QID|5121| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
 T Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)| |O|
 A Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)|
-D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 F Azshara >> Fly to Azshara |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)| |O|
 T Ancient Spirit |QID|4261| |N|Talk to Kayneth Stillwind - Talk to Kayneth Stillwind - (85.3, 44.7)|
 T A Final Blow |QID|5242| |N|Talk to Greta Mosshoof - Talk to Greta Mosshoof - (51.2, 82.1)|
 T The Remains of Trey Lightforge |QID|5385| |N|Talk to Jessir Moonbow - Talk to Jessir Moonbow - (51.3, 82.0)|
 R Darkshore>> Fly to Darkshore |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)| |M|hardcore|
 H Hearthstone |M|speedrun|
-R Teleport to Darnassus |O| |C|Mage|
-R Teldrassil>> Fly to Teldrassil |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)| |O| |C|!Mage|
+R Teleport to Darnassus |SK| |C|Mage|
+R Teldrassil>> Fly to Teldrassil |N|Talk to Maethrya - Talk to Maethrya - (62.3, 36.6)| |SK| |C|!Mage|
 T Moontouched Wildkin |QID|978| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - (55.5, 92.0)| |C|!Hunter/!Mage|
 A Find Ranshalla |QID|979| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - (55.5, 92.0)| |C|!Hunter/!Mage|
 T Guardians of the Altar |QID|4901| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - (55.5, 92.0)| |C|Hunter|
@@ -55,7 +55,7 @@ T Wildkin of Elune |QID|4902| |N|Talk to Arch Druid Fandral Staghelm - Talk to A
 R Take the purple portal to Rut'theran Village |N|(29.5, 41.4)| |C|Druid/Hunter/Mage|
 T Moontouched Wildkin |QID|978| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - (55.5, 92.0)| |C|Mage|
 A Find Ranshalla |QID|979| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - (55.5, 92.0)| |C|Mage|
-R Teleport to Ironforge |O| |C|Mage|
+R Teleport to Ironforge |SK| |C|Mage|
 t Train your class spells |N|Talk to Dink - Talk to Dink - (27.2, 8.6)| |C|Mage|
 R Darkshore >> Fly to Darkshore |N|Talk to Vesprystus - Talk to Vesprystus - (58.4, 94.0)| |C|!Mage|
 R Take the boat to Wetlands |N|(32.4, 43.8)| |C|!Mage|

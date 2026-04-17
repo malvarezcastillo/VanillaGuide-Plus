@@ -25,13 +25,13 @@ N Equip the [Wooden Mallet] |U|2493| |O| |C|Warrior|
 N Equip the [Ornate Blunderbuss] |U|2509| |O| |C|Hunter|
 A Poison Water |QID|748| |N|Talk to Mull Thunderhorn - Talk to Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren|
 A Swoop Hunting |QID|761| |N|Talk to Harken Windtotem - Talk to Maur, Zarlman and Harken - (47.0, 57.1)| |R|!Tauren|
-N Get the items for Mazzranache as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |O|
+N Get the items for Mazzranache as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |SK|
 N Kill Prairie Wolves and Adult Plainstriders. Loot them for their Paws and Talons - Prairie Wolf Paw (6) - Plainstrider Talon (4) |QID|748| |O| |R|Tauren|
 N Collect the Ambercorns. They can be found under the trees on the ground - Ambercorn (2) - (50.4, 66.5) |QID|771|
-N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |O|
+N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |SK|
 N Kill Prairie Wolves and Adult Plainstriders. Loot them for their Paws and Talons - Prairie Wolf Paw (6) - Plainstrider Talon (4) - (50.8, 66.7) |QID|748| |R|Tauren|
 A Winterhoof Cleansing |QID|754| |N|Talk to Mull Thunderhorn - Talk to Mull - (48.5, 60.4)| |R|Tauren|
-N Collect the Well Stones around the Well - Well Stone (2) |QID|771| |O| |R|Tauren|
+N Collect the Well Stones around the Well - Well Stone (2) |QID|771| |SK| |R|Tauren|
 N Use the [Winterhoof Cleansing Totem] at the Well - Cleanse the Winterhoof Water Well (1) - (53.7, 66.3) |QID|754| |R|Tauren|
 N Collect the Well Stones around the Well - Well Stone (2) - (54.1, 66.4) |QID|771|
 N Get the items for Mazzranache as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |O|
@@ -58,7 +58,7 @@ t Train your class spells |N|Talk to Narm Skychaser - Talk to Narm - (48.4, 59.1
 A The Ravaged Caravan |QID|749| |N|Talk to Morin - He patrols along the eastern road - (55.1, 60.6)|
 N Get the items for Mazzranache as you quest throughout the zone - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |O|
 N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |O|
-N Kill Stalkers and Cougars. Loot them for their Claws - Stalker Claws (6) - Cougar Claws (6) |QID|756| |O| |R|Tauren|
+N Kill Stalkers and Cougars. Loot them for their Claws - Stalker Claws (6) - Cougar Claws (6) |QID|756| |SK| |R|Tauren|
 A The Ravaged Caravan |QID|751| |N|Click the Sealed Supply Crate - (53.7, 48.2)|
 N Kill Stalkers and Cougars. Loot them for their Claws - Stalker Claws (6) - Cougar Claws (6) - (58.1, 48.6) |QID|756| |R|Tauren|
 D Die and respawn |O| |M|speedrun|
@@ -99,10 +99,10 @@ N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quil
 N Use the [Thunderhorn Cleansing Totem] at the Well - Cleanse the Thunderhorn Water Well (1) - (44.5, 45.4) |QID|758| |R|Tauren|
 C Smash the [Picks] at the Forge |QID|746| |N|Kill Bael'dun Diggers and Bael'dun Appraisers. Loot them for their Prospector's Picks - Be careful as Bael'dun Appraisers cast [Lesser Heal] (Ranged Cast: Heals themselves or a nearby mob below 50% health for about 75 health) - Broken Tools (5) - (31.3, 49.9)| |U|4702|
 N Kill Windfury Wind Witches and Windfury Harpies. Loot them for their Talons - Windfury Talon (8) - (31.7, 40.3) |QID|743|
-N (33.4, 36.5) |O|
+N (33.4, 36.5) |SK|
 A Rite of Wisdom |QID|773| |N|Talk to Seer Wiserunner - Talk to Wiserunner - (32.7, 36.1)|
 T Rite of Vision |QID|772| |N|Talk to Seer Wiserunner - Talk to Wiserunner - (32.7, 36.1)|
-R Travel to Thunder Bluff |N|(32.0, 66.7)| |O| |C|Druid/Hunter/Shaman|
+R Travel to Thunder Bluff |N|(32.0, 66.7)| |SK| |C|Druid/Hunter/Shaman|
 h Thunder Bluff |N|Talk to Innkeeper Pala - Talk to Innkeeper Pala - (45.8, 64.7)| |C|Druid|
 A The Barrens Oases |QID|886| |N|Talk to Arch Druid Hamuul Runetotem - Talk to Hamuul Runetotem - (78.1, 28.6)| |C|Druid|
 A Moonglade |QID|5922| |N|Talk to Turak Runetotem - Talk to Turak - (76.7, 27.3)| |C|Druid|
@@ -111,10 +111,10 @@ N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
 A Great Bear Spirit |QID|5930| |N|Talk to Dendrite Starblaze - Talk to Dendrite - (56.2, 30.6)| |C|Druid|
 A Great Bear Spirit |QID|5930| |N|Talk to Dendrite Starblaze - Talk to Dendrite - (56.2, 30.6)| |C|Druid|
 N Talk to Great Bear Spirit - Talk to the Great Bear Spirit - Seek out the Great Bear Spirit and learn what it has to share with you about the nature of the bear. (1) - (39.2, 27.5) |QID|5930| |C|Druid|
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 A Back to Thunder Bluff |QID|5932| |N|Talk to Dendrite Starblaze - Talk to Dendrite - (56.2, 30.6)| |C|Druid|
 R Hearthstone |U|6948| |O| |C|Druid|
-F Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Bunthen Plainswind - Talk to Bunthen - (44.3, 45.9)| |O| |C|Druid|
+F Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Bunthen Plainswind - Talk to Bunthen - (44.3, 45.9)| |SK| |C|Druid|
 A Body and Heart |QID|6002| |N|Talk to Turak Runetotem - Talk to Turak - (76.7, 27.3)| |C|Druid|
 T Training the Beast |QID|6089| |N|Talk to Holt Thunderhorn - Talk to Holt - (57.4, 89.4)| |C|Hunter|
 t Train your pet spells |N|Talk to Hesuwa Thunderhorn - Talk to Hesuwa - (54.1, 84.1)| |C|Hunter|
@@ -123,13 +123,13 @@ R Exit Thunder Bluff by the Northern lift |N|(53.8, 27.8)| |C|Druid/Hunter/Shama
 N Kill Prairie Wolf Alpha - Cast Tame a Prairie Wolf Alpha - This will allow you to train [Claw Rank 2] |O| |C|Hunter|
 N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |O|
 U The Demon Scarred Cloak |QID|770| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]. Use it to start the quest - Be careful as Ghost Howl is difficult due to being level 12 - Collect Demon Scarred Cloak| |U|4854| |O|
-N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |O|
+N Kill Swoops throughout Mulgore. Loot them for their Quills - Trophy Swoop Quill (8) |QID|761| |SK|
 A A Sacred Burial |QID|833| |N|Talk to Lorekeeper Raintotem - Talk to Raintotem - (59.9, 25.6)|
-N Kill Bristleback Interlopers - Bristleback Interloper (8) |QID|833| |O|
+N Kill Bristleback Interlopers - Bristleback Interloper (8) |QID|833| |SK|
 A Journey into Thunder Bluff |QID|775| |N|Talk to Ancestral Spirit - Talk to the Ancestral Spirit - (61.5, 21.0)|
 N Kill Bristleback Interlopers - Bristleback Interloper (8) - (59.9, 25.6) |QID|833|
 T A Sacred Burial |QID|833| |N|Talk to Lorekeeper Raintotem - Talk to Raintotem - (59.9, 25.6)|
-N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |O|
+N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) |QID|766| |SK|
 N Kill Swoops. Loot them for their Quills - Trophy Swoop Quill (8) - (51.0, 18.4) |QID|761|
 N Finish getting the items for Mazzranache - Prairie Wolf Heart (1) - Flatland Cougar Femur (1) - Plainstrider Scale (1) - Swoop Gizzard (1) - (50.8, 29.4) |QID|766|
 R Exit Thunder Bluff |O|
@@ -164,7 +164,7 @@ A The Ravaged Caravan |QID|749| |N|Talk to Morin - He patrols along the eastern 
 N Kill Prairie Wolf Alpha - Cast Tame a Prairie Wolf Alpha - This will allow you to train [Claw Rank 2] - (67.2, 63.8) |C|Hunter|
 A The Ravaged Caravan |QID|751| |N|Click the Sealed Supply Crate - (53.7, 48.2)|
 A Supervisor Fizsprocket |QID|765| |N|Talk to Morin - He patrols along the eastern road - (55.1, 60.6)|
-N Kill Venture Co. Workers and Venture Co. Supervisors - Venture Co. Worker (14) - Venture Co. Supervisor (6) |QID|764| |O|
+N Kill Venture Co. Workers and Venture Co. Supervisors - Venture Co. Worker (14) - Venture Co. Supervisor (6) |QID|764| |SK|
 N Kill Supervisor Fizsprocket. Loot him for his Clipboard - Run into the mine and hug the right/east side to reach him - Fizsprocket's Clipboard (1) - (65.0, 43.3) |QID|765|
 N Kill Venture Co. Workers and Venture Co. Supervisors - Venture Co. Worker (14) - Venture Co. Supervisor (6) - (61.4, 47.5) |QID|764|
 T Supervisor Fizsprocket |QID|765| |N|Talk to Morin - He patrols along the eastern road - (55.1, 60.6)|
@@ -178,15 +178,15 @@ h Thunder Bluff |N|Talk to Innkeeper Pala - Talk to Innkeeper Pala - (45.8, 64.7
 A The Barrens Oases |QID|886| |N|Talk to Arch Druid Hamuul Runetotem - Talk to Hamuul Runetotem - (78.1, 28.6)| |C|Druid|
 A Moonglade |QID|5922| |N|Talk to Turak Runetotem - Talk to Turak - (76.7, 27.3)| |C|Druid|
 A Moonglade |QID|5922| |N|Talk to Turak Runetotem - Talk to Turak - (76.7, 27.3)| |C|Druid|
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 A Great Bear Spirit |QID|5930| |N|Talk to Dendrite Starblaze - Talk to Dendrite - (56.2, 30.6)| |C|Druid|
 N Talk to Great Bear Spirit - Talk to the Great Bear Spirit - Seek out the Great Bear Spirit and learn what it has to share with you about the nature of the bear. (1) - (39.2, 27.5) |QID|5930| |C|Druid|
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 A Back to Thunder Bluff |QID|5932| |N|Talk to Dendrite Starblaze - Talk to Dendrite - (56.2, 30.6)| |C|Druid|
 R Hearthstone |U|6948| |O| |C|Druid|
-R Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Bunthen Plainswind - Talk to Bunthen - (44.3, 45.9)| |O| |C|Druid|
+R Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Bunthen Plainswind - Talk to Bunthen - (44.3, 45.9)| |SK| |C|Druid|
 A Body and Heart |QID|6002| |N|Talk to Turak Runetotem - Talk to Turak - (76.7, 27.3)| |C|Druid|
-R Camp Taurajo >>Fly to Camp Taurajo |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |O| |C|Druid|
+R Camp Taurajo >>Fly to Camp Taurajo |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK| |C|Druid|
 U Run to the Moonkin Stone and use the [Cenarion Lunardust]. Kill Lunaclaw |QID|6002| |N|Kill Lunaclaw - Steer clear of the Thunderheads in the area - Face Lunaclaw and earn the strength of body and heart it possesses. (1) - (42.0, 60.9)| |U|15710| |C|Druid|
 f Camp Taurajo >> Get the Camp Taurajo flight path |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |C|!Druid|
 A Journey to the Crossroads |QID|854| |N|Talk to Kirge Sternhorn - Talk to Kirge Sternhorn - (44.9, 58.6)| |R|Tauren|
@@ -195,7 +195,7 @@ h The Barrens |N|Talk to Innkeeper Boorand Plainswind - Talk to Innkeeper Booran
 T Journey to the Crossroads |QID|854| |N|Talk to Thork - Talk to Thork - (51.5, 30.8)| |R|Tauren|
 A A Bundle of Hides |QID|6361| |N|Talk to Jahan Hawkwing - Talk to Jahan - (51.1, 29.0)|
 A Wharfmaster Dizzywig |QID|1492| |N|Talk to Apothecary Helbrim - Talk to Helbrim - (51.4, 30.1)|
-N Collect Laden Mushrooms around The Forgotten Pools - Keep maximum distance from Kolkar as you loot the mushrooms. They are level 12-14 - The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it - Collect Fungal Spores (x4) |QID|848| |O|
+N Collect Laden Mushrooms around The Forgotten Pools - Keep maximum distance from Kolkar as you loot the mushrooms. They are level 12-14 - The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it - Collect Fungal Spores (x4) |QID|848| |SK|
 N Dive underwater to the Bubble Fissure - Explore the waters of the Forgotten Pools - (45.1, 22.5) |QID|870|
 N Collect Laden Mushrooms around The Forgotten Pools - Keep maximum distance from Kolkar in the area. They are level 12-14 - The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it - Collect Fungal Spores (x4) - (45.2, 23.3) |QID|848|
 D Die and respawn |O| |M|speedrun|
@@ -203,7 +203,7 @@ A The Stagnant Oasis |QID|877| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.
 A The Stagnant Oasis |QID|877| |N|Talk to Tonga Runetotem - Talk to Tonga - (52.3, 31.9)| |O|
 A Apothecary Zamah |QID|853| |N|Talk to Apothecary Helbrim - Talk to Helbrim - Wait for the RP to finish - This starts a 45-minute timed quest - (51.4, 30.1)|
 A Apothecary Zamah |QID|853| |N|Talk to Apothecary Helbrim - Talk to Helbrim - This starts a 45-minute timed quest - (51.4, 30.1)| |O|
-N You are on a timed quest, don't go afk. It will get turned in around 5-10 minutes after pick-up |O|
+N You are on a timed quest, don't go afk. It will get turned in around 5-10 minutes after pick-up |SK|
 A Ride to Thunder Bluff |QID|6362| |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)|
 R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O|
 A Tal the Wind Rider Master |QID|6363| |N|Talk to Ahanu - Talk to Ahanu - (45.6, 55.9)|
@@ -215,7 +215,7 @@ t Train your pet spells |N|Talk to Hesuwa Thunderhorn - Talk to Hesuwa - Drag [B
 t Train your class spells |N|Talk to Ker Ragetotem - Talk to Ker - (57.6, 85.5)| |O| |C|Warrior|
 t Train Two-Handed Maces |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Druid|
 t Train Staves |N|Talk to Ansekhwa - Talk to Ansekhwa - (40.9, 62.7)| |C|Warrior/Hunter|
-N (28.1, 33.0) |O|
+N (28.1, 33.0) |SK|
 T Apothecary Zamah |QID|853| |N|Talk to Apothecary Zamah - Talk to Zamah - (22.8, 20.9)|
 N Equip the [Cauldron Stirrer] |U|5340| |O|
 t Train your class spells |N|Talk to Tigor Skychaser - Talk to Tigor - (23.6, 18.7)| |O| |C|Shaman|
@@ -230,7 +230,7 @@ N Talk to Auctioneer Stampi - Talk to Auctioneer Stampi - Buy Twelve [Light Leat
 T Gathering Leather |QID|768| |N|Talk to Veren Tallstrider - Talk to Veren - (44.4, 44.7)| |O|
 N Talk to Kaga Mistrunner - Talk to Kaga - Buy [Tough Jerky] from her to feed your pet - Tough Jerky (5) - (52.3, 47.8) |C|Hunter|
 U Hearthstone |U|6948| |O|
-R Crossroads >>Fly to Crossroads |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |O|
+R Crossroads >>Fly to Crossroads |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |SK|
 T Return to Jahan |QID|6364| |N|Talk to Jahan Hawkwing - Talk to Jahan - (51.1, 29.0)|
 A Wharfmaster Dizzywig |QID|1492| |N|Talk to Apothecary Helbrim - Talk to Helbrim - (51.4, 30.1)|
 A Supplies for the Crossroads |QID|5041| |N|Talk to Thork - Talk to Thork - (51.5, 30.9)|
@@ -240,12 +240,12 @@ A Plainstrider Menace |QID|844| |N|Talk to Sergra Darkthorn - Talk to Sergra - (
 A Raptor Thieves |QID|869| |N|Talk to Gazrog - Talk to Gazrog - (51.9, 30.3)|
 N Talk to Uthrok - Talk to Uthrok. Buy a [Hunter's Boomstick] from him - Collect Hunter's Boomstick (1) - (51.1, 29.1) |C|Hunter| |R|Tauren|
 N Equip the [Hunter's Boomstick] |U|2511| |O| |C|Hunter| |R|Tauren|
-U Chen's Empty Keg |QID|819| |N|Check for Chen's Empty Keg next to Kranal. Loot it and start the quest - You can get it later if it's not there - Collect Chen's Empty Keg| |U|4926| |O| |C|Shaman|
+U Chen's Empty Keg |QID|819| |N|Check for Chen's Empty Keg next to Kranal. Loot it and start the quest - You can get it later if it's not there - Collect Chen's Empty Keg| |U|4926| |SK| |C|Shaman|
 A Call of Fire |QID|1524| |N|Talk to Kranal Fiss - Talk to Kranal - (55.9, 19.9)| |C|Shaman|
-N Be careful to not fall of the mountain, the path is very narrow. You could die if you fall - (36.7, 57.8) |O| |C|Shaman|
+N Be careful to not fall of the mountain, the path is very narrow. You could die if you fall - (36.7, 57.8) |SK| |C|Shaman|
 A Call of Fire |QID|1525| |N|Talk to Telf Joolam - Talk to Telf - (38.5, 58.9)| |C|Shaman|
 A Conscript of the Horde |QID|840| |N|Talk to Takrin Pathseeker - Talk to Takrin - (50.8, 43.6)| |C|Shaman|
-N (54.3, 39.4) |O| |C|Shaman|
+N (54.3, 39.4) |SK| |C|Shaman|
 N Kill Cultists. Loot them for a Reagent Pouch - Reagent Pouch (1) - (53.2, 29.1) |QID|1525| |C|Shaman|
 A Crossroads Conscription |QID|842| |N|Talk to Kargal Battlescar - Talk to Kargal - (62.3, 19.4)| |C|Shaman|
 A Path of Defense |QID|1498| |N|Talk to Uzzek - Talk to Uzzek - (61.4, 21.1)| |C|Warrior|

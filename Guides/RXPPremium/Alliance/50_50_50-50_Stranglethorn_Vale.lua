@@ -18,7 +18,7 @@ T Rescue OOX-17/TN! |QID|648| |N|Talk to Oglethorpe Obnoticus - Talk to Oglethor
 T Rescue OOX-09/HL! |QID|836| |N|Talk to Oglethorpe Obnoticus - Talk to Oglethorpe Obnoticus - (28.4, 76.4)|
 T An OOX of Your Own |QID|3721| |N|Talk to Oglethorpe Obnoticus - Talk to Oglethorpe Obnoticus - (28.4, 76.4)|
 A The Monogrammed Sash |QID|8552| |N|Kill Mok'rash - Kill Mok'rash. Loot him for the [Monogrammed Sash] - Use the [Monogrammed Sash] to start the quest - Kite Mok'rash around the giant Goblin Statue if needed - He has a long respawn timer. Skip this step if he isn't up - Collect item 3985 (x1) - (23.2, 71.9)| |U|3985|
-A Message in a Bottle |QID|594| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - Use the [Carefully Folded Note] to start the quest - Collect item 4098 (x1) - (34.2, 73.2)| |U|4098| |O|
+A Message in a Bottle |QID|594| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - Use the [Carefully Folded Note] to start the quest - Collect item 4098 (x1) - (34.2, 73.2)| |U|4098| |SK|
 N Kill Captain Keelhaul, Fleet Master Firallon and Captain Stillwater - They are each found on a Bloodsail Ship, on the second floor - (29.3, 88.3) |QID|608|
 A Message in a Bottle |QID|594| |N|Open the Half-Buried Bottles on Jaguero Isle. Loot them for a [Carefully Folded Note] - If you can't find any, go back to the mainland and check there - Use the [Carefully Folded Note] to start the quest - Collect item 4098 (x1) - (36.3, 83.2)| |U|4098|
 T Message in a Bottle |QID|594| |N|Talk to Princess Poobah - Talk to Princess Poobah - Beware of Jaguero Stalkers in [Stealth] throughout the Island - (38.5, 80.6)|
@@ -36,13 +36,13 @@ T The Captain's Cutlass |QID|8553| |N|Talk to Sprogger - Talk to Captain Heckleb
 T Stranglethorn Fever |QID|348| |N|Talk to Fin Fizracket - Talk to Fin Fizracket - (27.6, 76.7)|
 T The Bloodsail Buccaneers |QID|608| |N|Talk to Fleet Master Seahorn - Talk to Fleet Master Seahorn - (27.2, 77.0)|
 R Stormwind >> Fly to Stormwind |N|Talk to Gyll - Talk to Gyll - (27.5, 77.8)| |C|!Mage|
-R Teleport to Stormwind City |O| |C|Mage|
+R Teleport to Stormwind City |SK| |C|Mage|
 t Train your class spells |N|Talk to Jennea Cannon - Talk to Jennea - (36.9, 81.1)| |C|Mage|
 N Talk to Newton Burnside - Talk to Newton Burnside - 15 [Silk Cloth] (If you have them) - (57.1, 73.0)
 N Talk to Auctioneer Jaxon - Talk to Auctioneer Jaxon - Buy [Silk Cloth] from the Auction House for a quest later in Searing Gorge - Collect item 4306 (x15) - (53.6, 59.8)
 h StormwindClassic |N|Talk to Innkeeper Allison - Talk to Innkeeper Allison - (52.6, 65.7)|
 t Train your class spells |N|Talk to Sheldras Moontree - Talk to Sheldras Moontree - (20.9, 55.5)| |C|Druid|
-N (42.5, 33.5) |O| |C|Priest/Paladin|
+N (42.5, 33.5) |SK| |C|Priest/Paladin|
 t Train your class spells |N|Talk to Arthur the Faithful - Talk to Arthur the Faithful - (38.8, 31.3)| |C|Paladin|
 t Train your class spells |N|Talk to Brother Joshua - Talk to Brother Joshua - (38.5, 26.9)| |C|Priest|
 t Train your class spells |N|Talk to Ilsa Corbin - Talk to Wu or Ilsa - (76.1, 50.1)| |C|Warrior|
@@ -50,7 +50,7 @@ t Train your class spells |N|Talk to Osborne the Night Man - Talk to Osborne - (
 T Rhapsody's Tale |QID|1469| |N|Talk to Brohann Caskbelly - Talk to Brohann Caskbelly - (64.3, 20.6)|
 t Train your class spells |N|Talk to Einris Brightspear - Talk to Einris Brightspear - (61.6, 15.3)| |C|Hunter|
 t Retrain your pet. Learn Fire Resistance (Rank 4) and Shadow Resistance (Rank 3) |N|Talk to Karrina Mekenda - Talk to Karrina Mekenda - (61.6, 16.0)| |C|Hunter|
-R Teleport to Ironforge |N|(63.7, 8.4)| |O| |C|!Mage|
+R Teleport to Ironforge |N|(63.7, 8.4)| |SK| |C|!Mage|
 N Talk to Jubahl Corpseseeker - Talk to Jubahl Corpseseeker - Buy [Grimoires] for your pets - (53.2, 7.8) |C|Warlock|
 t Train your class spells |N|Talk to Briarthorn - Talk to Briarthorn - (51.1, 8.7)| |C|Warlock|
 F Loch Modan>> Fly to Loch Modan |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)| |M|hardcore|

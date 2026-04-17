@@ -13,21 +13,21 @@ N Enter the village through the Western path. Make sure you kill all 6 brutes be
 A Protect Kaya |QID|6523| |N|Talk to Kaya Flathoof - Start the Kaya Escort - Talk to Kaya Flathoof - (73.5, 85.8)|
 N Escort Kaya and stay close to her. 3 Grimtotems will spawn at the bonfire. Eat/drink before she gets to the camp - Kaya Escorted to Camp Aparaje - (75.8, 91.4) |QID|6523|
 A Blood Feeders |QID|6461| |N|Talk to Xen'Zilla - Talk to Xen'Zilla - (71.4, 95.1)|
-N Click the spider eggs near the trees - Collect Deepmoss Egg (x15) |QID|1069|
+N Click the spider eggs near the trees - Collect Deepmoss Egg (x15) |QID|1069| |SK|
 N Kill the Deepmoss Spiders in the area - Kill Deepmoss Creeper (x10) - Kill Deepmoss Venomspitter (x7) - (57.5, 76.2) |QID|6461|
 A Super Reaper 6000 |QID|1093| |N|Talk to Ziz Fizziks - Talk to Ziz Fizziks - (59.0, 62.6)|
-N Kill Loggers as you search for Operators to get the Blueprints - Kill Venture Co. Logger (x15) |QID|1062| |O|
+N Kill Loggers as you search for Operators to get the Blueprints - Kill Venture Co. Logger (x15) |QID|1062| |SK|
 N Kill Venture Co. Operators until you get the Blueprints - Collect Super Reaper 6000 Blueprints (x1) - (62.8, 53.7) |QID|1093|
 N Finish killing Loggers - Kill Venture Co. Logger (x15) - (64.1, 56.7) |QID|1062|
 A Further Instructions |QID|1094| |N|Talk to Ziz Fizziks - Talk to Ziz Fizziks - (59.0, 62.6)|
 H Hearthstone
 A Ishamuhale |QID|882| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.9, 59.1)|
-N Kill Stormstouts. Loot them for a Horn - Thunder Lizard Horn (1) |QID|821|
-A Lakota'Mani |QID|883| |N|Find & kill Lakota'mani (Gray Kodo) around the area. Loot his Hoof. If you can't find him, skip this quest. - Collect Hoof of Lakota'Mani - (50.0, 53.1)| |O|
+N Kill Stormstouts. Loot them for a Horn - Thunder Lizard Horn (1) |QID|821| |SK|
+A Lakota'Mani |QID|883| |N|Find & kill Lakota'mani (Gray Kodo) around the area. Loot his Hoof. If you can't find him, skip this quest. - Collect Hoof of Lakota'Mani - (50.0, 53.1)| |SK|
 N Kill a LOT of Quillboars. Loot them for their tusks. Save the Blood Shards you get - Kill Bristleback Water Seeker (x6) - Kill Bristleback Thornweaver (x12) - Kill Bristleback Geomancer (x12) - Collect Bristleback Quilboar Tusk (x60) - (44.3, 52.3) |QID|899|
-N Kill Plainstriders. Loot them for their Kidneys - Plainstrider Kidney (5) |QID|821| |O|
+N Kill Plainstriders. Loot them for their Kidneys - Plainstrider Kidney (5) |QID|821| |SK|
 N Go around the lake and AoE Turtles. Loot them for their Shells - Altered Snapjaw Shell (8) - (55.5, 42.6) |QID|880|
-N Kill a Zhevra in the area. Loot it for a Carcass - Collect Fresh Zhevra Carcass - (61.0, 32.2) |O|
+N Kill a Zhevra in the area. Loot it for a Carcass - Collect Fresh Zhevra Carcass - (61.0, 32.2) |SK|
 N Use the Fresh Zhevra Carcass at the dead tree to summon Ishamuhale. Kill and loot him for his Fang - Ishamuhale's Fang (1) - (59.9, 30.4) |QID|882|
 N Kill Plainstriders. Loot them for their Kidneys - Plainstrider Kidney (5) |QID|821|
 T Stolen Booty |QID|888| |N|Talk to Gazlowe - Run back to Ratchet - Talk to Gazlowe - (62.7, 36.3)|
@@ -45,14 +45,14 @@ T Blood Shards of Agamaggan |QID|5052| |N|Talk to Mangletooth - Talk to Mangleto
 A Melor Sends Word |QID|1130| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.8, 59.1)|
 T Lakota'mani |QID|883| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.8, 59.1)|
 A Melor Sends Word |QID|1130| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.8, 59.1)|
-A Owatanka |QID|884| |N|Search for Owatanka (Blue Thunder Lizard) around this area. If you find him, loot his Tailspike and start the quest. If you can't find him, skip this quest - Collect Owatanka's Tailspike - (44.2, 62.1)| |O|
+A Owatanka |QID|884| |N|Search for Owatanka (Blue Thunder Lizard) around this area. If you find him, loot his Tailspike and start the quest. If you can't find him, skip this quest - Collect Owatanka's Tailspike - (44.2, 62.1)| |SK|
 N Kill Thunder Lizards. Loot them for their blood - Thunder Lizard Blood (3) - (42.5, 60.3) |QID|907|
 A Cry of the Thunderhawk |QID|913| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.9, 59.1)|
 T Owatanka |QID|884| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.9, 59.1)|
 A Cry of the Thunderhawk |QID|913| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.9, 59.1)|
 N Kill a Thunderhawk. Loot it for its Wings - Thunderhawk Wings (1) - (44.8, 63.2) |QID|913|
 T Cry of the Thunderhawk |QID|913| |N|Talk to Jorn Skyseer - Talk to Jorn Skyseer - (44.8, 59.1)|
-T Spirit of the Wind |QID|889| |N|Talk to Mangletooth - Turn in your Blood Shards for the Spirit of the Wind buff from Mangletooth. If you accidentally sold any shards, skip this step - Talk to Mangletooth - (44.5, 59.3)| |O|
+T Spirit of the Wind |QID|889| |N|Talk to Mangletooth - Turn in your Blood Shards for the Spirit of the Wind buff from Mangletooth. If you accidentally sold any shards, skip this step - Talk to Mangletooth - (44.5, 59.3)| |SK|
 N (32.0, 66.9)
 h Thunder Bluff |N|(45.8, 64.7)|
 A Steelsnap |QID|1131| |N|Talk to Melor Stonehoof - Talk to Melor Stonehoof - (61.5, 80.9)|
@@ -66,7 +66,7 @@ T Blood Feeders |QID|6461| |N|Talk to Xen'Zilla - Talk to Xen'Zilla - (71.3, 95.
 T Further Instructions |QID|1095| |N|Talk to Ziz Fizziks - Talk to Ziz Fizziks - (59.0, 62.6)|
 T Kaya's Alive |QID|6401| |N|Talk to Tammra Windfield - Talk to Tammra Windfield - (47.5, 58.4)|
 f Sun Rock>> Get the Sun Rock Retreat flight path |N|(45.1, 59.8)|
-H Hearthstone |O|
+H Hearthstone |SK|
 A Forsaken Aid |QID|1064| |N|Talk to Magatha Grimtotem - Talk to Magatha Grimtotem - (70.0, 30.9)|
 A Nara Wildmane |QID|1490| |N|Talk to Arch Druid Hamuul Runetotem - Talk to Arch Druid Hamuul Runetotem - (78.6, 28.6)|
 T Nara Wildmane |QID|1490| |N|Talk to Nara Wildmane - Talk to Nara Wildmane - (75.7, 31.6)|

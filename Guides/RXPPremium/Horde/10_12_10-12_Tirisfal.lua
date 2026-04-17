@@ -16,7 +16,7 @@ N Talk to Louis Warren - Talk to Louis Warren in the Trade Quarter - Buy a [Cutl
 N Equip the [Cutlass] |U|851| |O| |C|Rogue/Rogue| |R|Orc/Troll|
 N Talk to Auctioneer Rhyker - Talk to Auctioneer Rhyker - Buy Six [Discolored Worg Hearts] from the Auction House - Skip this if you want, it's only a small time saver - Collect Discolored Worg Heart (x6) - (64.2, 49.6) |O| |C|Rogue/Rogue| |R|Orc/Troll|
 N If you can't do this, just run out of Undercity normally - (84.9, 20.3) |C|Rogue/Rogue| |R|Troll|
-R Exit Undercity |O|
+R Exit Undercity |SK|
 N (61.5, 53.2) |O|
 A The Chill of Death |QID|375| |N|Talk to Gretchen Dedmar - Talk to Coleman and Gretchen inside the inn - Gretchen is on the second floor - (61.7, 52.3)|
 A Speak with Dillinger |QID|1818| |N|Talk to Austil de Mon - Talk to Austil - (61.9, 52.5)| |C|Warrior|
@@ -40,7 +40,7 @@ N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |Q
 A Fields of Grief |QID|365| |N|Talk to Deathguard Simmer - Talk to Simmer - (40.9, 54.2)| |O|
 N Loot the Pumpkins found in the field. - Tirisfal Pumpkin (10) - (36.6, 50.1) |QID|365| |O|
 N Kill Scarlet Warriors. - Scarlet Warrior (10) - (31.8, 51.4) |QID|427| |O|
-N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
+N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |SK|
 N Kill any Darkhound you see. Loot them for their Blood - Darkhound Blood (5) - (50.4, 49.5) |QID|367| |O|
 D Die and respawn |O| |M|speedrun|
 N (58.2, 51.4) |O| |M|hardcore|
@@ -76,17 +76,17 @@ N Talk to Auctioneer Rhyker - Talk to Auctioneer Rhyker - Buy Six [Discolored Wo
 R Leave Undercity through the Sewers |N|(47.2, 39.1)| |O| |C|Warlock/Mage/Rogue|
 R Leave Undercity through the Sewers |N|(47.2, 39.1)| |O| |C|Priest| |R|Undead|
 N Collect Scarlet Insignia Rings - You don't have to complete this step now - Scarlet Insignia Ring (10) |QID|374| |O|
-N Loot Perrine's Chest for [Egalin's Grimoire] - Egalin's Grimoire (1) - (51.1, 67.6) |QID|1473| |O| |C|Warlock|
+N Loot Perrine's Chest for [Egalin's Grimoire] - Egalin's Grimoire (1) - (51.1, 67.6) |QID|1473| |SK| |C|Warlock|
 N Kill Captain Perrine, Zealots and Missionaries. - Captain Perrine (1) - Scarlet Zealot (3) - Scarlet Missionary (3) - (51.0, 69.5) |QID|370| |O|
 N Loot Perrine's Chest on the ground for [Egalin's Grimoire] - Egalin's Grimoire (1) - (51.1, 67.6) |QID|1473| |C|Warlock|
-R Travel back into the Undercity through the sewers |N|(16.5, 42.8)| |O| |C|Warlock|
+R Travel back into the Undercity through the sewers |N|(16.5, 42.8)| |SK| |C|Warlock|
 A The Binding |QID|1471| |N|Talk to Carendin Halgar - Talk to Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock|
-N Cast Use the [Runes of Summoning] at the Summoning Circle - (86.6, 27.1) |U|6284| |O| |C|Warlock|
+N Cast Use the [Runes of Summoning] at the Summoning Circle - (86.6, 27.1) |U|6284| |SK| |C|Warlock|
 N Kill Summoned Voidwalker - Kill the Summoned Voidwalker - Kill Summoned Voidwalker (1) - (86.6, 27.1) |QID|1471| |U|6284| |C|Warlock|
 T The Binding |QID|1471| |N|Talk to Carendin Halgar - Talk to Carendin - (85.0, 26.0)| |C|Warlock|
 N If you can't do this, just run out of Undercity normally - (84.9, 20.3)
-R Exit Undercity |N|(61.9, 64.8)| |O| |C|Warlock|
-N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
+R Exit Undercity |N|(61.9, 64.8)| |SK| |C|Warlock|
+N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |SK|
 N (47.6, 44.0) |O|
 U A Letter Undelivered |QID|361| |N|[Thurman's Letter] may drop from these mobs. Accept the quest if it does - Collect A Letter to Yvette (1)| |U|2839| |O|
 N Kill Soldiers and Bonecasters. Loot them for their Ribs and Skulls - Notched Rib (5) - Blackened Skull (3) |QID|426| |O|
@@ -95,7 +95,7 @@ N Kill Nissa. Loot her for her Remains. She can be inside the building - Nissa's
 N Kill Thurman and Gregor. Loot them for their Remains. They can patrol around - Thurman's Remains (1) - Gregor's Remains (1) - (45.1, 31.1) |QID|354| |O|
 N Kill Soldiers and Bonecasters. Loot them for their Ribs and Skulls - Notched Rib (5) - Blackened Skull (3) - (45.1, 31.1) |QID|426|
 N Be careful. Don't take too much fall damage. Follow the waypoint for safety - (54.3, 31.6) |O|
-N Kill Gnolls and Mongrels. Loot them for their Ichor - Rot Hide Mongrel (5) - Embalming Ichor (8) |QID|358| |O|
+N Kill Gnolls and Mongrels. Loot them for their Ichor - Rot Hide Mongrel (5) - Embalming Ichor (8) |QID|358| |SK|
 N Kill Maggot Eye. Loot him for his Paw - Maggot Eye's Paw (1) - (58.7, 30.8) |QID|398| |O|
 N Kill Murlocs. Loot them for their Scales - Vile Fin Scale (5) - (59.5, 27.9) |QID|368| |O|
 N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
@@ -125,18 +125,18 @@ N Talk to Innkeeper Renee - Talk to Innkeeper Renee - Vendor Trash - (61.7, 52.1
 A Rear Guard Patrol |QID|356| |N|Talk to Deathguard Linnea - Talk to Linnea - (65.5, 60.2)| |O|
 A Rear Guard Patrol |QID|356| |N|Talk to Deathguard Linnea - Talk to Linnea - (65.5, 60.2)| |O|
 N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
-N Kill Bleeding Horrors and Wandering Spirits - Bleeding Horror (8) - Wandering Spirit (8) |QID|356| |O| |C|Mage|
+N Kill Bleeding Horrors and Wandering Spirits - Bleeding Horror (8) - Wandering Spirit (8) |QID|356| |SK| |C|Mage|
 N Loot any of the plants on the ground for a Balnir Snapdragon - Balnir Snapdragons (1) - (77.5, 62.0) |QID|1882| |C|Mage|
 N Kill Bleeding Horrors and Wandering Spirits - Bleeding Horror (8) - Wandering Spirit (8) - (74.3, 61.0) |QID|356| |O|
 N Kill Scarlet Zealot - Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest - Linen Cloth (60) |O| |C|Priest|
-N Collect Scarlet Insignia Rings - Scarlet Insignia Ring (10) |QID|374| |O|
+N Collect Scarlet Insignia Rings - Scarlet Insignia Ring (10) |QID|374| |SK|
 N Kill Captain Vachon and Scarlet Friars - Be careful! Scarlet Friars can cast [Lesser Heal] - Captain Vachon (1) - Scarlet Friar (5) - (79.8, 56.4) |QID|371| |O|
 N Collect Scarlet Insignia Rings - Scarlet Insignia Ring (10) - (79.8, 56.4) |QID|374| |O|
 N Kill Scarlet Zealot - Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest - Linen Cloth (60) - (79.8, 56.4) |C|Priest|
-N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
+N Kill any Duskbat that you see. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |SK|
 N Kill Vicious Night Web Spiders. Loot them for their Venom - Vicious Night Web Spider Venom (4) - (85.0, 54.7) |QID|369| |O|
 N (65.5, 60.2) |O|
-N Finish killing Duskbats. Loot them for their Pelts - You can skip this quest if your rng has been bad - Duskbat Pelt (5) |QID|375| |O|
+N Finish killing Duskbats. Loot them for their Pelts - You can skip this quest if your rng has been bad - Duskbat Pelt (5) |QID|375| |SK|
 T Rear Guard Patrol |QID|356| |N|Talk to Deathguard Linnea - Talk to Linnea - (65.5, 60.2)| |O|
 N Talk to Abigail Shiel - Talk to Abigail - Buy a [Coarse Thread] from her - Coarse Thread (1) - (61.0, 52.4) |QID|375| |O|
 T Proof of Demise |QID|374| |N|Talk to Deathguard Burgess - Talk to Burgess - (60.9, 52.0)| |O|
@@ -154,13 +154,13 @@ t Train [Kick] |N|Talk to Marion Call - Talk to Marion on the second floor - (61
 t Train [Health Funnel] |N|Talk to Rupert Boch - Talk to Rupert - (61.6, 52.4)| |C|Warlock|
 N (47.4, 43.6) |C|Warrior|
 N Loot the Agamand Weapon Racks on the ground - Agamand Family Axe (1) - Agamand Family Dagger (1) - Agamand Family Mace (1) - Agamand Family Sword (1) |QID|1821| |O| |C|Warrior|
-N Kill Wailing Ancestors and Rotting Ancestors - Be careful! The mobs in this crypt respawn dynamically! - Wailing Ancestor (8) - Rotting Ancestor (8) |QID|408| |O| |C|Warrior|
+N Kill Wailing Ancestors and Rotting Ancestors - Be careful! The mobs in this crypt respawn dynamically! - Wailing Ancestor (8) - Rotting Ancestor (8) |QID|408| |SK| |C|Warrior|
 N Kill Captain Dargol. Loot him for his Skull. He is at the bottom of the crypt - Dargol's Skull (1) - (52.5, 26.8) |QID|408| |C|Warrior|
-N Loot the Agamand Weapon Racks on the ground - Agamand Family Axe (1) - Agamand Family Dagger (1) - Agamand Family Mace (1) - Agamand Family Sword (1) |QID|1821| |O| |C|Warrior|
+N Loot the Agamand Weapon Racks on the ground - Agamand Family Axe (1) - Agamand Family Dagger (1) - Agamand Family Mace (1) - Agamand Family Sword (1) |QID|1821| |SK| |C|Warrior|
 N Kill Wailing Ancestors and Rotting Ancestors - Be careful! The mobs in this crypt respawn dynamically! - Wailing Ancestor (8) - Rotting Ancestor (8) - (51.9, 26.9) |QID|408| |C|Warrior|
 N Loot the Agamand Weapon Racks on the ground - Agamand Family Axe (1) - Agamand Family Dagger (1) - Agamand Family Mace (1) - Agamand Family Sword (1) - (52.7, 25.9) |QID|1821| |C|Warrior|
 N (51.7, 25.7)
-D Die and respawn |O| |C|Warrior| |M|speedrun|
+D Die and respawn |SK| |C|Warrior| |M|speedrun|
 T The Family Crypt |QID|408| |N|Talk to Magistrate Sevren - Talk to Sevren - (61.3, 50.8)| |C|Warrior|
 T Agamand Heirlooms |QID|1821| |N|Talk to Coleman Farthing - Talk to Coleman inside the inn - (61.7, 52.3)| |C|Warrior|
 T Heirloom Weapon |QID|1822| |N|Talk to Coleman Farthing - Talk to Coleman inside the inn - (61.7, 52.3)| |C|Warrior|
@@ -176,8 +176,8 @@ t Train [Kick] |N|Talk to Marion Call - Talk to Marion on the second floor - (61
 t Train your class spells |N|Talk to Marion Call - Talk to Marion on the second floor - (61.8, 52.0)| |C|Rogue|
 t Train [Health Funnel] |N|Talk to Rupert Boch - Talk to Rupert - (61.6, 52.4)| |C|Warlock|
 t Train your class spells |N|Talk to Rupert Boch - Talk to Rupert - (61.6, 52.4)| |C|Warlock|
-R Enter Undercity |N|(61.8, 65.1)| |O| |C|Mage|
-N (66.1, 20.1) |O| |C|Mage|
+R Enter Undercity |N|(61.8, 65.1)| |SK| |C|Mage|
+N (66.1, 20.1) |SK| |C|Mage|
 T The Balnir Farmstead |QID|1882| |N|Talk to Anastasia Hartwell - Talk to Anastasia in the Magic Quarter - (85.1, 10.1)| |C|Mage|
 R Enter Undercity |N|(61.8, 65.1)| |O| |C|Rogue|
 N (66.1, 20.1) |O| |C|Rogue|

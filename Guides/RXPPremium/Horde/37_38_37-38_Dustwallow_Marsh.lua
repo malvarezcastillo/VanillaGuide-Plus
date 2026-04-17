@@ -19,13 +19,13 @@ A The Black Shield |QID|1322| |N|Talk to Do'gol - Talk to Do'gol - (36.5, 30.8)|
 N Kill Darkfang Spiders. Loot them for their Venom Sacs - Bloodfen Raptors share spawns with Darkfang spiders, so kill them too if needed |QID|1322| |O|
 A Questioning Reethe |QID|1273| |N|Talk to Ogron - Talk to Ogron - This starts an escort quest! - Be careful, this quest is hard as you must kill four mobs simultaneously. Find a group if needed, or skip this quest - (41.0, 36.7)|
 N Talk to Ogron - Four mobs will spawn when you reach the camp. They will attack after their roleplay - Let Ogron aggro one and use your cooldowns to kill the other three - (42.5, 38.0) |QID|1273|
-N Kill any Theramore Infiltrator you encounter - (42.1, 26.0) |QID|1201| |O|
+N Kill any Theramore Infiltrator you encounter - (42.1, 26.0) |QID|1201| |SK|
 A Stinky's Escape |QID|1270| |N|Talk to "Stinky" Ignatz - Talk to "Stinky" Ignatz, then start his escort - (46.9, 17.5)|
 N Talk to "Stinky" Ignatz - Escort Stinky - Be careful! Bloodfen Screechers call for help at 33% health |QID|1270|
 A Jarl Needs Eyes |QID|1206| |N|Talk to "Swamp Eye" Jarl - Talk to "Swamp Eye" Jarl - (55.4, 26.3)|
 A The Lost Report |QID|1238| |N|Click the Loose Dirt West of "Swamp Eye" Jarl's house - (55.4, 25.9)|
 N Kill Mirefin Murlocs. Loot them for their Heads - (57.8, 21.3) |QID|1177|
-N Kill any Theramore Infiltrator you encounter |QID|1201| |O|
+N Kill any Theramore Infiltrator you encounter |QID|1201| |SK|
 N Kill all Darkmist Spiders. Loot them for their Eyes - (35.9, 20.7) |QID|1206|
 N Finish killing Theramore Infiltrators - (42.1, 26.0) |QID|1201|
 N Kill Darkfang Spiders. Loot them for their Venom Sacs - Bloodfen Raptors share spawns with Darkfang spiders, so kill them too if needed - (37.8, 27.1) |QID|1322|
@@ -46,19 +46,19 @@ G Grind Murlocs until you are at least 71900+/76100xp |N|(57.2, 21.0)| |M|hardco
 N Grind Murlocs until your hearthstone cooldown is <5 minutes - (57.2, 21.0)
 G Grind Murlocs until you are at least 80575+/85700xp |N|(57.2, 21.0)|
 N Swim along the eastern side of Theramore. Open the Captain's Footlocker for the Captain's Documents - Be careful of the Coral Shark (level 47 elite) that patrols around the Footlocker - Be VERY careful of Theramore Guards! They have a huge agro range - (71.5, 51.3) |QID|1202| |M|speedrun|
-D Die and respawn |N|(69.6, 50.0)| |O| |M|speedrun|
-D Die and respawn |O| |M|speedrun|
+D Die and respawn |N|(69.6, 50.0)| |SK| |M|speedrun|
+D Die and respawn |SK| |M|speedrun|
 T The Theramore Docks |QID|1202| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)| |M|speedrun|
 T The Theramore Docks |QID|1202| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)| |M|speedrun|
 A The Troll Witchdoctor |QID|1240| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)| |M|speedrun|
 A The Troll Witchdoctor |QID|1240| |N|Talk to Nazeer Bloodpike - Talk to Nazeer - (35.3, 30.7)| |M|hardcore|
-R Camp Taurajo >>Fly to Camp Taurajo |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O|
+R Camp Taurajo >>Fly to Camp Taurajo |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK|
 N (46.3, 90.3) |O|
 A An Unholy Alliance |QID|6521| |N|Talk to Varimathras - Have somebody in your group share the following quests if possible. Alternatively, go to Undercity to pick them up yourself| |O|
 A Bring the End |QID|3341| |N|Talk to Andrew Brownell - Have somebody in your group share the following quest if possible. Alternatively, go to Undercity to pick it up yourself| |O|
-N Kill Ambassador Malcin. Loot him for his Head - He can spawn at 4 different tents outside the instance - (46.3, 90.3) |QID|6521| |O|
+N Kill Ambassador Malcin. Loot him for his Head - He can spawn at 4 different tents outside the instance - (46.3, 90.3) |QID|6521| |SK|
 A A Host of Evil |QID|6626| |N|Talk to Myriam Moonsinger - Talk to Myriam Moonsinger - (49.0, 94.9)|
-N Kill Razorfen Battleguards, Razorfen Thornweavers and Death's Head Cultists - This quest is completed outside of the Instance |QID|6626| |O|
+N Kill Razorfen Battleguards, Razorfen Thornweavers and Death's Head Cultists - This quest is completed outside of the Instance |QID|6626| |SK|
 N Kill Ambassador Malcin. Loot him for his Head - He can spawn at 4 different tents outside the instance - (48.6, 95.7) |QID|6521|
 N Kill Razorfen Battleguards, Razorfen Thornweavers and Death's Head Cultists - This quest is completed outside of the Instance - (48.2, 92.3) |QID|6626|
 T A Host of Evil |QID|6626| |N|Talk to Myriam Moonsinger - Talk to Myriam Moonsinger - (49.0, 94.9)|
@@ -93,20 +93,20 @@ N Talk to Jin'sora - Talk to Jin'sora - Buy a [Massive Longbow] from him if it's
 N Talk to Trak'gen - Talk to Trak'gen - Buy [Razor Arrows] from him - Collect item 3030 (x2600) - (48.1, 80.5) |C|Hunter|
 N Talk to Trak'gen - Talk to Trak'gen - Buy [Jagged Arrows] from him - Collect item 11285 (x2600) - (48.1, 80.5) |C|Hunter|
 t Train [Wolf Riding] |N|Talk to Ogunaro Wolfrunner - Talk to Kildar and Ogunaro - Buy a [Wolf] - (69.4, 13.1)| |O| |C|!Warlock| |R|Orc|
-N Cast Cast [Teleport: Orgrimmar] |O| |C|Mage| |R|Troll|
+N Cast Cast [Teleport: Orgrimmar] |SK| |C|Mage| |R|Troll|
 t Train [Raptor Riding] |N|Talk to Zjolnir - Talk to Xar'Ti and Zjolnir - Buy a [Raptor] - (55.3, 75.5)| |O| |R|Troll|
 t Train your class spells |N|Talk to Mirket - Talk to Mirket - (48.6, 47.0)| |C|Warlock|
 A Summon Felsteed |QID|3631| |N|Talk to Mirket - Talk to Mirket - (48.6, 47.0)| |C|Warlock|
 N Talk to Kurgul - Talk to Kurgul - Buy any pet upgrades you can afford - (47.5, 46.7) |C|Warlock|
-R Ratchet >> Fly to Ratchet |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O| |C|Warlock|
+R Ratchet >> Fly to Ratchet |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK| |C|Warlock|
 T Summon Felsteed |QID|3631| |N|Talk to Strahad Farsan - Talk to Strahad Farsan - (62.6, 35.5)| |C|Warlock|
 R Orgrimmar >> Fly to Orgrimmar |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |C|Warlock|
 R Thunder Bluff >> Fly to Thunder Bluff |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O| |R|Tauren|
 t Train [Kodo Riding] |N|Talk to Harb Clawhoof - Talk to Xar'Ti and Zjolnir - Buy a [Kodo] - (47.6, 58.5)| |O| |R|Tauren|
 R Hearthstone |U|6948| |O| |R|Tauren|
 R Orgrimmar >> Fly to Orgrimmar |N|Talk to Tal - Talk to Tal - (47.0, 49.8)| |O| |R|Tauren|
-R Leave Orgrimmar |O| |C|!Mage|
-R Leave Orgrimmar |O| |C|!Mage|
+R Leave Orgrimmar |SK| |C|!Mage|
+R Leave Orgrimmar |SK| |C|!Mage|
 R Take the Zeppelin to Undercity |N|(50.8, 13.8)| |C|!Mage|
 R Take the Zeppelin to Undercity |N|(50.8, 13.8)| |C|!Mage|
 N Cast Cast [Teleport: Undercity] |C|Mage|
@@ -119,7 +119,7 @@ N Talk to Hannah Akeley - Talk to Hannah - Buy two or more [Rune of Teleportatio
 N (51.9, 64.7) |O|
 T An Unholy Alliance |QID|6521| |N|Talk to Varimathras - Talk to Varimathras - (56.2, 92.2)| |O|
 A Into The Scarlet Monastery |QID|1048| |N|Talk to Varimathras - Talk to Varimathras - (56.2, 92.2)|
-N (47.2, 59.7) |O|
+N (47.2, 59.7) |SK|
 A Hearts of Zeal |QID|1113| |N|Talk to Master Apothecary Faranell - Talk to Faranell - (48.8, 69.3)|
 t Train [Undead Horsemanship] |N|Talk to Zachariah Post - Talk to Velma and Zachariah - Buy a [Skeletal Horse] - (60.1, 52.5)| |O| |C|!Warlock| |R|Undead|
 N (47.4, 19.7)
@@ -128,10 +128,10 @@ N Kill Scarlet mobs. Loot them for their Hearts of Zeal |QID|1113| |O|
 N Kill Houndmaster Loksey, Herod, High Inquisitor Whitemane and Scarlet Commander Mograine - Houndmaster Loksey is located in the Library - Herod is located in the Armory - High Inquisitor Whitemane and Scarlet Commander Mograine are located in the Cathedral |QID|1048|
 N Loot the Compendium of the Fallen - It's located in a bookshelf on the left in the last corner of the dungeon |QID|1049| |R|!Undead|
 N Cast Cast [Teleport: Undercity] |O| |C|Mage|
-N (66.1, 9.2) |O| |C|!Mage|
-N (51.9, 64.7) |O|
+N (66.1, 9.2) |SK| |C|!Mage|
+N (51.9, 64.7) |SK|
 T Into The Scarlet Monastery |QID|1048| |N|Talk to Varimathras - Talk to Varimathras - (56.2, 92.2)|
-N (47.2, 59.7) |O|
+N (47.2, 59.7) |SK|
 T Hearts of Zeal |QID|1113| |N|Talk to Master Apothecary Faranell - Talk to Faranell - (48.8, 69.3)|
 
 ]]

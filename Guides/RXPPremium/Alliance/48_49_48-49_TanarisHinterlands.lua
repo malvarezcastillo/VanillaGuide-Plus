@@ -27,19 +27,19 @@ C Use the [Untapped Dowsing Widget] at the Sandsorrow Watch pond. Avoid the Elit
 A Noxious Lair Investigation |QID|82| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)|
 N Kill Centipaar Sandreavers, Centipaar Swarmers, Centipaar Stingers, Centipaar Tunnelers, and Centipaar Wasps. Loot them for Centipaar Insect Parts - Be careful as all Centipaar cast [Thrash] (Charges 2 extra attacks every 10 seconds), Centipaar Sandreavers cast [Arcing Smash] (Deals an extra melee attack), Centipaar Swarmers cast [Silithid Swarm] (Summons a 1 health mob every 10 seconds that deals current-level attack damage, instantly dies to AoE), Centipaar Stingers cast [Venom Sting] (deals 11-12 damage every 5 seconds for 45 seconds), Centipaar Tunnelers cast [Pierce Armor] (Reduces armor by 50% for 20 seconds), and Centipaar Wasps cast [Poison] (deals 33-34 damage every 3 seconds for 30 seconds) - (35.7, 39.8) |QID|82|
 N Kill Rocs and Fire Rocs. Loot them for their Gizzards - The Rocs share spawns with Starving Blisterpaws. You may need to kill Starving Blisterpaws to force Rocs to spawn - (55.6, 25.5) |QID|1452|
-N Don't go out of your way to kill Thistleshrub mobs for this quest, you'll have another opportunity to do it later, focus on killing Dew Collectors |QID|3362| |O|
+N Don't go out of your way to kill Thistleshrub mobs for this quest, you'll have another opportunity to do it later, focus on killing Dew Collectors |QID|3362| |SK|
 N Kill Dew Collectors. Loot them for the Dew Gland - (28.7, 64.1) |QID|2605|
-D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 A In Good Taste |QID|2606| |N|Talk to Marin Noggenfogger - Talk to Marin Noggenfogger - (51.8, 28.7)|
 A Sprinkle's Secret Ingredient |QID|2641| |N|Talk to Sprinkle - Talk to Sprinkle - (51.0, 26.9)|
 T Noxious Lair Investigation |QID|82| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|
 A The Scrimshank Redemption |QID|10| |N|Talk to Senior Surveyor Fizzledowser - Talk to Senior Surveyor Fizzledowser - (50.2, 27.5)|
 F Theramore >> Fly to Theramore |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)|
 R Take the boat to Menethil Harbor |N|(71.4, 56.1)|
-F Hinterlands >> Fly to Hinterlands |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)| |O|
+F Hinterlands >> Fly to Hinterlands |N|Talk to Shellei Brondir - Talk to Shellei Brondir - (9.5, 59.7)| |SK|
 A Witherbark Cages |QID|2988| |N|Talk to Gryphon Master Talonaxe - Talk to Gryphon Master Talonaxe - (9.8, 44.5)|
 A Troll Necklace Bounty |QID|2880| |N|Talk to Fraggar Thundermantle - Talk to Fraggar Thundermantle - (14.8, 44.6)|
-N Loot the Wildkin Feathers on the ground - These are scattered on the ground throughout all of The Hinterlands |QID|3661| |O|
+N Loot the Wildkin Feathers on the ground - These are scattered on the ground throughout all of The Hinterlands |QID|3661| |SK|
 A Rhapsody's Tale |QID|1469| |N|Talk to Rhapsody Shindigger - Talk to Rhapsody Shindigger - (26.9, 48.6)|
 N Kill Witherbark Scalper - Kill Witherbark Trolls. Loot them for their Tribal Necklaces - Collect item 9259 (x5) |O|
 N Click the Third Witherbark Cage - (32.0, 57.3) |QID|2988|
@@ -56,7 +56,7 @@ T Find OOX-09/HL! |QID|485| |N|Talk to Homing Robot OOX-09/HL - Talk to the Homi
 A Rescue OOX-09/HL! |QID|836| |N|Talk to Homing Robot OOX-09/HL - Talk to the Homing Robot OOX-09/HL - (49.4, 37.7)|
 N Talk to Homing Robot OOX-22/FE - Escort the Homing Robot OOX-09/HL to safety - This quest can be hard. You have to fight waves of 3/4 mobs along the way. Skip this step if its too difficult - (72.5, 66.2) |QID|836|
 N Grind until your Hearthstone cooldown is <6min |O|
-N Loot the Pupellyverbos Ports on the ground |QID|580| |O|
+N Loot the Pupellyverbos Ports on the ground |QID|580| |SK|
 C Use the [Super Snapper FX] on Gammerita |QID|2944| |N|This will cause Gammerita to agro you. Be ready to run away after using it - (82.0, 49.4)| |U|9328|
 N Loot the Pupellyverbos Ports on the ground - (81.7, 49.3) |QID|580|
 T Cortello's Riddle |QID|626| |N|Click on Cortello's Treasure underwater - (80.8, 46.8)|

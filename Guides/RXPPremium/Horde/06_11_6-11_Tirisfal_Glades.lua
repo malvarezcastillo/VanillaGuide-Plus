@@ -10,7 +10,7 @@ N 6-11 Tirisfal Glades |N|Converted from RestedXP guide|
 A Fields of Grief |QID|365| |N|Talk to Deathguard Simmer - Talk to Simmer - (40.9, 54.2)|
 A Gordo's Task |QID|5481| |N|Talk to Gordo. - He's an abomination that patrols along the road to Brill - (56.1, 52.5)|
 t Train [Tailoring]. Save up your [Linen Cloth]. This will allow you to create a wand later |N|Talk to Bowen Brisboise - Talk to Bowen - (52.6, 55.5)| |C|Priest|
-D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 A At War With The Scarlet Crusade |QID|427| |N|Talk to Executor Zygand - Talk to Dillinger and Zygand - (58.2, 51.5)|
 N Talk to Mrs. Winters - Talk to Mrs. Winters. Buy  [Weighted Throwing Axe] from her - Weighted Throwing Axe (200) - (61.1, 52.6) |C|Rogue|
 N Talk to Oliver Dwor - Talk to Oliver - Vendor trash. Sell your weapon if it gives you enough money for a [Stiletto] (4s 01c). You'll come back later if you don't have enough yet - (60.1, 53.5) |C|Rogue|
@@ -38,7 +38,7 @@ N Loot the Gloom Weed on the ground - Gloom Weed (3) |QID|5481| |O|
 N Kill any Decrepit Darkhound you see. Loot them for their Blood - Darkhound Blood (5) |QID|367| |O|
 N Kill Rotting Dead and Ravaged Corpses. Loot them for their Claws - Putrid Claw (7) - (52.6, 57.0) |QID|404|
 N Finish looting the Gloom Weed on the ground - Gloom Weed (3) - (39.5, 50.6) |QID|5481|
-N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
+N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |SK|
 N Finish killing Darkhounds. Loot them for their Blood - Darkhound Blood (5) - (44.0, 57.3) |QID|367|
 N Start collecting 3 stacks of [Linen Cloth]. This will be used to make a [Lesser Magic Wand] later - If you don't want to do this or you'd rather buy it from the Auction House later, skip this step - Linen Cloth (60) |O| |C|Priest|
 N Start collecting 3 stacks of [Linen Cloth]. This will be used to make a [Lesser Magic Wand] later - Linen Cloth (60) |O| |C|Priest|
@@ -67,7 +67,7 @@ N Talk to Oliver Dwor - Talk to Oliver - Vendor trash. Sell your weapon if it gi
 N Talk to Oliver. Buy a [Gladius] from him - Collect Gladius (1) - (60.1, 53.5) |C|Warrior|
 N Equip the [Gladius] |U|2488| |O| |C|Warrior|
 A Doom Weed |QID|5482| |N|Talk to Junior Apothecary Holland - Talk to Holland, he patrols around the graveyard. - (57.7, 49.0)| |M|hardcore|
-N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
+N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |SK|
 N Kill Darkhounds. Loot them for their Blood - Darkhound Blood (5) - (56.5, 62.6) |QID|367|
 N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) - (56.5, 62.6) |QID|375| |O| |C|Rogue/Warrior|
 G Grind to 3260+/4500 |N|(56.5, 62.6)| |O| |C|Rogue/Warrior|
@@ -89,9 +89,9 @@ N Equip the [Stiletto] |U|2494| |O| |C|Rogue|
 N Talk to Oliver Dwor - Talk to Oliver - Vendor trash. Sell your weapon if it gives you enough money for a [Gladius] (5s 36c). You'll come back later if you don't have enough yet - (60.1, 53.5) |C|Warrior|
 N Talk to Oliver. Buy a [Gladius] from him - Collect Gladius (1) - (60.1, 53.5) |C|Warrior|
 N Equip the [Gladius] |U|2488| |O| |C|Warrior|
-N Loot the Doom Weed on the ground - They are found near trees in the Gnoll area - Doom Weed (10) |QID|5482| |O|
+N Loot the Doom Weed on the ground - They are found near trees in the Gnoll area - Doom Weed (10) |QID|5482| |SK|
 N Kill Rot Hide Graverobbers. Loot them for their Ichor - Rot Hide Graverobber (8) - Embalming Ichor (8) - (55.2, 42.5) |QID|358|
-N Kill Rot Hide Mongrels. Loot them for their Ichor - Rot Hide Mongrel (5) - Embalming Ichor (8) |QID|358| |O|
+N Kill Rot Hide Mongrels. Loot them for their Ichor - Rot Hide Mongrel (5) - Embalming Ichor (8) |QID|358| |SK|
 N Loot the Doom Weed on the ground - They are found near trees in the Gnoll area - Doom Weed (10) - (57.5, 36.0) |QID|5482|
 N Kill Rot Hide Mongrels. Loot them for their Ichor - Rot Hide Mongrel (5) - Embalming Ichor (8) |QID|358| |O|
 N Kill Maggot Eye. Loot him for his Paw - Maggot Eye's Paw (1) - (58.7, 30.8) |QID|398|
@@ -155,12 +155,12 @@ N Talk to Innkeeper Renee - Talk to Innkeeper Renee - Vendor Trash - (61.7, 52.1
 A Ulag the Cleaver |QID|1819| |N|Talk to Deathguard Dillinger - Talk to Dillinger - (58.2, 51.4)| |C|Warrior|
 N Click on the skull on the ground. This will summon Ulag. Kill him - Ulag the Cleaver (1) - (59.2, 48.5) |QID|1819| |C|Warrior|
 A Speak with Coleman |QID|1820| |N|Talk to Deathguard Dillinger - Talk to Dillinger - (58.2, 51.4)| |C|Warrior|
-N (61.8, 65.1) |O| |C|Warlock|
-N (66.1, 20.1) |O| |C|Warlock|
+N (61.8, 65.1) |SK| |C|Warlock|
+N (66.1, 20.1) |SK| |C|Warlock|
 h Undercity |N|Talk to Innkeeper Norman - Talk to Norman - (67.7, 38.0)| |C|Warlock|
 A Creature of the Void |QID|1473| |N|Talk to Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock|
 R Leave Undercity through the Sewers |N|(47.2, 39.1)| |C|Warlock|
-N Loot Perrine's Chest for [Egalin's Grimoire] - Egalin's Grimoire (1) - (51.1, 67.6) |QID|1473| |O| |C|Warlock|
+N Loot Perrine's Chest for [Egalin's Grimoire] - Egalin's Grimoire (1) - (51.1, 67.6) |QID|1473| |SK| |C|Warlock|
 N Kill Captain Perrine, Scarlet Zealots and Scarlet Missionaries. Loot them for their Scarlet Insignia Rings - Captain Perrine (1) - Scarlet Zealot (3) - Scarlet Missionary (3) - Scarlet Insignia Ring (10) - (50.1, 68.9) |QID|374|
 N Loot Perrine's Chest on the ground for [Egalin's Grimoire] - Egalin's Grimoire (1) - (51.1, 67.6) |QID|1473| |C|Warlock|
 R Travel into the Undercity through the sewers |N|(16.5, 42.8)| |O|
@@ -173,7 +173,7 @@ N Talk to Auctioneer Rhyker - Talk to Auctioneer Rhyker - If you don't want to o
 N Talk to Auctioneer Rhyker - Talk to Auctioneer Rhyker - Buy Six [Discolored Worg Hearts] from the Auction House - Skip this if you want, it's only a small time saver - Collect Discolored Worg Heart (x6) - (64.2, 49.6) |O| |C|!Priest|
 h Undercity |N|Talk to Innkeeper Norman - Talk to Norman - (67.7, 38.0)| |C|!Warlock|
 A The Binding |QID|1471| |N|Talk to Carendin Halgar - Talk to Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock|
-N Cast Use the [Runes of Summoning] at the Summoning Circle |U|6284| |O| |C|Warlock|
+N Cast Use the [Runes of Summoning] at the Summoning Circle |U|6284| |SK| |C|Warlock|
 N Kill Summoned Voidwalker - Kill the Summoned Voidwalker - Kill Summoned Voidwalker (1) - (86.6, 27.1) |QID|1471| |U|6284| |C|Warlock|
 T The Binding |QID|1471| |N|Talk to Carendin Halgar - Talk to Carendin - (85.0, 26.0)| |C|Warlock|
 N Talk to Charles Seaton - Talk to Charles Seaton in the Rogue Quarter - Buy a [Claymore] from him - Collect Claymore (1) - (77.1, 49.4) |C|Warrior|
@@ -192,20 +192,20 @@ T The Prodigal Lich |QID|405| |N|Talk to Bethor Iceshard - Talk to Bethor in the
 N If you can't do this, just run out of Undercity normally - (84.9, 20.3)
 N If you can't do this, just run out of Undercity normally |C|!Mage/!Warlock|
 R Exit Undercity |N|(61.9, 64.8)| |O|
-N If you see Astor, talk to him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher - Astor's Letter of Introduction (1) |QID|1886| |O| |C|Rogue| |R|Undead|
+N If you see Astor, talk to him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher - Astor's Letter of Introduction (1) |QID|1886| |SK| |C|Rogue| |R|Undead|
 T Proof of Demise |QID|374| |N|Talk to Deathguard Burgess - Talk to Burgess - (60.9, 52.0)| |O|
 A At War With The Scarlet Crusade |QID|371| |N|Talk to Executor Zygand - Talk to Zygand - (60.6, 51.8)|
 N Talk to Mrs. Winters - Talk to Mrs. Winters - Buy a [Small Brown Pouch] from her - Small Brown Pouch (1) - (61.1, 52.6)
 T Speak with Coleman |QID|1820| |N|Talk to Coleman Farthing - Talk to Coleman - (61.7, 52.3)| |C|Warrior|
-N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
+N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |SK|
 A Rear Guard Patrol |QID|356| |N|Talk to Deathguard Linnea - Talk to Linnea - (65.5, 60.2)|
 N Kill Duskbats. Loot them for their Pelts - Duskbat Pelt (5) |QID|375| |O|
 N (76.5, 61.8)
-N Kill Bleeding Horrors and Wandering Spirits - Bleeding Horror (8) - Wandering Spirit (8) |QID|356| |O| |C|Mage|
+N Kill Bleeding Horrors and Wandering Spirits - Bleeding Horror (8) - Wandering Spirit (8) |QID|356| |SK| |C|Mage|
 N Loot any of the plants on the ground for a Balnir Snapdragon - Balnir Snapdragons (1) - (77.5, 62.0) |QID|1882| |C|Mage|
 N Kill Bleeding Horrors and Wandering Spirits - Bleeding Horror (8) - Wandering Spirit (8) - (74.3, 61.0) |QID|356|
-N Kill Scarlet Friars and Scarlet Zealots. Loot them for their Scarlet Insignia Rings - Scarlet Friar (5) - Scarlet Insignia Ring (10) - (81.0, 57.2) |QID|374| |O|
-N Kill Scarlet Friars - Scarlet Friar (5) - (81.0, 57.2) |QID|371|
+N Kill Scarlet Friars and Scarlet Zealots. Loot them for their Scarlet Insignia Rings - Scarlet Friar (5) - Scarlet Insignia Ring (10) - (81.0, 57.2) |QID|374| |SK|
+N Kill Scarlet Friars - Scarlet Friar (5) - (81.0, 57.2) |QID|371| |SK|
 N Kill Captain Vachon inside the tower - Captain Vachon (1) - (78.8, 56.1) |QID|371|
 N Kill Scarlet Friars and Scarlet Zealots. Loot them for their Scarlet Insignia Rings - Scarlet Insignia Ring (10) - (81.0, 57.2) |QID|374|
 N Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest - Linen Cloth (60) - (81.0, 57.2) |O| |C|Priest|
@@ -253,7 +253,7 @@ T The Deathstalkers |QID|1978| |N|Talk to Varimathras - Talk to Varimathras - (5
 N If you can't do this, just run out of Undercity normally - (55.2, 90.9) |O|
 A Return the Book |QID|366| |N|Talk to Bethor Iceshard - Talk to Bethor - (84.1, 17.5)| |C|Rogue|
 N If you can't do this, just run out of Undercity normally - (84.9, 20.3)
-R Exit Undercity |N|(61.9, 64.8)| |O|
+R Exit Undercity |N|(61.9, 64.8)| |SK|
 T Rear Guard Patrol |QID|356| |N|Talk to Deathguard Linnea - Talk to Linnea - (65.5, 60.2)|
 N Kill Captain Melrache and his Scarlet Bodyguards in the tower. Loot them for their Scarlet Insignia Rings - Captain Melrache (1) - Scarlet Bodyguard (2) - Scarlet Insignia Ring (10) - (79.5, 25.1) |QID|374|
 N Finish collecting Scarlet Insignia Rings - Scarlet Insignia Ring (10) - (79.0, 28.5) |QID|374|
@@ -261,7 +261,7 @@ N Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last
 N Finish killing Duskbats. Loot them for their Pelts - Duskbat Pelt (5) - (72.2, 33.2) |QID|375|
 A Proving Allegiance |QID|409| |N|Talk to Gunther Arcanus - Talk to Gunther - (68.2, 41.9)|
 N Open the Crate of Candles on the ground. Loot it for the Candle of Beckoning - Collect Candle of Beckoning (1) - (68.2, 42.0) |O|
-N Click Lillith's Dinner Table to spawn Nefara - (66.6, 44.9) |O|
+N Click Lillith's Dinner Table to spawn Nefara - (66.6, 44.9) |SK|
 N Talk to Lillith Nefara - Kill Nefara - Lillith Nefara (1) - (66.7, 45.0) |QID|409|
 A The Prodigal Lich Returns |QID|411| |N|Talk to Gunther Arcanus - Talk to Gunther - (68.2, 41.9)|
 G Grind to 4900+/8800xp

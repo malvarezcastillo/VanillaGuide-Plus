@@ -292,6 +292,22 @@ def parse_step(step_lines, step_filter, current_zone):
             step_mode = 'speedrun'
             break
 
+    # Detect sticky / completewith directives.
+    # #sticky OR #completewith next → sticky preview (shown above the next real step).
+    # #completewith <other> → treated as optional (legacy behavior).
+    step_sticky = False
+    step_optional = False
+    for raw in step_lines:
+        s = raw.strip()
+        if s == '#sticky':
+            step_sticky = True
+        elif s == '#completewith next':
+            step_sticky = True
+        elif s.startswith('#completewith'):
+            step_optional = True
+        elif s == '#optional':
+            step_optional = True
+
     result = {
         'action': None,
         'quest': None,
@@ -302,7 +318,8 @@ def parse_step(step_lines, step_filter, current_zone):
         'class': step_cls,
         'race': step_race,
         'mode': step_mode,
-        'optional': False,
+        'optional': step_optional and not step_sticky,
+        'sticky': step_sticky,
     }
 
     notes = []
@@ -336,8 +353,10 @@ def parse_step(step_lines, step_filter, current_zone):
             continue
 
         # Directives
-        if body.startswith('#completewith') or body.startswith('#optional'):
-            result['optional'] = True
+        # #sticky / #completewith / #optional already processed in the pre-scan above.
+        # Swallow them here so they don't fall through to the generic "skip #directives" branch
+        # (that would miss informational content on the same line, though none currently exists).
+        if body.startswith('#sticky') or body.startswith('#completewith') or body.startswith('#optional'):
             continue
         if body.startswith('#'):
             # Skip other directives (#label, #requires, #sticky, #loop, #season, #name, etc.)
@@ -520,6 +539,9 @@ def step_to_turtleguide(step):
 
     if step.get('optional'):
         parts.append(" |O|")
+
+    if step.get('sticky'):
+        parts.append(" |SK|")
 
     if step.get('class'):
         parts.append(f" |C|{step['class']}|")

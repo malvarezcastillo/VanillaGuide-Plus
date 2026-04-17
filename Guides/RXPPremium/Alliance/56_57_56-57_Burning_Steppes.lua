@@ -25,7 +25,7 @@ F Searing Gorge>> Fly to Searing Gorge |N|Talk to Gryth Thurden - Talk to Gryth 
 N Try to find group members while flying to complete Release Them and Prayer to Elune. You will accept them both shortly - (35.2, 42.6)
 A Release Them |QID|3372| |N|Talk to Dying Archaeologist - Talk to the Dying Archaeologist - (41.2, 25.5)|
 A Release Them |QID|3372| |N|Talk to Dying Archaeologist - Talk to the Dying Archaeologist - (41.2, 25.5)|
-N Logout skip out of the cave. There are MANY different spots you can use |O|
+N Logout skip out of the cave. There are MANY different spots you can use |SK|
 N Open the Twilight Artifact. Loot it for the Mysterious Artifact - Jump onto the Twilight Artifact to loot it - Skip this step if you are unable to complete it - (24.6, 31.0) |QID|3372|
 R Prayer to Elune |QID|3378| |N|Talk to Zamael Lunthistle - Talk to Zamael Lunthistle - (29.5, 26.3)|
 N Kill Twilight Idolater - Kill Twilight Dark Shamans, Twilight Fire Guards, Twilight Geomancers and Twilight Idolaters. Loot them for the Prayer to Elune - Skip this step if you are unable to complete it - (23.0, 37.8) |QID|3378|
@@ -33,37 +33,37 @@ N (35.2, 42.6)
 T Release Them |QID|3372| |N|Click the Altar of Suntara - (41.3, 25.4)|
 A Rise, Obsidion! |QID|3566| |N|Talk to Dying Archaeologist - Talk to Dying Archaeologist - (41.2, 25.5)|
 N Kill Lathoric the Black and Obsidion. Loot them for the Head of Lathoric the Black and the Heart of Obsidion |QID|3566|
-N Logout skip out of the cave. There are MANY different spots you can use |O|
+N Logout skip out of the cave. There are MANY different spots you can use |SK|
 F Burning Steppes>> Fly to Burning Steppes |N|Talk to Lanie Reed - Talk to Lanie Reed - (37.9, 30.9)|
 F Burning Steppes>> Fly to Burning Steppes |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)|
 F Redridge >> Fly to Redridge |N|Talk to Gryth Thurden - Talk to Gryth Thurden - (55.5, 47.7)|
-R Travel to Burning Steppes |N|(78.7, 81.1)| |O|
+R Travel to Burning Steppes |N|(78.7, 81.1)| |SK|
 A Extinguish the Firegut |QID|3823| |N|Talk to Oralius - Talk to Oralius - (82.4, 63.6)|
 N Kill Firegut Ogre Mages, Firegut Ogres and Firegut Brutes - (75.3, 48.6) |QID|3823|
 A FIFTY! YEP! |QID|4283| |N|Talk to Oralius - Talk to Oralius - (84.6, 68.7)|
 A Dragonkin Menace |QID|4182| |N|Talk to Helendis Riverhorn - Talk to Helendis Riverhorn - (85.8, 68.9)|
-N (65.2, 24.0) |O|
+N (65.2, 24.0) |SK|
 A Tablet of the Seven |QID|4296| |N|Talk to Maxwort Uberglint - Talk to Tinkee Steamboil and Maxwort Uberglint - (65.2, 24.0)|
 N Kill Black Broodlings, Black Dragonspawns, Black Wyrmkins and a Black Drake - This quest can be hard but rewards a lot of XP at the end. Try to find a group if required or skip it if its too difficult - (81.8, 27.8) |QID|4182| |O|
-C Use the [Draco-Incarcinatrix 900] on Black Broodlings, then kill them. Note that taking damage will stop your cast |QID|4726| |N|Loot the Broodling Essence on the ground after they die - (81.8, 27.8)| |U|12284| |O|
+C Use the [Draco-Incarcinatrix 900] on Black Broodlings, then kill them. Note that taking damage will stop your cast |QID|4726| |N|Loot the Broodling Essence on the ground after they die - (81.8, 27.8)| |U|12284| |SK|
 A A Taste of Flame |QID|4022| |N|Talk to Cyrus Therepentous - Talk to Cyrus Therepentous - (95.1, 31.6)|
 T A Taste of Flame |QID|4022| |N|Talk to Cyrus Therepentous - Talk to Cyrus Therepentous - Select the gossip option: "I present you with proof of my deeds, Cyrus." - (95.1, 31.6)|
 C Use the [Draco-Incarcinatrix 900] on Black Broodlings, then kill them. Note that taking damage will stop your cast |QID|4726| |N|Loot the Broodling Essence on the ground after they die - (91.6, 33.5)| |U|12284|
 N Kill Black Broodlings, Black Dragonspawns, Black Wyrmkins and a Black Drake - This quest can be hard but rewards a lot of XP at the end. Try to find a group if required or skip it if its too difficult - (81.8, 27.8) |QID|4182|
-N Click the Thaurissan Relics on the ground |QID|3701| |O|
+N Click the Thaurissan Relics on the ground |QID|3701| |SK|
 N Click the Tablet of the Seven. Loot it for the Tablet Transcript - (54.1, 40.8) |QID|4296|
 N Click the Thaurissan Relics on the ground - (54.2, 38.3) |QID|3701|
-N Kill Blackrock Orcs and Worgs. Loot them for their Blackrock Medallions |QID|4283| |O|
+N Kill Blackrock Orcs and Worgs. Loot them for their Blackrock Medallions |QID|4283| |SK|
 N Kill Gor'tesh. Loot him for his Head - Gor'tesh hits very hard and has a thrash attack, be careful - (39.2, 55.3) |QID|3824|
 N Kill Blackrock Orcs and Worgs. Loot them for their Blackrock Medallions - (39.2, 55.3) |QID|4283|
 A Ogre Head On A Stick = Party |QID|3825| |N|Talk to Oralius - Talk to Oralius - (84.6, 68.7)|
 A The True Masters |QID|4183| |N|Talk to Helendis Riverhorn - Talk to Helendis Riverhorn - (85.8, 68.9)|
 A The True Masters |QID|4183| |N|Talk to Helendis Riverhorn - Talk to Helendis Riverhorn - (85.8, 68.9)|
-F Redridge >> Fly to Redridge Mountains |N|Talk to Borgus Stoutarm - Talk to Borgus Stoutarm - (84.3, 68.3)| |O|
+F Redridge >> Fly to Redridge Mountains |N|Talk to Borgus Stoutarm - Talk to Borgus Stoutarm - (84.3, 68.3)| |SK|
 A The True Masters |QID|4184| |N|Talk to Magistrate Solomon - Talk to Magistrate Solomon - (30.0, 44.5)|
 R Stormwind >> Fly to Stormwind |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)|
 R A Donation of Runecloth |QID|7795| |N|Talk to Clavicus Knavingham - Talk to Clavicus Knavingham up stairs - Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (44.3, 74.0)|
-N (47.9, 31.3) |O|
+N (47.9, 31.3) |SK|
 A Good Natured Emma |QID|5048| |N|Talk to Royal Factor Bathrilor - Talk to Royal Factor Bathrilor inside on the 2nd floor - (48.5, 30.6)|
 A Good Luck Charm |QID|5050| |N|Talk to Ol' Emma - Talk to Ol' Emma inside on the 2nd floor - She also sometimes patrols through the trade district and back to her house (see line on your map for reference) - (52.6, 41.8)|
 R Into The Temple of Atal'Hakkar |QID|1475| |N|Talk to Brohann Caskbelly - Talk to Brohann Caskbelly - (64.3, 20.6)|
@@ -71,25 +71,25 @@ A The True Masters |QID|4185| |N|Talk to Highlord Bolvar Fordragon - Talk to Hig
 A The First and the Last |QID|6182| |N|Talk to Highlord Bolvar Fordragon - Talk to Highlord Bolvar Fordragon - (78.2, 18.0)|
 N Talk to Lady Katrana Prestor - Talk to Lady Katrana Prestor - (78.1, 17.8) |QID|4185|
 A The True Masters |QID|4186| |N|Talk to Highlord Bolvar Fordragon - Talk to Highlord Bolvar Fordragon - (78.2, 18.0)|
-N (74.9, 54.0) |O|
+N (74.9, 54.0) |SK|
 A Flint Shadowmore |QID|6184| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)|
-F Redridge>> Fly to Redridge Mountains |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |O|
+F Redridge>> Fly to Redridge Mountains |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |SK|
 A The True Masters |QID|4223| |N|Talk to Magistrate Solomon - Talk to Magistrate Solomon - (30.0, 44.5)|
-F Burning Steppes >> Fly to Burning Steppes |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |O|
+F Burning Steppes >> Fly to Burning Steppes |N|Talk to Ariena Stormfeather - Talk to Ariena Stormfeather - (30.6, 59.4)| |SK|
 A The True Masters |QID|4224| |N|Talk to Marshal Maxwell - Talk to Marshal Maxwell - (84.7, 69.0)|
-N (65.2, 24.0) |O|
+N (65.2, 24.0) |SK|
 T Tablet of the Seven |QID|4296| |N|Talk to Maxwort Uberglint - Talk to Tinkee Steamboil and Maxwort Uberglint - (65.2, 24.0)|
 N Talk to Ragged John - Talk to Ragged John - (65.0, 23.8) |QID|4224|
 N Click the Soft Dirt Mound atop the mountain - (81.0, 46.8) |QID|3825|
 T Ogre Head On A Stick = Party |QID|3825| |N|Talk to Oralius - Talk to Oralius - (84.6, 68.7)|
 T The True Masters |QID|4224| |N|Talk to Marshal Maxwell - Talk to Marshal Maxwell - (84.7, 69.0)|
 R Stormwind >> Fly to Stormwind |N|Talk to Borgus Stoutarm - Talk to Borgus Stoutarm - (84.3, 68.3)|
-N (47.9, 31.3) |O|
+N (47.9, 31.3) |SK|
 A Good Natured Emma |QID|5048| |N|Talk to Royal Factor Bathrilor - Talk to Royal Factor Bathrilor inside on the 2nd floor - (48.5, 30.6)|
 A Good Luck Charm |QID|5050| |N|Talk to Ol' Emma - Talk to Ol' Emma inside on the 2nd floor. - She also sometimes patrols through the trade district and back to her house (see line on your map for reference) - (52.6, 41.8)|
 R Into The Temple of Atal'Hakkar |QID|1475| |N|Talk to Brohann Caskbelly - Talk to Brohann Caskbelly - (64.3, 20.6)|
 A The First and the Last |QID|6182| |N|Talk to Highlord Bolvar Fordragon - Talk to Highlord Bolvar Fordragon - (78.2, 18.0)|
-N (74.9, 54.0) |O|
+N (74.9, 54.0) |SK|
 A Flint Shadowmore |QID|6184| |N|Talk to Master Mathias Shaw - Talk to Master Mathias Shaw - (75.8, 59.8)|
 R A Donation of Runecloth |QID|7795| |N|Talk to Clavicus Knavingham - Talk to Clavicus Knavingham up stairs - Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (44.3, 74.0)|
 R You will now run Sunken Temple. Start looking for a group. You may fly to Blasted Lands and grind mobs there while you form a group |O|
@@ -101,10 +101,10 @@ A War on the Shadowsworn |QID|8424| |N|Talk to Fallen Hero of the Horde - Talk t
 N Kill Shadowsworn Adepts, Shadowsworn Cultists and Shadowsworn Thugs - (63.8, 30.1) |QID|8424| |C|Warrior|
 T War on the Shadowsworn |QID|8424| |N|Talk to Fallen Hero of the Horde - Talk to the Fallen Hero of the Horde - (34.3, 66.1)| |C|Warrior|
 A Voodoo Feathers |QID|8425| |N|Talk to Fallen Hero of the Horde - Talk to the Fallen Hero of the Horde - (34.3, 66.1)| |C|Warrior|
-N Loot the Atal'ai Tablets on the ground - These can be looted en-route to the instance portal, as well as inside Sunken Temple |QID|1475| |O|
-N Loot the Atal'ai Tablets on the ground |QID|1475|
+N Loot the Atal'ai Tablets on the ground - These can be looted en-route to the instance portal, as well as inside Sunken Temple |QID|1475| |SK|
+N Loot the Atal'ai Tablets on the ground |QID|1475| |SK|
 N Kill Atal'alarion. Loot him for the Putrid Vine - Atal'alarion is on the lower level of Sunken Temple and is summoned by clicking all Atal'ai Statues on the platforms |QID|9053| |O| |C|Druid|
-T Into the Depths |QID|3446| |N|Click on the Altar of Hakkar - The Altar of Hakkar is located on the lower level of Sunken Temple| |O|
+T Into the Depths |QID|3446| |N|Click on the Altar of Hakkar - The Altar of Hakkar is located on the lower level of Sunken Temple| |SK|
 T Secret of the Circle |QID|3447| |N|Click on the Idol of Hakkar - Clicking all of the Atal'ai Statues on the platforms will activate the Idol of Hakkar - The Idol of Hakkar is located on the lower level of Sunken Temple|
 T Into the Depths |QID|3446| |N|Click on the Altar of Hakkar - The Altar of Hakkar is located on the lower level of Sunken Temple|
 N Kill Atal'alarion. Loot him for the Putrid Vine - Atal'alarion is on the lower level of Sunken Temple and is summoned by clicking all Atal'ai Statues on the platforms |QID|9053| |C|Druid|
@@ -117,9 +117,9 @@ T Voodoo Feathers |QID|8425| |N|Talk to Fallen Hero of the Horde - Talk to the F
 R Travel to Stormwind |O|
 R Stormwind >> Fly to Stormwind |N|Talk to Alexandra Constantine - Talk to Alexandra Constantine - (65.5, 24.3)|
 T Into The Temple of Atal'Hakkar |QID|1475| |N|Talk to Brohann Caskbelly - Talk to Brohann Caskbelly - (64.3, 20.6)|
-N Cast Cast Teleport: Moonglade |O| |C|Druid|
+N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
-R Teleport to Ironforge |O| |C|Mage|
+R Teleport to Ironforge |SK| |C|Mage|
 t Train your class spells |N|Talk to Dink - Talk to Dink - (27.2, 8.6)| |C|Mage|
 H Hearthstone |C|!Mage|
 A The Sovereign Imperative |QID|7261| |N|Talk to Lieutenant Rotimer - Talk to Lieutenant Rotimer - (32.2, 63.3)| |M|speedrun|

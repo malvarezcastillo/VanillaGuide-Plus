@@ -32,7 +32,7 @@ t Train [Wolf Riding] |N|Talk to Ogunaro Wolfrunner - Talk to Kildar and Ogunaro
 t Train [Raptor Riding] |N|Talk to Zjolnir - Talk to Xar'Ti and Zjolnir - Buy a [Raptor] - (55.3, 75.5)| |O| |R|Troll|
 R Take the Zeppelin to Undercity |N|(50.8, 13.8)| |O|
 T Bring the End |QID|3341| |N|Talk to Andrew Brownell - Talk to Andrew - (74.0, 33.3)| |O|
-N (51.9, 64.7) |O|
+N (51.9, 64.7) |SK|
 T An Unholy Alliance |QID|6521| |N|Talk to Varimathras - Talk to Varimathras - (56.2, 92.2)| |O|
 R Take the Zeppelin to Stranglethorn Vale |O|
 U Hearthstone |U|6948| |O| |C|Mage|

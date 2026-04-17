@@ -32,18 +32,18 @@ R Travel into Desolace |N|(29.3, 79.7)| |C|Shaman|
 A The Corrupter |QID|1480| |N|Kill Burning Blade Shadowmage - Kill and loot members of the Burning Blade until you get a [Flayed Demon Skin] - Collect item 20310 (x1) - (55.8, 30.1)|
 G Grind Burning Blade mobs at Thunder Axe Fortress to level 35 |N|Kill Burning Blade Adept - (55.9, 29.2)| |C|Warrior/Hunter/Rogue/Druid/Shaman|
 A Sceptre of Light |QID|5741| |N|Talk to Azore Aldamort - Talk to Azore - (38.9, 27.2)|
-N (56.3, 57.1) |O|
+N (56.3, 57.1) |SK|
 T Family Tree |QID|5361| |N|Talk to Nataka Longhorn - Talk to Nataka - (55.4, 55.7)|
 A Befouled by Satyr |QID|1434| |N|Talk to Takata Steelblade - Talk to Takata - (52.6, 54.4)|
 A The Corrupter |QID|1481| |N|Talk to Maurin Bonesplitter - Talk to Maurin - (52.2, 53.5)|
 A Gelkis Alliance |QID|1368| |N|Talk to Gurda Wildmane - Talk to Felgur and Gurda - (56.2, 59.6)|
 A Khan Dez'hepah |QID|1365| |N|Talk to Felgur Twocuts - Talk to Felgur Twocuts - (56.2, 59.6)|
 N Kill Khan Dez'hepah. Loot him for his Head - He has 3 different spawn locations in the camp - (73.2, 41.8) |QID|1365|
-N Kill Hatefury Shadowstalkers. Loot them for a Scalp |QID|1481| |O|
+N Kill Hatefury Shadowstalkers. Loot them for a Scalp |QID|1481| |SK|
 N Kill Hatefury Satyrs. Prioritize killing the Hatefury Rogues - (75.3, 27.9) |QID|1434|
 N Kill Hatefury Shadowstalkers. Loot them for a Scalp - (75.3, 27.9) |QID|1481|
 A Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly - (62.3, 39.0)|
-N (56.3, 57.1) |O|
+N (56.3, 57.1) |SK|
 T Befouled by Satyr |QID|1434| |N|Talk to Takata Steelblade - Talk to Takata - (52.6, 54.4)|
 A The Corrupter |QID|1482| |N|Talk to Maurin Bonesplitter - Talk to Maurin - (52.2, 53.4)|
 N Talk to Harnor - Talk to Harnor - (51.2, 53.3)
@@ -53,7 +53,7 @@ A Kodo Roundup |QID|5561| |N|Talk to Smeed Scrabblescrew - Talk to Smeed - (60.8
 N Kill Magram Centaur. Loot them for their Ears - Be careful of Magram Pack Runners as they have two Hyenas (level 37-38) with them - (69.6, 77.8) |QID|1366|
 N Kill Magram Wrangler - Continue grinding Magram Centaur until your reputation with the Gelkis Centaur is Friendly - Be careful of Magram Pack Runners as they have two Hyenas (level 37-38) with them - (69.6, 77.8)
 G Grind to level 35 17000/67100 |N|Kill Magram Wrangler - (67.9, 73.6)| |C|!Warrior/!Hunter/!Rogue/!Druid/!Shaman|
-N Talk to Smeed Scrabblescrew - Use the [Kodo Kombobulator] on Kodos, then escort them to Smeed - Click on the Kodo after each trip to progress the quest - (60.9, 61.9) |QID|5561| |U|13892| |O|
+N Talk to Smeed Scrabblescrew - Use the [Kodo Kombobulator] on Kodos, then escort them to Smeed - Click on the Kodo after each trip to progress the quest - (60.9, 61.9) |QID|5561| |U|13892| |SK|
 N Loot the Kodo Bones on the ground around the Kodo Graveyard - (53.3, 61.2) |QID|5501|
 N Talk to Smeed Scrabblescrew - Use the [Kodo Kombobulator] on Kodos, then escort them to Smeed - Click on the Kodo after each trip to progress the quest - (54.0, 61.1) |QID|5561| |U|13892|
 T Kodo Roundup |QID|5561| |N|Talk to Smeed Scrabblescrew - Talk to Smeed - (60.8, 61.9)|
@@ -67,11 +67,11 @@ A Other Fish to Fry |QID|6143| |N|Talk to Drulzegar Skraghook - Talk to Drulzega
 f Shadowprey Village >> Get the Shadowprey Village flight path |N|Talk to Thalon - Talk to Thalon at the end of the dock - (21.6, 74.1)|
 T Fish in a Bucket TWICE to receive 2 [Bloodbelly Fish] |QID|5421| |N|Talk to Jinar'Zillen - Talk to Jinar'Zillen - Collect item 13546 (x2) - (22.4, 73.1)|
 N Talk to Tukk - Talk to Tukk - Buy [Razor Arrows] from him - Collect item 3030 (x2600) - (24.9, 71.8) |C|Hunter|
-N (62.3, 39.0) |O|
+N (62.3, 39.0) |SK|
 T Bone Collector |QID|5501| |N|Talk to Bibbly F'utzbuckle - Talk to Bibbly - (62.3, 39.0)|
 C Kill Burning Blade members |QID|1435| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick)| |U|6436| |O|
 N Kill the Burning Blade Seer at the top of the tower. Loot it for the Sceptre - (55.2, 30.1) |QID|5741|
-N (55.3, 27.6) |O|
+N (55.3, 27.6) |SK|
 N Use the [Demon Pick] on the Hand of Iruxos Crystal - Kill the Demon Spirit after it spawns. Loot it for the Demon Box - (54.6, 27.5) |QID|5381|
 C Kill Burning Blade members |QID|1435| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick) - (56.8, 29.9)| |U|6436|
 A Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Return to Azore - (38.9, 27.1)|
@@ -86,11 +86,11 @@ T Claim Rackmore's Treasure! |QID|6161| |N|Click Rackmore's Chest - (30.0, 8.8)|
 N Click the Serpent Statue to summon Lord Kragaru. Kill him and loot him for his Book - Kill everything around the Serpent Statue first! - (28.2, 6.6) |QID|6027|
 N Kill Slitherblade Nagas. Loot them for the Golden Key - (28.5, 11.1) |QID|6161|
 T Claim Rackmore's Treasure! |QID|6161| |N|Click Rackmore's Chest - (30.0, 8.8)|
-N Kill Slitherblade Naga, Myrmidons, and Sorceresses |QID|6143| |O|
+N Kill Slitherblade Naga, Myrmidons, and Sorceresses |QID|6143| |SK|
 N Kill Slitherblade Oracles. Loot them for an Oracle Crystal - Slitherblade Oracles share spawns with other Slitherblade Nagas; you may have to kill them - (28.5, 11.1) |QID|1482|
 N Kill Slitherblade Naga, Myrmidons, and Sorceresses - (32.4, 23.0) |QID|6143|
 T Book of the Ancients |QID|6027| |N|Talk to Azore Aldamort - Return to Azore - (38.9, 27.2)|
-N (56.3, 57.1) |O|
+N (56.3, 57.1) |SK|
 T The Corrupter |QID|1482| |N|Talk to Maurin Bonesplitter - Return to Maurin - (52.2, 53.4)|
 A The Corrupter |QID|1484| |N|Talk to Maurin Bonesplitter - Return to Maurin - Wait for the RP to finish - (52.2, 53.4)|
 T Catch of the Day |QID|5386| |N|Talk to Nataka Longhorn - Talk to Nataka - (55.4, 55.8)|
@@ -101,7 +101,7 @@ A Ongeku |QID|1373| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 
 T Stealing Supplies |QID|1370| |N|Talk to Uthek the Wise - Talk to Uthek the Wise - (36.2, 79.2)|
 H Hearthstone |C|Mage|
 N (27.1, 75.7) |O|
-N Talk to Aboda - Talk to Aboda - (24.9, 68.7) |O| |C|Hunter|
+N Talk to Aboda - Talk to Aboda - (24.9, 68.7) |SK| |C|Hunter|
 t Attack mobs with it to learn [Claw (Rank 5)] |N|Kill Scorpashi Lasher - Cast Cast [Tame Beast] on a Scorpashi Lasher to tame it - (42.5, 70.2)| |C|Hunter|
 N Talk to Aboda - Talk to Aboda - (24.9, 68.7) |C|Hunter|
 A Hunting in Stranglethorn |QID|5763| |N|Talk to Roon Wildmane - Talk to Roon - (25.1, 72.2)|

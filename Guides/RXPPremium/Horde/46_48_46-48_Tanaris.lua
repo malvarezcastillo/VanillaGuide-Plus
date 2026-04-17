@@ -12,14 +12,14 @@ R Feralas >>Fly to Feralas |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O|
 R Feralas >>Fly to Feralas |N|Talk to Vhulgra - Talk to Vhulgra - (73.2, 61.6)| |O|
 A The Sunken Temple |QID|3380| |N|Talk to Witch Doctor Uzer'i - Talk to Uzer'i - (74.5, 43.4)|
 R Tanaris >>Fly to Tanaris |N|Talk to Shyn - Talk to Shyn - (75.5, 44.4)|
-N (70.6, 62.7) |O|
+N (70.6, 62.7) |SK|
 T Zanzil's Mixture and a Fool's Stout |QID|1119| |N|Talk to Kravel Koalbeard - Talk to Kravel - (77.8, 77.3)|
 T Razzeric's Tweaking |QID|1187| |N|Talk to Razzeric - Talk to Razzeric - (80.3, 76.1)|
 A Safety First |QID|1188| |N|Talk to Razzeric - Talk to Razzeric - (80.3, 76.1)|
 A Get the Gnomes Drunk |QID|1120| |N|Talk to Kravel Koalbeard - Talk to Kravel - (77.8, 77.3)|
 T Get the Gnomes Drunk |QID|1120| |N|Talk to Gnome Pit Boss - Talk to Gnome Pit Boss - (77.6, 76.9)|
 A Report Back to Fizzlebub |QID|1122| |N|Talk to Kravel Koalbeard - Talk to Kravel - (77.8, 77.3)|
-N (75.4, 97.4) |O|
+N (75.4, 97.4) |SK|
 A Thistleshrub Valley |QID|3362| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 T Safety First |QID|1188| |N|Talk to Shreev - Talk to Shreev - (51.0, 27.3)|
 A Gadgetzan Water Survey |QID|992| |N|Talk to Senior Surveyor Fizzledowser - Talk to Fizzledowser - (50.2, 27.5)|
@@ -44,7 +44,7 @@ T Screecher Spirits |QID|3520| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0,
 A Stoley's Shipment |QID|2873| |N|Talk to Stoley - Talk to Bilgewhizzle and Stoley - (67.1, 23.9)|
 N (68.8, 41.5) |O|
 N Kill +Southsea Swashbuckler - Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] - Open the [Pirate's Footlocker] until you find the [Ship Schedule] - Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed - Collect item 9250 (x1) |QID|8365| |U|9276| |O|
-N Loot the Stolen Cargo for Stoley's Shipment on the second floor of the western house |QID|2873| |O|
+N Loot the Stolen Cargo for Stoley's Shipment on the second floor of the western house |QID|2873| |SK|
 N Kill Andre Firebeard. Loot him for his Head - (73.4, 47.1) |QID|2875|
 N Loot the Stolen Cargo for Stoley's Shipment on the second floor of the western house - (72.2, 46.8) |QID|2873|
 N Kill +Southsea Swashbuckler - Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] - Open the [Pirate's Footlocker] until you find the [Ship Schedule] - Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed - Collect item 9250 (x1) - (71.1, 42.9) |QID|8365| |U|9276|
@@ -55,24 +55,24 @@ A Gahz'ridian |QID|3161| |N|Talk to Marvon Rivetseeker - Talk to Marvon - (52.7,
 A Gahz'ridian |QID|3161| |N|Talk to Marvon Rivetseeker - Talk to Marvon - (52.7, 45.9)|
 N Kill Centipaar Silithids. Loot them for their Insect Parts - Be careful of Centipaar Swarmers. They can spawn many minions and social aggro from great distances - All Centipaar cast [Thrash] (Charges 2 extra attacks every 10 seconds) - (35.7, 39.8) |QID|82|
 N (41.0, 57.2) |O|
-N Kill Dunemaul Brutes and Dunemaul Enforcers |QID|5863| |O|
+N Kill Dunemaul Brutes and Dunemaul Enforcers |QID|5863| |SK|
 N Kill Gor'marok in the cave - Be careful of his heavy damage output and Mortal Strike - (41.5, 57.8) |QID|5863|
-U Equip your [Gahz'ridian Detector] |QID|3161| |N|Loot the Piles of Sand for Gahz'ridian Ornaments - Gahz'ridian will appear on your minimap. Many can be found in and around the Eastmoon and Southmoon ruins| |U|9978| |O|
+U Equip your [Gahz'ridian Detector] |QID|3161| |N|Loot the Piles of Sand for Gahz'ridian Ornaments - Gahz'ridian will appear on your minimap. Many can be found in and around the Eastmoon and Southmoon ruins| |U|9978| |SK|
 N Kill Dunemaul Brutes and Dunemaul Enforcers - (39.9, 73.2) |QID|5863|
 A The Stone Watcher |QID|2954| |N|Click the Uldum Pedestal - Be careful! There are elite Dune Giants in the area. Follow the waypoint arrow to avoid agro - (39.7, 78.3)|
 N Talk to Stone Watcher of Norgannon - Talk to the Stone Watcher of Norgannon - (37.6, 81.4) |QID|2954|
 A Return to Thunder Bluff |QID|2967| |N|Click the Uldum Pedestal - (37.6, 81.4)|
 N (31.1, 64.9) |O|
-N Kill Thistleshrub Dew Collectors. Loot them for a Laden Dew Gland - This has a low drop rate and its spawn is shared with other mob types, so kill everything to make them spawn faster |QID|2605| |O|
+N Kill Thistleshrub Dew Collectors. Loot them for a Laden Dew Gland - This has a low drop rate and its spawn is shared with other mob types, so kill everything to make them spawn faster |QID|2605| |SK|
 N Kill Gnarled Thistleshrubs and Thistleshrub Rootshaper - (29.5, 63.0) |QID|3362|
 N Kill Thistleshrub Dew Collectors. Loot them for a Laden Dew Gland - This has a low drop rate and its spawn is shared with other mob types, so kill everything to make them spawn faster - (29.5, 63.0) |QID|2605|
 A Tooga's Quest |QID|1560| |N|Talk to Tooga - Search for Tooga, then talk to him to start his escort quest - He has 4 different spawn locations in the area - Skip this step if he isn't up, he has a long respawn timer - (29.4, 60.0)|
-N Talk to Tooga - Guide Tooga toward Steamwheedle Port - You will fail the quest if you get too far away from him - This quest has a 30 minute timer! |QID|1560| |O|
+N Talk to Tooga - Guide Tooga toward Steamwheedle Port - You will fail the quest if you get too far away from him - This quest has a 30 minute timer! |QID|1560| |SK|
 U Equip your [Gahz'ridian Detector] |QID|3161| |N|Loot the Piles of Sand for Gahz'ridian Ornaments - Gahz'ridian will appear on your minimap. Many can be found in and around the Eastmoon and Southmoon ruins - (39.9, 73.2)| |U|9978|
 N Talk to Tooga - Guide Tooga toward Steamwheedle Port - You will fail the quest if you get too far away from him - This quest has a 30 minute timer! - (66.6, 25.6) |QID|1560|
 T Tooga's Quest |QID|1560| |N|Talk to Torta - Talk to Torta - (66.6, 25.6)|
 N (67.1, 22.4) |O|
-U Ship Schedules |QID|2876| |N|Use the [Ship Schedule] to start the quest - You may need to accept this after turning in to Security Chief Bilgewhizzle and Stoley| |U|9250|
+U Ship Schedules |QID|2876| |N|Use the [Ship Schedule] to start the quest - You may need to accept this after turning in to Security Chief Bilgewhizzle and Stoley| |U|9250| |SK|
 U Deliver to MacKinley |QID|2874| |N|Talk to Stoley - Talk to Bilgewhizzle and Stoley - (67.1, 23.9)| |U|9250|
 A Deliver to MacKinley |QID|2874| |N|Talk to Stoley - Talk to Bilgewhizzle and Stoley - (67.1, 23.9)| |O|
 T Pirate Hats Ahoy! |QID|8365| |N|Talk to Haughty Modiste - Talk to Haughty - (66.6, 22.3)|
@@ -90,7 +90,7 @@ A The Scrimshank Redemption |QID|10| |N|Talk to Senior Surveyor Fizzledowser - T
 T Thistleshrub Valley |QID|3362| |N|Talk to Tran'rek - Talk to Tran'rek - (51.5, 26.8)|
 T The Dunemaul Compound |QID|5863| |N|Talk to Andi Lynn - Talk to Andi - (52.8, 27.4)|
 T Gahz'ridian |QID|3161| |N|Talk to Marvon Rivetseeker - Talk to Marvon - (52.7, 45.9)|
-N (56.2, 66.6) |O|
+N (56.2, 66.6) |SK|
 N Enter the silithid hive, then click the Scrimshank's Surveying Gear console and loot Scrimshank's Surveying Gear - Be extremely cautious of Hazzali Swarmers as they can rapidly summon adds which deal high damage. They can also social aggro other mobs from extreme distances - (55.7, 69.4) |QID|10|
 U Find OOX-17/TN! |QID|351| |U|8623|
 T Find OOX-17/TN! |QID|351| |N|Talk to Homing Robot OOX-17/TN - Talk to Homing Robot OOX-17/TN - (60.2, 64.7)| |O|
@@ -107,10 +107,10 @@ A Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)
 A Gahz'rilla |QID|2770| |N|Have somebody in your group share the following quest if somebody has the Mallet of Zul'Farrak| |O|
 N (38.9, 20.8)
 N Kill Trolls. Loot them for their Troll Temper |QID|3042| |O|
-N Kill Scarabs. Loot them for their Uncracked Scarab Shell |QID|2865| |O|
+N Kill Scarabs. Loot them for their Uncracked Scarab Shell |QID|2865| |SK|
 N Kill Theka the Martyr. Loot him for the First Mosh'aru Tablet |QID|3527|
 N Kill Scarabs. Loot them for their Uncracked Scarab Shell |QID|2865|
-N Kill Sandfury Executioner - Ascend the Pyramid - Kill the Sandfury Executioner. Loot him for the Executioner's Key - Anyone in the party may loot the Key - Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band - Collect item 8444 (x1) |O|
+N Kill Sandfury Executioner - Ascend the Pyramid - Kill the Sandfury Executioner. Loot him for the Executioner's Key - Anyone in the party may loot the Key - Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band - Collect item 8444 (x1) |SK|
 N Defend Sergeant Bly and his band, then move down with them after a short period of time - Kill Nekrum Gutchewer. Eat and drink then talk to Sergeant Bly to fight him - Kill Sergeant Bly. Loot him for the Divino-matic Rod |QID|2768|
 N Kill Hydromancer Velratha. Loot her for the Tiara of the Deep and the Second Mosh'aru Tablet |QID|3527|
 N Kill Hydromancer Velratha. Loot her for the Tiara of the Deep |QID|2846| |O|
@@ -122,17 +122,17 @@ T Troll Temper |QID|3042| |N|Talk to Trenton Lighthammer - Talk to Trenton Light
 T Divino-matic Rod |QID|2768| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Chief Engineer Bilgewhizzle - (52.5, 28.5)|
 T Scarab Shells |QID|2865| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 A Return to Apothecary Zinge |QID|864| |N|Talk to Chief Engineer Bilgewhizzle - Talk to Bilgewhizzle - (52.4, 28.5)|
-N (67.0, 22.4) |O|
+N (67.0, 22.4) |SK|
 T The Prophecy of Mosh'aru |QID|3527| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
 A The Ancient Egg |QID|4787| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
-R Travel to the Shimmering Flats |O|
+R Travel to the Shimmering Flats |SK|
 T Gahz'rilla |QID|2770| |N|Talk to Wizzle Brassbolts - Talk to Wizzle Brassbolts - (78.1, 77.1)|
 R Brackenwall >> Fly to Dustwallow Marsh |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |O|
 R Brackenwall >> Fly to Dustwallow Marsh |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.4)| |O|
 A The Brood of Onyxia |QID|1170| |N|Talk to Draz'Zilb - Talk to Draz'Zilb - (37.1, 33.0)|
 A The Brood of Onyxia |QID|1171| |N|Talk to Overlord Mok'Morokk - Talk to Mok'Morokk - (36.3, 31.4)|
 A The Brood of Onyxia |QID|1172| |N|Talk to Draz'Zilb - Talk to Draz'Zilb - (37.1, 33.0)|
-N (32.3, 65.5) |O|
+N (32.3, 65.5) |SK|
 A Cortello's Riddle |QID|626| |N|Enter the cave, then click the Musty Scroll on the rock - Be careful, as this area hyperspawns - (31.1, 66.1)|
 N Click Eggs of Onyxia to destroy them - (53.6, 72.5) |QID|1172|
 T Tiara of the Deep |QID|2846| |N|Talk to Tabetha - Talk to Tabetha - (46.0, 57.1)|

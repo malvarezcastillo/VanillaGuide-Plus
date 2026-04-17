@@ -10,7 +10,7 @@ N 45-46 Swamp of Sorrows |N|Converted from RestedXP guide|
 A Fall from Grace |QID|2784| |N|Talk to Fallen Hero of the Horde - Talk to Fallen Hero of the Horde at the Blasted Lands border - (34.3, 66.0)|
 N Talk to Fallen Hero of the Horde - Talk to Fallen Hero of the Horde and go through the whole dialogue - (34.3, 66.0) |QID|2784|
 A The Disgraced One |QID|2621| |N|Talk to Fallen Hero of the Horde - Talk to Fallen Hero of the Horde - (52.8, 2.9)|
-N (46.0, 54.2) |O|
+N (46.0, 54.2) |SK|
 A The Missing Orders |QID|2622| |N|Talk to Dispatch Commander Ruags - Talk to Fel'zerul and Ruag upstairs - (47.9, 54.8)|
 A The Missing Orders |QID|2622| |N|Talk to Dispatch Commander Ruags - Talk to Ruag upstairs - (47.8, 54.9)| |O|
 A The Atal'ai Exile |QID|1429| |N|Talk to Fel'zerul - Talk to Fel'zerul - (47.9, 54.8)|
@@ -26,12 +26,12 @@ A Threat From the Sea |QID|1427| |N|Talk to Katar - Talk to Katar - (83.7, 80.5)
 T Threat From the Sea |QID|1427| |N|Talk to Tok'Kar - Talk to Tok'Kar - (81.4, 80.8)|
 A Continued Threat |QID|1428| |N|Talk to Katar - Talk to Katar - (83.8, 80.4)|
 N (66.0, 79.6) |O|
-N Kill Marsh Murlocs, Marsh Inkspewers and Marsh Flesheaters - These spawn at a higher rate in Stagalbog Cave west of the camp |QID|1428| |O|
+N Kill Marsh Murlocs, Marsh Inkspewers and Marsh Flesheaters - These spawn at a higher rate in Stagalbog Cave west of the camp |QID|1428| |SK|
 N Kill Swamp Talker. Loot him for the Warchief's Orders - Save your cooldowns for Swamp Talker. His adds die in 1 hit but deal significant damage if left alive. - (66.1, 77.7) |QID|2623|
 N Kill Marsh Murlocs, Marsh Inkspewers and Marsh Flesheaters - These spawn at a higher rate in Stagalbog Cave west of the camp - (62.5, 87.7) |QID|1428|
 T Continued Threat |QID|1428| |N|Talk to Katar - Talk to Katar - (83.7, 80.4)|
-D Die and respawn |O| |M|speedrun|
-N (46.0, 54.2) |O| |C|Hunter/Warlock/Shaman/Warrior| |M|hardcore|
+D Die and respawn |SK| |M|speedrun|
+N (46.0, 54.2) |SK| |C|Hunter/Warlock/Shaman/Warrior| |M|hardcore|
 t Train your class spells |N|Talk to Ogrom - Talk to Ogrom - (47.3, 53.4)| |C|Hunter|
 t Train your class spells |N|Talk to Ogrom - Talk to Ogrom - (47.3, 53.4)| |O| |C|Hunter|
 t Train your pet spells |N|Talk to Grokor - Talk to Grokor - (47.4, 52.9)| |C|Hunter|
@@ -46,7 +46,7 @@ A A Tale of Sorrow |QID|2801| |N|Talk to Fallen Hero of the Horde - Talk to Fall
 N Talk to Fallen Hero of the Horde and go through the whole dialogue - (34.3, 66.0) |QID|2801|
 T A Tale of Sorrow |QID|2801| |N|Talk to Fallen Hero of the Horde - Talk to Fallen Hero of the Horde - (52.8, 2.9)|
 A Cortello's Riddle |QID|625| |N|Click the Soggy Scroll in the water beneath the bridge - (22.9, 48.3)|
-R Hearthstone |U|6948| |O|
+R Hearthstone |U|6948| |SK|
 N Talk to Innkeeper Greul - Talk to Innkeeper Greul - (74.8, 45.2)
 t Train your class spells |N|Talk to Jannos Lighthoof - Talk to Jannos - (76.0, 42.3)| |C|Druid|
 t Train your class spells |N|Talk to Jannos Lighthoof - Talk to Jannos - (76.0, 42.3)| |O| |C|Druid|

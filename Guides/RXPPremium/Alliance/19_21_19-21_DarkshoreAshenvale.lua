@@ -8,9 +8,9 @@ return [[
 N 19-21 Darkshore/Ashenvale |N|Converted from RestedXP guide|
 
 T The Corruption Abroad |QID|3765| |N|Talk to Gershala Nightwhisper - Talk to Gershala Nightwhisper|
-N Kill Encrusted Tide Crawlers and Reef Crawlers. Loot them for their Fine Crab Chunks - Fine Crab Chunks (6) |QID|1138| |O|
+N Kill Encrusted Tide Crawlers and Reef Crawlers. Loot them for their Fine Crab Chunks - Fine Crab Chunks (6) |QID|1138| |SK|
 A Beached Sea Creature |QID|4730| |N|Click the Beached Sea Creature|
-N Kill Encrusted Tide Crawlers. Loot them for their Fine Crab Chunks - Fine Crab Chunks (6) |QID|1138| |O|
+N Kill Encrusted Tide Crawlers. Loot them for their Fine Crab Chunks - Fine Crab Chunks (6) |QID|1138| |SK|
 A Beached Sea Turtle |QID|4731| |N|Click the Beached Sea Turtle|
 N Kill Encrusted Tide Crawlers and Reef Crawlers. Loot them for their Fine Crab Chunks - Fine Crab Chunks (6) |QID|1138|
 A Beached Sea Turtle |QID|4732| |N|Click the Beached Sea Turtle|
@@ -18,7 +18,7 @@ A Beached Sea Creature |QID|4733| |N|Click the Beached Sea Creature - This quest
 T Mathystra Relics |QID|951| |N|Talk to Onu - Talk to Onu| |O|
 A The Sleeper Has Awakened |QID|5321| |N|Talk to Kerlonian Evershade - Talk to Kerlonian Evershade to start the escort - Skip this step if he is not there. It can take up to 25 minutes for him to respawn - This is a timed quest, you have to escort him all the way to ashenvale in 20 minutes| |O|
 N Open Kerlonian's Chest. Loot it for the [Horn of Awakening] - Horn of Awakening (1) - (44.4, 76.3) |QID|5321| |O|
-T The Absent Minded Prospector |QID|729| |N|Talk to Prospector Remtravel - Talk to Prospector Remtravel - You may have to wait for him to respawn or for others to finish the escort|
+T The Absent Minded Prospector |QID|729| |N|Talk to Prospector Remtravel - Talk to Prospector Remtravel - You may have to wait for him to respawn or for others to finish the escort| |SK|
 A The Absent Minded Prospector |QID|731| |N|Talk to Prospector Remtravel - Talk to Prospector Remtravel - This will start an escort - This quest is VERY difficult. Skip this step if you're unable to find a group or solo it - (35.7, 83.7)|
 N Escort Prospector Remtravel through the Excavation - This quest is VERY difficult. Skip this step if you're unable to find a group or solo it |QID|731|
 N Kill Twilight Thug - Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below] - Book: The Powers Below (1) |O|
@@ -41,7 +41,7 @@ T Mathystra Relics |QID|951| |N|Talk to Onu - Talk to Onu|
 A The Sleeper Has Awakened |QID|5321| |N|Talk to Kerlonian Evershade - Talk to Kerlonian Evershade to start the escort - Skip this step if he is not there. It can take up to 25 minutes for him to respawn - This is a timed quest, you have to escort him all the way to ashenvale in 20 minutes|
 N Open Kerlonian's Chest. Loot it for the [Horn of Awakening] - Horn of Awakening (1) - (44.4, 76.3) |QID|5321|
 R Travel south to Ashenvale |N|(29.7, 13.6)| |O|
-N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |O|
+N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |SK|
 C Use the [Horn of Awakening] whenever Kerlonian falls asleep next to him |QID|5321| |N|Escort Kerlonian to Maestra's Post in Ashenvale - Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road - (27.3, 35.6)| |U|13536|
 T The Sleeper Has Awakened |QID|5321| |N|Talk to Liladris Moonriver - Talk to Liadris Moonriver - (27.3, 35.6)|
 T The Tower of Althalaxx |QID|967| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
@@ -56,11 +56,11 @@ A Bathran's Hair |QID|1010| |N|Talk to Orendil Broadleaf - Talk to Orendil Broad
 N Open the Plant Bundles on the ground. Loot them for Bathran's Hairs - They look like small brown sacks. They can be hard to see - (33.0, 21.4) |QID|1010|
 A Orendil's Cure |QID|1020| |N|Talk to Orendil Broadleaf - Talk to Orendil Broadleaf - (26.4, 38.6)|
 A The Tower of Althalaxx |QID|973| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
-N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |O|
+N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |SK|
 T Therylune's Escape |QID|945| |N|Talk to Therysil - Talk to Therysil - (22.6, 51.9)|
 N (522.9, 2716.1) |C|Hunter|
 N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone for later - Gooey Spider Legs |O|
-t Train your pet skills |N|Talk to Bolyun - Talk to Bolyun - (18.0, 60.0)| |C|Hunter|
+t Train your pet skills |N|Talk to Bolyun - Talk to Bolyun - (18.0, 60.0)| |SK| |C|Hunter|
 t Train [Aspect of the Cheetah] |N|Talk to Alenndaar Lapidaar - Talk to Alenndaar Lapidaar - (18.0, 59.8)| |C|Hunter|
 f Astranaar>> Get the Astranaar Flight Path |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)|
 A The Zoram Strand |QID|1008| |N|Talk to Shindrell Swiftfire - Talk to Shindrell Swiftfire - (34.7, 48.8)|
@@ -75,12 +75,12 @@ N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will n
 N Loot Elune's Tear on the ground - (46.4, 46.4) |QID|1033|
 A The Ruins of Stardust |QID|1034| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)|
 N Loot the Stardust Covered Bushes for the Handful of Stardust - Their spawn locations are scattered throughout the island - (33.3, 67.8) |QID|1034|
-N (31.7, 64.2) |O|
-N Jump over the tree root and hug the right to avoid aggroing mobs - (27.5, 60.8) |O|
+N (31.7, 64.2) |SK|
+N Jump over the tree root and hug the right to avoid aggroing mobs - (27.5, 60.8) |SK|
 N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to - Clear an exit path if needed so you can reset them along with the Succubus if needed. You may skip this and do it at level 23 if you wish - (25.3, 60.7) |QID|973|
 T The Tower of Althalaxx |QID|973| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
-N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Gooey Spider Legs |O|
-N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |O|
+N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Gooey Spider Legs |SK|
+N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |SK|
 A The Ancient Statuette |QID|1007| |N|Talk to Talen - Talk to Talen - (14.8, 31.3)|
 N Kill Wrathtail Nagas. Loot them for their Heads - Don't go out of your way to complete this yet |QID|1008| |O|
 N Loot the Ancient Statuette on the ground - (14.2, 20.6) |QID|1007|
@@ -89,14 +89,14 @@ N Kill Ruuzel. Loot her for the Ring of Zoram - Ruuzel patrols the island with a
 N Kill Ruuzel. Loot her for the Ring of Zoram - Ruuzel patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed - Lady Vespia is a rarespawn that can also drop the Ring of Zoram if you see her - (6.5, 13.4) |QID|1009|
 N Kill Wrathtail Nagas. Loot them for their Heads - (7.0, 15.2) |QID|1008|
 T Ruuzel |QID|1009| |N|Talk to Talen - Talk to Talen - (14.8, 31.3)|
-N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Gooey Spider Legs |O|
-N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |O|
+N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Gooey Spider Legs |SK|
+N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |SK|
 A Raene's Cleansing |QID|1023| |N|Talk to Teronis' Corpse - Talk to Teronis' Corpse - (20.3, 42.3)|
-N Keep any [Murloc Fins] you might loot. You will need 8 for a quest later - Murloc Fin(8) |O|
+N Keep any [Murloc Fins] you might loot. You will need 8 for a quest later - Murloc Fin(8) |SK|
 N Kill Saltspittle Murlocs. Loot them for the Glowing Gem - Be careful as the Oracles can heal, and have a 90 damage instant-cast shock spell every few seconds - (20.4, 43.8) |QID|1023|
 H Hearthstone |C|Hunter| |R|Dwarf|
-D Die and respawn |O| |R|!Dwarf| |M|speedrun|
-N (34.4, 48.0) |O| |R|!Dwarf| |M|hardcore|
+D Die and respawn |SK| |R|!Dwarf| |M|speedrun|
+N (34.4, 48.0) |SK| |R|!Dwarf| |M|hardcore|
 F Darkshore>> Fly to Darkshore |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)| |R|!Dwarf|
 A The Absent Minded Prospector |QID|741| |N|Talk to Archaeologist Hollee - Talk to Archaeologist Hollee - (37.4, 41.8)|
 N Restock/Resupply |O|
@@ -104,7 +104,7 @@ T Escape Through Stealth |QID|995| |N|Talk to Terenthis - Talk to Terenthis|
 T Escape Through Force |QID|994| |N|Talk to Terenthis - Talk to Terenthis|
 T Beached Sea Creature |QID|4733| |N|Talk to Gwennyth Bly'Leggonde - Talk to Gwennyth Bly'Leggonde|
 F Teldrassil >> Fly to Teldrassil |N|Talk to Caylais Moonfeather - Talk to Caylais Moonfeather - (36.3, 45.6)|
-R Take the purple portal into Darnassus |N|(55.9, 89.5)| |O|
+R Take the purple portal into Darnassus |N|(55.9, 89.5)| |SK|
 t Train your class spells |N|Talk to Jocaste - Talk to Jocaste - (40.4, 8.5)| |C|Hunter|
 N Talk to Garryeth - Talk to Garryeth - [Elixir of Water Breathing] --5996 - [Murloc Fins] --1468 - [Gooey Spider Legs] --2251 - [Lean Wolf Flanks] --1015 - (40.0, 42.2)
 t Train Staves |N|Talk to Ilyenia Moonfire - Talk to Ilyenia Moonfire - (57.6, 46.7)| |C|Hunter| |R|Dwarf|

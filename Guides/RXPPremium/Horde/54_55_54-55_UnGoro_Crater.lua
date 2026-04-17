@@ -10,7 +10,7 @@ N 54-55 Un'Goro Crater |N|Converted from RestedXP guide|
 R Tanaris >>Fly to Tanaris |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |O|
 A Bungle in the Jungle |QID|4496| |N|Talk to Alchemist Pestlezugg - Talk to Pestlezugg - (50.9, 27.0)|
 T The Stone Circle |QID|3444| |N|Talk to Marvon Rivetseeker - Talk to Marvon - (52.7, 45.9)|
-R Un'Goro Crater>>Fly to Un'Goro Crater |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)| |O|
+R Un'Goro Crater>>Fly to Un'Goro Crater |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)| |SK|
 A Expedition Salvation |QID|3881| |N|Talk to Williden Marshal - Talk to Hol'anyee and Williden - (43.9, 7.2)|
 A Roll the Bones |QID|3882| |N|Talk to Spark Nilminer - Talk to Spark - (43.5, 7.4)|
 A The Eastern Pylon |QID|4287| |N|Talk to J.D. Collie - Talk to J.D. Collie - (43.2, 6.2)|
@@ -34,13 +34,13 @@ N Loot Bloodpetal Sprouts around the zone until you have 8 Bloodcaps |QID|9052| 
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland and for Gorishi Stings - (50.6, 77.1) |QID|9052| |O| |C|Druid|
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland - (50.6, 77.1) |QID|4496| |O|
 N (50.0, 81.7)
-N (49.4, 82.9) |O|
+N (49.4, 82.9) |SK|
 C Use your [Scraping Vial] in the centre of the room |QID|3883| |N|(48.7, 85.3)| |U|11132|
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland and for Gorishi Stings - (51.7, 75.4) |QID|9052| |C|Druid|
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland - (51.7, 75.4) |QID|4496|
-N Loot the Pterrordax you kill for their Scales - This does not need to be finished now - (44.1, 91.6) |QID|4503| |O|
+N Loot the Pterrordax you kill for their Scales - This does not need to be finished now - (44.1, 91.6) |QID|4503| |SK|
 N Kill Pterrordax in the southern mountains - (43.6, 92.4) |QID|4501|
-N Finish looting Bloodpetal Sprouts around the zone until you have 8 Bloodcaps |QID|9052| |O| |C|Druid|
+N Finish looting Bloodpetal Sprouts around the zone until you have 8 Bloodcaps |QID|9052| |SK| |C|Druid|
 T Bloodpetal Poison |QID|9052| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.6, 76.0)| |C|Druid|
 N Kill Bloodpetal Trappers |QID|4145| |O|
 N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |O|
@@ -50,19 +50,19 @@ N Kill Frenzied Pterrordax. Loot them for their Scales - (20.9, 59.5) |QID|4503|
 A Finding the Source |QID|974| |N|Talk to Krakle - Talk to Krakle - (30.9, 50.4)|
 N (47.1, 47.1)
 N (47.1, 47.1) |O|
-N Kill Fire Elementals. Loot them for their Ash |QID|4502| |O|
+N Kill Fire Elementals. Loot them for their Ash |QID|4502| |SK|
 C Climb up to the top of the volcano, then use [Krakle's Thermometer] |QID|974| |N|(49.6, 45.7)| |U|12472|
 N Kill Bloodpetal Trappers |QID|4145| |O|
 N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |O|
 N Kill Frenzied Pterrordax. Loot them for their Scales |QID|4503| |O|
 A The New Springs |QID|980| |N|Talk to Krakle - Talk to Krakle - (30.9, 50.4)|
 N Kill Diemetradons. Loot them for their Bones and Scales |QID|4503| |O|
-N Kill Frenzied Pterrordax. Loot them for their Scales |QID|4503| |O|
+N Kill Frenzied Pterrordax. Loot them for their Scales |QID|4503| |SK|
 N Kill Bloodpetal Trappers - (31.2, 31.2) |QID|4145|
 N Kill Frenzied Pterrordax. Loot them for their Scales - (30.8, 59.6) |QID|4503|
 N Kill Diemetradons. Loot them for their Bones and Scales - (40.8, 62.8) |QID|4503|
 N Kill Fire Elementals. Loot them for their Ash - (46.7, 53.2) |QID|4502|
-N (52.4, 51.0) |O|
+N (52.4, 51.0) |SK|
 A A Little Help From My Friends |QID|4491| |N|Talk to Ringo - Talk to Ringo - (51.9, 49.9)|
 C Escort Ringo to Marshal's Refuge. Use [Spraggle's Canteen] on him when he falls down |QID|4491| |N|Talk to Ringo - Be careful not to ride away too fast from Ringo - (43.6, 8.5)| |U|11804|
 T Beware of Pterrordax |QID|4501| |N|Talk to Spraggle Frock - Talk to Spraggle - (43.6, 8.5)|
@@ -89,23 +89,23 @@ T Toxic Test |QID|9051| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.6, 76.
 A A Better Ingredient |QID|9053| |N|Talk to Torwa Pathfinder - Talk to Torwa - (71.6, 76.0)| |C|Druid|
 N Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles - Collect item 11018 (x25) - (50.9, 68.0)
 R Tanaris >>Fly to Tanaris |N|Talk to Gryfe - Talk to Gryfe - (43.2, 6.2)| |O| |M|hardcore|
-R Travel back up to Tanaris |N|(27.1, 56.6)| |O| |M|speedrun|
-R Travel back up to Tanaris |N|(27.1, 56.6)| |O| |M|hardcore|
+R Travel back up to Tanaris |N|(27.1, 56.6)| |SK| |M|speedrun|
+R Travel back up to Tanaris |N|(27.1, 56.6)| |SK| |M|hardcore|
 A Secret of the Circle |QID|3447| |N|Talk to Marvon Rivetseeker - Talk to Marvon Rivetseeker - (52.7, 45.9)|
 A The God Hakkar |QID|3528| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)|
-D Die and respawn |N|(27.9, 59.0)| |O| |M|speedrun|
+D Die and respawn |N|(27.9, 59.0)| |SK| |M|speedrun|
 T Bungle in the Jungle |QID|4496| |N|Talk to Alchemist Pestlezugg - Talk to Pestlezugg - (50.9, 27.0)|
 R Feralas >>Fly to Feralas |N|Talk to Bulkrek Ragefist - Talk to Bulkrek - (51.6, 25.5)|
 T The Strength of Corruption |QID|4120| |N|Talk to Talo Thornhoof - Talk to Talo - (76.2, 43.8)|
-N (55.9, 46.2) |O|
+N (55.9, 46.2) |SK|
 R You must explore the Dire Maul zone as a pre-requisite to unlock a quest later on. Get close to the Dire Maul zone border until your General Chat changes to Dire Maul |N|(55.4, 45.5)|
 N Talk to Gregan Brewspewer - Talk to Gregan - Buy some [Bait] from him - Collect item 11141 (x1) - (50.8, 49.8)
-N Talk to Miblon Snarltooth - Cast Place the [Bait] on the ground next to Miblon Snarltooth to distract him - (44.6, 10.6) |U|11141| |O|
+N Talk to Miblon Snarltooth - Cast Place the [Bait] on the ground next to Miblon Snarltooth to distract him - (44.6, 10.6) |U|11141| |SK|
 N Loot the Evoroot inside the Ruins - Collect item 11242 (x1) - (44.6, 10.2) |U|11141|
 C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers - (45.1, 25.6)| |M|hardcore|
 C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - You may safely complete this quest as part of the quest chain for [The Videre Elixir] - (45.1, 25.6)| |M|speedrun|
 C The Videre Elixir |QID|3909| |N|Talk to Gregan Brewspewer - Talk to Gregan Brewspewer - (45.1, 25.6)| |M|speedrun|
-U Hearthstone |U|6948| |O| |C|!Mage|
+U Hearthstone |U|6948| |SK| |C|!Mage|
 R Thunder Bluff >>Fly to Thunder Bluff |N|Talk to Omusa Thunderhorn - Talk to Omusa - (44.5, 59.1)| |C|!Mage|
 N Cast Cast [Teleport: Thunder Bluff] |C|Mage|
 t Train your class spells |N|Talk to Thurston Xane - Talk to Thurston - (25.2, 20.9)| |C|Mage|

@@ -8,11 +8,11 @@ return [[
 N 41-41 Swamp of Sorrows |N|Converted from RestedXP guide|
 
 N (39.3, 6.5) |O|
-N Be careful of the Darkshire Guards! Don't mindlessly follow the road - Follow the waypoint arrow for safety - (74.1, 56.5) |O|
+N Be careful of the Darkshire Guards! Don't mindlessly follow the road - Follow the waypoint arrow for safety - (74.1, 56.5) |SK|
 T Nothing But The Truth |QID|1372| |N|Talk to Apothecary Faustin - Talk to Zraedus and Faustin - (87.8, 35.6)|
-N (88.5, 41.0) |O|
+N (88.5, 41.0) |SK|
 R Travel to Swamp of Sorrows |N|(48.0, 34.6)|
-N Kill Adolescent Whelps and Dreaming Whelps. Loot them for their Dream Dust - Don't focus on this. Kill all of the whelps once. You'll finish it later - (15.1, 65.5) |QID|1116| |O|
+N Kill Adolescent Whelps and Dreaming Whelps. Loot them for their Dream Dust - Don't focus on this. Kill all of the whelps once. You'll finish it later - (15.1, 65.5) |QID|1116| |SK|
 A Lack of Surplus |QID|698| |N|Talk to Dar - Talk to Dar - (44.7, 57.1)|
 N Talk to Rartar - Talk to Rartar inside the inn - Buy [Superior Healing Potions] from him if they're up - (45.4, 56.9)
 N Talk to Thultazor - Talk to Thultazor - Buy [Superior Healing Potions] from him if they're up - (45.8, 52.9)
@@ -35,10 +35,10 @@ A Noboru the Cudgel |QID|1392| |N|Kill Noboru the Cudgel. Loot him for [Noboru's
 T Noboru the Cudgel |QID|1392| |N|Talk to Magtoor - Talk to Magtoor - (26.0, 31.4)|
 N Kill Ongeku. Loot him for his Shard - Ongeku can be found all over the Fallow Sanctuary |QID|1373| |O|
 N Talk to Galen Goodward - Loot the blue Draenethyst Crystals on the ground |QID|1389| |O|
-N This next quest can be quite hard, be extra careful |O|
+N This next quest can be quite hard, be extra careful |SK|
 A Galen's Escape |QID|1393| |N|Talk to Galen Goodward - Talk to Galen to start his escort - Before starting, pre-clear mobs to the immediate southwest of Galen as best you can - (65.5, 18.2)|
 N Talk to Galen Goodward - Escort Galen Goodward safely out of the Fallow Sanctuary - (53.0, 29.6) |QID|1393|
-N Talk to Galen Goodward - Loot the blue Draenethyst Crystals on the ground |QID|1389| |O|
+N Talk to Galen Goodward - Loot the blue Draenethyst Crystals on the ground |QID|1389| |SK|
 N Kill Ongeku. Loot him for his Shard - Ongeku can be found all over the Fallow Sanctuary - (62.6, 22.9) |QID|1373|
 N Finish looting the blue Draenethyst Crystals on the ground - (58.3, 25.5) |QID|1389|
 T Galen's Escape |QID|1393| |N|Click on Galen's Strongbox - (47.8, 39.8)|
@@ -67,7 +67,7 @@ A Excelsior |QID|628| |N|Talk to Drizzlik - Talk to Drizzlik - (28.3, 77.6)| |O|
 N Talk to Glyx Brewright - Talk to Glyx - Buy [Greater Healing Potions] from him if they're up - (28.1, 78.1)
 N Talk to Sly Garret - Talk to Sly - Stock up on [Flash Powder] and [Poisons] - (28.4, 76.8) |C|Rogue|
 N Talk to Viznik Goldgrubber - Talk to Viznik Goldgrubber - (26.6, 76.6)
-N (25.9, 73.1) |O|
+N (25.9, 73.1) |SK|
 R Take the boat to Ratchet |N|(25.8, 73.0)|
 T Stinky's Escape |QID|1270| |N|Talk to Mebok Mizzyrix - Talk to Mebok - (62.4, 37.6)|
 F Camp Taurajo >> Fly to Camp Taurajo |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |O|

@@ -11,15 +11,15 @@ h Arathi Highlands |N|(73.8, 32.5)|
 f Hammerfall >> Get the Hammerfall Flight Path |N|(73.0, 32.7)|
 A Hammerfall |QID|655| |N|Talk to Gor'mul - Talk to Gor'mul - (72.8, 33.7)|
 A Foul Magics |QID|671| |N|Talk to Tor'gan - Talk to Tor'gan - (74.7, 36.3)|
-N AoE raptors en route to Dabyrie Farmstead. Loot them for their eyes |QID|672| |O|
+N AoE raptors en route to Dabyrie Farmstead. Loot them for their eyes |QID|672| |SK|
 N (55.2, 39.9)
-N Try and avoid pulling the named mobs just yet if possible. Marcel has Shield Wall (75% reduced damage), Fardel has ranged poison+Thrash, Kenata does nothing |O|
+N Try and avoid pulling the named mobs just yet if possible. Marcel has Shield Wall (75% reduced damage), Fardel has ranged poison+Thrash, Kenata does nothing |SK|
 G AoE the Dabyrie Farmstead to 32 |N|Start saving the Wool Cloth and Silk Cloth you get. You need 12 stacks for later|
 N AoE the named NPCs. Loot them for their heads - (56.6, 38.7) |QID|1164|
 R Teleport to Undercity
 t Train your class spells |N|(85.1, 10.0)|
 N Go to Hannah. Buy some Runes of Teleportation - Collect item 17031 (x3) - (82.8, 15.8)
-N Bank your Wool Cloth and Silk Cloth here from earlier. You need 12 stacks of each (240) for later - (66.0, 44.7) |O|
+N Bank your Wool Cloth and Silk Cloth here from earlier. You need 12 stacks of each (240) for later - (66.0, 44.7) |SK|
 T To Steal From Thieves |QID|1164| |N|Talk to Genavie Callow - Talk to Genavie Callow - (63.8, 49.4)|
 T Elixir of Agony |QID|513| |N|Talk to Master Apothecary Faranell - Talk to Master Apothecary Faranell - (53.0, 77.5)|
 H Hearthstone |N|vendor trash|
@@ -31,7 +31,7 @@ N Start AoEing Syndicates in the area. Try and avoid the Pathstalkers. Be carefu
 R Teleport to Undercity
 t Train your class spells |N|(85.1, 10.0)|
 N Go to Hannah. Buy some Runes of Teleportation - Collect item 17031 (x3) - (82.8, 15.8)
-N Bank your Wool Cloth and Silk Cloth here from earlier. You need 12 stacks of each (240) for later - (66.0, 44.7) |O|
+N Bank your Wool Cloth and Silk Cloth here from earlier. You need 12 stacks of each (240) for later - (66.0, 44.7) |SK|
 H Hearthstone |N|Buy level 35 drink from the Innkeeper once you hearthed|
 T The Hammer May Fall |QID|676| |N|Talk to Drum Fel - Talk to Drum Fel - (74.3, 33.9)|
 A Raising Spirits |QID|674| |N|Talk to Tor'gan - Talk to Tor'gan - (74.7, 36.3)|
@@ -39,12 +39,12 @@ A Raising Spirits |QID|675| |N|Talk to Gor'mul - Talk to Gor'mul - (72.6, 34.2)|
 T Raising Spirits |QID|675| |N|Talk to Tor'gan - Talk to Tor'gan - (74.7, 36.3)|
 F Hillsbrad >> Fly to Tarren Mill |N|(73.0, 32.7)|
 h Arathi Highlands |N|(62.8, 19.0)|
-N It is HIGHLY recommended you watch the link, as it can be a bit tricky here |O|
+N It is HIGHLY recommended you watch the link, as it can be a bit tricky here |SK|
 N AoE Syndicates. Loot them for the Missive - (58.4, 67.5) |QID|533|
 G AoE Ogres and Syndicate to 34 & 56000+/62800xp |N|Keep grinding until your hearth cooldown is <8 minutes - (53.4, 53.5)|
-N (42.7, 95.3) |O|
+N (42.7, 95.3) |SK|
 N AoE Yetis. Loot them for the Rod - (40.8, 93.2) |QID|552|
-N AoE the Dalaran mobs. Loot them for Worn Stone Tokens |QID|556| |O|
+N AoE the Dalaran mobs. Loot them for Worn Stone Tokens |QID|556| |SK|
 N Kill Alina. Loot her for the Shard. Kill Dermot, loot him for the Wedge - (20.2, 86.3) |QID|544|
 N Go outside and kill Ricter. Loot him for the Marble - (19.7, 84.6) |QID|544|
 N Go into the second floor of the other building. Kill Kegan Darkmar. Loot him for the Oval - (18.6, 84.4) |QID|544|
@@ -53,7 +53,7 @@ G AoE Cats/Syndicates/Ogre mobs to level 36 |N|Start saving the Silk Cloth you g
 R Teleport to Undercity
 t Train your class spells |N|Make sure you have at least 50s leftover - (85.1, 10.0)|
 N Go to Hannah. Buy some Runes of Teleportation - Collect item 17031 (x5) - (82.8, 15.8)
-N Bank your Silk Cloth here from earlier. You need 12 stacks of each (240) for later - (66.0, 44.7) |O|
+N Bank your Silk Cloth here from earlier. You need 12 stacks of each (240) for later - (66.0, 44.7) |SK|
 H Hearthstone |N|Buy level 35 drink if needed|
 A Dalaran Patrols |QID|545| |N|Talk to Magus Wordeen Voidglare - Talk to Keeper Bel'varil - Talk to Magus Wordeen Voidglare - (61.5, 20.9)|
 A Gol'dir |QID|503| |N|Talk to Krusk - Talk to Krusk - (63.2, 20.6)|

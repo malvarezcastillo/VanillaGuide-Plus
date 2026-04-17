@@ -7,7 +7,7 @@ return [[
 
 N 22-24 Hillsbrad |N|Converted from RestedXP guide|
 
-R Leave Orgrimmar |O|
+R Leave Orgrimmar |SK|
 R Take the Zeppelin to Tirisfal Glades |N|(50.8, 13.8)|
 R Arrive in Tirisfal Glades
 R Enter Undercity |N|(61.8, 65.1)| |O|
@@ -21,16 +21,16 @@ N Talk to Michael Garrett - Talk to Michael - (63.3, 48.5) |R|!Undead|
 R Return to Podrig |QID|6324| |N|Talk to Michael Garrett - Talk to Michael - (63.3, 48.5)| |R|Undead|
 R The Sepulcher>> Fly to The Sepulcher |N|Talk to Michael Garrett - Talk to Michael - (63.3, 48.5)| |O| |R|Undead|
 R Leave Undercity through the Sewers |N|(47.2, 39.1)| |C|!Mage/!Priest/!Rogue/!Warlock| |R|!Undead|
-R Travel to Silverpine Forest |O| |C|!Mage/!Priest/!Rogue/!Warlock| |R|!Undead|
+R Travel to Silverpine Forest |SK| |C|!Mage/!Priest/!Rogue/!Warlock| |R|!Undead|
 f Sepulcher >> Get the Sepulcher flight path |N|Talk to Karos Razok - Talk to Karos - (45.6, 42.6)| |C|!Mage/!Priest/!Rogue/!Warlock| |R|!Undead|
 T Mura Runetotem |QID|3301| |N|Talk to Mura Runetotem - Talk to Renferrel and Mura - (42.9, 40.9)|
 T Until Death Do Us Part |QID|264| |N|Interact with Yuriv's Tombstone on the ground - (44.2, 42.7)|
 T Return to Podrig |QID|6324| |N|Talk to Deathguard Podrig - Talk to Podrig - (43.4, 41.7)| |R|Undead|
-N (36.1, 28.3) |O| |C|Druid|
+N (36.1, 28.3) |SK| |C|Druid|
 N Loot the Strange Lockbox in the water for the [Half Pendant of Aquatic Endurance] - Collect item 15882 (x1) - (29.6, 29.3) |C|Druid|
-R Travel to Hillsbrad Foothills |O|
+R Travel to Hillsbrad Foothills |SK|
 A Time To Strike |QID|494| |N|Talk to Deathstalker Lesh - Talk to Deathstalker Lesh - (20.8, 47.4)|
-N (62.1, 20.2) |O|
+N (62.1, 20.2) |SK|
 f Tarren Mill >> Get the Tarren Mill Flight Path |N|Talk to Zarise - Talk to Zarise - (60.1, 18.6)|
 A Hinott's Assistance |QID|2480| |N|Talk to Serge Hinott - Talk to Hinott - (61.5, 19.2)| |C|Rogue|
 N Wait for Hinott to complete the cure - (61.5, 19.2) |QID|2480| |C|Rogue|
@@ -50,11 +50,11 @@ A Dangerous! |QID|567| |N|Click the Wanted Poster - (62.6, 19.6)|
 N Talk to Innkeeper Shay - Talk to Innkeeper Shay - (62.8, 19.1)
 N Talk to Ott - Talk to Ott - Buy a [Merciless Axe] from him if it's up and you don't have it yet - (60.4, 26.2) |C|Shaman/Warrior|
 N Talk to Ott - Talk to Ott - Buy a [Broad Bladed Knife] from him if it's up and you don't have it yet - (60.4, 26.2) |C|Rogue|
-N Talk to Theodore Mont Claire - Talk to Theodore - (62.3, 19.7) |O| |C|Hunter|
+N Talk to Theodore Mont Claire - Talk to Theodore - (62.3, 19.7) |SK| |C|Hunter|
 t Cast [Tame Beast] on a Forest Most Creeper. Attack mobs with it to learn [Bite (Rank 3)] |N|Kill Forest Most Creeper - (57.9, 27.9)| |C|Hunter|
 N Talk to Theodore Mont Claire - Talk to Theodore - (62.3, 19.7) |C|Hunter|
 N Cast Use the [Instant Poison] on your weapons |O| |C|Rogue|
-N Kill Bears and Spiders en route. Loot them for their Tongues and Ichor - Avoid Elder Gray Bears and Giant Moss Creepers as they're high level and not worth killing |QID|496| |O|
+N Kill Bears and Spiders en route. Loot them for their Tongues and Ichor - Avoid Elder Gray Bears and Giant Moss Creepers as they're high level and not worth killing |QID|496| |SK|
 N (76.6, 46.5)
 N Kill Syndicate Rogues, Watchmen, and Shadow Mages. - Loot the Shadow Mages for their Vials of Innocent Blood |QID|1066| |O|
 N Kill Jailor Eston - Kill Jailor Eston. Loot him for his Iron Key - He can be found in front of Tog'thar's Barracks, or in front of Drull - Collect item 3467 (x1) - (79.5, 41.9) |O|
@@ -69,10 +69,10 @@ U Equip item |N|Equip the [Wolf Bracers]| |U|4794| |O| |C|Rogue/Hunter/Shaman/Dr
 N Talk to Kris Legace - Talk to Kris - Vendor and Repair - (80.1, 38.9) |C|!Rogue/!Hunter/!Shaman/!Druid|
 N Kill Jailor Eston - Kill Jailor Eston. Loot him for his Iron Key - He can be found in front of Tog'thar's Barracks, or in front of Drull - Collect item 3467 (x1) - (79.5, 41.9)
 N Click the Ball and Chain on the ground - (75.3, 41.5) |QID|498|
-N Kill Syndicate Rogues and Syndicate Watchmen |QID|549| |O|
+N Kill Syndicate Rogues and Syndicate Watchmen |QID|549| |SK|
 N Kill Syndicate Shadow Mages. Loot them for their Vials - More of them can be found at the tower just southwest of the keep - (67.2, 45.9) |QID|1066|
 N Kill Syndicate Rogues and Syndicate Watchmen - More of them can be found at the tower just southwest of the keep - (67.2, 45.9) |QID|549|
-N Kill Bears and Spiders  en route back to Tarren Mill. Loot them for their Tongues and Ichor - Avoid Elder Gray Bears and Giant Moss Creepers as they're high level and not worth killing |QID|496| |O|
+N Kill Bears and Spiders  en route back to Tarren Mill. Loot them for their Tongues and Ichor - Avoid Elder Gray Bears and Giant Moss Creepers as they're high level and not worth killing |QID|496| |SK|
 T WANTED: Syndicate Personnel |QID|549| |N|Talk to High Executor Darthalia - Talk to Krusk and Darthalia - (63.2, 20.6)|
 N Talk to Kayren Soothallow - Talk to Kayren - Buy [Sharp Arrows] from him - Collect item 2515 (x1800) - (62.6, 19.9) |C|Hunter|
 N Talk to Kayren Soothallow - Talk to Kayren - Buy [Razor Arrows] from him - Collect item 3030 (x1800) - (62.6, 19.9) |C|Hunter|
@@ -102,13 +102,13 @@ N Kill Gray Bears. Loot them for their Gray Bear Tongues |QID|496| |O|
 N Kill Starving Mountain Lions. Loot them for their Mountain Lion Blood |QID|501| |O|
 N (36.0, 39.2)
 N Kill Hillsbrad Humans. Loot them for their Skulls. - This quest does not need to be completed now |QID|546| |O|
-T Elixir of Pain |QID|502| |N|Kill Stanley - Talk to Stanley - Wait out the RP, then kill Enraged Stanley - Enraged Stanley gives a full quest's worth of experience - (32.7, 35.3)| |O|
+T Elixir of Pain |QID|502| |N|Kill Stanley - Talk to Stanley - Wait out the RP, then kill Enraged Stanley - Enraged Stanley gives a full quest's worth of experience - (32.7, 35.3)| |SK|
 N Kill Citizen Wilkes - He patrols around the roads of the town - (36.5, 39.4) |QID|567|
 T Elixir of Pain |QID|502| |N|Kill Stanley - Talk to Stanley - Wait out the RP, then kill Enraged Stanley - Enraged Stanley gives a full quest's worth of experience - (32.7, 35.3)|
-N Kill Hillsbrad Peasants |QID|528| |O|
+N Kill Hillsbrad Peasants |QID|528| |SK|
 N Kill Farmer Kalaba - (36.0, 46.5) |QID|567|
 N Kill Hillsbrad Peasants - (36.6, 45.2) |QID|528|
-N Finish killing Mountain Lions. Loot them for their Blood |QID|501| |O|
+N Finish killing Mountain Lions. Loot them for their Blood |QID|501| |SK|
 N Finish killing Bears. Loot them for their Tongues - (66.5, 34.5) |QID|496|
 N Finish killing Mountain Lions. Loot them for their Blood - (43.9, 37.0) |QID|501|
 N Finish killing Forest Moss Creepers and Giant Moss Creepers. Loot them for their Ichor - (62.9, 38.7) |QID|496|
@@ -134,7 +134,7 @@ N Talk to Ott - Talk to Ott - Buy a [Merciless Axe] from him if it's up and you 
 N Talk to Ott - Talk to Ott - Buy a [Broad Bladed Knife] from him if it's up and you don't have it yet - (60.4, 26.2) |C|Rogue|
 N (36.0, 39.2)
 T Elixir of Pain |QID|502| |N|Kill Stanley - Talk to Stanley - Wait out the RP, then kill Enraged Stanley - Enraged Stanley gives a full quest's worth of experience - (32.7, 35.3)| |O|
-N Kill Blacksmith Verringtan and Hillsbrad Apprentice Blacksmiths |QID|529| |O|
+N Kill Blacksmith Verringtan and Hillsbrad Apprentice Blacksmiths |QID|529| |SK|
 N Loot the Shipment of Iron for the [Shipment of Iron] - (32.0, 45.5) |QID|529|
 N Kill Blacksmith Verringtan and Hillsbrad Apprentice Blacksmiths - (32.6, 45.5) |QID|529|
 T Elixir of Pain |QID|502| |N|Kill Stanley - Talk to Stanley - Wait out the RP, then kill Enraged Stanley - Enraged Stanley gives a full quest's worth of experience - (32.7, 35.3)|
@@ -162,7 +162,7 @@ t Train your class spells |N|Talk to Carolyn Ward - Talk to Carolyn - (83.9, 72.
 t Train your class spells |N|Talk to Carolyn Ward - Talk to Carolyn - (83.9, 72.1)| |O| |C|Rogue|
 t Train your class spells |N|Talk to Richard Kerwin - Talk to Richard - (88.9, 15.9)| |C|Warlock|
 t Train your class spells |N|Talk to Richard Kerwin - Talk to Richard - (88.9, 15.9)| |O| |C|Warlock|
-N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
+N Cast Cast [Teleport: Moonglade] |SK| |C|Druid|
 N Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion - Collect item 15882 (x1) - Collect item 15883 (x1) - (36.0, 41.4) |QID|30| |C|Druid|
 A Aquatic Form |QID|31| |N|Talk to Dendrite Starblaze - Talk to Dendrite - (56.2, 30.6)| |C|Druid|
 A Aquatic Form |QID|31| |N|Talk to Dendrite Starblaze - Talk to Dendrite - (56.2, 30.6)| |O| |C|Druid|

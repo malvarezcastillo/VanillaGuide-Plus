@@ -7,22 +7,22 @@ return [[
 
 N 1-6 Durotar |N|Converted from RestedXP guide|
 
-N You have selected a guide meant for Orcs and Trolls. You should choose the same starter zone that you start in |O| |R|!Orc/!Troll|
+N You have selected a guide meant for Orcs and Trolls. You should choose the same starter zone that you start in |SK| |R|!Orc/!Troll|
 A Your Place In The World |QID|4641| |N|Talk to Kaltunk - Talk to Kaltunk - (43.3, 68.5)|
-N Kill Mottled Boar |O| |C|Warrior/Shaman/Warlock|
+N Kill Mottled Boar |SK| |C|Warrior/Shaman/Warlock|
 A Vile Familiars |QID|1485| |N|Talk to Ruzan - Talk to Ruzan - (42.6, 69.0)| |C|Warlock|
 N Talk to Duokna - Talk to Duokna - Vendor Trash - (42.6, 67.3) |C|Warrior/Shaman|
 A Cutting Teeth |QID|788| |N|Talk to Gornek - Talk to Gornek - (42.1, 68.3)|
 N (42.3, 68.5) |C|Warrior/Shaman|
 N (41.5, 68.4) |O| |C|Warlock| |M|speedrun|
-N (41.5, 68.4) |O| |C|Warlock| |M|speedrun|
-N (41.5, 68.4) |O| |C|Warlock| |M|hardcore|
+N (41.5, 68.4) |SK| |C|Warlock| |M|speedrun|
+N (41.5, 68.4) |SK| |C|Warlock| |M|hardcore|
 N Talk to Hraug - Talk to Hraug - Vendor Trash - (40.6, 68.4) |C|Warlock| |M|speedrun|
 N Talk to Hraug - Talk to Hraug - Vendor Trash - (40.6, 68.4) |C|Warlock| |M|hardcore|
 t Train [Immolate] |N|Talk to Nartok - Talk to Nartok - (40.6, 68.5)| |C|Warlock|
 N Talk to Duokna - Talk to Duokna - (42.6, 67.3) |C|!Warrior/!Rogue| |M|speedrun|
 N Talk to Duokna - Talk to Duokna - Buy [Refreshing Spring Water] from her - Refreshing Spring Water (5) - (42.6, 67.3) |C|Warlock|
-N Kill Mottled Boars en route to the Burning Blade Coven - Try to get to level 2 before getting there - Mottled Boar (10) - (43.6, 67.3) |QID|788| |O| |C|Warlock|
+N Kill Mottled Boars en route to the Burning Blade Coven - Try to get to level 2 before getting there - Mottled Boar (10) - (43.6, 67.3) |QID|788| |SK| |C|Warlock|
 N (45.3, 56.4) |C|Warlock|
 N Kill Vile Familiars. Loot them for Vile Familiar Heads - Vile Familiar Head (6) - (43.9, 58.4) |QID|1485| |C|Warlock|
 N Kill Mottled Boars - Mottled Boar (10) |QID|788| |O|
@@ -43,7 +43,7 @@ N (41.5, 68.4) |O| |C|Rogue|
 t Train [Backstab] |N|Talk to Rwag - Talk to Rwag - (41.3, 68.0)| |C|Rogue|
 N Talk to Rwag - Talk to Rwag - (41.3, 68.0) |C|Rogue|
 N (41.5, 68.4) |O| |C|Warlock|
-N (41.5, 68.4) |O| |C|Warlock|
+N (41.5, 68.4) |SK| |C|Warlock|
 N Talk to Hraug - Talk to Hraug - Vendor Trash - (40.6, 68.4) |C|Warlock|
 t Train [Corruption] |QID|3090| |N|Talk to Nartok - Talk to Nartok - (40.6, 68.5)| |C|Warlock|
 A Galgar's Cactus Apple Surprise |QID|4402| |N|Talk to Galgar - Talk to Galgar - (42.7, 67.2)|
@@ -85,7 +85,7 @@ t Train [Rend] |N|Talk to Frang - Talk to Frang - (42.9, 69.4)| |C|Warrior|
 t Train [Rend] |N|Talk to Frang - Talk to Frang - (42.9, 69.4)| |C|Warrior|
 t Train [Charge] |N|Talk to Frang - Talk to Frang - (42.9, 69.4)| |C|Warrior|
 A Thazz'ril's Pick |QID|6394| |N|Talk to Foreman Thazz'ril - Talk to Thazz'ril - (44.6, 68.7)|
-G Grind to 1720+/2100xp |N|Kill Vile Familiar| |O|
+G Grind to 1720+/2100xp |N|Kill Vile Familiar| |SK|
 N Loot the Cactus Apples near the Cacti - Cactus Apple (10) - (44.7, 64.9) |QID|4402|
 G Grind to 1720+/2100xp |N|Kill Vile Familiar - (43.9, 58.4)| |O| |C|!Warrior/!Rogue/!Shaman|
 G Grind to level 5 |N|Kill Vile Familiar - (43.9, 58.4)| |O| |C|!Warrior/!Rogue/!Shaman|
@@ -97,16 +97,16 @@ N Kill Yarrog Baneshadow. Loot him for the Burning Blade Medallion - Burning Bla
 N Kill Felstalkers. Loot them for Felstalker Hooves - Felstalker Hoof (2) - (42.7, 53.0) |QID|1516| |C|Shaman|
 N (42.7, 53.0) |O|
 N (42.7, 53.0) |O|
-N (44.7, 52.5) |O|
-D Die and respawn |N|Talk to Spirit Healer - (44.7, 52.5)| |O| |M|speedrun|
+N (44.7, 52.5) |SK|
+D Die and respawn |N|Talk to Spirit Healer - (44.7, 52.5)| |SK| |M|speedrun|
 A Vanquish the Betrayers |QID|784| |N|Talk to Gar'thok - Talk to Gar'thok - You can talk to him from outside or on top of the bunker - (52.0, 43.5)| |M|speedrun|
-N (50.2, 43.1) |O| |M|speedrun|
-N (49.8, 40.4) |O| |M|speedrun|
+N (50.2, 43.1) |SK| |M|speedrun|
+N (49.8, 40.4) |SK| |M|speedrun|
 A Carry Your Weight |QID|791| |N|Talk to Furl Scornbrow - Talk to Furl - (49.9, 40.4)| |M|speedrun|
 t Train [Mining] |N|Talk to Krunn - Talk to Krunn - This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) - (51.8, 40.9)| |C|Warrior/Rogue| |M|speedrun|
 N Talk to Wuark - Talk to Wuark - Buy a [Mining Pick] from him - Mining Pick (1) - (51.9, 41.1) |C|Warrior/Rogue| |M|speedrun|
 t Train [Blacksmithing] |N|Talk to Dwukk - Talk to Dwukk - (52.0, 40.7)| |C|Warrior/Rogue| |M|speedrun|
-U Hearthstone |U|6948| |O|
+U Hearthstone |U|6948| |SK|
 T Thazz'ril's Pick |QID|6394| |N|Talk to Foreman Thazz'ril - Talk to Thazz'ril - (44.6, 68.7)|
 T Galgar's Cactus Apple Surprise |QID|4402| |N|Talk to Galgar - Talk to Galgar - (42.7, 67.2)|
 N Talk to Duokna - Talk to Duokna - Vendor Trash - (42.6, 67.3)
@@ -128,7 +128,7 @@ t Train [Life Tap] |N|Talk to Nartok - Talk to Nartok - (40.6, 68.5)| |C|Warlock
 t Train [Shadow Bolt] |N|Talk to Nartok - Talk to Nartok - (40.6, 68.5)| |C|Warlock|
 U Use the [Grimoire of Blood Pact] |U|16321| |O| |C|Warlock|
 N (43.4, 69.6) |O| |C|Shaman|
-N Cast Use the [Earth Sapta] |U|6635| |O| |C|Shaman|
+N Cast Use the [Earth Sapta] |U|6635| |SK| |C|Shaman|
 A Call of Earth |QID|1518| |N|Talk to Minor Manifestation of Earth - Talk to the Manifestation - (44.0, 76.2)| |C|Shaman|
 T Call of Earth |QID|1518| |N|Talk to Canaga Earthcaller - Talk to Canaga - (42.4, 69.2)| |C|Shaman|
 t Train [Healing Wave] |N|Talk to Shikrik - Talk to Shikrik - (42.4, 69.0)| |C|Shaman|

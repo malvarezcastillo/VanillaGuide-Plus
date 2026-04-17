@@ -14,7 +14,7 @@ N Kill Tethis. Loot him for his Talon - He patrols all around the raptor area - 
 N Kill Skullsplitter Hunters, Berserkers and Headhunters. Loot them for their Necklaces |QID|598| |O|
 N Kill Skullsplitter Hunters, Berserkers and Headhunters |QID|586| |O|
 N (43.2, 38.8) |O|
-N This next quest can be quite hard, be extra careful |O| |M|hardcore|
+N This next quest can be quite hard, be extra careful |SK| |M|hardcore|
 N Kill Ana'thek the Cruel. Loot him for his Armor - (44.3, 44.9) |QID|586|
 N Kill Skullsplitter Hunters, Berserkers and Headhunters. Loot them for their Necklaces - (47.9, 42.9) |QID|598|
 N Kill Skullsplitter Hunters, Berserkers and Headhunters - (47.9, 42.9) |QID|586|
@@ -38,14 +38,14 @@ A The Bloodsail Buccaneers |QID|604| |N|Talk to Fleet Master Seahorn - Talk to F
 A Keep An Eye Out |QID|576| |N|Talk to Dizzy One-Eye - Talk to Dizzy One-Eye - (28.6, 75.9)|
 N Kill Bloodsail Pirates. Loot them for Dizzy's Eye - Don't focus on this, you can finish it later |QID|576| |O|
 N Kill Bloodsail Pirates. Loot them for Dizzy's Eye |QID|576| |O|
-N Kill Bloodsail Swashbucklers |QID|604| |O|
+N Kill Bloodsail Swashbucklers |QID|604| |SK|
 N Loot the Bloodsail Orders and Bloodsail Charts - They're typically in the large camp on the peninsula, or in the boat near that camp - (26.9, 82.5) |QID|604|
 N Kill Bloodsail Swashbucklers - (27.2, 82.8) |QID|604|
 N Kill Bloodsail Pirates. Loot them for their Dizzy's Eye - (27.2, 82.8) |QID|576|
 N Kill Elder Mistvale Gorillas. Loot them for their Giblets and Sinew - Save any [Gorilla Fangs] you loot. You will need them for another quest later - Collect item 2799 (x10) - (31.3, 65.5) |QID|571| |M|speedrun|
-N Kill Elder Mistvale Gorillas. Loot them for their [Gorilla Fangs] - You can skip this if you want, the quest proceeding this is VERY difficult - Collect item 2799 (x10) - (32.8, 65.8) |O| |M|hardcore|
+N Kill Elder Mistvale Gorillas. Loot them for their [Gorilla Fangs] - You can skip this if you want, the quest proceeding this is VERY difficult - Collect item 2799 (x10) - (32.8, 65.8) |SK| |M|hardcore|
 N Kill Elder Mistvale Gorillas. Loot them for their Giblets and Sinew - (31.3, 65.5) |QID|571| |M|hardcore|
-N This quest will be very hard and dangerous, consider skipping it |O| |M|hardcore|
+N This quest will be very hard and dangerous, consider skipping it |SK| |M|hardcore|
 T Stranglethorn Fever |QID|349| |N|Talk to Witch Doctor Unbagwa - Talk to Witch Doctor Unbagwa - This quest is very hard. 3 waves of Gorillas will spawn. Consider grouping up if possible - (35.3, 60.4)|
 N Face waves of Gorillas until Mokk the Savage appears. Kill him and loot him for his Heart - This quest is very hard. Use no cooldowns on wave 1. Use all cooldowns on wave 2. On wave 3 avoid them by going a bit up the mountain, then when they aggro the NPC kill Mokk the Savage only and loot it - (35.3, 60.4) |QID|348|
 N (26.7, 73.6) |O|
@@ -58,7 +58,7 @@ T The Bloodsail Buccaneers |QID|604| |N|Talk to Fleet Master Seahorn - Talk to F
 F Grom'gol >> Fly to Grom'gol Base Camp |N|Talk to Gringer - Talk to Gringer - (26.9, 77.1)|
 A Mok'thardin's Enchantment |QID|573| |N|Talk to Far Seer Mok'thardin - Talk to Far Seer Mok'thardin - (32.1, 29.2)|
 N Kill King Bangalash. Loot him for his Head - This quest is HARD. He comes with 2 mobs when he spawns, and spawns 2 more at about 50% health - (38.2, 35.6) |QID|208|
-N (39.5, 47.4) |O|
+N (39.5, 47.4) |SK|
 N Kill Ironjaw Basilisks. Loot them for their Shards - (43.8, 47.8) |QID|589|
 N Kill Zanzil Undeads. Loot them for their Mixture - Do NOT pull or attack Zanzil the Outcast |QID|621| |O|
 N Kill Maury. Loot her for her Clubbed Foot - (35.2, 51.2) |QID|609|
@@ -66,17 +66,17 @@ N Kill Jon-Jon. Loot him for his Spyglass - (34.9, 51.8) |QID|609|
 N Kill Chucky. Loot him for his Ring - (40.0, 58.2) |QID|609|
 N Kill Zanzil Undeads. Loot them for their Mixture - Do NOT pull or attack Zanzil the Outcast - (40.6, 60.0) |QID|621|
 N Kill Gorlash. Loot him for his Chest - You can kite him back to the Booty Bay guards and get credit for the quest if you deal 50%+ of the damage - This quest is HARD depending on how well you can kite and do damage on the move. You can skip this quest if needed - (36.9, 69.5) |QID|8551|
-N These next ship quests can be very hard. Be careful |O| |M|hardcore|
+N These next ship quests can be very hard. Be careful |SK| |M|hardcore|
 U Cortello's Riddle |QID|624| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest - Collect item 4056 (x1)| |U|4056| |O|
 N Kill Bloodsail Pirates. Loot them for their Snuff and Dizzy's Eye |QID|576| |O|
 N Kill Captain Stillwater on the 2nd floor at the back of the ship - (32.9, 88.2) |QID|608|
 N Kill Fleet Master Firallon on the 2nd floor at the back of the ship - (30.6, 90.6) |QID|608|
 N Kill Captain Keelhaul on the 2nd floor at the back of the ship. - Garr can charge for heavy damage, stun for 2 seconds, and [Thrash] - (29.3, 88.3) |QID|608|
 U Cortello's Riddle |QID|624| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest - Collect item 4056 (x1) - (32.9, 88.0)| |U|4056|
-N Kill Bloodsail Pirates. Loot them for their Snuff |QID|587| |O|
+N Kill Bloodsail Pirates. Loot them for their Snuff |QID|587| |SK|
 N Kill Bloodsail Pirates. Loot them for Dizzy's Eye - (32.0, 79.5) |QID|576|
 N Kill Bloodsail Pirates. Loot them for their Snuff - (32.0, 79.5) |QID|587|
-N Kill Naga Explorers. Loot them for their Akiris Reed |QID|617| |O|
+N Kill Naga Explorers. Loot them for their Akiris Reed |QID|617| |SK|
 N Click The Holy Spring to loot the Holy Spring Water - Collect item 737 (x1) - (29.0, 61.9)
 N Finish killing Naga Explorers. Loot them for their Akiris Reed - (28.0, 63.1) |QID|617|
 N (26.7, 73.6) |O|
@@ -95,9 +95,9 @@ N Talk to Glyx Brewright - Talk to Glyx - Buy [Greater Healing Potions] from him
 F Grom'gol >> Fly to Grom'gol Base Camp |N|Talk to Gringer - Talk to Gringer - (26.9, 77.1)|
 T Mok'thardin's Enchantment |QID|573| |N|Talk to Far Seer Mok'thardin - Talk to Far Seer Mok'thardin - (32.1, 29.2)|
 T The Singing Crystals |QID|589| |N|Talk to Kin'weelay - Talk to Kin'weelay - (32.2, 27.8)|
-N Talk to Barnil Stonepot - Talk to Barnil - Turn in all the [Green Hills of Stranglethorn - Pages] that you have - (35.7, 10.8) |O|
+N Talk to Barnil Stonepot - Talk to Barnil - Turn in all the [Green Hills of Stranglethorn - Pages] that you have - (35.7, 10.8) |SK|
 T Big Game Hunter |QID|208| |N|Talk to Hemet Nesingwary - Talk to Hemet - (35.7, 10.8)|
-R Hearthstone |U|6948| |O|
+R Hearthstone |U|6948| |SK|
 N Talk to Innkeeper Greul - Talk to Innkeeper Greul - (74.8, 45.2)
 R Stonard>> Fly to Stonard |N|Talk to Thysta - Talk to Thysta - (32.5, 29.3)|
 

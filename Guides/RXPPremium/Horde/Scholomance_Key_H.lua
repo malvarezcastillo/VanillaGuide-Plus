@@ -7,8 +7,8 @@ return [[
 
 N Scholomance Key (H) |N|Converted from RestedXP guide|
 
-N Go to the Auction House in any Major city and buy 2 [Thorium Bars] - Thorium Bar x2
-R Travel to Undercity |O|
+N Go to the Auction House in any Major city and buy 2 [Thorium Bars] - Thorium Bar x2 |SK|
+R Travel to Undercity |SK|
 N Talk to Harbinger Balthaza - This quest can be also be accepted in Orgrimmar or Thunder Bluff - (67.4, 46.1)
 A Scarlet Diversions |QID|5096| |N|Talk to High Executor Derrington - Talk to Derrington - (83.2, 68.9)| |O|
 A Scarlet Diversions |QID|5096| |N|Talk to High Executor Derrington - Talk to Derrington - (83.2, 68.9)| |O|
@@ -29,8 +29,8 @@ N Kill Skeletal Executioners and Skeletal Acolytes. Loot them for their Skeletal
 A Mold Rhymes With... |QID|5514| |N|Talk to Apothecary Dithers - Talk to Dithers - (83.3, 69.2)|
 A Fire Plume Forged |QID|5802| |N|Talk to Krinkle Goodsteel - Talk to Krinkle Goodsteel - Turning in this quest requires you to pay 15 Gold - (51.5, 28.8)|
 N If you did not buy them earlier, go to the Auction House in any Major city and buy 2 [Thorium Bars] - Thorium Bar x2
-R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |O|
-N (49.6, 47.6) |O|
+R Un'Goro >>Fly to Un'Goro Crater |N|Talk to Runk Windtamer - Talk to Runk - (48.7, 36.7)| |SK|
+N (49.6, 47.6) |SK|
 C Use the [Skeleton Key Mold] at the pool of lava to create the Unfinished Skeleton Key |QID|5802| |N|Unfinished Skeleton Key (1) - (49.3, 47.0)| |U|14644|
 A Araj's Scarab |QID|5804| |N|Talk to Apothecary Dithers - Talk to Dithers - (83.3, 69.2)|
 N (45.6, 69.3) |O|

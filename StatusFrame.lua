@@ -77,6 +77,64 @@ returnBtn:SetScript("OnLeave", function() GameTooltip:Hide() end)
 returnBtn:Hide()
 TurtleGuide.branchReturnBtn = returnBtn
 
+-- Sticky preview rows stacked above the main status frame.
+-- Row 1 is closest to `f`; row N is topmost. Each row shows one sticky step.
+local STICKY_ROWS = 3
+local stickyRows = {}
+for si = 1, STICKY_ROWS do
+	local row = CreateFrame("Frame", nil, UIParent)
+	row:SetHeight(18)
+	row:SetFrameStrata("LOW")
+	row:SetBackdrop(ww.TooltipBorderBG)
+	row:SetBackdropColor(0.09, 0.09, 0.19, 0.35)
+	row:SetBackdropBorderColor(0.3, 0.3, 0.3, 0.4)
+	local sicon = ww.SummonTexture(row, "ARTWORK", 14, 14, nil, "LEFT", 6, 0)
+	local stext = ww.SummonFontString(row, "OVERLAY", "GameFontNormalSmall", nil, "LEFT", sicon, "RIGHT", 4, 0)
+	stext:SetTextColor(0.75, 0.75, 0.75)
+	stext:SetPoint("RIGHT", row, "RIGHT", -6, 0)
+	stext:SetJustifyH("LEFT")
+	row.icon = sicon
+	row.text = stext
+	row:Hide()
+	stickyRows[si] = row
+end
+
+function TurtleGuide:UpdateStickyPreview(nextstep)
+	if not nextstep or not self.actions then
+		for si = 1, STICKY_ROWS do stickyRows[si]:Hide() end
+		return
+	end
+	-- Walk backward, collecting consecutive sticky steps that precede `nextstep`.
+	local stickies = {}
+	local j = nextstep - 1
+	while j > 0 and self:GetObjectiveTag("SK", j) and table.getn(stickies) < STICKY_ROWS do
+		table.insert(stickies, 1, j)  -- keep guide-order (oldest first)
+		j = j - 1
+	end
+	local count = table.getn(stickies)
+	for si = 1, STICKY_ROWS do
+		local row = stickyRows[si]
+		if si <= count then
+			-- Row 1 is closest to `f`; it shows the NEWEST sticky (stickies[count]).
+			local idx = stickies[count - si + 1]
+			local action, quest = self:GetObjectiveInfo(idx)
+			row.icon:SetTexture(self.icons[action])
+			row.text:SetText(quest or "")
+			row:ClearAllPoints()
+			if si == 1 then
+				row:SetPoint("BOTTOMLEFT", f, "TOPLEFT", 0, 2)
+				row:SetPoint("BOTTOMRIGHT", f, "TOPRIGHT", 0, 2)
+			else
+				row:SetPoint("BOTTOMLEFT", stickyRows[si - 1], "TOPLEFT", 0, 2)
+				row:SetPoint("BOTTOMRIGHT", stickyRows[si - 1], "TOPRIGHT", 0, 2)
+			end
+			row:Show()
+		else
+			row:Hide()
+		end
+	end
+end
+
 local item = CreateFrame("Button", nil, UIParent)
 item:SetFrameStrata("LOW")
 item:SetHeight(36)
@@ -214,7 +272,10 @@ function TurtleGuide:UpdateStatusFrame()
 
 	for i in ipairs(self.actions) do
 		local name = self.quests[i]
-		if not self.turnedin[name] and not nextstep then
+		-- Sticky steps are display-only; they don't advance the current pointer.
+		if self:GetObjectiveTag("SK", i) then
+			-- fall through without considering for nextstep
+		elseif not self.turnedin[name] and not nextstep then
 			local action, name, quest = self:GetObjectiveInfo(i)
 			local turnedin, logi, complete = self:GetObjectiveStatus(i)
 			local note, useitem, optional, prereq, lootitem, lootqty = self:GetObjectiveTag("N", i), self:GetObjectiveTag("U", i), self:GetObjectiveTag("O", i), self:GetObjectiveTag("PRE", i), self:GetObjectiveTag("L", i)
@@ -283,16 +344,18 @@ function TurtleGuide:UpdateStatusFrame()
 	-- Check if we're on a branch and it's complete
 	if not nextstep and self.db.char.isbranching then
 		self:Print("Branch guide complete! Returning to main route.")
+		self:UpdateStickyPreview(nil)
 		self:ReturnFromBranch()
 		return
 	end
 
 	if not nextstep and self:LoadNextGuide() then return self:UpdateStatusFrame() end
 
-	if not nextstep then return end
+	if not nextstep then self:UpdateStickyPreview(nil); return end
 
 	self:SetStatusText(nextstep)
 	self.current = nextstep
+	self:UpdateStickyPreview(nextstep)
 	local action, quest, fullquest = self:GetObjectiveInfo(nextstep)
 	local turnedin, logi, complete = self:GetObjectiveStatus(nextstep)
 	local note, useitem, optional, qid = self:GetObjectiveTag("N", nextstep), self:GetObjectiveTag("U", nextstep), self:GetObjectiveTag("O", nextstep), self:GetObjectiveTag("QID", nextstep)

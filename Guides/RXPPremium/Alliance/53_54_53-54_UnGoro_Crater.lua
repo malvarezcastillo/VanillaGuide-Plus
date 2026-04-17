@@ -40,7 +40,7 @@ N Kill Diemetradons and Young Diemetradons. Loot them for their Dinosaur Bones a
 N Kill Pterrordaxes. Loot them for their Webbed Pterrordax Scales - You don't need to collect all Webbed Pterrordax Scales right now - (56.3, 90.6) |QID|4503|
 N (49.9, 81.7)
 N Kill Gorishi Stingers and Gorishi Wasps. Loot them for their Gorishi Stings |QID|9052| |O| |C|Druid|
-N Kill the Gorishi. Loot them for their Gorishi Scent Gland |QID|4496| |O|
+N Kill the Gorishi. Loot them for their Gorishi Scent Gland |QID|4496| |SK|
 N Enter The Slithering Scar Hive - Use the [Unused Scraping Vial] in the centre of the circular room - (48.7, 85.3) |QID|3883|
 N Kill the Gorishi. Loot them for their Gorishi Scent Gland - (44.8, 75.6) |QID|4496|
 N Kill Gorishi Stingers and Gorishi Wasps. Loot them for their Gorishi Stings - (44.8, 75.6) |QID|9052| |C|Druid|
@@ -53,10 +53,10 @@ N Click the Western Crystal Pylon - (23.8, 59.2) |QID|4288|
 N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |O|
 N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses |QID|4513| |U|11955| |O|
 N Kill Frenzied Pterrordaxes. Loot them for their Webbed Pterrordax Scales - (20.6, 60.0) |QID|4503|
-N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |O|
+N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales |QID|4503| |SK|
 N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses - (27.0, 44.8) |QID|4513| |U|11955| |O|
 N Kill Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales - Dinosaur Bones may also be looted from the ground. The location is marked on your map to the southwest - (27.0, 44.8) |QID|4503|
-N (47.1, 47.1) |O|
+N (47.1, 47.1) |SK|
 C Use [Krakle's Thermometer] atop Fire Plume Ridge at the Hot Spot |QID|974| |N|(49.6, 45.7)| |U|12472|
 A The New Springs |QID|980| |N|Talk to Krakle - Talk to Krakle - (30.9, 50.4)|
 N Kill Scorching Elementals and Living Blazes. Loot them for their Ash - (45.4, 45.2) |QID|4502|
@@ -86,16 +86,16 @@ T The Mighty U'cha |QID|4301| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfi
 A Toxic Test |QID|9051| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)| |C|Druid|
 N Look for a Devilsaur or Ironhide Devilsaur. Avoid Tyrant Devilsaurs - You should be able to see their patrols on your map - The way you do this is spamming [Hibernate]. You should only spam [Hibernate] and nothing else. If it breaks early start spamming [Hibernate] again, they run with 170% movement speed so you can't outrun a Devilsaur - Use the [Devilsaur Barb] on it once it has been [Hibernated] - Shift into [Travel Form] and run away to reset it after |QID|9051| |U|22432| |C|Druid|
 A A Better Ingredient |QID|9053| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)| |C|Druid|
-D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 T Bungle in the Jungle |QID|4496| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|
 T Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 N Talk to Gimblethorn - Talk to Gimblethorn - [Eridan's Vial] - [Cenarion Beacon] - [Purified Moonwell Water] - [Moontouched Feathers] (If you have them) - (52.3, 28.9)
 H Hearthstone
 T Volcanic Activity |QID|4502| |N|Talk to Liv Rizzlefix - Talk to Liv Rizzlefix - (62.4, 38.7)|
 A Cleansed Water Returns to Felwood |QID|5159| |N|Talk to Islen Waterseer - Talk to Islen Waterseer - (65.8, 43.8)|
-N Cast Cast Teleport: Moonglade |O| |C|Druid|
+N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
-F Teldrassil>> Fly to Teldrassil |N|Talk to Silva Fil'naveth - Talk to Silva Fil'naveth - (44.1, 45.2)| |O| |C|Druid|
+F Teldrassil>> Fly to Teldrassil |N|Talk to Silva Fil'naveth - Talk to Silva Fil'naveth - (44.1, 45.2)| |SK| |C|Druid|
 R Teleport to Darnassus |O| |C|Mage|
 F Teldrassil>> Fly to Teldrassil |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)| |C|!Mage/!Druid|
 R Take the purple portal into Darnassus. Don't turn in the Rut'theran Village quests yet |N|(55.9, 89.5)|

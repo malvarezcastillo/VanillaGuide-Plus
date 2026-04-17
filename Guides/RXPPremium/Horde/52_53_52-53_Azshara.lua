@@ -10,7 +10,7 @@ N 52-53 Azshara |N|Converted from RestedXP guide|
 N Cast Cast [Teleport: Moonglade] |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |O| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
-U Hearthstone |U|6948| |O| |C|!Mage|
+U Hearthstone |U|6948| |SK| |C|!Mage|
 R Orgrimmar >>Fly to Orgrimmar |N|Talk to Devrak - Talk to Devrak - (51.5, 30.3)| |O| |C|!Mage|
 N Cast Cast [Teleport: Orgrimmar] |O| |C|Mage|
 h Orgrimmar |N|Talk to Innkeeper Gryshka - Talk to Innkeeper Gryshka - (54.1, 68.4)|
@@ -47,26 +47,26 @@ t Train your class spells |N|Talk to Grezz Ragefist - Talk to Grezz - (79.9, 31.
 t Train your class spells |N|Talk to Grezz Ragefist - Talk to Grezz - (79.9, 31.4)| |O| |C|Warrior|
 N Talk to Trak'gen - Talk to Trak'gen - Buy [Jagged Arrows] from him - Collect item 11285 (x2600) - (48.1, 80.5) |C|Hunter|
 N Talk to Auctioneer Thathung - Talk to Thathung - Buy an [Felcloth] from the Auction House - This is for an instant turn in at Felwood shortly. Skip this step if you wish to not buy any - Collect item 14256 (x1) - (55.6, 62.9) |C|Warlock|
-R Splintertree Post >>Fly to Splintertree Post |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |O|
+R Splintertree Post >>Fly to Splintertree Post |N|Talk to Doras - Talk to Doras - (45.1, 63.9)| |SK|
 R Travel to Azshara |N|(75.4, 64.7)|
 A A Land Filled with Hatred |QID|5536| |N|Talk to Loh'atu - Talk to Loh'atu - (10.4, 74.9)|
-N Kill Highborne Apparitions and Highborne Lichlings |QID|5535| |O| |C|Priest|
-N Kill Highborne Apparitions and Highborne Lichlings |QID|5535| |O|
+N Kill Highborne Apparitions and Highborne Lichlings |QID|5535| |SK| |C|Priest|
+N Kill Highborne Apparitions and Highborne Lichlings |QID|5535| |SK|
 N Kill Haldarr Satyrs, Haldarr Tricksters and Haldarr Felsworn - (19.4, 64.0) |QID|5536|
 N (17.8, 67.8) |QID|5535|
-N Kill Highborne Apparitions and Highborne Lichlings |QID|5535| |O| |C|Priest|
+N Kill Highborne Apparitions and Highborne Lichlings |QID|5535| |SK| |C|Priest|
 N Kill Highborne Apparitions and Highborne Lichlings - (17.8, 67.8) |QID|5535|
 T A Land Filled with Hatred |QID|5536| |N|Talk to Loh'atu - Talk to Loh'atu - (11.4, 78.2)|
 N Kill Highborne Lichling - Kill Highborne Apparitions and Highborne Lichlings. Loot them for a [Ichor of Undeath] for your class quest - Collect item 7972 (x1) - (17.8, 67.8) |O| |C|Priest|
-N (22.0, 49.7) |O|
+N (22.0, 49.7) |SK|
 f Azshara >>Get the Azshara Flight Path |N|Talk to Kroum - Talk to Kroum - (22.0, 49.7)|
 A Betrayed |QID|3505| |N|Talk to Ag'tor Bloodfist - Talk to Ag'tor - (22.2, 51.5)|
 A Betrayed |QID|3505| |N|Talk to Ag'tor Bloodfist - Talk to Ag'tor - (22.2, 51.5)| |O|
 A Stealing Knowledge |QID|3517| |N|Talk to Jediga - Talk to Jediga - (22.5, 51.4)|
-T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - (28.1, 50.1)| |O| |C|Mage|
+T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - (28.1, 50.1)| |SK| |C|Mage|
 A Magic Dust |QID|8251| |N|Talk to Archmage Xylem - Talk to Archmage Xylem - The Archmage wanders his tower - (29.2, 40.2)| |C|Mage|
 T Return Trip |QID|3421| |N|Talk to Nyrill - Talk to Nyrill - This will teleport you back down - (26.5, 46.3)| |O| |C|Mage|
-N (41.6, 42.7) |O| |C|Hunter/Priest|
+N (41.6, 42.7) |SK| |C|Hunter/Priest|
 N Talk to Ogtinc - Talk to Ogtinc - Be careful of falling as you approach him; he's in a precarious spot - (42.4, 42.6) |C|Hunter/Priest|
 N Kill Mosshoof Courser - Mosshoof Coursers share respawn with Hippogryphs and Chimaeras - (48.4, 33.2) |C|Hunter/Priest|
 A Wavethrashing |QID|8231| |N|Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6)| |C|Hunter|
@@ -81,15 +81,15 @@ N Destroy one of the Arcane Focusing Crystals. This will summon a Blood Elf Defe
 N Loot the Kim'Jael's Equipment boxes scattered around the camp - (58.5, 25.0) |QID|3601|
 G Grind to level 53 95000+/167100 |N|Kill Blood Elf Surveyor - This is your last grinding spot needed before level 60. If you don't want to grind this much you can do a dungeon or two instead - (55.8, 25.9)|
 A Kim'jael's "Missing" Equipment |QID|5534| |N|Talk to Kim'jael - Talk to Kim'jael - (53.5, 21.8)|
-N Travel south to the cliff and jump down into the water - (47.8, 60.8) |O| |C|Hunter|
+N Travel south to the cliff and jump down into the water - (47.8, 60.8) |SK| |C|Hunter|
 N Kill Wavethrashers. Loot them for their Wavethrasher Scales - These can be hard to find. Ensure to use [Track Beasts] and cast [Eagle Eye] around the coast to find them faster - (88.7, 25.9) |QID|8231| |C|Hunter|
-T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - (28.1, 50.1)| |O| |C|Mage|
+T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - (28.1, 50.1)| |SK| |C|Mage|
 A The Siren's Coral |QID|8252| |N|Talk to Archmage Xylem - Talk to Archmage Xylem - The Archmage wanders his tower - (29.2, 40.2)| |C|Mage|
 T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - (28.1, 50.1)| |O| |C|Mage|
-N Travel south to the cliff and jump down into the water - (47.8, 60.8) |O|
+N Travel south to the cliff and jump down into the water - (47.8, 60.8) |SK|
 N Kill all Spitelash Nagas. Loot them for Some Rune |QID|5534| |O|
 N Kill Spitelash Sirens. Loot them for their Enchanted Corals |QID|8252| |O| |C|Mage|
-U Open your [Box of Empty Vials] |N|Collect item 10687 (x1) - Collect item 10688 (x1) - Collect item 10689 (x1) - Collect item 10690 (x1)| |U|10695| |O|
+U Open your [Box of Empty Vials] |N|Collect item 10687 (x1) - Collect item 10688 (x1) - Collect item 10689 (x1) - Collect item 10690 (x1)| |U|10695| |SK|
 C Use your [Empty Vial Labeled #4] in the centre of the puddle |QID|3568| |N|(47.5, 46.2)| |U|10690|
 C Use your [Empty Vial Labeled #3] in the centre of the puddle |QID|3568| |N|(48.7, 48.5)| |U|10689|
 C Use your [Empty Vial Labeled #2] in the centre of the puddle |QID|3568| |N|(47.8, 51.3)| |U|10688|
@@ -103,11 +103,11 @@ N Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6) |C|Hunter/Priest|
 T Kim'jael's "Missing" Equipment |QID|5534| |N|Talk to Kim'jael - Talk to Kim'jael - (53.5, 21.8)|
 A Delivery to Jes'rimon |QID|3541| |N|Talk to Jediga - Talk to Jediga - (22.6, 51.4)|
 A Betrayed |QID|3507| |N|Talk to Ag'tor Bloodfist - Talk to Ag'tor - (22.3, 51.5)|
-T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath - (28.1, 50.1)| |O|
+T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath - (28.1, 50.1)| |SK|
 A Xylem's Payment to Jediga |QID|3565| |N|Talk to Archmage Xylem - Talk to Archmage Xylem - (29.7, 40.4)|
 T The Siren's Coral |QID|8252| |N|Talk to Archmage Xylem - Talk to Archmage Xylem atop the Tower - (29.2, 40.2)| |C|Mage|
 A Destroy Morphaz |QID|8253| |N|Talk to Archmage Xylem - Talk to Archmage Xylem atop the Tower - (29.2, 40.2)| |C|Mage|
-T Return Trip |QID|3421| |N|Talk to Nyrill - Talk to Nyrill - This will teleport you back down - (26.5, 46.3)| |O|
+T Return Trip |QID|3421| |N|Talk to Nyrill - Talk to Nyrill - This will teleport you back down - (26.5, 46.3)| |SK|
 T Xylem's Payment to Jediga |QID|3565| |N|Talk to Jediga - Talk to Jediga - (22.6, 51.4)|
 R Splintertree Post >>Fly to Splintertree Post |N|Talk to Kroum - Talk to Kroum - (22.0, 49.6)|
 R Travel to Felwood |N|(55.8, 28.1)|

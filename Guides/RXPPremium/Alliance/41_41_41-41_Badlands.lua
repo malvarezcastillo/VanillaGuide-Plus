@@ -23,15 +23,15 @@ N Talk to Auctioneer Buckler - Talk to an Ironforge Auctioneer - Buy the followi
 R Loch Modan >> Fly to Loch Modan |N|Talk to Gryth Thurden - Talk to Gryth Thurden - If you have used the website unstuck to travel to Ironforge from Wetlands you will not have the Thelsamar flight path. In that case run through Dun Morogh to Loch Modan instead - (55.5, 47.7)|
 h Loch Modan |N|Talk to Innkeeper Hearthstove - Talk to Innkeeper Hearthstove - (35.5, 48.4)|
 A Badlands Reagent Run |QID|2500| |N|Talk to Ghak Healtouch - Talk to Ghak Healtouch - (36.5, 48.4)|
-N (65.9, 65.6) |O|
+N (65.9, 65.6) |SK|
 A Find Agmond |QID|738| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)|
 R Travel to Badlands |N|(47.0, 79.3)| |O|
 N Kill Buzzards. Loot them for their Gizzards and Wings - Kill Coyotes. Loot them for their Fangs - Collect item 3404 (x4) |QID|2500| |O|
 A Mirages |QID|718| |N|Talk to Sigrun Ironhew - Talk to Prospector Ryedol and Sigrun Ironhew - (53.4, 43.4)|
-N Kill Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick - (53.2, 30.6) |QID|719| |O|
+N Kill Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick - (53.2, 30.6) |QID|719| |SK|
 A A Sign of Hope |QID|720| |N|Click the Crumpled Map on the ground - NOTE: If you quest log is full, skip this step. You will accept it in a moment - (53.0, 33.9)|
 N Kill Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick - (53.2, 30.6) |QID|719|
-N (66.9, 23.4) |O|
+N (66.9, 23.4) |SK|
 N Loot the Supply Crate on the ground - The Supply Crate can spawn in a few locations at Camp Kosh - (66.6, 21.5) |QID|718|
 N Talk to Prospector Ryedol - Talk to Sigrun Ironhew and Prospector Ryedol - (53.8, 43.3)
 N Talk to Sigrun Ironhew - Talk to Sigrun Ironhew and Prospector Ryedol - (53.8, 43.3)
@@ -59,7 +59,7 @@ N Kill Lesser Rock Elementals. Loot them for their Small Stone Shards and Rock E
 A Study of the Elements: Rock |QID|711| |N|Talk to Lotwil Veriatus - Talk to Lotwil Veriatus - (25.9, 44.9)|
 N Kill Rock Elementals. Loot them for their Large Stone Slabs and Rock Elemental Shards - You don't have to collect all Rock Elemental Shards right now - (14.7, 35.3) |QID|2500|
 A Study of the Elements: Rock |QID|712| |N|Talk to Lotwil Veriatus - Talk to Lotwil Veriatus - (25.9, 44.9)|
-N Kill Dustbelcher Ogres. Loot them for their Scrap Metal |QID|733| |O|
+N Kill Dustbelcher Ogres. Loot them for their Scrap Metal |QID|733| |SK|
 N Kill Greater Rock Elementals. Loot them for their Bracers and Rock Elemental Shards - (4.3, 77.8) |QID|2500|
 N Kill Dustbelcher Ogres. Loot them for their Scrap Metal - (13.6, 74.8) |QID|733|
 N Kill Buzzards. Loot them for their Gizzards and Wings - Kill Coyotes. Loot them for their Fangs - (49.8, 53.0) |QID|2500|
@@ -78,20 +78,20 @@ T Scrounging |QID|733| |N|Talk to Sigrun Ironhew - Talk to Sigrun Ironhew - (53.
 T Fiery Blaze Enchantments |QID|706| |N|Talk to Sigrun Ironhew - Talk to Sigrun Ironhew - (53.8, 43.3)|
 N Kill Boss Tho'grun. Loot him for his Sign of the Earth - Boss Tho'grun patrols across all of Badlands - (36.4, 71.6) |QID|732|
 T Tremors of the Earth |QID|732| |N|Talk to Garek - Talk to Garek - (61.9, 54.3)|
-R Ride to Searing Gorge |N|(3.6, 61.9)| |O| |M|speedrun|
-D Die and respawn |N|Talk to Spirit Healer - (63.4, 60.8)| |O| |M|speedrun|
+R Ride to Searing Gorge |N|(3.6, 61.9)| |SK| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - (63.4, 60.8)| |SK| |M|speedrun|
 f Thorium Point >> Get the Thorium Point flight path |N|Talk to Lanie Reed - Talk to Lanie Reed - (37.9, 30.9)| |M|speedrun|
-N Cast Cast Teleport: Moonglade |O| |C|Druid|
+N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
-R Teleport to Ironforge |O| |C|Mage|
+R Teleport to Ironforge |SK| |C|Mage|
 t Train your class spells |N|Talk to Dink - Talk to Dink - (27.2, 8.6)| |C|Mage|
 R If you didn't abandon the Panther and Tiger quests earlier, Hearth to Loch Modan. If you did, Fly to Loch Modan |C|Warlock| |M|speedrun|
 H Hearthstone |C|!Warlock|
-R Run Back to Loch Modan |O| |C|Warlock| |M|hardcore|
+R Run Back to Loch Modan |SK| |C|Warlock| |M|hardcore|
 T Murdaloc |QID|739| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)| |C|Warlock| |M|hardcore|
 T Badlands Reagent Run |QID|2500| |N|Talk to Ghak Healtouch - Talk to Ghak Healtouch - (36.5, 48.4)|
 T Murdaloc |QID|739| |N|Talk to Prospector Ironband - Talk to Prospector Ironband - (65.9, 65.6)|
-D Die and respawn |N|Talk to Spirit Healer - (68.5, 62.8)| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer - (68.5, 62.8)| |SK| |M|speedrun|
 F Ironforge >> Fly to Ironforge |N|Talk to Thorgrum Borrelson - Talk to Thorgrum Borrelson - (33.9, 51.0)|
 
 ]]

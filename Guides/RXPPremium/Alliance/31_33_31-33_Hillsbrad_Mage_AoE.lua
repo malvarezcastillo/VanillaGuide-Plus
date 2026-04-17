@@ -26,12 +26,12 @@ A The Thandol Span |QID|632| |N|Go into the doorway at the bridge. Avoid fightin
 A The Thandol Span |QID|633| |N|Talk to Rhag Garmason - Talk to Rhag Garmason - (49.9, 18.2)|
 A MacKreel's Moonshine |QID|647| |N|Talk to Foggy MacKreel - Cross the bridge into Arathi. Get on the edge of the broken bridge, then cast Slow Fall on yourself with the feather you took out the bank earlier. Jump across - If you failed the jump, skip this quest - Accepting this quest will start a 15 minute timer. Be quick and focused - Talk to Foggy MacKreel - (44.0, 88.2)|
 A Sully Balloo's Letter |QID|637| |N|Loot the letter near the dwarf corpse underwater - Collect item 4433 (x1) - (44.3, 92.9)|
-N (52.5, 90.4) |O|
+N (52.5, 90.4) |SK|
 N Click on the Wagon - (48.9, 88.1) |QID|633|
 A Plea To The Alliance |QID|634| |N|Talk to Rhag Garmason - Run back to Wetlands - Talk to Rhag Garmason - (46.2, 88.1)|
 T Plea To The Alliance |QID|634| |N|Talk to Captain Nials - Run to Arathi - Talk to Captain Nials - (45.8, 47.6)|
 T Malin's Request |QID|690| |N|Talk to Skuerto - Talk to Skuerto - (46.6, 47.0)|
-N Buy potions from Drovnar if you want - (46.3, 47.0) |O|
+N Buy potions from Drovnar if you want - (46.3, 47.0) |SK|
 f Refuge Pointe >> Get the Refuge Pointe flight path |N|(45.7, 46.1)|
 T MacKreel's Moonshine |QID|647| |N|Talk to Brewmeister Bilger - Run to Southshore, into the inn, then into the basement. If you fail the timed quest, abandon it and skip this step - Talk to Brewmeister Bilger - (19.7, 29.0)|
 A Soothing Turtle Bisque |QID|555| |N|Talk to Chef Jessen - go back upstairs - Talk to Chef Jessen - (51.9, 58.7)|
@@ -59,18 +59,18 @@ T The Daughter Who Lived |QID|229| |N|Talk to Watcher Ladimore - Turn in at Watc
 R Teleport to Ironforge
 A Sara Balloo's Plea |QID|683| |N|Talk to Sara Balloo - You may need to wait out her short RP event - Talk to Sara Balloo - (63.8, 67.8)|
 A A King's Tribute |QID|686| |N|Talk to King Magni Bronzebeard - Talk to King Magni Bronzebeard - (39.1, 56.2)|
-N Bank your cloth and light feathers if needed |O|
+N Bank your cloth and light feathers if needed |SK|
 A A King's Tribute |QID|689| |N|Talk to Grand Mason Marblesten - Talk to Grand Mason Marblesten - (38.8, 87.0)|
 F Southshore >> Fly to Southshore |N|(55.5, 47.7)|
 h Hillsbrad Foothills |N|Go into the Inn - (51.2, 58.9)|
 A Costly Menace |QID|564| |N|Talk to Darren Malvew - Talk to Darren Malvew - (52.4, 56.0)|
-N (55.6, 55.8) |O|
-N AoE turtles along the river up north toward Western Plaguelands. You can get all 10 later if needed - Note that Turtles have frost resistance, so use Arcane Explosion and backwards strafe to kill him. Watch the video for reference - Collect item 3712 (x10) - (83.1, 52.8) |O|
+N (55.6, 55.8) |SK|
+N AoE turtles along the river up north toward Western Plaguelands. You can get all 10 later if needed - Note that Turtles have frost resistance, so use Arcane Explosion and backwards strafe to kill him. Watch the video for reference - Collect item 3712 (x10) - (83.1, 52.8) |SK|
 R Travel to Western Plaguelands |N|(80.5, 32.0)|
 f Chillwind Camp >> Get the Chillwind Camp flight path |N|(79.0, 30.6)|
 N AoE ogres. Loot them for knucklebones - Try and avoid the level 36 brutes, as they will resist too much - (45.3, 61.6) |QID|500|
-N Kill Lions that you see. Focus on the Hulking ones if possible |QID|564| |O|
-A Encrypted Letter |QID|511| |N|Loot the plans from the table in the camp - (67.3, 47.3)|
+N Kill Lions that you see. Focus on the Hulking ones if possible |QID|564| |SK|
+A Encrypted Letter |QID|511| |N|Loot the plans from the table in the camp - (67.3, 47.3)| |SK|
 N AoE Syndicates in the area. Go up north and kill Ogres for knucklebones if you're waiting on respawns after clearing both camps - (58.3, 67.9) |QID|505|
 N Loot the lighter, highlighted shards of granite against the wall. There can only be 2-3 up at a time (so you'll likely backtrack for spawns) - AoE the Yetis in the area - (43.1, 28.0) |QID|689|
 N AoE Lions that you see. Focus on the Hulking ones if possible - (39.1, 92.3) |QID|564|
@@ -82,7 +82,7 @@ T Foreboding Plans |QID|510| |N|Talk to Magistrate Henry Maleb - Inside the keep
 A Letter to Stormpike |QID|514| |N|Talk to Loremaster Dibbs - Talk to Loremaster Dibbs - (50.6, 57.1)|
 T Costly Menace |QID|564| |N|Talk to Darren Malvew - Talk to Darren Malvew - (52.4, 56.0)|
 R Teleport to Ironforge
-N Make sure to bank your cloth and repair. You're not going back to town for hours soon |O|
+N Make sure to bank your cloth and repair. You're not going back to town for hours soon |SK|
 A A King's Tribute |QID|700| |N|Talk to Grand Mason Marblesten - If you get unlucky on the quest accept and have to wait out the RP event, start conjuring level 25 water en masse - Talk to Grand Mason Marblesten - (39.0, 88.1)|
 T A King's Tribute |QID|700| |N|Talk to King Magni Bronzebeard - Talk to King Magni Bronzebeard - (39.1, 56.2)|
 A Further Mysteries |QID|525| |N|Talk to Prospector Stormpike - Talk to Prospector Stormpike - (74.6, 11.7)|

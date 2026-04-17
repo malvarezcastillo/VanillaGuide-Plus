@@ -7,7 +7,7 @@ return [[
 
 N 40-40 Dustwallow Marsh |N|Converted from RestedXP guide|
 
-N (7.3, 62.5) |O|
+N (7.3, 62.5) |SK|
 R Take the boat to Theramore |N|Level your [First Aid] while waiting - (5.1, 63.4)|
 F Ratchet >> Fly to Ratchet |N|Talk to Baldruc - Talk to Baldruc - (67.5, 51.3)| |O| |C|Warlock|
 T Knowledge of the Orb of Orahil |QID|4965| |N|Talk to Menara Voidrender - Talk to Menara Voidrender - (62.5, 35.4)| |O| |C|Warlock|
@@ -30,8 +30,8 @@ A Extinguishing the Idol |QID|3525| |N|Talk to Belnistrasz - Talk to Belnistrasz
 N Talk to Belnistrasz - Follow and protect Belnistrasz during his ritual |QID|3525|
 T Extinguishing the Idol |QID|3525| |N|Click Belnistrasz's Brazier|
 N Kill Amnennar the Coldbringer |QID|3636|
-R Once you have completed RFD, leave your group and ghetto hearth to Wetlands |O|
-N (7.3, 62.5) |O|
+R Once you have completed RFD, leave your group and ghetto hearth to Wetlands |SK|
+N (7.3, 62.5) |SK|
 R Take the boat to Theramore |N|Level your [First Aid] while waiting - (5.1, 63.4)|
 A Triage |QID|6624| |N|Talk to Doctor Gustaf VanHowzen - Talk to Doctor Gustaf VanHowzen - (67.8, 49.0)|
 C Channel the [Triage Bandage] on the Alliance Soldiers. Prioritize Critically Injured Soldiers first |QID|6624| |N|Talk to Injured Alliance Soldier - (67.8, 49.0)| |U|16991|
@@ -39,7 +39,7 @@ T Triage |QID|6624| |N|Talk to Doctor Gustaf VanHowzen - Talk to Doctor Gustaf V
 A The Deserters |QID|1286| |N|Talk to Captain Garran Vimes - Talk to Captain Garran Vimes - (68.2, 48.6)|
 T Morgan Stern |QID|1260| |N|Talk to Morgan Stern - Talk to Morgan Stern - (66.3, 45.5)| |C|!Warrior/!Rogue/!Druid/!Hunter|
 A Mudrock Soup and Bugs |QID|1204| |N|Talk to Morgan Stern - Talk to Morgan Stern - (66.3, 45.5)|
-N Kill Mudrock Spikeshells and Mudrock Tortoises. Loot them for their Tongues - (64.9, 42.2) |QID|1204| |O|
+N Kill Mudrock Spikeshells and Mudrock Tortoises. Loot them for their Tongues - (64.9, 42.2) |QID|1204| |SK|
 N Kill the Mirefins. Loot them for their Heads - Be careful not to swim into a Coral Shark that patrols the waters in the area. It can [Thrash] you for upwards of 1200 damage instantly - (64.2, 28.0) |QID|1177|
 N Kill Mudrock Spikeshells and Mudrock Tortoises. Loot them for their Tongues - (64.6, 40.0) |QID|1204|
 A Jarl Needs Eyes |QID|1206| |N|Talk to "Swamp Eye" Jarl - Talk to "Swamp Eye" Jarl - (55.4, 26.3)|
@@ -60,7 +60,7 @@ A Stinky's Escape |QID|1222| |N|Talk to "Stinky" Ignatz - Talk to "Stinky" Ignat
 N Talk to "Stinky" Ignatz - Follow "Stinky" Ignatz through the Marshlands - (48.8, 24.5) |QID|1222| |C|Warlock|
 T Hungry |QID|1177| |N|Talk to Mudcrush Durtfeet - Talk to Mudcrush Durtfeet - (35.2, 38.3)|
 N (35.7, 54.0) |O|
-N Attack Balos Jacken to 10% health to make him submit - (36.1, 54.3) |O|
+N Attack Balos Jacken to 10% health to make him submit - (36.1, 54.3) |SK|
 A The Deserters |QID|1287| |N|Talk to Balos Jacken - Talk to Balos Jacken - (36.1, 54.3)|
 N Open the Gizmorium Shipping Crate. Loot it for the Seaforium Booster - (54.1, 56.5) |QID|1187|
 N (66.3, 45.5) |O|

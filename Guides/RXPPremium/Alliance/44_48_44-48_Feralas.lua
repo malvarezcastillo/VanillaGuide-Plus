@@ -7,12 +7,12 @@ return [[
 
 N 44-48 Feralas |N|Converted from RestedXP guide|
 
-N There is A LOT of grinding required in this segment, you can substitute some of that for Zul'Farrak/Uldaman/Maraudon runs |O|
+N There is A LOT of grinding required in this segment, you can substitute some of that for Zul'Farrak/Uldaman/Maraudon runs |SK|
 F Thalanaar >> Fly to Thalanaar |M|hardcore|
 F Feathermoon>> Fly to Feathermoon |M|speedrun|
-N It is always faster to swim across the water than waiting for the boat - (30.2, 43.3) |O| |M|hardcore|
+N It is always faster to swim across the water than waiting for the boat - (30.2, 43.3) |SK| |M|hardcore|
 A The Mark of Quality |QID|2821| |N|Talk to Pratt McGrubben - Talk to Pratt McGrubben - (30.6, 42.7)|
-N Talk to Antarius - Talk to Antarius - (31.5, 43.1) |O| |C|Hunter|
+N Talk to Antarius - Talk to Antarius - (31.5, 43.1) |SK| |C|Hunter|
 t Attack mobs with it to learn [Bite (Rank 6)] |N|Kill Longtooth Runner - Cast [Tame Beast] on a Longtooth Runner to tame it - (29.8, 49.2)| |C|Hunter|
 N Talk to Mardrack Greenwell - Talk to Mardrack Greenwell - Restock on Food/Water. There is a long grind section ahead - Buy 5 stacks of food/water - (31.0, 43.1) |O|
 N Talk to Faralorn - Talk to Faralorn - Buy 25 stacks of Ammo - (30.6, 43.4) |O| |C|Hunter|
@@ -25,23 +25,23 @@ A Return to Feathermoon Stronghold |QID|2867| |N|Click the Solarsal Gazebo - (26
 A Against the Hatecrest |QID|2869| |N|Talk to Shandris Feathermoon - Talk to Shandris Feathermoon and Latronicus Moonspear - (30.3, 46.2)|
 N Kill Hatecrest Screamers, Hatecrest Wave Riders, Hatecrest Warriors and Hatecrest Sirens. Loot them for their Naga Scales - (26.6, 52.0) |QID|2869|
 A Against Lord Shalzaru |QID|2870| |N|Talk to Latronicus Moonspear - Talk to Latronicus Moonspear - (30.4, 46.2)|
-N (25.5, 64.9) |O|
+N (25.5, 64.9) |SK|
 N Kill Lord Shalzaru. Loot him for the Mysterious Relic - (28.5, 70.6) |QID|2870|
 N Kill Hatecrest Myrmidon - Do loops around the cave grinding Nagas until you get the [OOX-22/FE Distress Beacon] - Don't start the quest for this yet - Collect item 8705 (x1) |M|speedrun|
 G Do loops around the cave, grinding Nagas to level 45+87500xp |N|Kill Hatecrest Myrmidon - (27.6, 69.0)|
-N (38.7, 75.1) |O|
+N (38.7, 75.1) |SK|
 A Boat Wreckage |QID|4127| |N|Click on the Wrecked Row Boat in the water - (45.4, 65.0)|
-N Cast Cast Teleport: Moonglade |O| |C|Druid|
+N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
-R Teleport to Stormwind City |O| |C|Mage|
+R Teleport to Stormwind City |SK| |C|Mage|
 t Train your class spells |N|Talk to Jennea Cannon - Talk to Jennea - (36.9, 81.1)| |C|Mage|
-H Hearthstone |O|
+H Hearthstone |SK|
 A The Knife Revealed |QID|4129| |N|Talk to Ginro Hearthkindle - Talk to Ginro Hearthkindle up stairs - (32.1, 45.5)|
 A Psychometric Reading |QID|4130| |N|Talk to Quintis Jonespyre - Talk to Quintis Jonespyre atop the tree house - (32.4, 43.8)|
 A The Woodpaw Gnolls |QID|4131| |N|Talk to Ginro Hearthkindle - Talk to Ginro Hearthkindle up stairs - (32.1, 45.5)|
 A Delivering the Relic |QID|2871| |N|Talk to Latronicus Moonspear - Talk to Latronicus Moonspear - (30.4, 46.2)|
 T Delivering the Relic |QID|2871| |N|Talk to Vestia Moonspear - Talk to Vestia Moonspear - (30.1, 45.1)|
-N (45.1, 44.9) |O|
+N (45.1, 44.9) |SK|
 C Use [Yeh'kinya's Bramble] on their corpses to summon a Screecher Spirit |QID|3520| |N|Talk to Screecher Spirit - Kill Vale Screechers and Rogue Vale Screechers - Talk to the Screecher Spirit - (52.0, 48.9)| |U|10699| |O|
 N Kill Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers - (58.8, 59.0) |QID|1452| |O|
 R You must explore the Dire Maul zone as a pre-requisite to unlock a quest later on. Get close to the Dire Maul zone border until your General Chat changes to Dire Maul |N|(55.4, 45.5)|
@@ -52,7 +52,7 @@ A Rescue OOX-22/FE! |QID|2767| |N|Talk to Homing Robot OOX-22/FE - Talk to the H
 N Talk to Homing Robot OOX-22/FE - Escort the Homing Robot OOX-22/FE to safety - This quest can be hard. You have to fight waves of 3/4 mobs along the way. Skip this step if its too difficult - (45.7, 43.4) |QID|2767|
 N Loot a Hippogryph Egg from a nest - Collect item 8564 (x1) - (53.7, 74.4)
 N Kill Gordunni Shamans, Gordunni Warlocks and Gordunni Brutes - Prioritize killing Gordunni Shamans. You may need to kill other Gordunni Ogres to force Gordunni Shamans to spawn - (59.5, 63.1) |QID|2982|
-N Kill Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers - (58.4, 55.6) |QID|1452| |O|
+N Kill Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers - (58.4, 55.6) |QID|1452| |SK|
 C Use [Yeh'kinya's Bramble] on their corpses to summon a Screecher Spirit |QID|3520| |N|Talk to Screecher Spirit - Kill Vale Screechers and Rogue Vale Screechers - Talk to the Screecher Spirit - (53.2, 47.2)| |U|10699|
 N Kill Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers - (58.4, 55.6) |QID|1452|
 A Freedom for All Creatures |QID|2969| |N|Talk to Kindal Moonweaver - Kill Grimtotem Shaman - Kill some of the Grimtotem around the giant cage containing Captured Sprite Darters before accepting this escort quest - Grimtotem Raiders cast [Net] which immobilizes movement for 10 seconds - Talk to Kindal Moonweaver - (66.6, 46.9)|
@@ -62,7 +62,7 @@ N Kill Grimtotem Naturalists, Grimtotem Raiders and Grimtotem Shamans - Grimtote
 A Doling Justice |QID|2972| |N|Talk to Jer'kai Moonweaver - Talk to Jer'kai Moonweaver - (65.9, 45.6)|
 A The Writhing Deep |QID|4135| |N|Click the Large Leather Backpacks on the tree - (73.3, 56.3)|
 A Thalanaar Delivery |QID|4281| |N|Collect item 11463 (x1) - (73.3, 56.3)| |U|11463|
-N (73.6, 63.1) |O|
+N (73.6, 63.1) |SK|
 A Freed from the Hive |QID|4265| |N|Click the Zukk'ash Pod - (72.1, 63.7)|
 N Wait out the RP - (72.1, 63.7) |QID|4265|
 N Grind until your Hearthstone is off cooldown
@@ -71,8 +71,8 @@ T The Mark of Quality |QID|2821| |N|Talk to Pratt McGrubben - Talk to Pratt McGr
 A A Hero's Welcome |QID|4266| |N|Talk to Ginro Hearthkindle - Talk to Ginro Hearthkindle up stairs - (32.1, 45.5)|
 A Rise of the Silithid |QID|4267| |N|Talk to Shandris Feathermoon - Talk to Shandris Feathermoon - (30.3, 46.2)|
 N Talk to Faralorn - Talk to Faralorn - Buy Ammo if needed - (30.6, 43.4) |C|Hunter|
-G At this point you should be close to having your mount money, if you're close to the 55g mark, grind nagas until you have enough to buy a mount, otherwise skip this step and fly to Teldrassil |N|(26.2, 67.5)| |O| |C|!Warlock/!Paladin|
-N Grind Nagas until your Hearthstone cooldown is less than 10min, don't head out to Teldrassil without having your hearthstone ready to go back - (26.2, 67.5)
+G At this point you should be close to having your mount money, if you're close to the 55g mark, grind nagas until you have enough to buy a mount, otherwise skip this step and fly to Teldrassil |N|(26.2, 67.5)| |SK| |C|!Warlock/!Paladin|
+N Grind Nagas until your Hearthstone cooldown is less than 10min, don't head out to Teldrassil without having your hearthstone ready to go back - (26.2, 67.5) |O|
 F Teldrassil >> Fly to Teldrassil |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.3)| |C|!Mage/!Druid|
 N Cast Cast Teleport: Moonglade |C|Druid|
 R Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - Skip this step if you trained earlier - (52.5, 40.6)| |C|Druid|
@@ -80,7 +80,7 @@ R Teldrassil >> Fly to Darnassus |N|Talk to Silva Fil'naveth - Talk to Silva Fil
 R Teleport to Darnassus |N|If you don't have [Teleport: Darnassus] trained then fly there - (30.2, 43.3)| |C|Mage|
 R Rise of the Silithid |QID|4267| |N|Talk to Gracina Spiritmight - Talk to Gracina Spiritmight up stairs - (39.3, 92.8)| |C|Mage|
 R Doling Justice |QID|2972| |N|Talk to Tyrande Whisperwind - Talk to Tyrande Whisperwind - (39.1, 81.6)| |C|Mage|
-R Take the purple portal to Rut'theran Village |N|(29.5, 41.4)| |O| |C|Mage|
+R Take the purple portal to Rut'theran Village |N|(29.5, 41.4)| |SK| |C|Mage|
 A Favored of Elune? |QID|3661| |N|Talk to Erelas Ambersky - Talk to Erelas Ambersky - (55.5, 92.0)|
 T In Search of Knowledge |QID|2939| |N|Talk to Daryn Lightwind - Talk to Daryn Lightwind up stairs - (55.1, 91.7)|
 A Feralas: A History |QID|2940| |N|Click the Feralas: A History book on the ground - (55.2, 91.5)|
@@ -95,12 +95,12 @@ R Train your class spells |N|Talk to Arias'ta Bladesinger - Talk to Arias'ta Bla
 R Train your class spells |N|Talk to Syurna - Talk to Syurna - (31.8, 16.7)| |C|Rogue|
 R Train your class spells |N|Talk to Jocaste - Talk to Jocaste - (40.4, 8.5)| |C|Hunter|
 R Train [Tiger Riding] |N|Talk to Lelanai - Talk to Jartsam and Lelanai - Buy a [Frostsaber] or [Nightsaber] - (38.7, 15.9)| |R|NightElf|
-N If you still haven't bought your mount and you have 100g, take the boat to Wetlands, fly to Stormwind, head to the Eastvale Logging Camp in Elwynn Forest and buy a mount - (84.0, 65.4) |O| |C|!Warlock/!Paladin| |R|Human|
-N If you still haven't bought your mount and you have 100g, take the boat to Wetlands, fly to Ironforge, head to the Amberstill Ranch in Dun Morogh and buy a mount - (63.4, 50.6) |O| |C|!Paladin| |R|Dwarf|
-N If you still haven't bought your mount and you have 100g, take the boat to Wetlands, fly to Ironforge, head to Kharanos in Dun Morogh and buy a mount - (49.2, 48.0) |O| |C|!Warlock| |R|Gnome|
-N If you still haven't bought your mount and you have 55g, take the boat to Wetlands, fly to Stormwind, head to the Eastvale Logging Camp in Elwynn Forest and buy a mount - (84.0, 65.4) |O| |C|!Warlock/!Paladin| |R|Human|
-N If you still haven't bought your mount and you have 55g, take the boat to Wetlands, fly to Ironforge, head to the Amberstill Ranch in Dun Morogh and buy a mount - (63.4, 50.6) |O| |C|!Paladin| |R|Dwarf|
-N If you still haven't bought your mount and you have 55g, take the boat to Wetlands, fly to Ironforge, head to Kharanos in Dun Morogh and buy a mount - (49.2, 48.0) |O| |C|!Warlock| |R|Gnome|
+N If you still haven't bought your mount and you have 100g, take the boat to Wetlands, fly to Stormwind, head to the Eastvale Logging Camp in Elwynn Forest and buy a mount - (84.0, 65.4) |SK| |C|!Warlock/!Paladin| |R|Human|
+N If you still haven't bought your mount and you have 100g, take the boat to Wetlands, fly to Ironforge, head to the Amberstill Ranch in Dun Morogh and buy a mount - (63.4, 50.6) |SK| |C|!Paladin| |R|Dwarf|
+N If you still haven't bought your mount and you have 100g, take the boat to Wetlands, fly to Ironforge, head to Kharanos in Dun Morogh and buy a mount - (49.2, 48.0) |SK| |C|!Warlock| |R|Gnome|
+N If you still haven't bought your mount and you have 55g, take the boat to Wetlands, fly to Stormwind, head to the Eastvale Logging Camp in Elwynn Forest and buy a mount - (84.0, 65.4) |SK| |C|!Warlock/!Paladin| |R|Human|
+N If you still haven't bought your mount and you have 55g, take the boat to Wetlands, fly to Ironforge, head to the Amberstill Ranch in Dun Morogh and buy a mount - (63.4, 50.6) |SK| |C|!Paladin| |R|Dwarf|
+N If you still haven't bought your mount and you have 55g, take the boat to Wetlands, fly to Ironforge, head to Kharanos in Dun Morogh and buy a mount - (49.2, 48.0) |SK| |C|!Warlock| |R|Gnome|
 R Make your way to Ironforge to accept the 2 Uldaman quests there, then head to Loch Modan |O|
 A The Lost Dwarves |QID|2398| |N|Talk to Prospector Stormpike - Talk to Prospector Stormpike - (74.6, 11.7)|
 A Reclaimed Treasures |QID|1360| |N|Talk to Krom Stoutarm - Talk to Krom Stoutarm - (74.2, 9.4)|
@@ -125,7 +125,7 @@ N Loot the Carved Stone Urns on the ground - This can be only be completed OUTSI
 N Loot the Magenta Fungus Caps on the ground |QID|17| |O|
 A The Hidden Chamber |QID|2240| |N|Talk to Baelog - Talk to Baelog|
 A The Hidden Chamber |QID|2240| |N|Talk to Baelog - Talk to Baelog|
-N Kill Revelosh - Open Baelog's Chest. Loot it for the [Gni'kiv Medallion] - Kill Revelosh. Loot him for [The Shaft of Tsol] - Note other party members can loot these items, and then combine them to create the [Staff of Prehistoria]. Only one person in the group needs to do this - Collect item 7740 (x1) - Collect item 7741 (x1) |U|7741| |O|
+N Kill Revelosh - Open Baelog's Chest. Loot it for the [Gni'kiv Medallion] - Kill Revelosh. Loot him for [The Shaft of Tsol] - Note other party members can loot these items, and then combine them to create the [Staff of Prehistoria]. Only one person in the group needs to do this - Collect item 7740 (x1) - Collect item 7741 (x1) |U|7741| |SK|
 N Use the [Gni'kiv Medallion] and [The Shaft of Tsol] to combine them into the [Staff of Prehistoria] - Use the [Staff of Prehistoria] on the Keystone to summon Ironaya - Kill Ironaya. Run into the Hidden Chamber she came from after |QID|2240| |U|7733|
 N Loot the Magenta Fungus Caps on the ground |QID|17|
 A The Platinum Discs |QID|2278| |N|Kill Archaedas - Click The Discs of Norgannon|
@@ -154,7 +154,7 @@ G Head back to the Naga cave and grind to level 48 + 50% |N|(26.2, 67.5)|
 H Hearthstone |O|
 A The Sunken Temple |QID|3445| |N|Talk to Angelas Moonbreeze - Talk to Angelas Moonbreeze - (31.8, 45.6)|
 N Talk to Faralorn - Talk to Faralorn - Buy Ammo for the next segment - (30.6, 43.4) |C|Hunter|
-F Thalanaar>> Fly to Thalanaar |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.3)| |O|
+F Thalanaar>> Fly to Thalanaar |N|Talk to Fyldren Moonfeather - Talk to Fyldren Moonfeather - (30.2, 43.3)| |SK|
 U Thalanaar Delivery |QID|4281| |N|Talk to Falfindel Waywarder - Talk to Falfindel Waywarder - (89.6, 46.6)| |U|11463|
 F Tanaris>> Fly to Tanaris |N|Talk to Thyssiana - Talk to Thyssiana - (89.5, 45.9)|
 

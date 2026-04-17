@@ -16,10 +16,10 @@ A War on the Woodpaw |QID|2862| |N|Talk to Hadoken Swiftstrider - Talk to Hadoke
 A The Mark of Quality |QID|2822| |N|Talk to Jangdor Swiftstrider - Talk to Jangdor inside the building - (74.5, 42.9)|
 h Feralas |N|Talk to Innkeeper Greul - Talk to Innkeeper Greul - (74.8, 45.2)|
 A The Ogres of Feralas |QID|2975| |N|Talk to Rok - She patrols the road through Camp Mojache - (73.6, 46.5)|
-N Talk to Shyrka Wolfrunner - Talk to Shyrka Wolfrunner - (74.5, 43.3) |O| |C|Hunter|
+N Talk to Shyrka Wolfrunner - Talk to Shyrka Wolfrunner - (74.5, 43.3) |SK| |C|Hunter|
 t Attack mobs with it to learn [Bite (Rank 6)] |N|Kill Longtooth Runner - Cast [Tame Beast] on a Longtooth Runner to tame it - (72.2, 43.8)| |C|Hunter|
 N Talk to Shyrka Wolfrunner - Talk to Shyrka Wolfrunner - (74.5, 43.3) |C|Hunter|
-A Find OOX-22/FE! |QID|2766| |N|Look out for the [Distress Beacon] drop as you quest throughout Feralas - Collect item 8705 (x1)| |O|
+A Find OOX-22/FE! |QID|2766| |N|Look out for the [Distress Beacon] drop as you quest throughout Feralas - Collect item 8705 (x1)| |SK|
 N Kill Woodpaw Gnolls. Loot them for their Manes - Woodpaw Trappers cast [Net] which immobilizes movement for 10 seconds - (72.8, 39.3) |QID|2862|
 C Use [Orwin's Shovel] at the blue circles |QID|2987| |N|Loot the Gordunni Dirt Mounds that spawn on the ground for Gordunni Cobalt - (75.3, 28.3)| |U|9466| |O|
 N Kill Gordunni Ogres, Ogre Mages, and Brutes at the Gordunni Outpost - (76.1, 33.2) |QID|2975| |O|
@@ -49,10 +49,10 @@ C Kill Vale Screechers |QID|3520| |N|Talk to Screecher Spirit - Use [Yeh'kinya's
 N Kill Gordunni Mage-Lords. Loot them for their Orb - (58.6, 69.8) |QID|2979| |O|
 N Kill Gordunni Maulers, Warlocks, and Shamans - Kill every Shaman you see as they have limited spawns - (59.7, 62.8) |QID|2980|
 N Kill Gordunni Mage-Lords. Loot them for their Orb - (61.0, 67.7) |QID|2979|
-N Kill Frayfeather Hippogryph - Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them - Collect item 4589 (x10) |O|
-N Kill Frayfeather Hippogryph - Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - You could also buy these from the Auction House instead - [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them - Collect item 4589 (x10) |O|
+N Kill Frayfeather Hippogryph - Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them - Collect item 4589 (x10) |SK|
+N Kill Frayfeather Hippogryph - Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - You could also buy these from the Auction House instead - [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them - Collect item 4589 (x10) |SK|
 N Loot a [Hippogryph Egg] from a hippogryph nest - There are multiple nests located in the southern mountains - Collect item 8564 (x1) - (56.7, 75.9)
-C Kill Vale Screechers |QID|3520| |N|Talk to Screecher Spirit - Use [Yeh'kinya's Bramble] on their corpses. Talk to the Screecher Spirit that appears| |U|10699| |O|
+C Kill Vale Screechers |QID|3520| |N|Talk to Screecher Spirit - Use [Yeh'kinya's Bramble] on their corpses. Talk to the Screecher Spirit that appears| |U|10699| |SK|
 N Kill Frayfeather Hippogryph - Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them - Collect item 4589 (x10) - (56.7, 64.1)
 N Kill Frayfeather Hippogryph - Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - You could also buy these from the Auction House instead - [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them - Collect item 4589 (x10) - (56.7, 64.1)
 G Grind to level 44 40000/111800 |N|Kill Frayfeather Skystormer - Continue to kill Frayfeather mobs - (56.7, 64.1)|
@@ -62,7 +62,7 @@ U Find OOX-22/FE! |QID|2766| |U|8705|
 T Find OOX-22/FE! |QID|2766| |N|Talk to Homing Robot OOX-22/FE - Talk to Homing Robot OOX-22/FE - (53.4, 55.7)|
 A Rescue OOX-22/FE! |QID|2767| |N|Talk to Homing Robot OOX-22/FE - Talk to Homing Robot OOX-22/FE - This starts the chicken escort; be ready to use cooldowns/consumables, as this quest is HARD - (53.4, 55.7)|
 N Talk to Homing Robot OOX-22/FE - Escort Homing Robot OOX-22/FE to the shore - 3 Waves of mobs will spawn on the way. Save all your very long cooldowns for the Gnolls, and use some on the Yetis - 3 Yetis (level 46) - 3 Gorillas (level 43) - 4 Gnolls (level 41-43) - (55.5, 56.4) |QID|2767|
-N You can either swim there, or take the alliance boat. You'll have to jump off the boat once you reach The Isle of Dread in between the two islands - (26.1, 67.4) |O|
+N You can either swim there, or take the alliance boat. You'll have to jump off the boat once you reach The Isle of Dread in between the two islands - (26.1, 67.4) |SK|
 G Grind to level 44 40000/111800 or higher |N|Kill Hatecrest Nagas - (26.2, 67.5)|
 U Hearthstone |U|6948|
 N Talk to Innkeeper Greul - Talk to Innkeeper Greul - Make sure you DO NOT sell any [Long Elegant Feather] - (74.8, 45.2)
@@ -114,7 +114,7 @@ N Talk to Karus - [Yeh'kinya's Bramble] - [Seaforium Booster] - [Neeru's Herb Po
 N Check your bank for any missing [Green Hills of Stranglethorn - Pages] and buy any that you still need from the Auction House - Chapter.1 requires: Pages 1,4,6,8 - Chapter.2 requires: Pages 10,11,14,16 - Chapter.3 requires: Pages 18,20,21,24 - Chapter.4 requires: Pages 25,26,27 - Place any newly bought Pages into your bank. Skip this step if you aren't able to acquire them |O|
 N Talk to Auctioneer Thathung - Talk to Auctioneer Thathung - Buy ten [Gorilla Fangs] from the Auction House - Collect item 2799 (x10) - (55.6, 62.9)
 t Train [Raptor Riding] |N|Talk to Zjolnir - Talk to Xar'Ti and Zjolnir - Buy a [Raptor] - (55.3, 75.5)| |O| |R|Troll|
-R Leave Orgrimmar |O|
+R Leave Orgrimmar |SK|
 R Take the Zeppelin to Grom'Gol Base Camp |N|(50.8, 13.8)|
 
 ]]

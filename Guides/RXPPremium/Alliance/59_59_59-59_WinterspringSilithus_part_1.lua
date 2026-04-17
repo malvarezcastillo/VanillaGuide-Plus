@@ -11,9 +11,9 @@ T The Blightcaller Cometh |QID|6186| |N|Talk to Highlord Bolvar Fordragon - Talk
 T A Donation of Runecloth |QID|7795| |N|Talk to Clavicus Knavingham - Talk to Clavicus Knavingham up stairs - Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them - (44.3, 74.0)|
 R Teleport to Darnassus |O| |C|Mage|
 T Prayer to Elune |QID|3378| |N|Talk to Astarii Starseeker - Talk to Astarii Starseeker - (38.3, 81.0)| |C|Mage|
-R Take the purple portal to Rut'theran Village |N|(29.5, 41.4)| |O| |C|Mage|
+R Take the purple portal to Rut'theran Village |N|(29.5, 41.4)| |SK| |C|Mage|
 R Winterspring >> Fly to Winterspring |N|Talk to Vesprystus - Talk to Vesprystus - (58.4, 94.0)| |C|Mage|
-N Cast Cast Teleport: Moonglade |O| |C|Druid|
+N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 F Winterspring >> Fly to Winterspring |N|Talk to Sindrayl - Talk to Sindrayl - (48.0, 67.2)| |C|Druid|
 F Booty Bay>> Fly to Booty Bay |N|Talk to Dungar Longdrink - Talk to Dungar Longdrink - (66.3, 62.1)| |C|!Mage/!Druid|
@@ -31,12 +31,12 @@ A Are We There, Yeti? |QID|3783| |N|Talk to Umi Rumplesnicker - Talk to Umi Rump
 N Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns - Don't go out of your way to complete this yet |QID|4809| |O|
 N Kill Ice Thistle Yetis and Rogue Ice Thistles. Loot them for their Thick Yeti Fur - (66.3, 42.6) |QID|3783|
 A Are We There, Yeti? |QID|977| |N|Talk to Umi Rumplesnicker - Talk to Umi Rumplesnicker - (60.9, 37.6)|
-N Kill Winterfall Shamans, Winterfall Den Watchers and Winterfall Ursas - Abandon this quest if the village is too crowded - (66.8, 34.9) |QID|8464| |O|
+N Kill Winterfall Shamans, Winterfall Den Watchers and Winterfall Ursas - Abandon this quest if the village is too crowded - (66.8, 34.9) |QID|8464| |SK|
 U The Final Piece |QID|5123| |N|Kill High Chief Winterfall - Kill High Chief Winterfall. Loot him for his [Crudely-written Log] - Use the [Crudely-written Log] to start the quest - Collect item 12842 (x1) - (69.8, 38.2)| |U|12842|
 N Kill Winterfall Shamans, Winterfall Den Watchers and Winterfall Ursas - Abandon this quest if the village is too crowded - (66.8, 34.9) |QID|8464|
-N (67.6, 43.0) |O|
+N (67.6, 43.0) |SK|
 N Kill Ice Thistle Matriarchs and Ice Thistle Patriarchs. Loot them for their Pristine Yeti Horns - (69.9, 41.7) |QID|977|
-N Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns - Don't go out of your way to complete this yet |QID|4809| |O|
+N Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns - Don't go out of your way to complete this yet |QID|4809| |SK|
 A Guardians of the Altar |QID|4901| |N|Talk to Ranshalla - Talk to Ranshalla - Guardians of the Altar will begin an escort quest. If you're in a party ensure everyone has turned in Find Ranshalla first. Auto accept has been turned off for Guardians of the Altar - (63.1, 59.5)|
 A Guardians of the Altar |QID|4901| |N|Talk to Ranshalla - Talk to Ranshalla - Guardians of the Altar will begin an escort quest. If you're in a party ensure everyone has turned in Find Ranshalla first. Auto accept has been turned off for Guardians of the Altar - (63.1, 59.5)|
 N Talk to Ranshalla - Escort Ranshalla through Owl Wing Thicket - Click the Fire of Elune torches inside the caves when Ranshalla begins channelling her spell on them, and then the Altar of Elune at the end - (64.6, 61.1) |QID|4901|
@@ -51,12 +51,12 @@ N Talk to Izzy Coppergrab - Talk to Izzy Coppergrab - [Rabine's Letter] - [Silve
 A Words of the High Chief |QID|5128| |N|Talk to Donova Snowden - Talk to Donova Snowden - (31.3, 45.2)|
 T Winterfall Activity |QID|8464| |N|Talk to Salfa - Talk to Salfa - (27.7, 34.5)|
 R Travel to Moonglade via Timbermaw Hold |N|(35.8, 71.9)| |O| |C|!Druid|
-N Cast Cast Teleport: Moonglade |O| |C|Druid|
+N Cast Cast Teleport: Moonglade |SK| |C|Druid|
 t Train your class spells |N|Talk to Loganaar - Teleport to Moonglade - Talk to Loganaar - (52.5, 40.6)| |C|Druid|
 T Seed of Life |QID|7066| |N|Talk to Keeper Remulos - Talk to the Keeper Remulos - (36.2, 41.8)| |C|!Druid|
 A Wasteland |QID|1124| |N|Talk to Rabine Saturna - Talk to Rabine Saturna - (51.7, 45.1)|
 A A Reliquary of Purity |QID|5527| |N|Talk to Rabine Saturna - Talk to Rabine Saturna - Skip this step if the Dire Maul dialogue is not available - (51.7, 45.1)|
-f Moonglade >> Get the Moonglade Flight path |N|Talk to Sindrayl - Talk to Sindrayl - (48.1, 67.3)| |O| |C|!Druid|
+f Moonglade >> Get the Moonglade Flight path |N|Talk to Sindrayl - Talk to Sindrayl - (48.1, 67.3)| |SK| |C|!Druid|
 F Talonbranch >> Fly to Felwood |N|Talk to Sindrayl - Talk to Sindrayl - (48.1, 67.3)| |M|hardcore|
 D Die and respawn |N|Talk to Spirit Healer - Head back into the Furbolg cave - Open your Reputation pane and mark "At War" with Timbermaw Hold - Once the General chat changes to Felwood, die to the Furbolgs intentionally - (49.4, 31.0)| |M|speedrun|
 T Trolls of a Feather |QID|8422| |N|Talk to Impsy - Talk to Impsy - (41.5, 45.0)| |C|Warlock|
@@ -67,11 +67,11 @@ T The Remains of Trey Lightforge |QID|5385| |N|Talk to Jessir Moonbow - Talk to 
 T Words of the High Chief |QID|5128| |N|Talk to Kelek Skykeeper - Talk to Kelek Skykeeper - (51.1, 81.8)|
 A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|speedrun|
 A Aquementas |QID|4005| |N|Talk to Eridan Bluewind - Talk to Eridan Bluewind - (51.4, 81.5)| |M|hardcore|
-N Cast Look for a Corrupted Songflower. Click it to cleanse it. Click the Cleansed Songflower to receive the hour-long [Songflower Serenade] buff - Their locations have been marked on your map. Don't go very far out of your way to find one - (55.8, 10.4) |O|
-D Die and respawn |N|Talk to Spirit Healer - Pull a mob from Felwood into Ashenvale to deathskip to Astranaar - Skip this step if you have the [Songflower Serenade] buff| |O| |M|speedrun|
-F Azshara >> Fly to Azshara |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)| |O| |C|Hunter/Priest/Mage|
+N Cast Look for a Corrupted Songflower. Click it to cleanse it. Click the Cleansed Songflower to receive the hour-long [Songflower Serenade] buff - Their locations have been marked on your map. Don't go very far out of your way to find one - (55.8, 10.4) |SK|
+D Die and respawn |N|Talk to Spirit Healer - Pull a mob from Felwood into Ashenvale to deathskip to Astranaar - Skip this step if you have the [Songflower Serenade] buff| |SK| |M|speedrun|
+F Azshara >> Fly to Azshara |N|Talk to Daelyshia - Talk to Daelyshia - (34.4, 48.0)| |SK| |C|Hunter/Priest/Mage|
 T The Green Drake |QID|8232| |N|Talk to Ogtinc - Talk to Ogtinc - (42.4, 42.6)| |C|Hunter|
-T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - This will teleport you to the top of the mountain - (28.1, 50.1)| |O| |C|Mage|
+T Meeting with the Master |QID|3503| |N|Talk to Sanath Lim-yo - Talk to Sanath Lim-yo - This will teleport you to the top of the mountain - (28.1, 50.1)| |SK| |C|Mage|
 T Destroy Morphaz |QID|8253| |N|Talk to Archmage Xylem - Talk to Archmage Xylem atop the Tower - (29.2, 40.2)| |C|Mage|
 T Return Trip |QID|3421| |N|Talk to Nyrill - Talk to Nyrill - This will teleport you back down - (26.5, 46.3)| |O| |C|Mage|
 R Tanaris >> Fly to Tanaris |N|Talk to Jarrodenus - Talk to Jarrodenus - (11.9, 77.6)| |C|Hunter/Priest/Mage|
@@ -82,13 +82,13 @@ A Pawn Captures Queen |QID|4507| |N|Talk to Alchemist Pestlezugg - Talk to Alche
 C Use [Umi's Mechanical Yeti] on Sprinkle |QID|5163| |N|Talk to Sprinkle - (51.1, 26.9)| |U|12928|
 A Super Sticky |QID|4504| |N|Talk to Tran'rek - Talk to Tran'rek - (51.6, 26.8)|
 N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O| |M|speedrun|
-N (69.0, 41.6) |O| |M|speedrun|
-N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |O| |M|speedrun|
+N (69.0, 41.6) |SK| |M|speedrun|
+N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |SK| |M|speedrun|
 N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169| |M|speedrun|
 N Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart - Collect item 11169 (x1) - Collect item 11172 (x11) - Collect item 11173 (x1) |U|11617| |O| |M|hardcore|
 T The God Hakkar |QID|3528| |N|Talk to Yeh'kinya - Talk to Yeh'kinya - (67.0, 22.4)| |O|
-N (69.0, 41.6) |O| |M|hardcore|
-N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |O| |M|hardcore|
+N (69.0, 41.6) |SK| |M|hardcore|
+N Cast Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove - (70.4, 49.9) |U|11169| |SK| |M|hardcore|
 N Kill Aquementas - Kill Aquementas - (70.4, 49.9) |QID|4005| |U|11169| |M|hardcore|
 F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)|
 A Linken's Adventure |QID|3961| |N|Talk to J.D. Collie - Talk to J.D. Collie - (41.9, 2.7)| |M|speedrun|
@@ -97,15 +97,15 @@ A It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44
 A It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
 C Use [Umi's Mechanical Yeti] on Quixxil |QID|5163| |N|Talk to Quixxil - (43.7, 9.4)| |U|12928|
 N Kill Tar Beasts, Tar Creepers, Tar Lurkers and Tar Lords. Loot them for their Super Sticky Tar - (46.2, 19.6) |QID|4504|
-N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure someone is always ready to use the [Silver Totem of Aquementas] |U|11522| |O| |M|speedrun|
+N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure someone is always ready to use the [Silver Totem of Aquementas] |U|11522| |SK| |M|speedrun|
 N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522| |M|speedrun|
 N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962| |M|speedrun|
-N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure you or a party member is always ready to use the [Silver Totem of Aquementas] |U|11522| |O| |M|hardcore|
+N Make your way to the top of Fire Plume Ridge - Cast Equip the [Silver Totem of Aquementas] in your off-hand - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure you or a party member is always ready to use the [Silver Totem of Aquementas] |U|11522| |SK| |M|hardcore|
 N Kill Blazerunner - Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura - Kill Blazerunner - (49.4, 49.3) |QID|3962| |U|11522| |M|hardcore|
 N Open the Ornate Chest. Loot it for the Golden Flame - (50.3, 50.0) |QID|3962| |M|hardcore|
 T A Better Ingredient |QID|9053| |N|Talk to Torwa Pathfinder - Talk to Torwa Pathfinder - (71.6, 76.0)| |C|Druid|
-N (49.9, 81.7) |O|
-N Cast Use the [Gorishi Queen Lure] at the Gorishi Silithid Crystal inside of The Slithering Scar. You will have to defeat 3 waves of attacking Gorishi. If you kill the final mob of each wave while OUTSIDE of the main room, you will be able to drink/eat between waves |U|11833| |O|
+N (49.9, 81.7) |SK|
+N Cast Use the [Gorishi Queen Lure] at the Gorishi Silithid Crystal inside of The Slithering Scar. You will have to defeat 3 waves of attacking Gorishi. If you kill the final mob of each wave while OUTSIDE of the main room, you will be able to drink/eat between waves |U|11833| |SK|
 N Defeat the 3 waves of Gorishi attackers. Use the outside room as a reset point to eat/drink between waves if needed - Kill the Gorishi Hive Queen. Loot her for her Brain - (43.5, 81.1) |QID|4507| |U|11833|
 N Kill Muculent Oozes and Glutinous Oozes - Use the [Empty Pure Sample Jars] on their corpses - (27.0, 44.8) |QID|4513| |U|11955|
 R Travel to Silithus |N|(28.7, 21.4)| |O|
@@ -121,7 +121,7 @@ A Sharing the Knowledge |QID|8313| |N|Click the Sandy Cookbook at the Twilight B
 A Kitchen Assistance |QID|8317| |N|Talk to Calandrath - Talk to Calandrath - (51.9, 39.2)|
 N Kill Dredge Striker - Kill Dredge Strikers. Loot them for their Sandworm Meat - You don't need to collect all Sandworm Meat now - Collect item 20424 (x10) |O|
 N Kill Dredge Strikers - Kill Sand Skitterers. Loot them for their Skitterer Fangs - Kill Stonelash Scorpids. Loot them for their Scorpid Stingers |QID|8277| |O|
-A Brann Bronzebeard's Lost Letter |QID|8308| |N|Kill +Tortured Sentinel - Kill Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill - Hive'Ashi Drones may drop [Brann Bronzebeard's Lost Letter] - Collect item 20461 (x1) - (63.7, 49.0)| |U|20461| |O|
+A Brann Bronzebeard's Lost Letter |QID|8308| |N|Kill +Tortured Sentinel - Kill Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill - Hive'Ashi Drones may drop [Brann Bronzebeard's Lost Letter] - Collect item 20461 (x1) - (63.7, 49.0)| |U|20461| |SK|
 N Enter the small lodge - Open the Dusty Reliquary on the ground. Loot it for the Reliquary of Purity - (63.2, 55.4) |QID|5527|
 A Brann Bronzebeard's Lost Letter |QID|8308| |N|Kill +Tortured Sentinel - Kill Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill - Hive'Ashi Drones may drop [Brann Bronzebeard's Lost Letter] - Collect item 20461 (x1) - (63.7, 49.0)| |U|20461|
 A Hive in the Tower |QID|1126| |N|Talk to Layo Starstrike - Talk to Layo Starstrike - (81.9, 18.9)|
@@ -161,9 +161,9 @@ N Perform a Logout skip on any of the torches next to Hermit Ortell to teleport 
 T Secret Communication |QID|8318| |N|Talk to Bor Wildmane - Talk to Bor Wildmane - (48.6, 37.8)|
 T A Terrible Purpose |QID|8287| |N|Talk to Commander Mar'alith - Talk to Commander Mar'alith - (49.2, 34.2)|
 T Noggle's Lost Satchel |QID|8282| |N|Talk to Noggle Ficklespragg - Talk to Noggle Ficklespragg upstairs - (51.6, 38.5)|
-F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |O| |M|hardcore|
+F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |SK| |M|hardcore|
 T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|hardcore|
-F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |O| |M|speedrun|
+F Un'Goro >> Fly to Un'Goro Crater |N|Talk to Cloud Skydancer - Talk to Cloud Skydancer - (50.6, 34.4)| |SK| |M|speedrun|
 T It's Dangerous to Go Alone |QID|3962| |N|Talk to Linken - Talk to Linken - (44.7, 8.1)| |M|speedrun|
 F Tanaris >> Fly to Tanaris |N|Talk to Gryfe - Talk to Cloud Skydancer or Gryfe - (50.6, 34.4)| |O|
 A Calm Before the Storm |QID|4508| |N|Talk to Alchemist Pestlezugg - Talk to Alchemist Pestlezugg - (50.9, 27.0)|

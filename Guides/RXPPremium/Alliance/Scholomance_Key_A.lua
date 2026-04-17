@@ -7,8 +7,8 @@ return [[
 
 N Scholomance Key (A) |N|Converted from RestedXP guide|
 
-N Go to the Auction House in any Major city and buy 2 [Thorium Bars] - Thorium Bar x2
-R Travel to Ironforge |O|
+N Go to the Auction House in any Major city and buy 2 [Thorium Bars] - Thorium Bar x2 |SK|
+R Travel to Ironforge |SK|
 N Talk to Courier Hammerfall - Courier Hammerfall patrols through all of Ironforge - This quest can also be accepted in Stormwind City or Darnassus - (33.4, 20.0)
 A Clear the Way |QID|5092| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)| |O|
 A Clear the Way |QID|5092| |N|Talk to Commander Ashlam Valorfist - Talk to Commander Ashlam Valorfist - (42.7, 84.0)| |O|
@@ -28,8 +28,8 @@ N Kill Skeletal Executioners and Skeletal Acolytes. Loot them for their Skeletal
 A Mold Rhymes With... |QID|5538| |N|Talk to Alchemist Arbington - Talk to Alchemist Arbington - (42.7, 83.8)|
 A Fire Plume Forged |QID|5801| |N|Talk to Krinkle Goodsteel - Talk to Krinkle Goodsteel - Turning in this quest requires you to pay 15 Gold - (51.5, 28.8)|
 N If you did not buy them earlier, go to the Auction House in any Major city and buy 2 [Thorium Bars] - Thorium Bar x2
-R Un'Goro >> Fly to Un'Goro Crater |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)| |O|
-N (49.6, 47.6) |O|
+R Un'Goro >> Fly to Un'Goro Crater |N|Talk to Bera Stonehammer - Talk to Bera Stonehammer - (51.0, 29.3)| |SK|
+N (49.6, 47.6) |SK|
 C Use the [Skeleton Key Mold] at the pool of lava to create the Unfinished Skeleton Key |QID|5801| |N|Unfinished Skeleton Key (1) - (49.3, 47.0)| |U|14644|
 A Araj's Scarab |QID|5803| |N|Talk to Alchemist Arbington - Talk to Alchemist Arbington - (42.7, 83.8)|
 N (45.6, 69.3) |O|

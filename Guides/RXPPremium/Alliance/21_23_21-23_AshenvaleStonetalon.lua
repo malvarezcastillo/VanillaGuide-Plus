@@ -22,20 +22,20 @@ R Grind Saltspittle Murlocs while looking for a group for The Wailing Caverns. T
 N (69.7, 86.9)
 f Ratchet >> Get the Ratchet Flight Path |N|Talk to Bragok - Talk to Bragok - (63.1, 37.2)|
 A Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Crane Operator Bigglefuzz - (63.1, 37.6)|
-N (47.0, 35.4) |O|
+N (47.0, 35.4) |SK|
 A Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru|
 N Kill all types of Deviate creatures. Loot them for their Deviate Hides - This can be completed INSIDE and OUTSIDE of Wailing Caverns |QID|1486| |O|
 N Kill Mad Magglish. Loot him for the 99-Year-Old Port - Mad Magglish can spawn in a few locations - This quest is completed OUTSIDE of Wailing Caverns |QID|959|
 N Zone into The Wailing Caverns
 N Kill all types of Deviate creatures. Loot them for their Deviate Hides |QID|1486|
 N Kill all types of Deviate creatures |QID|1487|
-N Kill all types of Deviate creatures. Loot them for their Deviate Hides |QID|1486| |O|
+N Kill all types of Deviate creatures. Loot them for their Deviate Hides |QID|1486| |SK|
 U The Glowing Shard |QID|6981| |N|Talk to Disciple of Naralex - Kill Mutanus the Devourer - Kill Lord Cobrahn, Lord Pythas, Lord Serpentis and Lady Anacondra then talk to the Disciple of Naralex at the start of the instance to start his escort - Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening - Kill Mutanus the Devourer. Loot him for the [Glowing Shard] - Use the [Glowing Shard] to start the quest - Collect item 10441 (x1)| |U|10441|
 N Kill all types of Deviate creatures. Loot them for their Deviate Hides - This can be completed INSIDE and OUTSIDE of Wailing Caverns |QID|1486|
 N (63.0, 37.2) |O|
 N Talk to Sputtervalve - Talk to Sputtervalve - (63.0, 37.2) |QID|6981|
 T Trouble at the Docks |QID|959| |N|Talk to Crane Operator Bigglefuzz - Talk to Crane Operator Bigglefuzz - (63.1, 37.6)|
-N (50.1, 35.2) |O|
+N (50.1, 35.2) |SK|
 T The Glowing Shard |QID|6981| |N|Talk to Falla Sagewind - Talk to Falla Sagewind - (48.2, 32.8)|
 T Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru|
 T Deviate Eradication |QID|1487| |N|Talk to Ebru - Talk to Nalpak and Ebru|
@@ -45,12 +45,12 @@ N Talk to Haljan Oakheart - Talk to Haljan Oakheart - Restock on Ammo, make sure
 N Use [Beast Training] to teach your pet [Bite (Rank 3)] and/or [Claw (Rank 3)] - Playing with only [Bite] is the easiest as your pet will not spend all its focus and be able to [Growl] more consistently at a small damage loss (recomended for beginner/casual players) - Playing with only [Claw] plays the same as having both damage spells but provides less damage and burst threat so is not reommended unless your pet can't train [Bite] - Playing with both [Bite] and [Claw] is the optimal damage setup but is harder to play with since your pet might cast [Claw] instead of [Growl] at times. (recommended if you like to min/max, you should manually cast [Growl] with this setup) - Keep in mind not all pets can train both [Bite] and [Claw] and you might have limited options due to your pet choice |O| |C|Hunter|
 N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |O|
 R Travel to Stonetalon Mountains |N|(42.5, 71.7)|
-N Kill Young Pridewings. Loot them for their Pridewing Venom Sacs |QID|1134| |O|
+N Kill Young Pridewings. Loot them for their Pridewing Venom Sacs |QID|1134| |SK|
 A Super Reaper 6000 |QID|1093| |N|Talk to Ziz Fizziks - Talk to Ziz Fizziks - (59.0, 62.6)|
 A On Guard in Stonetalon |QID|1085| |N|Talk to Kaela Shadowspear - Talk to Kaela Shadowspear - (59.9, 66.8)|
 T On Guard in Stonetalon |QID|1085| |N|Talk to Gaxim Rustfizzle - Talk to Gaxim Rustfizzle - (59.5, 67.1)|
 A A Gnome's Respite |QID|1071| |N|Talk to Gaxim Rustfizzle - Talk to Gaxim Rustfizzle - (59.5, 67.1)|
-N Kill Venture Co. Operators. Loot them for the Blueprints - (62.4, 53.0) |QID|1093|
+N Kill Venture Co. Operators. Loot them for the Blueprints - (62.4, 53.0) |QID|1093| |SK|
 N Kill Venture Co. Deforesters and Venture Co. Loggers - (62.4, 53.0) |QID|1071|
 G Grind Goblins to level 22 and 6700+xp
 T Super Reaper 6000 |QID|1093| |N|Talk to Ziz Fizziks - Talk to Ziz Fizziks - (59.0, 62.6)|
@@ -58,7 +58,7 @@ T A Gnome's Respite |QID|1071| |N|Talk to Gaxim Rustfizzle - Talk to Gaxim Rustf
 A A Scroll from Mauren |QID|1075| |N|Talk to Gaxim Rustfizzle - Talk to Gaxim Rustfizzle|
 N (51.0, 47.5)
 N Kill Pridewing Wyverns and Pridewing Consorts. Loot them for their Pridewing Venom Sacs - (54.0, 40.1) |QID|1134|
-N (37.1, 8.1) |O|
+N (37.1, 8.1) |SK|
 T Journey to Stonetalon Peak |QID|1056| |N|Talk to Keeper Albagorm - Talk to Keeper Albagorm - (37.1, 8.1)|
 F Ashenvale >> Fly to Ashenvale |N|Talk to Teloren - Talk to Teloren - (36.4, 7.2)|
 T Pridewings of Stonetalon |QID|1134| |N|Talk to Shindrell Swiftfire - Talk to Shindrell Swiftfire - (34.7, 48.8)|
@@ -66,28 +66,28 @@ A An Aggressive Defense |QID|1025| |N|Talk to Raene Wolfrunner - Talk to Raene W
 A Fallen Sky Lake |QID|1035| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)|
 A Elemental Bracers |QID|1016| |N|Talk to Sentinel Velene Starstrike - Talk to Sentinel Velene Starstrike - (49.8, 67.2)|
 t Train your class skills |N|Talk to Danlaar Nightstride - Talk to Danlaar Nightstride - (50.1, 67.9)| |C|Hunter|
-N Cast Use your [Elixir of Water Breathing] |U|5996| |O|
+N Cast Use your [Elixir of Water Breathing] |U|5996| |SK|
 N Kill Befouled Water Elemental - Kill Befouled Water Elementals. Loot them for their Bracers - The Befouled Water Elementals cast [Frost Nova]. Pay attention to your breath timer if you dive underwater to kill them - Collect item 12220 (x5) - (44.8, 70.1)
 C Use the [Divining Scroll] to create the [Divined Scroll] |QID|1016| |U|5456|
 T Elemental Bracers |QID|1016| |N|Talk to Sentinel Velene Starstrike - Talk to Sentinel Velene Starstrike - (49.8, 67.2)|
 N Kill Foulweald Warriors, Foulweald Totemics, Foulweald Ursas and a Foulweald Den Watcher - Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once - The Foulweald Totemics share spawns with Foulweald Warriors. You may have to backtrack and kill respawns if you weren't lucky with the spawns - (50.1, 59.9) |QID|1025|
-N Be careful about Horde Guards as you're making your way to Azshara. Theres two camps of guards (marked on your map) near the road next to Splintertree outpost that you can bodypull if not careful - (-2331.8, 1927.4) |O|
+N Be careful about Horde Guards as you're making your way to Azshara. Theres two camps of guards (marked on your map) near the road next to Splintertree outpost that you can bodypull if not careful - (-2331.8, 1927.4) |SK|
 N Kill the Shadethicket Oracle. Loot it for the Fallen Moonstone - This quest can be hard. Kite it along the road east toward Azshara - (66.6, 82.2) |QID|1035|
 f Azshara>> Get the Azshara flight path |N|Talk to Jarrodenus - Be careful about Horde Guards as you're making your way to Azshara. Theres two camps of guards (marked on your map) near the road next to Splintertree outpost that you can bodypull if not careful - You may encounter a Warsong Outrider patrolling the road north-east of Splintertree Post. You don't have to run around it as it's passive and will not attack you if you don't attack it first - Talk to Jarrodenus - (11.9, 77.6)|
 H Hearthstone |N|Buy food/water if needed|
 R Ashenvale >> Fly to Ashenvale |N|Talk to Jarrodenus - Talk to Jarrodenus - (11.9, 77.6)|
 T An Aggressive Defense |QID|1025| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
-N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |O|
-N (34.7, 44.3) |O|
+N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |SK|
+N (34.7, 44.3) |SK|
 N Kill Dal Bloodclaw. Loot him for his Skull - Dal Bloodclaw patrols Thistlefur Village - (36.1, 36.6) |QID|1054|
-N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |O|
-N Jump over the tree root and hug the right to avoid aggroing mobs - (27.5, 60.8) |O|
+N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |SK|
+N Jump over the tree root and hug the right to avoid aggroing mobs - (27.5, 60.8) |SK|
 N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to - Clear an exit path if needed so you can reset them along with the Succubus if needed - (27.4, 63.0) |QID|973|
 N Kill Ilkrud Magthrull. Loot him for his Tome - Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to - Clear an exit path if needed so you can reset them along with the Succubus if needed - (27.4, 63.0) |QID|973|
-N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |O|
-N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |O|
+N Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later - Collect item 2251 (x6) |SK|
+N Kill Ghostpaw Runner - Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later - Collect item 1015 (x10) |SK|
 T The Tower of Althalaxx |QID|973| |N|Talk to Delgren the Purifier - Talk to Delgren the Purifier - (26.2, 38.7)|
-D Die and respawn |N|Talk to Spirit Healer| |O| |M|speedrun|
+D Die and respawn |N|Talk to Spirit Healer| |SK| |M|speedrun|
 T Culling the Threat |QID|1054| |N|Talk to Raene Wolfrunner - Talk to Raene Wolfrunner - (36.6, 49.6)|
 T Fallen Sky Lake |QID|1035| |N|Talk to Pelturas Whitemoon - Talk to Pelturas Whitemoon - (37.4, 51.8)|
 N Talk to Haljan Oakheart - Talk to Haljan Oakheart - Buy [Flint and Tinder] and [Simple Wood] - Only do this if you have meat to cook while on the boat to Wetlands soon. There is a quest in Duskwood which requires your [Cooking] to be 50 - Collect item 4471 (x1) - Collect item 4470 (x1) - (34.8, 50.9) |O|
