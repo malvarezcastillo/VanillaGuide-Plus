@@ -374,6 +374,13 @@ local options = {
 			end,
 			order = 22,
 		},
+		DebugSticky = {
+			name = "Debug Sticky",
+			desc = "Print sticky-step diagnostic for current guide/step",
+			type = "execute",
+			func = function() TurtleGuide:DebugSticky() end,
+			order = 24,
+		},
 		Hardcore = {
 			name = "Hardcore mode",
 			desc = "Show Hardcore step variants (safer routing). Off = Speedrun (default).",

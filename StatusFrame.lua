@@ -99,6 +99,31 @@ for si = 1, STICKY_ROWS do
 	stickyRows[si] = row
 end
 
+function TurtleGuide:DebugSticky()
+	if not self.actions then self:Print("No guide loaded"); return end
+	local total = table.getn(self.actions)
+	local stickyCount = 0
+	for i = 1, total do
+		if self:GetObjectiveTag("SK", i) then stickyCount = stickyCount + 1 end
+	end
+	self:Print("Guide: " .. tostring(self.db.char.currentguide))
+	self:Print("Total steps: " .. total .. "   Sticky steps: " .. stickyCount)
+	self:Print("Current step: " .. tostring(self.current))
+	local nextstep = self.current
+	if nextstep then
+		local j = nextstep - 1
+		local found = 0
+		while j > 0 and self:GetObjectiveTag("SK", j) do
+			found = found + 1
+			local action, quest = self:GetObjectiveInfo(j)
+			self:Print("  preceding sticky #" .. found .. " (step " .. j .. "): " .. tostring(action) .. " - " .. tostring(quest))
+			j = j - 1
+		end
+		if found == 0 then self:Print("  (no stickies precede current step)") end
+	end
+	self:Print("Sticky row 1 visible: " .. tostring(stickyRows[1]:IsShown()))
+end
+
 function TurtleGuide:UpdateStickyPreview(nextstep)
 	if not nextstep or not self.actions then
 		for si = 1, STICKY_ROWS do stickyRows[si]:Hide() end
