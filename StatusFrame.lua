@@ -142,7 +142,7 @@ function TurtleGuide:UpdateStickyPreview(nextstep)
 			row.icon:SetTexture(self.icons[action])
 			if textWidth > 0 then row.text:SetWidth(textWidth) end
 			row.text:SetText(quest or "")
-			local th = row.text:GetStringHeight() or STICKY_MIN_HEIGHT
+			local th = row.text:GetHeight() or STICKY_MIN_HEIGHT
 			row:SetHeight(math.max(STICKY_MIN_HEIGHT, th + STICKY_VPAD))
 			row:ClearAllPoints()
 			if si == 1 then
