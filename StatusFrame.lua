@@ -1,7 +1,9 @@
 local ICONSIZE, CHECKSIZE, GAP = 16, 16, 8
 local NAVBTNSIZE = 14
 local FIXEDWIDTH = ICONSIZE + CHECKSIZE + GAP * 4 - 4 + NAVBTNSIZE * 2 + 6  -- +prev/next buttons
-local MINWIDTH = 160  -- floor width so sticky rows have room to wrap readably
+local MINWIDTH = 160      -- floor for resizable width
+local DEFAULT_WIDTH = 280 -- initial frame width (user can drag to resize)
+local VPAD = 6            -- vertical padding top+bottom for wrapped text
 
 local TurtleGuide = TurtleGuide
 local ww = WidgetWarlock
@@ -9,6 +11,7 @@ local ww = WidgetWarlock
 local f = CreateFrame("Button", nil, UIParent)
 TurtleGuide.statusframe = f
 f:SetPoint("BOTTOMRIGHT", QuestWatchFrame, "TOPRIGHT", -60, -15)
+f:SetWidth(DEFAULT_WIDTH)
 f:SetHeight(24)
 f:SetFrameStrata("LOW")
 f:EnableMouse(true)
@@ -16,8 +19,11 @@ f:RegisterForClicks("LeftButtonUp", "RightButtonUp")
 f:SetBackdrop(ww.TooltipBorderBG)
 f:SetBackdropColor(0.09, 0.09, 0.19, 0.5)
 f:SetBackdropBorderColor(0.5, 0.5, 0.5, 0.5)
+f:SetResizable(true)
+f:SetMinResize(MINWIDTH, 24)
+f:SetMaxResize(800, 400)
 
-local check = ww.SummonCheckBox(CHECKSIZE, f, "LEFT", GAP, 0)
+local check = ww.SummonCheckBox(CHECKSIZE, f, "TOPLEFT", GAP, -4)
 
 -- Previous objective button
 local prevBtn = CreateFrame("Button", nil, f)
@@ -33,14 +39,18 @@ prevBtn:SetScript("OnEnter", function()
 end)
 prevBtn:SetScript("OnLeave", function() GameTooltip:Hide() end)
 
-local icon = ww.SummonTexture(f, "ARTWORK", ICONSIZE, ICONSIZE, nil, "LEFT", prevBtn, "RIGHT", GAP - 4, 0)
-local text = ww.SummonFontString(f, "OVERLAY", "GameFontNormalSmall", nil, "RIGHT", -GAP - 4 - 18, 0)
-text:SetPoint("LEFT", icon, "RIGHT", GAP - 4, 0)
+local icon = ww.SummonTexture(f, "ARTWORK", ICONSIZE, ICONSIZE, nil, "TOPLEFT", prevBtn, "TOPRIGHT", GAP - 4, 0)
+local text = f:CreateFontString(nil, "OVERLAY")
+local _fontObj = getglobal("GameFontNormalSmall")
+if _fontObj then text:SetFontObject(_fontObj) end
+text:SetPoint("TOPLEFT", icon, "TOPRIGHT", GAP - 4, 0)
+text:SetJustifyH("LEFT")
+text:SetJustifyV("TOP")
 
 -- Next objective button
 local nextBtn = CreateFrame("Button", nil, f)
 nextBtn:SetWidth(14) nextBtn:SetHeight(14)
-nextBtn:SetPoint("RIGHT", f, "RIGHT", -GAP, 0)
+nextBtn:SetPoint("TOPRIGHT", f, "TOPRIGHT", -GAP, -4)
 nextBtn:SetNormalTexture("Interface\\Buttons\\UI-SpellbookIcon-NextPage-Up")
 nextBtn:SetPushedTexture("Interface\\Buttons\\UI-SpellbookIcon-NextPage-Down")
 nextBtn:SetHighlightTexture("Interface\\Buttons\\UI-Panel-MinimizeButton-Highlight")
@@ -77,6 +87,46 @@ end)
 returnBtn:SetScript("OnLeave", function() GameTooltip:Hide() end)
 returnBtn:Hide()
 TurtleGuide.branchReturnBtn = returnBtn
+
+-- Resize grip (bottom-right). Drag to adjust the frame width; text re-wraps.
+local grip = CreateFrame("Frame", nil, f)
+grip:SetWidth(12)
+grip:SetHeight(12)
+grip:SetPoint("BOTTOMRIGHT", -1, 1)
+grip:EnableMouse(true)
+grip:SetFrameLevel(f:GetFrameLevel() + 2)
+local gripTex = grip:CreateTexture(nil, "OVERLAY")
+gripTex:SetAllPoints(grip)
+gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Up")
+grip:SetScript("OnEnter", function() gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Highlight") end)
+grip:SetScript("OnLeave", function() gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Up") end)
+grip:SetScript("OnMouseDown", function()
+	gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Down")
+	f:StartSizing("BOTTOMRIGHT")
+end)
+grip:SetScript("OnMouseUp", function()
+	gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Up")
+	f:StopMovingOrSizing()
+	if TurtleGuide.db and TurtleGuide.db.char then
+		TurtleGuide.db.char.statuswidth = f:GetWidth()
+	end
+	if TurtleGuide.ReflowStatusText then TurtleGuide:ReflowStatusText() end
+end)
+
+-- Reflow the main text (wrap to current frame width) and size height to fit.
+function TurtleGuide:ReflowStatusText()
+	local textWidth = f:GetWidth() - FIXEDWIDTH
+	if textWidth < 40 then textWidth = 40 end
+	text:SetWidth(textWidth)
+	local th = text:GetHeight() or 16
+	local desired = math.max(24, th + VPAD * 2)
+	f:SetHeight(desired)
+	if self.UpdateStickyPreview and self.current then self:UpdateStickyPreview(self.current) end
+end
+
+f:SetScript("OnSizeChanged", function()
+	if TurtleGuide.ReflowStatusText then TurtleGuide:ReflowStatusText() end
+end)
 
 -- Sticky preview rows stacked above the main status frame.
 -- Row 1 is closest to `f`; row N is topmost. Each row shows one sticky step,
@@ -212,6 +262,10 @@ function TurtleGuide:PositionStatusFrame()
 		f:SetPoint(self.db.profile.statusframepoint, self.db.profile.statusframex, self.db.profile.statusframey)
 	end
 
+	if self.db.char.statuswidth then
+		f:SetWidth(math.max(MINWIDTH, self.db.char.statuswidth))
+	end
+
 	if self.db.profile.itemframepoint then
 		item:ClearAllPoints()
 		item:SetPoint(self.db.profile.itemframepoint, self.db.profile.itemframex, self.db.profile.itemframey)
@@ -253,22 +307,6 @@ function TurtleGuide:SetStatusText(i)
 	-- Auto-track quest for COMPLETE objectives
 	self:TrackCurrentQuest()
 
-	if text:GetText() ~= newtext or icon:GetTexture() ~= self.icons[action] then
-		oldsize = f:GetWidth()
-		icon:SetAlpha(0)
-		text:SetAlpha(0)
-		elapsed = 0
-		f2:SetWidth(f:GetWidth())
-		f2anchor = self.select(3, self.GetQuadrant(f))
-		f2:ClearAllPoints()
-		f2:SetPoint(f2anchor, f, f2anchor, 0, 0)
-		f2:SetAlpha(1)
-		icon2:SetTexture(icon:GetTexture())
-		icon2:SetTexCoord(4 / 48, 44 / 48, 4 / 48, 44 / 48)
-		text2:SetText(text:GetText())
-		f2:Show()
-	end
-
 	icon:SetTexture(self.icons[action])
 	if action ~= "ACCEPT" and action ~= "TURNIN" then icon:SetTexCoord(4 / 48, 44 / 48, 4 / 48, 44 / 48) end
 	if self:GetObjectiveTag("T") then f:SetBackdropColor(0.09, 0.5, 0.19, 0.5) else f:SetBackdropColor(0.09, 0.09, 0.19, 0.5) end
@@ -276,8 +314,12 @@ function TurtleGuide:SetStatusText(i)
 	check:SetChecked(false)
 	check:SetButtonState("NORMAL")
 	if self.db.char.currentguide == "No Guide" then check:Disable() else check:Enable() end
-	newsize = math.max(MINWIDTH, FIXEDWIDTH + text:GetWidth())
-	if i == 1 then f:SetWidth(newsize) end
+
+	-- Apply any saved width on first display
+	if i == 1 and self.db.char.statuswidth then
+		f:SetWidth(self.db.char.statuswidth)
+	end
+	self:ReflowStatusText()
 
 	if self.UpdateFubarPlugin then self.UpdateFubarPlugin(quest, self.icons[action], note) end
 end
@@ -400,26 +442,10 @@ function TurtleGuide:UpdateStatusFrame()
 
 	local newtext = (quest or "???") .. (note and " [?]" or "")
 
-	if text:GetText() ~= newtext or icon:GetTexture() ~= self.icons[action] then
-		oldsize = f:GetWidth()
-		icon:SetAlpha(0)
-		text:SetAlpha(0)
-		elapsed = 0
-		f2:SetWidth(f:GetWidth())
-		f2anchor = self.select(3, self.GetQuadrant(f))
-		f2:ClearAllPoints()
-		f2:SetPoint(f2anchor, f, f2anchor, 0, 0)
-		f2:SetAlpha(1)
-		icon2:SetTexture(icon:GetTexture())
-		text2:SetText(text:GetText())
-		f2:Show()
-	end
-
 	icon:SetTexture(self.icons[action])
 	text:SetText(newtext)
 	check:SetChecked(false)
-	if not f2:IsVisible() then f:SetWidth(FIXEDWIDTH + text:GetWidth()) end
-	newsize = FIXEDWIDTH + text:GetWidth()
+	self:ReflowStatusText()
 
 	tex = useitem and self.select(9, GetItemInfo(tonumber(useitem)))
 	uitem = useitem
